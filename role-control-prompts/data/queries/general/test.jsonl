@@ -1,50 +1,50 @@
-{"query_id": "general_137", "user_prompt": "Why does the printer stop working exactly when I am in a hurry?", "split": "test"}
-{"query_id": "general_082", "user_prompt": "How do I keep herbs fresh for longer?", "split": "test"}
-{"query_id": "general_027", "user_prompt": "Why do software updates sometimes require a restart?", "split": "test"}
-{"query_id": "general_116", "user_prompt": "What can be learned from repairing something instead of replacing it?", "split": "test"}
-{"query_id": "general_061", "user_prompt": "Why do cities need public parks?", "split": "test"}
-{"query_id": "general_150", "user_prompt": "What could people learn by observing the same tree for a whole year?", "split": "test"}
-{"query_id": "general_006", "user_prompt": "What is the difference between weather and climate?", "split": "test"}
-{"query_id": "general_095", "user_prompt": "Why do certain smells bring back vivid memories?", "split": "test"}
-{"query_id": "general_040", "user_prompt": "How can I estimate how long an unfamiliar task will take?", "split": "test"}
-{"query_id": "general_129", "user_prompt": "I want to ask a question during a talk, but I worry that it is too basic.", "split": "test"}
-{"query_id": "general_074", "user_prompt": "How do shared meals help people connect?", "split": "test"}
-{"query_id": "general_019", "user_prompt": "How does a search engine find relevant pages?", "split": "test"}
-{"query_id": "general_108", "user_prompt": "How do we decide which risks are worth taking?", "split": "test"}
-{"query_id": "general_053", "user_prompt": "How do I ask for help when everyone seems busy?", "split": "test"}
-{"query_id": "general_142", "user_prompt": "The elevator arrived just after I decided to take the stairs.", "split": "test"}
-{"query_id": "general_087", "user_prompt": "What helps a group decide where to eat when everyone wants something different?", "split": "test"}
-{"query_id": "general_032", "user_prompt": "My study plan falls apart whenever one unexpected thing happens; what could I change?", "split": "test"}
-{"query_id": "general_121", "user_prompt": "Our team has a good idea, but nobody knows who should take the next step.", "split": "test"}
-{"query_id": "general_066", "user_prompt": "How do traditions survive when people move far from home?", "split": "test"}
-{"query_id": "general_011", "user_prompt": "How do noise-canceling headphones work?", "split": "test"}
-{"query_id": "general_100", "user_prompt": "What makes a handmade gift feel different from a purchased one?", "split": "test"}
-{"query_id": "general_045", "user_prompt": "How can I recover after wasting most of an afternoon?", "split": "test"}
-{"query_id": "general_134", "user_prompt": "How do I hand over a task so someone else can continue it?", "split": "test"}
-{"query_id": "general_079", "user_prompt": "What is a good way to explore a city without spending much?", "split": "test"}
-{"query_id": "general_024", "user_prompt": "Why does a video sometimes buffer on a fast connection?", "split": "test"}
-{"query_id": "general_113", "user_prompt": "What makes a promise different from a prediction?", "split": "test"}
-{"query_id": "general_058", "user_prompt": "What can I do when I compare my progress with everyone else's?", "split": "test"}
-{"query_id": "general_147", "user_prompt": "How would everyday life be different if people could remember every conversation?", "split": "test"}
-{"query_id": "general_003", "user_prompt": "What makes bread rise in the oven?", "split": "test"}
-{"query_id": "general_092", "user_prompt": "Why can silence be powerful in a conversation?", "split": "test"}
-{"query_id": "general_037", "user_prompt": "I forget most of what I read; is there a better way to approach a chapter?", "split": "test"}
-{"query_id": "general_126", "user_prompt": "What should I check before sharing a document with a large group?", "split": "test"}
-{"query_id": "general_071", "user_prompt": "How can a community reduce food waste?", "split": "test"}
-{"query_id": "general_016", "user_prompt": "What happens to a message after I press send?", "split": "test"}
-{"query_id": "general_105", "user_prompt": "My favorite shop closed, and the street feels different now.", "split": "test"}
-{"query_id": "general_050", "user_prompt": "How can I disagree with a friend without turning it into a fight?", "split": "test"}
-{"query_id": "general_139", "user_prompt": "I opened the fridge three times even though I knew what was inside.", "split": "test"}
-{"query_id": "general_084", "user_prompt": "How can I reduce the amount of packaging I throw away?", "split": "test"}
-{"query_id": "general_029", "user_prompt": "How does a map app estimate arrival time?", "split": "test"}
-{"query_id": "general_118", "user_prompt": "What does patience look like when there is still work to do?", "split": "test"}
-{"query_id": "general_063", "user_prompt": "How can a library serve people who rarely borrow books?", "split": "test"}
-{"query_id": "general_008", "user_prompt": "How does a seed know which direction to grow?", "split": "test"}
-{"query_id": "general_097", "user_prompt": "What does it mean to feel at home?", "split": "test"}
-{"query_id": "general_042", "user_prompt": "How do I know when to stop revising a piece of work?", "split": "test"}
-{"query_id": "general_131", "user_prompt": "Why does a clear goal sometimes matter more than a detailed plan?", "split": "test"}
-{"query_id": "general_076", "user_prompt": "There is an empty room in our building; what could residents use it for?", "split": "test"}
-{"query_id": "general_021", "user_prompt": "What does encryption actually protect?", "split": "test"}
-{"query_id": "general_110", "user_prompt": "What is the difference between confidence and certainty?", "split": "test"}
-{"query_id": "general_055", "user_prompt": "I am nervous about joining a club where everyone already knows each other.", "split": "test"}
-{"query_id": "general_144", "user_prompt": "I rehearsed a conversation perfectly until the other person said something unexpected.", "split": "test"}
+{"query_id": "general_137", "user_prompt": "Why does the printer stop working exactly when I am in a hurry?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_082", "user_prompt": "How do I keep herbs fresh for longer?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_027", "user_prompt": "Why do software updates sometimes require a restart?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_116", "user_prompt": "What can be learned from repairing something instead of replacing it?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_061", "user_prompt": "Why do cities need public parks?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_150", "user_prompt": "What could people learn by observing the same tree for a whole year?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_006", "user_prompt": "What is the difference between weather and climate?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_095", "user_prompt": "Why do certain smells bring back vivid memories?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_040", "user_prompt": "How can I estimate how long an unfamiliar task will take?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_129", "user_prompt": "I want to ask a question during a talk, but I worry that it is too basic.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_074", "user_prompt": "How do shared meals help people connect?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_019", "user_prompt": "How does a search engine find relevant pages?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_108", "user_prompt": "How do we decide which risks are worth taking?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_053", "user_prompt": "How do I ask for help when everyone seems busy?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_142", "user_prompt": "The elevator arrived just after I decided to take the stairs.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_087", "user_prompt": "What helps a group decide where to eat when everyone wants something different?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_032", "user_prompt": "My study plan falls apart whenever one unexpected thing happens; what could I change?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_121", "user_prompt": "Our team has a good idea, but nobody knows who should take the next step.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_066", "user_prompt": "How do traditions survive when people move far from home?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_011", "user_prompt": "How do noise-canceling headphones work?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_100", "user_prompt": "What makes a handmade gift feel different from a purchased one?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_045", "user_prompt": "How can I recover after wasting most of an afternoon?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_134", "user_prompt": "How do I hand over a task so someone else can continue it?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_079", "user_prompt": "What is a good way to explore a city without spending much?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_024", "user_prompt": "Why does a video sometimes buffer on a fast connection?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_113", "user_prompt": "What makes a promise different from a prediction?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_058", "user_prompt": "What can I do when I compare my progress with everyone else's?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_147", "user_prompt": "How would everyday life be different if people could remember every conversation?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_003", "user_prompt": "What makes bread rise in the oven?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_092", "user_prompt": "Why can silence be powerful in a conversation?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_037", "user_prompt": "I forget most of what I read; is there a better way to approach a chapter?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_126", "user_prompt": "What should I check before sharing a document with a large group?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_071", "user_prompt": "How can a community reduce food waste?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_016", "user_prompt": "What happens to a message after I press send?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_105", "user_prompt": "My favorite shop closed, and the street feels different now.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_050", "user_prompt": "How can I disagree with a friend without turning it into a fight?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_139", "user_prompt": "I opened the fridge three times even though I knew what was inside.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_084", "user_prompt": "How can I reduce the amount of packaging I throw away?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_029", "user_prompt": "How does a map app estimate arrival time?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_118", "user_prompt": "What does patience look like when there is still work to do?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_063", "user_prompt": "How can a library serve people who rarely borrow books?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_008", "user_prompt": "How does a seed know which direction to grow?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_097", "user_prompt": "What does it mean to feel at home?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_042", "user_prompt": "How do I know when to stop revising a piece of work?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_131", "user_prompt": "Why does a clear goal sometimes matter more than a detailed plan?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_076", "user_prompt": "There is an empty room in our building; what could residents use it for?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_021", "user_prompt": "What does encryption actually protect?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_110", "user_prompt": "What is the difference between confidence and certainty?\n\nAnswer in English", "split": "test"}
+{"query_id": "general_055", "user_prompt": "I am nervous about joining a club where everyone already knows each other.\n\nAnswer in English", "split": "test"}
+{"query_id": "general_144", "user_prompt": "I rehearsed a conversation perfectly until the other person said something unexpected.\n\nAnswer in English", "split": "test"}

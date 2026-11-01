@@ -46,6 +46,8 @@ for example in iter_examples(prompt_id="short_01", split="train"):
 
 A JSONL record contains `prompt_id`, `query_id`, `split`, `system_prompt`, and `user_prompt`. IDs, split labels, and source metadata are not model inputs. `to_messages` puts the system and user text into separate messages. No target answers or model responses are supplied.
 
+Every user input ends with a blank line followed by `Answer in English`, consistently across all pools and exports; system prompts are preserved.
+
 ## Experiment protocol
 
 Use the 100 training inputs per prompt to optimize the obfuscated prompt. Keep the 50 test inputs held out from optimization and prompt selection. Evaluate original, blank, and obfuscated conditions on the same test inputs and generation settings. Do not interpret output similarity alone as a verified measure of task correctness or style compliance.

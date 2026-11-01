@@ -1,100 +1,100 @@
-{"query_id": "film_01_1", "user_prompt": "What makes the central conflict in Spirited Away work?", "split": "train"}
-{"query_id": "film_01_2", "user_prompt": "Which moment in Spirited Away best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_01_3", "user_prompt": "How does Spirited Away use its setting to shape the story?", "split": "train"}
-{"query_id": "film_01_4", "user_prompt": "What might someone notice when watching Spirited Away a second time?", "split": "train"}
-{"query_id": "film_01_5", "user_prompt": "Does the ending of Spirited Away feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_02_1", "user_prompt": "What makes the central conflict in My Neighbor Totoro work?", "split": "train"}
-{"query_id": "film_02_2", "user_prompt": "Which moment in My Neighbor Totoro best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_02_3", "user_prompt": "How does My Neighbor Totoro use its setting to shape the story?", "split": "train"}
-{"query_id": "film_02_4", "user_prompt": "What might someone notice when watching My Neighbor Totoro a second time?", "split": "train"}
-{"query_id": "film_02_5", "user_prompt": "Does the ending of My Neighbor Totoro feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_03_1", "user_prompt": "What makes the central conflict in Kiki's Delivery Service work?", "split": "train"}
-{"query_id": "film_03_2", "user_prompt": "Which moment in Kiki's Delivery Service best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_03_3", "user_prompt": "How does Kiki's Delivery Service use its setting to shape the story?", "split": "train"}
-{"query_id": "film_03_4", "user_prompt": "What might someone notice when watching Kiki's Delivery Service a second time?", "split": "train"}
-{"query_id": "film_03_5", "user_prompt": "Does the ending of Kiki's Delivery Service feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_04_1", "user_prompt": "What makes the central conflict in Princess Mononoke work?", "split": "train"}
-{"query_id": "film_04_2", "user_prompt": "Which moment in Princess Mononoke best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_04_3", "user_prompt": "How does Princess Mononoke use its setting to shape the story?", "split": "train"}
-{"query_id": "film_04_4", "user_prompt": "What might someone notice when watching Princess Mononoke a second time?", "split": "train"}
-{"query_id": "film_04_5", "user_prompt": "Does the ending of Princess Mononoke feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_05_1", "user_prompt": "What makes the central conflict in Howl's Moving Castle work?", "split": "train"}
-{"query_id": "film_05_2", "user_prompt": "Which moment in Howl's Moving Castle best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_05_3", "user_prompt": "How does Howl's Moving Castle use its setting to shape the story?", "split": "train"}
-{"query_id": "film_05_4", "user_prompt": "What might someone notice when watching Howl's Moving Castle a second time?", "split": "train"}
-{"query_id": "film_05_5", "user_prompt": "Does the ending of Howl's Moving Castle feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_06_1", "user_prompt": "What makes the central conflict in Toy Story work?", "split": "train"}
-{"query_id": "film_06_2", "user_prompt": "Which moment in Toy Story best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_06_3", "user_prompt": "How does Toy Story use its setting to shape the story?", "split": "train"}
-{"query_id": "film_06_4", "user_prompt": "What might someone notice when watching Toy Story a second time?", "split": "train"}
-{"query_id": "film_06_5", "user_prompt": "Does the ending of Toy Story feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_07_1", "user_prompt": "What makes the central conflict in Finding Nemo work?", "split": "train"}
-{"query_id": "film_07_2", "user_prompt": "Which moment in Finding Nemo best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_07_3", "user_prompt": "How does Finding Nemo use its setting to shape the story?", "split": "train"}
-{"query_id": "film_07_4", "user_prompt": "What might someone notice when watching Finding Nemo a second time?", "split": "train"}
-{"query_id": "film_07_5", "user_prompt": "Does the ending of Finding Nemo feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_08_1", "user_prompt": "What makes the central conflict in WALL-E work?", "split": "train"}
-{"query_id": "film_08_2", "user_prompt": "Which moment in WALL-E best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_08_3", "user_prompt": "How does WALL-E use its setting to shape the story?", "split": "train"}
-{"query_id": "film_08_4", "user_prompt": "What might someone notice when watching WALL-E a second time?", "split": "train"}
-{"query_id": "film_08_5", "user_prompt": "Does the ending of WALL-E feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_09_1", "user_prompt": "What makes the central conflict in Inside Out work?", "split": "train"}
-{"query_id": "film_09_2", "user_prompt": "Which moment in Inside Out best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_09_3", "user_prompt": "How does Inside Out use its setting to shape the story?", "split": "train"}
-{"query_id": "film_09_4", "user_prompt": "What might someone notice when watching Inside Out a second time?", "split": "train"}
-{"query_id": "film_09_5", "user_prompt": "Does the ending of Inside Out feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_10_1", "user_prompt": "What makes the central conflict in Ratatouille work?", "split": "train"}
-{"query_id": "film_10_2", "user_prompt": "Which moment in Ratatouille best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_10_3", "user_prompt": "How does Ratatouille use its setting to shape the story?", "split": "train"}
-{"query_id": "film_10_4", "user_prompt": "What might someone notice when watching Ratatouille a second time?", "split": "train"}
-{"query_id": "film_10_5", "user_prompt": "Does the ending of Ratatouille feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_11_1", "user_prompt": "What makes the central conflict in Up work?", "split": "train"}
-{"query_id": "film_11_2", "user_prompt": "Which moment in Up best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_11_3", "user_prompt": "How does Up use its setting to shape the story?", "split": "train"}
-{"query_id": "film_11_4", "user_prompt": "What might someone notice when watching Up a second time?", "split": "train"}
-{"query_id": "film_11_5", "user_prompt": "Does the ending of Up feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_12_1", "user_prompt": "What makes the central conflict in Coco work?", "split": "train"}
-{"query_id": "film_12_2", "user_prompt": "Which moment in Coco best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_12_3", "user_prompt": "How does Coco use its setting to shape the story?", "split": "train"}
-{"query_id": "film_12_4", "user_prompt": "What might someone notice when watching Coco a second time?", "split": "train"}
-{"query_id": "film_12_5", "user_prompt": "Does the ending of Coco feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_13_1", "user_prompt": "What makes the central conflict in The Iron Giant work?", "split": "train"}
-{"query_id": "film_13_2", "user_prompt": "Which moment in The Iron Giant best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_13_3", "user_prompt": "How does The Iron Giant use its setting to shape the story?", "split": "train"}
-{"query_id": "film_13_4", "user_prompt": "What might someone notice when watching The Iron Giant a second time?", "split": "train"}
-{"query_id": "film_13_5", "user_prompt": "Does the ending of The Iron Giant feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_14_1", "user_prompt": "What makes the central conflict in The Incredibles work?", "split": "train"}
-{"query_id": "film_14_2", "user_prompt": "Which moment in The Incredibles best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_14_3", "user_prompt": "How does The Incredibles use its setting to shape the story?", "split": "train"}
-{"query_id": "film_14_4", "user_prompt": "What might someone notice when watching The Incredibles a second time?", "split": "train"}
-{"query_id": "film_14_5", "user_prompt": "Does the ending of The Incredibles feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_15_1", "user_prompt": "What makes the central conflict in Fantastic Mr. Fox work?", "split": "train"}
-{"query_id": "film_15_2", "user_prompt": "Which moment in Fantastic Mr. Fox best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_15_3", "user_prompt": "How does Fantastic Mr. Fox use its setting to shape the story?", "split": "train"}
-{"query_id": "film_15_4", "user_prompt": "What might someone notice when watching Fantastic Mr. Fox a second time?", "split": "train"}
-{"query_id": "film_15_5", "user_prompt": "Does the ending of Fantastic Mr. Fox feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_16_1", "user_prompt": "What makes the central conflict in Paddington 2 work?", "split": "train"}
-{"query_id": "film_16_2", "user_prompt": "Which moment in Paddington 2 best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_16_3", "user_prompt": "How does Paddington 2 use its setting to shape the story?", "split": "train"}
-{"query_id": "film_16_4", "user_prompt": "What might someone notice when watching Paddington 2 a second time?", "split": "train"}
-{"query_id": "film_16_5", "user_prompt": "Does the ending of Paddington 2 feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_17_1", "user_prompt": "What makes the central conflict in The Truman Show work?", "split": "train"}
-{"query_id": "film_17_2", "user_prompt": "Which moment in The Truman Show best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_17_3", "user_prompt": "How does The Truman Show use its setting to shape the story?", "split": "train"}
-{"query_id": "film_17_4", "user_prompt": "What might someone notice when watching The Truman Show a second time?", "split": "train"}
-{"query_id": "film_17_5", "user_prompt": "Does the ending of The Truman Show feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_18_1", "user_prompt": "What makes the central conflict in Groundhog Day work?", "split": "train"}
-{"query_id": "film_18_2", "user_prompt": "Which moment in Groundhog Day best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_18_3", "user_prompt": "How does Groundhog Day use its setting to shape the story?", "split": "train"}
-{"query_id": "film_18_4", "user_prompt": "What might someone notice when watching Groundhog Day a second time?", "split": "train"}
-{"query_id": "film_18_5", "user_prompt": "Does the ending of Groundhog Day feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_19_1", "user_prompt": "What makes the central conflict in Back to the Future work?", "split": "train"}
-{"query_id": "film_19_2", "user_prompt": "Which moment in Back to the Future best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_19_3", "user_prompt": "How does Back to the Future use its setting to shape the story?", "split": "train"}
-{"query_id": "film_19_4", "user_prompt": "What might someone notice when watching Back to the Future a second time?", "split": "train"}
-{"query_id": "film_19_5", "user_prompt": "Does the ending of Back to the Future feel earned by what comes before it?", "split": "train"}
-{"query_id": "film_20_1", "user_prompt": "What makes the central conflict in The Princess Bride work?", "split": "train"}
-{"query_id": "film_20_2", "user_prompt": "Which moment in The Princess Bride best captures what the film is trying to say?", "split": "train"}
-{"query_id": "film_20_3", "user_prompt": "How does The Princess Bride use its setting to shape the story?", "split": "train"}
-{"query_id": "film_20_4", "user_prompt": "What might someone notice when watching The Princess Bride a second time?", "split": "train"}
-{"query_id": "film_20_5", "user_prompt": "Does the ending of The Princess Bride feel earned by what comes before it?", "split": "train"}
+{"query_id": "film_01_1", "user_prompt": "What makes the central conflict in Spirited Away work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_01_2", "user_prompt": "Which moment in Spirited Away best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_01_3", "user_prompt": "How does Spirited Away use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_01_4", "user_prompt": "What might someone notice when watching Spirited Away a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_01_5", "user_prompt": "Does the ending of Spirited Away feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_02_1", "user_prompt": "What makes the central conflict in My Neighbor Totoro work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_02_2", "user_prompt": "Which moment in My Neighbor Totoro best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_02_3", "user_prompt": "How does My Neighbor Totoro use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_02_4", "user_prompt": "What might someone notice when watching My Neighbor Totoro a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_02_5", "user_prompt": "Does the ending of My Neighbor Totoro feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_03_1", "user_prompt": "What makes the central conflict in Kiki's Delivery Service work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_03_2", "user_prompt": "Which moment in Kiki's Delivery Service best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_03_3", "user_prompt": "How does Kiki's Delivery Service use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_03_4", "user_prompt": "What might someone notice when watching Kiki's Delivery Service a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_03_5", "user_prompt": "Does the ending of Kiki's Delivery Service feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_04_1", "user_prompt": "What makes the central conflict in Princess Mononoke work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_04_2", "user_prompt": "Which moment in Princess Mononoke best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_04_3", "user_prompt": "How does Princess Mononoke use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_04_4", "user_prompt": "What might someone notice when watching Princess Mononoke a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_04_5", "user_prompt": "Does the ending of Princess Mononoke feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_05_1", "user_prompt": "What makes the central conflict in Howl's Moving Castle work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_05_2", "user_prompt": "Which moment in Howl's Moving Castle best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_05_3", "user_prompt": "How does Howl's Moving Castle use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_05_4", "user_prompt": "What might someone notice when watching Howl's Moving Castle a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_05_5", "user_prompt": "Does the ending of Howl's Moving Castle feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_06_1", "user_prompt": "What makes the central conflict in Toy Story work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_06_2", "user_prompt": "Which moment in Toy Story best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_06_3", "user_prompt": "How does Toy Story use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_06_4", "user_prompt": "What might someone notice when watching Toy Story a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_06_5", "user_prompt": "Does the ending of Toy Story feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_07_1", "user_prompt": "What makes the central conflict in Finding Nemo work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_07_2", "user_prompt": "Which moment in Finding Nemo best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_07_3", "user_prompt": "How does Finding Nemo use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_07_4", "user_prompt": "What might someone notice when watching Finding Nemo a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_07_5", "user_prompt": "Does the ending of Finding Nemo feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_08_1", "user_prompt": "What makes the central conflict in WALL-E work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_08_2", "user_prompt": "Which moment in WALL-E best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_08_3", "user_prompt": "How does WALL-E use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_08_4", "user_prompt": "What might someone notice when watching WALL-E a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_08_5", "user_prompt": "Does the ending of WALL-E feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_09_1", "user_prompt": "What makes the central conflict in Inside Out work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_09_2", "user_prompt": "Which moment in Inside Out best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_09_3", "user_prompt": "How does Inside Out use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_09_4", "user_prompt": "What might someone notice when watching Inside Out a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_09_5", "user_prompt": "Does the ending of Inside Out feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_10_1", "user_prompt": "What makes the central conflict in Ratatouille work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_10_2", "user_prompt": "Which moment in Ratatouille best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_10_3", "user_prompt": "How does Ratatouille use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_10_4", "user_prompt": "What might someone notice when watching Ratatouille a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_10_5", "user_prompt": "Does the ending of Ratatouille feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_11_1", "user_prompt": "What makes the central conflict in Up work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_11_2", "user_prompt": "Which moment in Up best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_11_3", "user_prompt": "How does Up use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_11_4", "user_prompt": "What might someone notice when watching Up a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_11_5", "user_prompt": "Does the ending of Up feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_12_1", "user_prompt": "What makes the central conflict in Coco work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_12_2", "user_prompt": "Which moment in Coco best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_12_3", "user_prompt": "How does Coco use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_12_4", "user_prompt": "What might someone notice when watching Coco a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_12_5", "user_prompt": "Does the ending of Coco feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_13_1", "user_prompt": "What makes the central conflict in The Iron Giant work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_13_2", "user_prompt": "Which moment in The Iron Giant best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_13_3", "user_prompt": "How does The Iron Giant use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_13_4", "user_prompt": "What might someone notice when watching The Iron Giant a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_13_5", "user_prompt": "Does the ending of The Iron Giant feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_14_1", "user_prompt": "What makes the central conflict in The Incredibles work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_14_2", "user_prompt": "Which moment in The Incredibles best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_14_3", "user_prompt": "How does The Incredibles use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_14_4", "user_prompt": "What might someone notice when watching The Incredibles a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_14_5", "user_prompt": "Does the ending of The Incredibles feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_15_1", "user_prompt": "What makes the central conflict in Fantastic Mr. Fox work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_15_2", "user_prompt": "Which moment in Fantastic Mr. Fox best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_15_3", "user_prompt": "How does Fantastic Mr. Fox use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_15_4", "user_prompt": "What might someone notice when watching Fantastic Mr. Fox a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_15_5", "user_prompt": "Does the ending of Fantastic Mr. Fox feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_16_1", "user_prompt": "What makes the central conflict in Paddington 2 work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_16_2", "user_prompt": "Which moment in Paddington 2 best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_16_3", "user_prompt": "How does Paddington 2 use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_16_4", "user_prompt": "What might someone notice when watching Paddington 2 a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_16_5", "user_prompt": "Does the ending of Paddington 2 feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_17_1", "user_prompt": "What makes the central conflict in The Truman Show work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_17_2", "user_prompt": "Which moment in The Truman Show best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_17_3", "user_prompt": "How does The Truman Show use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_17_4", "user_prompt": "What might someone notice when watching The Truman Show a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_17_5", "user_prompt": "Does the ending of The Truman Show feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_18_1", "user_prompt": "What makes the central conflict in Groundhog Day work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_18_2", "user_prompt": "Which moment in Groundhog Day best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_18_3", "user_prompt": "How does Groundhog Day use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_18_4", "user_prompt": "What might someone notice when watching Groundhog Day a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_18_5", "user_prompt": "Does the ending of Groundhog Day feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_19_1", "user_prompt": "What makes the central conflict in Back to the Future work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_19_2", "user_prompt": "Which moment in Back to the Future best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_19_3", "user_prompt": "How does Back to the Future use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_19_4", "user_prompt": "What might someone notice when watching Back to the Future a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_19_5", "user_prompt": "Does the ending of Back to the Future feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_20_1", "user_prompt": "What makes the central conflict in The Princess Bride work?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_20_2", "user_prompt": "Which moment in The Princess Bride best captures what the film is trying to say?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_20_3", "user_prompt": "How does The Princess Bride use its setting to shape the story?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_20_4", "user_prompt": "What might someone notice when watching The Princess Bride a second time?\n\nAnswer in English", "split": "train"}
+{"query_id": "film_20_5", "user_prompt": "Does the ending of The Princess Bride feel earned by what comes before it?\n\nAnswer in English", "split": "train"}
