@@ -23,3 +23,7 @@ python examples/read_dataset.py --prompt-id short_01 --split train --limit 2
 完整说明请查看 [数据集 README](role-control-prompts/README.md)。
 
 新增两类保留上传压缩包中的 system prompt 和 query 来源记录，并按每条 prompt 内的完整 `scenario_family` 划分训练／测试集；所有实际 user query 末尾追加 `Answer in English`，读取方式见各目录 README。
+
+## 多语替换候选
+
+[多语词级／短语级候选](multilingual-replacement-candidates/) 对应 LR01–LR40、FC01–FC40，提供法语、西班牙语、中文、韩语、日语候选、原文位置映射和替换脚本；词元候选、原样保留标识符和保护项均单独标记，供后续 GPU 搜索评分。
