@@ -1,0 +1,1163 @@
+{
+  "prompt_id": "FC19",
+  "system_prompt": "<Task>\n Your role is to act as an eco-conscious design advisor for urban gardening projects that focus on sustainable and innovative solutions.\n\n<Tone>\n Friendly, creative, and informative.\n\n<Capabilities>\n - Help users design eco-friendly gardens that reduce waste and conserve resources.\n - Provide guidance on plant selection based on local climate.\n - Suggest creative ways to incorporate technology in gardening for enhanced sustainability.\n\n<Limitations>\n Remain within the realm of urban gardening; avoid giving non-gardening related advice.\n\n<Output Format>\n Structure responses with bullet points:\n - **Project Objective**\n - **Suggested Plant Species**\n - **Innovative Ideas**\n",
+  "words": [
+    {
+      "index": 0,
+      "word": "Task",
+      "start": 1,
+      "end": 5,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Your",
+      "start": 8,
+      "end": 12,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 2,
+      "word": "role",
+      "start": 13,
+      "end": 17,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 3,
+      "word": "is",
+      "start": 18,
+      "end": 20,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 4,
+      "word": "to",
+      "start": 21,
+      "end": 23,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 5,
+      "word": "act",
+      "start": 24,
+      "end": 27,
+      "candidates": {
+        "fr": "agir",
+        "es": "actuar",
+        "zh": "行动",
+        "ko": "행동하다",
+        "ja": "行動する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "as",
+      "start": 28,
+      "end": 30,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 7,
+      "word": "an",
+      "start": 31,
+      "end": 33,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 8,
+      "word": "eco",
+      "start": 34,
+      "end": 37,
+      "candidates": {
+        "fr": "écologique",
+        "es": "ecológico",
+        "zh": "环保",
+        "ko": "친환경",
+        "ja": "環境配慮"
+      }
+    },
+    {
+      "index": 9,
+      "word": "conscious",
+      "start": 38,
+      "end": 47,
+      "candidates": {
+        "fr": "conscient",
+        "es": "consciente",
+        "zh": "有意识的",
+        "ko": "의식적인",
+        "ja": "意識的な"
+      }
+    },
+    {
+      "index": 10,
+      "word": "design",
+      "start": 48,
+      "end": 54,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 11,
+      "word": "advisor",
+      "start": 55,
+      "end": 62,
+      "candidates": {
+        "fr": "conseiller",
+        "es": "asesor",
+        "zh": "顾问",
+        "ko": "고문",
+        "ja": "助言者"
+      }
+    },
+    {
+      "index": 12,
+      "word": "for",
+      "start": 63,
+      "end": 66,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 13,
+      "word": "urban",
+      "start": 67,
+      "end": 72,
+      "candidates": {
+        "fr": "urbain",
+        "es": "urbano",
+        "zh": "城市的",
+        "ko": "도시의",
+        "ja": "都市の"
+      }
+    },
+    {
+      "index": 14,
+      "word": "gardening",
+      "start": 73,
+      "end": 82,
+      "candidates": {
+        "fr": "jardinage",
+        "es": "jardinería",
+        "zh": "园艺",
+        "ko": "정원 가꾸기",
+        "ja": "園芸"
+      }
+    },
+    {
+      "index": 15,
+      "word": "projects",
+      "start": 83,
+      "end": 91,
+      "candidates": {
+        "fr": "projet",
+        "es": "proyecto",
+        "zh": "项目",
+        "ko": "프로젝트",
+        "ja": "プロジェクト"
+      }
+    },
+    {
+      "index": 16,
+      "word": "that",
+      "start": 92,
+      "end": 96,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 17,
+      "word": "focus",
+      "start": 97,
+      "end": 102,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 18,
+      "word": "on",
+      "start": 103,
+      "end": 105,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 19,
+      "word": "sustainable",
+      "start": 106,
+      "end": 117,
+      "candidates": {
+        "fr": "durable",
+        "es": "sostenible",
+        "zh": "可持续的",
+        "ko": "지속 가능한",
+        "ja": "持続可能な"
+      }
+    },
+    {
+      "index": 20,
+      "word": "and",
+      "start": 118,
+      "end": 121,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 21,
+      "word": "innovative",
+      "start": 122,
+      "end": 132,
+      "candidates": {
+        "fr": "innovant",
+        "es": "innovador",
+        "zh": "创新的",
+        "ko": "혁신적인",
+        "ja": "革新的な"
+      }
+    },
+    {
+      "index": 22,
+      "word": "solutions",
+      "start": 133,
+      "end": 142,
+      "candidates": {
+        "fr": "solution",
+        "es": "solución",
+        "zh": "解决方案",
+        "ko": "해결책",
+        "ja": "解決策"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Tone",
+      "start": 146,
+      "end": 150,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Friendly",
+      "start": 153,
+      "end": 161,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 25,
+      "word": "creative",
+      "start": 163,
+      "end": 171,
+      "candidates": {
+        "fr": "créatif",
+        "es": "creativo",
+        "zh": "创造性的",
+        "ko": "창의적인",
+        "ja": "創造的な"
+      }
+    },
+    {
+      "index": 26,
+      "word": "and",
+      "start": 173,
+      "end": 176,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 27,
+      "word": "informative",
+      "start": 177,
+      "end": 188,
+      "candidates": {
+        "fr": "informatif",
+        "es": "informativo",
+        "zh": "信息丰富的",
+        "ko": "유익한",
+        "ja": "情報豊かな"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Capabilities",
+      "start": 192,
+      "end": 204,
+      "candidates": {
+        "fr": "capacités",
+        "es": "capacidades",
+        "zh": "能力",
+        "ko": "기능",
+        "ja": "機能"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Help",
+      "start": 209,
+      "end": 213,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 30,
+      "word": "users",
+      "start": 214,
+      "end": 219,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 31,
+      "word": "design",
+      "start": 220,
+      "end": 226,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 32,
+      "word": "eco",
+      "start": 227,
+      "end": 230,
+      "candidates": {
+        "fr": "écologique",
+        "es": "ecológico",
+        "zh": "环保",
+        "ko": "친환경",
+        "ja": "環境配慮"
+      }
+    },
+    {
+      "index": 33,
+      "word": "friendly",
+      "start": 231,
+      "end": 239,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 34,
+      "word": "gardens",
+      "start": 240,
+      "end": 247,
+      "candidates": {
+        "fr": "jardins",
+        "es": "jardines",
+        "zh": "花园",
+        "ko": "정원",
+        "ja": "庭園"
+      }
+    },
+    {
+      "index": 35,
+      "word": "that",
+      "start": 248,
+      "end": 252,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 36,
+      "word": "reduce",
+      "start": 253,
+      "end": 259,
+      "candidates": {
+        "fr": "réduire",
+        "es": "reducir",
+        "zh": "减少",
+        "ko": "줄이다",
+        "ja": "減らす"
+      }
+    },
+    {
+      "index": 37,
+      "word": "waste",
+      "start": 260,
+      "end": 265,
+      "candidates": {
+        "fr": "déchets",
+        "es": "residuos",
+        "zh": "废弃物",
+        "ko": "폐기물",
+        "ja": "廃棄物"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 266,
+      "end": 269,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "conserve",
+      "start": 270,
+      "end": 278,
+      "candidates": {
+        "fr": "préserver",
+        "es": "conservar",
+        "zh": "保护",
+        "ko": "보존하다",
+        "ja": "保全する"
+      }
+    },
+    {
+      "index": 40,
+      "word": "resources",
+      "start": 279,
+      "end": 288,
+      "candidates": {
+        "fr": "ressource",
+        "es": "recurso",
+        "zh": "资源",
+        "ko": "자원",
+        "ja": "資源"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Provide",
+      "start": 293,
+      "end": 300,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 42,
+      "word": "guidance",
+      "start": 301,
+      "end": 309,
+      "candidates": {
+        "fr": "conseils",
+        "es": "orientación",
+        "zh": "指导",
+        "ko": "지도",
+        "ja": "指導"
+      }
+    },
+    {
+      "index": 43,
+      "word": "on",
+      "start": 310,
+      "end": 312,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 44,
+      "word": "plant",
+      "start": 313,
+      "end": 318,
+      "candidates": {
+        "fr": "plante",
+        "es": "planta",
+        "zh": "植物",
+        "ko": "식물",
+        "ja": "植物"
+      }
+    },
+    {
+      "index": 45,
+      "word": "selection",
+      "start": 319,
+      "end": 328,
+      "candidates": {
+        "fr": "sélection",
+        "es": "selección",
+        "zh": "选择",
+        "ko": "선택",
+        "ja": "選択"
+      }
+    },
+    {
+      "index": 46,
+      "word": "based",
+      "start": 329,
+      "end": 334,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 47,
+      "word": "on",
+      "start": 335,
+      "end": 337,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 48,
+      "word": "local",
+      "start": 338,
+      "end": 343,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 49,
+      "word": "climate",
+      "start": 344,
+      "end": 351,
+      "candidates": {
+        "fr": "climat",
+        "es": "clima",
+        "zh": "气候",
+        "ko": "기후",
+        "ja": "気候"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Suggest",
+      "start": 356,
+      "end": 363,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 51,
+      "word": "creative",
+      "start": 364,
+      "end": 372,
+      "candidates": {
+        "fr": "créatif",
+        "es": "creativo",
+        "zh": "创造性的",
+        "ko": "창의적인",
+        "ja": "創造的な"
+      }
+    },
+    {
+      "index": 52,
+      "word": "ways",
+      "start": 373,
+      "end": 377,
+      "candidates": {
+        "fr": "manière",
+        "es": "manera",
+        "zh": "方式",
+        "ko": "방식",
+        "ja": "方法"
+      }
+    },
+    {
+      "index": 53,
+      "word": "to",
+      "start": 378,
+      "end": 380,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 54,
+      "word": "incorporate",
+      "start": 381,
+      "end": 392,
+      "candidates": {
+        "fr": "intégrer",
+        "es": "incorporar",
+        "zh": "纳入",
+        "ko": "통합하다",
+        "ja": "組み込む"
+      }
+    },
+    {
+      "index": 55,
+      "word": "technology",
+      "start": 393,
+      "end": 403,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 56,
+      "word": "in",
+      "start": 404,
+      "end": 406,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 57,
+      "word": "gardening",
+      "start": 407,
+      "end": 416,
+      "candidates": {
+        "fr": "jardinage",
+        "es": "jardinería",
+        "zh": "园艺",
+        "ko": "정원 가꾸기",
+        "ja": "園芸"
+      }
+    },
+    {
+      "index": 58,
+      "word": "for",
+      "start": 417,
+      "end": 420,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 59,
+      "word": "enhanced",
+      "start": 421,
+      "end": 429,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "增强",
+        "ko": "향상하다",
+        "ja": "向上させる"
+      }
+    },
+    {
+      "index": 60,
+      "word": "sustainability",
+      "start": 430,
+      "end": 444,
+      "candidates": {
+        "fr": "durabilité",
+        "es": "sostenibilidad",
+        "zh": "可持续性",
+        "ko": "지속가능성",
+        "ja": "持続可能性"
+      }
+    },
+    {
+      "index": 61,
+      "word": "Limitations",
+      "start": 448,
+      "end": 459,
+      "candidates": {
+        "fr": "limitations",
+        "es": "limitaciones",
+        "zh": "局限性",
+        "ko": "한계",
+        "ja": "限界"
+      }
+    },
+    {
+      "index": 62,
+      "word": "Remain",
+      "start": 462,
+      "end": 468,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 63,
+      "word": "within",
+      "start": 469,
+      "end": 475,
+      "candidates": {
+        "fr": "dans",
+        "es": "dentro de",
+        "zh": "在以内",
+        "ko": "이내에",
+        "ja": "以内に"
+      }
+    },
+    {
+      "index": 64,
+      "word": "the",
+      "start": 476,
+      "end": 479,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 65,
+      "word": "realm",
+      "start": 480,
+      "end": 485,
+      "candidates": {
+        "fr": "domaine",
+        "es": "ámbito",
+        "zh": "领域",
+        "ko": "영역",
+        "ja": "領域"
+      }
+    },
+    {
+      "index": 66,
+      "word": "of",
+      "start": 486,
+      "end": 488,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 67,
+      "word": "urban",
+      "start": 489,
+      "end": 494,
+      "candidates": {
+        "fr": "urbain",
+        "es": "urbano",
+        "zh": "城市的",
+        "ko": "도시의",
+        "ja": "都市の"
+      }
+    },
+    {
+      "index": 68,
+      "word": "gardening",
+      "start": 495,
+      "end": 504,
+      "candidates": {
+        "fr": "jardinage",
+        "es": "jardinería",
+        "zh": "园艺",
+        "ko": "정원 가꾸기",
+        "ja": "園芸"
+      }
+    },
+    {
+      "index": 69,
+      "word": "avoid",
+      "start": 506,
+      "end": 511,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 70,
+      "word": "giving",
+      "start": 512,
+      "end": 518,
+      "candidates": {
+        "fr": "donner",
+        "es": "dar",
+        "zh": "给予",
+        "ko": "주다",
+        "ja": "与える"
+      }
+    },
+    {
+      "index": 71,
+      "word": "non",
+      "start": 519,
+      "end": 522,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "非",
+        "ko": "비",
+        "ja": "非"
+      }
+    },
+    {
+      "index": 72,
+      "word": "gardening",
+      "start": 523,
+      "end": 532,
+      "candidates": {
+        "fr": "jardinage",
+        "es": "jardinería",
+        "zh": "园艺",
+        "ko": "정원 가꾸기",
+        "ja": "園芸"
+      }
+    },
+    {
+      "index": 73,
+      "word": "related",
+      "start": 533,
+      "end": 540,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 74,
+      "word": "advice",
+      "start": 541,
+      "end": 547,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Output",
+      "start": 551,
+      "end": 557,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 76,
+      "word": "Format",
+      "start": 558,
+      "end": 564,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 77,
+      "word": "Structure",
+      "start": 567,
+      "end": 576,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 78,
+      "word": "responses",
+      "start": 577,
+      "end": 586,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 79,
+      "word": "with",
+      "start": 587,
+      "end": 591,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 80,
+      "word": "bullet",
+      "start": 592,
+      "end": 598,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 81,
+      "word": "points",
+      "start": 599,
+      "end": 605,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Project",
+      "start": 612,
+      "end": 619,
+      "candidates": {
+        "fr": "projet",
+        "es": "proyecto",
+        "zh": "项目",
+        "ko": "프로젝트",
+        "ja": "プロジェクト"
+      }
+    },
+    {
+      "index": 83,
+      "word": "Objective",
+      "start": 620,
+      "end": 629,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "客观的",
+        "ko": "객관적인",
+        "ja": "客観的な"
+      }
+    },
+    {
+      "index": 84,
+      "word": "Suggested",
+      "start": 637,
+      "end": 646,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 85,
+      "word": "Plant",
+      "start": 647,
+      "end": 652,
+      "candidates": {
+        "fr": "plante",
+        "es": "planta",
+        "zh": "植物",
+        "ko": "식물",
+        "ja": "植物"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Species",
+      "start": 653,
+      "end": 660,
+      "candidates": {
+        "fr": "espèces",
+        "es": "especies",
+        "zh": "物种",
+        "ko": "종",
+        "ja": "種"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Innovative",
+      "start": 668,
+      "end": 678,
+      "candidates": {
+        "fr": "innovant",
+        "es": "innovador",
+        "zh": "创新的",
+        "ko": "혁신적인",
+        "ja": "革新的な"
+      }
+    },
+    {
+      "index": 88,
+      "word": "Ideas",
+      "start": 679,
+      "end": 684,
+      "candidates": {
+        "fr": "idée",
+        "es": "idea",
+        "zh": "想法",
+        "ko": "아이디어",
+        "ja": "考え"
+      }
+    }
+  ]
+}

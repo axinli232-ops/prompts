@@ -1,0 +1,1267 @@
+{
+  "prompt_id": "LR04",
+  "system_prompt": "### System Prompt: Classify Scientific Articles\n\nYou are a classifier that categorizes scientific articles into predefined categories based on their abstract. Categories include:\n1. Biology\n2. Chemistry\n3. Physics\n4. Computer Science\n5. Environmental Science\n\nWhen classifying, rely on the terminology, methodologies, and objectives presented in the abstract to determine the category. If an abstract spans multiple fields, categorize using the most prominent field. For instance, if an abstract discusses computational models in biology, classify it under ‘Biology’. Avoid categorizing abstracts on speculation or non-scientific content. Respond with only the category name.\n\nAvoid irrelevant classifications and only reply with system predefined categories.",
+  "words": [
+    {
+      "index": 0,
+      "word": "System",
+      "start": 4,
+      "end": 10,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Prompt",
+      "start": 11,
+      "end": 17,
+      "candidates": {
+        "fr": "invite",
+        "es": "instrucción",
+        "zh": "提示词",
+        "ko": "프롬프트",
+        "ja": "プロンプト"
+      }
+    },
+    {
+      "index": 2,
+      "word": "Classify",
+      "start": 19,
+      "end": 27,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 3,
+      "word": "Scientific",
+      "start": 28,
+      "end": 38,
+      "candidates": {
+        "fr": "scientifique",
+        "es": "científico",
+        "zh": "科学的",
+        "ko": "과학적인",
+        "ja": "科学的な"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Articles",
+      "start": 39,
+      "end": 47,
+      "candidates": {
+        "fr": "article",
+        "es": "artículo",
+        "zh": "文章",
+        "ko": "기사",
+        "ja": "記事"
+      }
+    },
+    {
+      "index": 5,
+      "word": "You",
+      "start": 49,
+      "end": 52,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 6,
+      "word": "are",
+      "start": 53,
+      "end": 56,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 7,
+      "word": "a",
+      "start": 57,
+      "end": 58,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 8,
+      "word": "classifier",
+      "start": 59,
+      "end": 69,
+      "candidates": {
+        "fr": "classificateur",
+        "es": "clasificador",
+        "zh": "分类器",
+        "ko": "분류기",
+        "ja": "分類器"
+      }
+    },
+    {
+      "index": 9,
+      "word": "that",
+      "start": 70,
+      "end": 74,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 10,
+      "word": "categorizes",
+      "start": 75,
+      "end": 86,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 11,
+      "word": "scientific",
+      "start": 87,
+      "end": 97,
+      "candidates": {
+        "fr": "scientifique",
+        "es": "científico",
+        "zh": "科学的",
+        "ko": "과학적인",
+        "ja": "科学的な"
+      }
+    },
+    {
+      "index": 12,
+      "word": "articles",
+      "start": 98,
+      "end": 106,
+      "candidates": {
+        "fr": "article",
+        "es": "artículo",
+        "zh": "文章",
+        "ko": "기사",
+        "ja": "記事"
+      }
+    },
+    {
+      "index": 13,
+      "word": "into",
+      "start": 107,
+      "end": 111,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 14,
+      "word": "predefined",
+      "start": 112,
+      "end": 122,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "categories",
+      "start": 123,
+      "end": 133,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "based",
+      "start": 134,
+      "end": 139,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 17,
+      "word": "on",
+      "start": 140,
+      "end": 142,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "their",
+      "start": 143,
+      "end": 148,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 19,
+      "word": "abstract",
+      "start": 149,
+      "end": 157,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Categories",
+      "start": 159,
+      "end": 169,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "include",
+      "start": 170,
+      "end": 177,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Biology",
+      "start": 182,
+      "end": 189,
+      "candidates": {
+        "fr": "biologie",
+        "es": "biología",
+        "zh": "生物学",
+        "ko": "생물학",
+        "ja": "生物学"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Chemistry",
+      "start": 193,
+      "end": 202,
+      "candidates": {
+        "fr": "chimie",
+        "es": "química",
+        "zh": "化学",
+        "ko": "화학",
+        "ja": "化学"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Physics",
+      "start": 206,
+      "end": 213,
+      "candidates": {
+        "fr": "physique",
+        "es": "física",
+        "zh": "物理学",
+        "ko": "물리학",
+        "ja": "物理学"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Computer",
+      "start": 217,
+      "end": 225,
+      "candidates": {
+        "fr": "ordinateur",
+        "es": "computadora",
+        "zh": "计算机",
+        "ko": "컴퓨터",
+        "ja": "コンピューター"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Science",
+      "start": 226,
+      "end": 233,
+      "candidates": {
+        "fr": "science",
+        "es": "ciencia",
+        "zh": "科学",
+        "ko": "과학",
+        "ja": "科学"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Environmental",
+      "start": 237,
+      "end": 250,
+      "candidates": {
+        "fr": "environnemental",
+        "es": "ambiental",
+        "zh": "环境的",
+        "ko": "환경의",
+        "ja": "環境の"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Science",
+      "start": 251,
+      "end": 258,
+      "candidates": {
+        "fr": "science",
+        "es": "ciencia",
+        "zh": "科学",
+        "ko": "과학",
+        "ja": "科学"
+      }
+    },
+    {
+      "index": 29,
+      "word": "When",
+      "start": 260,
+      "end": 264,
+      "candidates": {
+        "fr": "quand",
+        "es": "cuándo",
+        "zh": "当时",
+        "ko": "언제",
+        "ja": "いつ"
+      }
+    },
+    {
+      "index": 30,
+      "word": "classifying",
+      "start": 265,
+      "end": 276,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "rely",
+      "start": 278,
+      "end": 282,
+      "candidates": {
+        "fr": "compter sur",
+        "es": "depender de",
+        "zh": "依赖",
+        "ko": "의존하다",
+        "ja": "頼る"
+      }
+    },
+    {
+      "index": 32,
+      "word": "on",
+      "start": 283,
+      "end": 285,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 33,
+      "word": "the",
+      "start": 286,
+      "end": 289,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 34,
+      "word": "terminology",
+      "start": 290,
+      "end": 301,
+      "candidates": {
+        "fr": "terminologie",
+        "es": "terminología",
+        "zh": "术语体系",
+        "ko": "전문 용어",
+        "ja": "専門用語"
+      }
+    },
+    {
+      "index": 35,
+      "word": "methodologies",
+      "start": 303,
+      "end": 316,
+      "candidates": {
+        "fr": "méthodologie",
+        "es": "metodología",
+        "zh": "方法论",
+        "ko": "방법론",
+        "ja": "方法論"
+      }
+    },
+    {
+      "index": 36,
+      "word": "and",
+      "start": 318,
+      "end": 321,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 37,
+      "word": "objectives",
+      "start": 322,
+      "end": 332,
+      "candidates": {
+        "fr": "objectifs",
+        "es": "objetivos",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 38,
+      "word": "presented",
+      "start": 333,
+      "end": 342,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "in",
+      "start": 343,
+      "end": 345,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 40,
+      "word": "the",
+      "start": 346,
+      "end": 349,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 41,
+      "word": "abstract",
+      "start": 350,
+      "end": 358,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 42,
+      "word": "to",
+      "start": 359,
+      "end": 361,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 43,
+      "word": "determine",
+      "start": 362,
+      "end": 371,
+      "candidates": {
+        "fr": "déterminer",
+        "es": "determinar",
+        "zh": "确定",
+        "ko": "결정하다",
+        "ja": "判断する"
+      }
+    },
+    {
+      "index": 44,
+      "word": "the",
+      "start": 372,
+      "end": 375,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 45,
+      "word": "category",
+      "start": 376,
+      "end": 384,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 46,
+      "word": "If",
+      "start": 386,
+      "end": 388,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 47,
+      "word": "an",
+      "start": 389,
+      "end": 391,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 48,
+      "word": "abstract",
+      "start": 392,
+      "end": 400,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 49,
+      "word": "spans",
+      "start": 401,
+      "end": 406,
+      "candidates": {
+        "fr": "segments",
+        "es": "segmentos",
+        "zh": "片段范围",
+        "ko": "구간",
+        "ja": "範囲"
+      }
+    },
+    {
+      "index": 50,
+      "word": "multiple",
+      "start": 407,
+      "end": 415,
+      "candidates": {
+        "fr": "multiple",
+        "es": "múltiple",
+        "zh": "多个",
+        "ko": "여러",
+        "ja": "複数の"
+      }
+    },
+    {
+      "index": 51,
+      "word": "fields",
+      "start": 416,
+      "end": 422,
+      "candidates": {
+        "fr": "domaine",
+        "es": "campo",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 52,
+      "word": "categorize",
+      "start": 424,
+      "end": 434,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 53,
+      "word": "using",
+      "start": 435,
+      "end": 440,
+      "candidates": {
+        "fr": "en utilisant",
+        "es": "usando",
+        "zh": "使用",
+        "ko": "사용하여",
+        "ja": "用いて"
+      }
+    },
+    {
+      "index": 54,
+      "word": "the",
+      "start": 441,
+      "end": 444,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 55,
+      "word": "most",
+      "start": 445,
+      "end": 449,
+      "candidates": {
+        "fr": "le plus",
+        "es": "la mayoría",
+        "zh": "最多",
+        "ko": "가장 많은",
+        "ja": "最も多くの"
+      }
+    },
+    {
+      "index": 56,
+      "word": "prominent",
+      "start": 450,
+      "end": 459,
+      "candidates": {
+        "fr": "éminent",
+        "es": "destacado",
+        "zh": "著名的",
+        "ko": "저명한",
+        "ja": "著名な"
+      }
+    },
+    {
+      "index": 57,
+      "word": "field",
+      "start": 460,
+      "end": 465,
+      "candidates": {
+        "fr": "domaine",
+        "es": "campo",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 58,
+      "word": "For",
+      "start": 467,
+      "end": 470,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 59,
+      "word": "instance",
+      "start": 471,
+      "end": 479,
+      "candidates": {
+        "fr": "exemple",
+        "es": "ejemplo",
+        "zh": "实例",
+        "ko": "사례",
+        "ja": "例"
+      }
+    },
+    {
+      "index": 60,
+      "word": "if",
+      "start": 481,
+      "end": 483,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 61,
+      "word": "an",
+      "start": 484,
+      "end": 486,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 62,
+      "word": "abstract",
+      "start": 487,
+      "end": 495,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 63,
+      "word": "discusses",
+      "start": 496,
+      "end": 505,
+      "candidates": {
+        "fr": "aborde",
+        "es": "aborda",
+        "zh": "讨论",
+        "ko": "논의하다",
+        "ja": "論じる"
+      }
+    },
+    {
+      "index": 64,
+      "word": "computational",
+      "start": 506,
+      "end": 519,
+      "candidates": {
+        "fr": "informatique",
+        "es": "computacional",
+        "zh": "计算的",
+        "ko": "계산의",
+        "ja": "計算の"
+      }
+    },
+    {
+      "index": 65,
+      "word": "models",
+      "start": 520,
+      "end": 526,
+      "candidates": {
+        "fr": "modèle",
+        "es": "modelo",
+        "zh": "模型",
+        "ko": "모델",
+        "ja": "モデル"
+      }
+    },
+    {
+      "index": 66,
+      "word": "in",
+      "start": 527,
+      "end": 529,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 67,
+      "word": "biology",
+      "start": 530,
+      "end": 537,
+      "candidates": {
+        "fr": "biologie",
+        "es": "biología",
+        "zh": "生物学",
+        "ko": "생물학",
+        "ja": "生物学"
+      }
+    },
+    {
+      "index": 68,
+      "word": "classify",
+      "start": 539,
+      "end": 547,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 69,
+      "word": "it",
+      "start": 548,
+      "end": 550,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 70,
+      "word": "under",
+      "start": 551,
+      "end": 556,
+      "candidates": {
+        "fr": "sous",
+        "es": "bajo",
+        "zh": "在下方",
+        "ko": "아래에",
+        "ja": "の下に"
+      }
+    },
+    {
+      "index": 71,
+      "word": "Biology",
+      "start": 558,
+      "end": 565,
+      "candidates": {
+        "fr": "biologie",
+        "es": "biología",
+        "zh": "生物学",
+        "ko": "생물학",
+        "ja": "生物学"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Avoid",
+      "start": 568,
+      "end": 573,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 73,
+      "word": "categorizing",
+      "start": 574,
+      "end": 586,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 74,
+      "word": "abstracts",
+      "start": 587,
+      "end": 596,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 75,
+      "word": "on",
+      "start": 597,
+      "end": 599,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 76,
+      "word": "speculation",
+      "start": 600,
+      "end": 611,
+      "candidates": {
+        "fr": "spéculation",
+        "es": "especulación",
+        "zh": "推测",
+        "ko": "추측",
+        "ja": "推測"
+      }
+    },
+    {
+      "index": 77,
+      "word": "or",
+      "start": 612,
+      "end": 614,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 78,
+      "word": "non",
+      "start": 615,
+      "end": 618,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "非",
+        "ko": "비",
+        "ja": "非"
+      }
+    },
+    {
+      "index": 79,
+      "word": "scientific",
+      "start": 619,
+      "end": 629,
+      "candidates": {
+        "fr": "scientifique",
+        "es": "científico",
+        "zh": "科学的",
+        "ko": "과학적인",
+        "ja": "科学的な"
+      }
+    },
+    {
+      "index": 80,
+      "word": "content",
+      "start": 630,
+      "end": 637,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 81,
+      "word": "Respond",
+      "start": 639,
+      "end": 646,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回应",
+        "ko": "응답하다",
+        "ja": "応答する"
+      }
+    },
+    {
+      "index": 82,
+      "word": "with",
+      "start": 647,
+      "end": 651,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 83,
+      "word": "only",
+      "start": 652,
+      "end": 656,
+      "candidates": {
+        "fr": "seulement",
+        "es": "solo",
+        "zh": "仅",
+        "ko": "오직",
+        "ja": "のみ"
+      }
+    },
+    {
+      "index": 84,
+      "word": "the",
+      "start": 657,
+      "end": 660,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 85,
+      "word": "category",
+      "start": 661,
+      "end": 669,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 86,
+      "word": "name",
+      "start": 670,
+      "end": 674,
+      "candidates": {
+        "fr": "nom",
+        "es": "nombre",
+        "zh": "名称",
+        "ko": "이름",
+        "ja": "名前"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Avoid",
+      "start": 677,
+      "end": 682,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 88,
+      "word": "irrelevant",
+      "start": 683,
+      "end": 693,
+      "candidates": {
+        "fr": "non pertinent",
+        "es": "irrelevante",
+        "zh": "不相关的",
+        "ko": "무관한",
+        "ja": "無関係な"
+      }
+    },
+    {
+      "index": 89,
+      "word": "classifications",
+      "start": 694,
+      "end": 709,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 90,
+      "word": "and",
+      "start": 710,
+      "end": 713,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 91,
+      "word": "only",
+      "start": 714,
+      "end": 718,
+      "candidates": {
+        "fr": "seulement",
+        "es": "solo",
+        "zh": "仅",
+        "ko": "오직",
+        "ja": "のみ"
+      }
+    },
+    {
+      "index": 92,
+      "word": "reply",
+      "start": 719,
+      "end": 724,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回复",
+        "ko": "답하다",
+        "ja": "返信する"
+      }
+    },
+    {
+      "index": 93,
+      "word": "with",
+      "start": 725,
+      "end": 729,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 94,
+      "word": "system",
+      "start": 730,
+      "end": 736,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 95,
+      "word": "predefined",
+      "start": 737,
+      "end": 747,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 96,
+      "word": "categories",
+      "start": 748,
+      "end": 758,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    }
+  ]
+}

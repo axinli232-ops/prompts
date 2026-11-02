@@ -1,0 +1,1033 @@
+{
+  "prompt_id": "FC11",
+  "system_prompt": "Assist law enforcement officers in documentation and reporting of incidents using structured data entry techniques. Provide templates for common reports and ensure compliance with protocols. Use direct and professional language. Validate data for accuracy and prompt user only for missing or inappropriate entries. Respond with predefined templates: [Incident Report Form], [Suspect Description Template], [Evidence Log]. Provide guidance as needed. Format all responses as follows:\n\n### Report Templates\n- Incident Summary\n- Suspect Details\n- Evidence Log\n\nEnsure to verify every entry before submission.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Assist",
+      "start": 0,
+      "end": 6,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "law",
+      "start": 7,
+      "end": 10,
+      "candidates": {
+        "fr": "loi",
+        "es": "ley",
+        "zh": "法律",
+        "ko": "법",
+        "ja": "法律"
+      }
+    },
+    {
+      "index": 2,
+      "word": "enforcement",
+      "start": 11,
+      "end": 22,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "执行",
+        "ko": "집행",
+        "ja": "執行"
+      }
+    },
+    {
+      "index": 3,
+      "word": "officers",
+      "start": 23,
+      "end": 31,
+      "candidates": {
+        "fr": "agents",
+        "es": "agentes",
+        "zh": "官员",
+        "ko": "공무원",
+        "ja": "職員"
+      }
+    },
+    {
+      "index": 4,
+      "word": "in",
+      "start": 32,
+      "end": 34,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 5,
+      "word": "documentation",
+      "start": 35,
+      "end": 48,
+      "candidates": {
+        "fr": "documentation",
+        "es": "documentación",
+        "zh": "文档资料",
+        "ko": "문서화",
+        "ja": "文書化"
+      }
+    },
+    {
+      "index": 6,
+      "word": "and",
+      "start": 49,
+      "end": 52,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 7,
+      "word": "reporting",
+      "start": 53,
+      "end": 62,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 8,
+      "word": "of",
+      "start": 63,
+      "end": 65,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 9,
+      "word": "incidents",
+      "start": 66,
+      "end": 75,
+      "candidates": {
+        "fr": "incident",
+        "es": "incidente",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "事案"
+      }
+    },
+    {
+      "index": 10,
+      "word": "using",
+      "start": 76,
+      "end": 81,
+      "candidates": {
+        "fr": "en utilisant",
+        "es": "usando",
+        "zh": "使用",
+        "ko": "사용하여",
+        "ja": "用いて"
+      }
+    },
+    {
+      "index": 11,
+      "word": "structured",
+      "start": 82,
+      "end": 92,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 12,
+      "word": "data",
+      "start": 93,
+      "end": 97,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "entry",
+      "start": 98,
+      "end": 103,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "条目",
+        "ko": "항목",
+        "ja": "項目"
+      }
+    },
+    {
+      "index": 14,
+      "word": "techniques",
+      "start": 104,
+      "end": 114,
+      "candidates": {
+        "fr": "techniques",
+        "es": "técnicas",
+        "zh": "技术",
+        "ko": "기법",
+        "ja": "技法"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Provide",
+      "start": 116,
+      "end": 123,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 16,
+      "word": "templates",
+      "start": 124,
+      "end": 133,
+      "candidates": {
+        "fr": "modèle",
+        "es": "plantilla",
+        "zh": "模板",
+        "ko": "템플릿",
+        "ja": "テンプレート"
+      }
+    },
+    {
+      "index": 17,
+      "word": "for",
+      "start": 134,
+      "end": 137,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 18,
+      "word": "common",
+      "start": 138,
+      "end": 144,
+      "candidates": {
+        "fr": "commun",
+        "es": "común",
+        "zh": "常见的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 19,
+      "word": "reports",
+      "start": 145,
+      "end": 152,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 20,
+      "word": "and",
+      "start": 153,
+      "end": 156,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 21,
+      "word": "ensure",
+      "start": 157,
+      "end": 163,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "compliance",
+      "start": 164,
+      "end": 174,
+      "candidates": {
+        "fr": "conformité",
+        "es": "cumplimiento",
+        "zh": "合规",
+        "ko": "준수",
+        "ja": "遵守"
+      }
+    },
+    {
+      "index": 23,
+      "word": "with",
+      "start": 175,
+      "end": 179,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 24,
+      "word": "protocols",
+      "start": 180,
+      "end": 189,
+      "candidates": {
+        "fr": "protocoles",
+        "es": "protocolos",
+        "zh": "协议",
+        "ko": "프로토콜",
+        "ja": "プロトコル"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Use",
+      "start": 191,
+      "end": 194,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 26,
+      "word": "direct",
+      "start": 195,
+      "end": 201,
+      "candidates": {
+        "fr": "direct",
+        "es": "directo",
+        "zh": "直接的",
+        "ko": "직접적인",
+        "ja": "直接的な"
+      }
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 202,
+      "end": 205,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "professional",
+      "start": 206,
+      "end": 218,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 29,
+      "word": "language",
+      "start": 219,
+      "end": 227,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 30,
+      "word": "Validate",
+      "start": 229,
+      "end": 237,
+      "candidates": {
+        "fr": "valider",
+        "es": "validar",
+        "zh": "验证",
+        "ko": "검증하다",
+        "ja": "検証する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "data",
+      "start": 238,
+      "end": 242,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "for",
+      "start": 243,
+      "end": 246,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 33,
+      "word": "accuracy",
+      "start": 247,
+      "end": 255,
+      "candidates": {
+        "fr": "exactitude",
+        "es": "exactitud",
+        "zh": "准确性",
+        "ko": "정확성",
+        "ja": "正確性"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 256,
+      "end": 259,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "prompt",
+      "start": 260,
+      "end": 266,
+      "candidates": {
+        "fr": "invite",
+        "es": "instrucción",
+        "zh": "提示词",
+        "ko": "프롬프트",
+        "ja": "プロンプト"
+      }
+    },
+    {
+      "index": 36,
+      "word": "user",
+      "start": 267,
+      "end": 271,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 37,
+      "word": "only",
+      "start": 272,
+      "end": 276,
+      "candidates": {
+        "fr": "seulement",
+        "es": "solo",
+        "zh": "仅",
+        "ko": "오직",
+        "ja": "のみ"
+      }
+    },
+    {
+      "index": 38,
+      "word": "for",
+      "start": 277,
+      "end": 280,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 39,
+      "word": "missing",
+      "start": 281,
+      "end": 288,
+      "candidates": {
+        "fr": "manquant",
+        "es": "faltante",
+        "zh": "缺失的",
+        "ko": "누락된",
+        "ja": "欠けている"
+      }
+    },
+    {
+      "index": 40,
+      "word": "or",
+      "start": 289,
+      "end": 291,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 41,
+      "word": "inappropriate",
+      "start": 292,
+      "end": 305,
+      "candidates": {
+        "fr": "inapproprié",
+        "es": "inapropiado",
+        "zh": "不适当的",
+        "ko": "부적절한",
+        "ja": "不適切な"
+      }
+    },
+    {
+      "index": 42,
+      "word": "entries",
+      "start": 306,
+      "end": 313,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "条目",
+        "ko": "항목",
+        "ja": "項目"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Respond",
+      "start": 315,
+      "end": 322,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回应",
+        "ko": "응답하다",
+        "ja": "応答する"
+      }
+    },
+    {
+      "index": 44,
+      "word": "with",
+      "start": 323,
+      "end": 327,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 45,
+      "word": "predefined",
+      "start": 328,
+      "end": 338,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 46,
+      "word": "templates",
+      "start": 339,
+      "end": 348,
+      "candidates": {
+        "fr": "modèle",
+        "es": "plantilla",
+        "zh": "模板",
+        "ko": "템플릿",
+        "ja": "テンプレート"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Incident",
+      "start": 351,
+      "end": 359,
+      "candidates": {
+        "fr": "incident",
+        "es": "incidente",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "事案"
+      }
+    },
+    {
+      "index": 48,
+      "word": "Report",
+      "start": 360,
+      "end": 366,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 49,
+      "word": "Form",
+      "start": 367,
+      "end": 371,
+      "candidates": {
+        "fr": "forme",
+        "es": "forma",
+        "zh": "形式",
+        "ko": "형태",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Suspect",
+      "start": 375,
+      "end": 382,
+      "candidates": {
+        "fr": "soupçonner",
+        "es": "sospechar",
+        "zh": "怀疑",
+        "ko": "의심하다",
+        "ja": "疑う"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Description",
+      "start": 383,
+      "end": 394,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Template",
+      "start": 395,
+      "end": 403,
+      "candidates": {
+        "fr": "modèle",
+        "es": "plantilla",
+        "zh": "模板",
+        "ko": "템플릿",
+        "ja": "テンプレート"
+      }
+    },
+    {
+      "index": 53,
+      "word": "Evidence",
+      "start": 407,
+      "end": 415,
+      "candidates": {
+        "fr": "preuve",
+        "es": "evidencia",
+        "zh": "证据",
+        "ko": "증거",
+        "ja": "証拠"
+      }
+    },
+    {
+      "index": 54,
+      "word": "Log",
+      "start": 416,
+      "end": 419,
+      "candidates": {
+        "fr": "journal",
+        "es": "registro",
+        "zh": "日志",
+        "ko": "로그",
+        "ja": "ログ"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Provide",
+      "start": 422,
+      "end": 429,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 56,
+      "word": "guidance",
+      "start": 430,
+      "end": 438,
+      "candidates": {
+        "fr": "conseils",
+        "es": "orientación",
+        "zh": "指导",
+        "ko": "지도",
+        "ja": "指導"
+      }
+    },
+    {
+      "index": 57,
+      "word": "as",
+      "start": 439,
+      "end": 441,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 58,
+      "word": "needed",
+      "start": 442,
+      "end": 448,
+      "candidates": {
+        "fr": "besoin",
+        "es": "necesidad",
+        "zh": "需要",
+        "ko": "필요",
+        "ja": "必要"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Format",
+      "start": 450,
+      "end": 456,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 60,
+      "word": "all",
+      "start": 457,
+      "end": 460,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 61,
+      "word": "responses",
+      "start": 461,
+      "end": 470,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 62,
+      "word": "as",
+      "start": 471,
+      "end": 473,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 63,
+      "word": "follows",
+      "start": 474,
+      "end": 481,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 64,
+      "word": "Report",
+      "start": 488,
+      "end": 494,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 65,
+      "word": "Templates",
+      "start": 495,
+      "end": 504,
+      "candidates": {
+        "fr": "modèle",
+        "es": "plantilla",
+        "zh": "模板",
+        "ko": "템플릿",
+        "ja": "テンプレート"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Incident",
+      "start": 507,
+      "end": 515,
+      "candidates": {
+        "fr": "incident",
+        "es": "incidente",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "事案"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Summary",
+      "start": 516,
+      "end": 523,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 68,
+      "word": "Suspect",
+      "start": 526,
+      "end": 533,
+      "candidates": {
+        "fr": "soupçonner",
+        "es": "sospechar",
+        "zh": "怀疑",
+        "ko": "의심하다",
+        "ja": "疑う"
+      }
+    },
+    {
+      "index": 69,
+      "word": "Details",
+      "start": 534,
+      "end": 541,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 70,
+      "word": "Evidence",
+      "start": 544,
+      "end": 552,
+      "candidates": {
+        "fr": "preuve",
+        "es": "evidencia",
+        "zh": "证据",
+        "ko": "증거",
+        "ja": "証拠"
+      }
+    },
+    {
+      "index": 71,
+      "word": "Log",
+      "start": 553,
+      "end": 556,
+      "candidates": {
+        "fr": "journal",
+        "es": "registro",
+        "zh": "日志",
+        "ko": "로그",
+        "ja": "ログ"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Ensure",
+      "start": 558,
+      "end": 564,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 73,
+      "word": "to",
+      "start": 565,
+      "end": 567,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 74,
+      "word": "verify",
+      "start": 568,
+      "end": 574,
+      "candidates": {
+        "fr": "vérifier",
+        "es": "verificar",
+        "zh": "核实",
+        "ko": "확인하다",
+        "ja": "確認する"
+      }
+    },
+    {
+      "index": 75,
+      "word": "every",
+      "start": 575,
+      "end": 580,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每一个",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 76,
+      "word": "entry",
+      "start": 581,
+      "end": 586,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "条目",
+        "ko": "항목",
+        "ja": "項目"
+      }
+    },
+    {
+      "index": 77,
+      "word": "before",
+      "start": 587,
+      "end": 593,
+      "candidates": {
+        "fr": "avant",
+        "es": "antes de",
+        "zh": "之前",
+        "ko": "전에",
+        "ja": "前に"
+      }
+    },
+    {
+      "index": 78,
+      "word": "submission",
+      "start": 594,
+      "end": 604,
+      "candidates": {
+        "fr": "soumission",
+        "es": "envío",
+        "zh": "提交",
+        "ko": "제출",
+        "ja": "提出"
+      }
+    }
+  ]
+}

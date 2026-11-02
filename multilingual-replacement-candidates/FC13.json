@@ -1,0 +1,2658 @@
+{
+  "prompt_id": "FC13",
+  "system_prompt": "### Legal Consultation Assistant\n\nYou are tasked with providing general legal guidance and information to users seeking assistance on personal legal matters. While you do not offer specific legal advice, you can direct users on where to find additional resources or how to understand legal terminology. Ensure your tone remains professional and instructive.\n\n**Interaction Guidelines:**\n- Request key details related to the user's legal issue to provide the most relevant insights.\n- Provide clear explanations of legal terms and processes without heavy jargon.\n- Always recommend consulting a licensed attorney for specific legal advice.\n- Offer suggestions for self-help legal resources if applicable.\n- Do not engage in forming legal opinions or interpretations of statutes.\n\n**Structure for Responses:**\n- Start with a friendly greeting, acknowledging the user.\n- Present information in bullet-point format for easy reading.\n- End by encouraging the user to seek further consultation from legal professionals.\n\n**Examples of Legal Topics for Discussion:**\n- Understanding basic rental agreements.\n- The process for contesting a traffic ticket.\n- Overview of family law matters (divorce, custody).\n- Legal requirements for starting a business.\n- Small claims court procedures.\n\n**Prohibitions:**\n- Avoid engaging in political discussions or legal system critiques.\n- Do not provide explicit interpretations or applications of specific laws.\n- Avoid debates about controversial legal cases or scenarios.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Legal",
+      "start": 4,
+      "end": 9,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Consultation",
+      "start": 10,
+      "end": 22,
+      "candidates": {
+        "fr": "consultation",
+        "es": "consulta",
+        "zh": "咨询",
+        "ko": "상담",
+        "ja": "相談"
+      }
+    },
+    {
+      "index": 2,
+      "word": "Assistant",
+      "start": 23,
+      "end": 32,
+      "candidates": {
+        "fr": "assistant",
+        "es": "asistente",
+        "zh": "助手",
+        "ko": "보조자",
+        "ja": "アシスタント"
+      }
+    },
+    {
+      "index": 3,
+      "word": "You",
+      "start": 34,
+      "end": 37,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 4,
+      "word": "are",
+      "start": 38,
+      "end": 41,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 5,
+      "word": "tasked",
+      "start": 42,
+      "end": 48,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 6,
+      "word": "with",
+      "start": 49,
+      "end": 53,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 7,
+      "word": "providing",
+      "start": 54,
+      "end": 63,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "general",
+      "start": 64,
+      "end": 71,
+      "candidates": {
+        "fr": "général",
+        "es": "general",
+        "zh": "一般的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 9,
+      "word": "legal",
+      "start": 72,
+      "end": 77,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 10,
+      "word": "guidance",
+      "start": 78,
+      "end": 86,
+      "candidates": {
+        "fr": "conseils",
+        "es": "orientación",
+        "zh": "指导",
+        "ko": "지도",
+        "ja": "指導"
+      }
+    },
+    {
+      "index": 11,
+      "word": "and",
+      "start": 87,
+      "end": 90,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 12,
+      "word": "information",
+      "start": 91,
+      "end": 102,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 13,
+      "word": "to",
+      "start": 103,
+      "end": 105,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 14,
+      "word": "users",
+      "start": 106,
+      "end": 111,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 15,
+      "word": "seeking",
+      "start": 112,
+      "end": 119,
+      "candidates": {
+        "fr": "chercher",
+        "es": "buscar",
+        "zh": "寻求",
+        "ko": "찾다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 16,
+      "word": "assistance",
+      "start": 120,
+      "end": 130,
+      "candidates": {
+        "fr": "assistance",
+        "es": "asistencia",
+        "zh": "协助",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 17,
+      "word": "on",
+      "start": 131,
+      "end": 133,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "personal",
+      "start": 134,
+      "end": 142,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 19,
+      "word": "legal",
+      "start": 143,
+      "end": 148,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 20,
+      "word": "matters",
+      "start": 149,
+      "end": 156,
+      "candidates": {
+        "fr": "sujet",
+        "es": "asunto",
+        "zh": "事项",
+        "ko": "사안",
+        "ja": "事柄"
+      }
+    },
+    {
+      "index": 21,
+      "word": "While",
+      "start": 158,
+      "end": 163,
+      "candidates": {
+        "fr": "pendant que",
+        "es": "mientras",
+        "zh": "当时",
+        "ko": "동안",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 22,
+      "word": "you",
+      "start": 164,
+      "end": 167,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 23,
+      "word": "do",
+      "start": 168,
+      "end": 170,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 24,
+      "word": "not",
+      "start": 171,
+      "end": 174,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 25,
+      "word": "offer",
+      "start": 175,
+      "end": 180,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 26,
+      "word": "specific",
+      "start": 181,
+      "end": 189,
+      "candidates": {
+        "fr": "spécifique",
+        "es": "específico",
+        "zh": "特定的",
+        "ko": "특정한",
+        "ja": "特定の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "legal",
+      "start": 190,
+      "end": 195,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 28,
+      "word": "advice",
+      "start": 196,
+      "end": 202,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 29,
+      "word": "you",
+      "start": 204,
+      "end": 207,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 30,
+      "word": "can",
+      "start": 208,
+      "end": 211,
+      "candidates": {
+        "fr": "pouvoir",
+        "es": "poder",
+        "zh": "能够",
+        "ko": "할 수 있다",
+        "ja": "できる"
+      }
+    },
+    {
+      "index": 31,
+      "word": "direct",
+      "start": 212,
+      "end": 218,
+      "candidates": {
+        "fr": "direct",
+        "es": "directo",
+        "zh": "直接的",
+        "ko": "직접적인",
+        "ja": "直接的な"
+      }
+    },
+    {
+      "index": 32,
+      "word": "users",
+      "start": 219,
+      "end": 224,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 33,
+      "word": "on",
+      "start": 225,
+      "end": 227,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 34,
+      "word": "where",
+      "start": 228,
+      "end": 233,
+      "candidates": {
+        "fr": "où",
+        "es": "dónde",
+        "zh": "哪里",
+        "ko": "어디",
+        "ja": "どこ"
+      }
+    },
+    {
+      "index": 35,
+      "word": "to",
+      "start": 234,
+      "end": 236,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 36,
+      "word": "find",
+      "start": 237,
+      "end": 241,
+      "candidates": {
+        "fr": "trouver",
+        "es": "encontrar",
+        "zh": "找到",
+        "ko": "찾다",
+        "ja": "見つける"
+      }
+    },
+    {
+      "index": 37,
+      "word": "additional",
+      "start": 242,
+      "end": 252,
+      "candidates": {
+        "fr": "supplémentaire",
+        "es": "adicional",
+        "zh": "额外的",
+        "ko": "추가적인",
+        "ja": "追加の"
+      }
+    },
+    {
+      "index": 38,
+      "word": "resources",
+      "start": 253,
+      "end": 262,
+      "candidates": {
+        "fr": "ressource",
+        "es": "recurso",
+        "zh": "资源",
+        "ko": "자원",
+        "ja": "資源"
+      }
+    },
+    {
+      "index": 39,
+      "word": "or",
+      "start": 263,
+      "end": 265,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 40,
+      "word": "how",
+      "start": 266,
+      "end": 269,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 41,
+      "word": "to",
+      "start": 270,
+      "end": 272,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 42,
+      "word": "understand",
+      "start": 273,
+      "end": 283,
+      "candidates": {
+        "fr": "comprendre",
+        "es": "entender",
+        "zh": "理解",
+        "ko": "이해하다",
+        "ja": "理解する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "legal",
+      "start": 284,
+      "end": 289,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "terminology",
+      "start": 290,
+      "end": 301,
+      "candidates": {
+        "fr": "terminologie",
+        "es": "terminología",
+        "zh": "术语体系",
+        "ko": "전문 용어",
+        "ja": "専門用語"
+      }
+    },
+    {
+      "index": 45,
+      "word": "Ensure",
+      "start": 303,
+      "end": 309,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 46,
+      "word": "your",
+      "start": 310,
+      "end": 314,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 47,
+      "word": "tone",
+      "start": 315,
+      "end": 319,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 48,
+      "word": "remains",
+      "start": 320,
+      "end": 327,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 49,
+      "word": "professional",
+      "start": 328,
+      "end": 340,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 50,
+      "word": "and",
+      "start": 341,
+      "end": 344,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 51,
+      "word": "instructive",
+      "start": 345,
+      "end": 356,
+      "candidates": {
+        "fr": "instructif",
+        "es": "instructivo",
+        "zh": "有教育意义的",
+        "ko": "교훈적인",
+        "ja": "示唆に富む"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Interaction",
+      "start": 361,
+      "end": 372,
+      "candidates": {
+        "fr": "interaction",
+        "es": "interacción",
+        "zh": "交互",
+        "ko": "상호작용",
+        "ja": "相互作用"
+      }
+    },
+    {
+      "index": 53,
+      "word": "Guidelines",
+      "start": 373,
+      "end": 383,
+      "candidates": {
+        "fr": "directives",
+        "es": "directrices",
+        "zh": "指南",
+        "ko": "지침",
+        "ja": "指針"
+      }
+    },
+    {
+      "index": 54,
+      "word": "Request",
+      "start": 389,
+      "end": 396,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 55,
+      "word": "key",
+      "start": 397,
+      "end": 400,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 56,
+      "word": "details",
+      "start": 401,
+      "end": 408,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 57,
+      "word": "related",
+      "start": 409,
+      "end": 416,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 58,
+      "word": "to",
+      "start": 417,
+      "end": 419,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 59,
+      "word": "the",
+      "start": 420,
+      "end": 423,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 60,
+      "word": "user's",
+      "start": 424,
+      "end": 430,
+      "candidates": {
+        "fr": "de l’utilisateur",
+        "es": "del usuario",
+        "zh": "用户的",
+        "ko": "사용자의",
+        "ja": "ユーザーの"
+      }
+    },
+    {
+      "index": 61,
+      "word": "legal",
+      "start": 431,
+      "end": 436,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 62,
+      "word": "issue",
+      "start": 437,
+      "end": 442,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 63,
+      "word": "to",
+      "start": 443,
+      "end": 445,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 64,
+      "word": "provide",
+      "start": 446,
+      "end": 453,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 65,
+      "word": "the",
+      "start": 454,
+      "end": 457,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 66,
+      "word": "most",
+      "start": 458,
+      "end": 462,
+      "candidates": {
+        "fr": "le plus",
+        "es": "la mayoría",
+        "zh": "最多",
+        "ko": "가장 많은",
+        "ja": "最も多くの"
+      }
+    },
+    {
+      "index": 67,
+      "word": "relevant",
+      "start": 463,
+      "end": 471,
+      "candidates": {
+        "fr": "pertinent",
+        "es": "relevante",
+        "zh": "相关的",
+        "ko": "관련된",
+        "ja": "関連する"
+      }
+    },
+    {
+      "index": 68,
+      "word": "insights",
+      "start": 472,
+      "end": 480,
+      "candidates": {
+        "fr": "aperçu",
+        "es": "perspectiva",
+        "zh": "洞见",
+        "ko": "통찰",
+        "ja": "洞察"
+      }
+    },
+    {
+      "index": 69,
+      "word": "Provide",
+      "start": 484,
+      "end": 491,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 70,
+      "word": "clear",
+      "start": 492,
+      "end": 497,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 71,
+      "word": "explanations",
+      "start": 498,
+      "end": 510,
+      "candidates": {
+        "fr": "explication",
+        "es": "explicación",
+        "zh": "解释",
+        "ko": "설명",
+        "ja": "説明"
+      }
+    },
+    {
+      "index": 72,
+      "word": "of",
+      "start": 511,
+      "end": 513,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 73,
+      "word": "legal",
+      "start": 514,
+      "end": 519,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 74,
+      "word": "terms",
+      "start": 520,
+      "end": 525,
+      "candidates": {
+        "fr": "terme",
+        "es": "término",
+        "zh": "术语",
+        "ko": "용어",
+        "ja": "用語"
+      }
+    },
+    {
+      "index": 75,
+      "word": "and",
+      "start": 526,
+      "end": 529,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 76,
+      "word": "processes",
+      "start": 530,
+      "end": 539,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 77,
+      "word": "without",
+      "start": 540,
+      "end": 547,
+      "candidates": {
+        "fr": "sans",
+        "es": "sin",
+        "zh": "没有",
+        "ko": "없이",
+        "ja": "なしで"
+      }
+    },
+    {
+      "index": 78,
+      "word": "heavy",
+      "start": 548,
+      "end": 553,
+      "candidates": {
+        "fr": "lourd",
+        "es": "pesado",
+        "zh": "大量的",
+        "ko": "많은",
+        "ja": "大量の"
+      }
+    },
+    {
+      "index": 79,
+      "word": "jargon",
+      "start": 554,
+      "end": 560,
+      "candidates": {
+        "fr": "jargon",
+        "es": "jerga",
+        "zh": "术语",
+        "ko": "전문 용어",
+        "ja": "専門用語"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Always",
+      "start": 564,
+      "end": 570,
+      "candidates": {
+        "fr": "toujours",
+        "es": "siempre",
+        "zh": "始终",
+        "ko": "항상",
+        "ja": "常に"
+      }
+    },
+    {
+      "index": 81,
+      "word": "recommend",
+      "start": 571,
+      "end": 580,
+      "candidates": {
+        "fr": "recommander",
+        "es": "recomendar",
+        "zh": "推荐",
+        "ko": "추천하다",
+        "ja": "推薦する"
+      }
+    },
+    {
+      "index": 82,
+      "word": "consulting",
+      "start": 581,
+      "end": 591,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consultoría",
+        "zh": "咨询",
+        "ko": "컨설팅",
+        "ja": "コンサルティング"
+      }
+    },
+    {
+      "index": 83,
+      "word": "a",
+      "start": 592,
+      "end": 593,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 84,
+      "word": "licensed",
+      "start": 594,
+      "end": 602,
+      "candidates": {
+        "fr": "agréé",
+        "es": "autorizado",
+        "zh": "持证的",
+        "ko": "면허가 있는",
+        "ja": "資格を持つ"
+      }
+    },
+    {
+      "index": 85,
+      "word": "attorney",
+      "start": 603,
+      "end": 611,
+      "candidates": {
+        "fr": "avocat",
+        "es": "abogado",
+        "zh": "律师",
+        "ko": "변호사",
+        "ja": "弁護士"
+      }
+    },
+    {
+      "index": 86,
+      "word": "for",
+      "start": 612,
+      "end": 615,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 87,
+      "word": "specific",
+      "start": 616,
+      "end": 624,
+      "candidates": {
+        "fr": "spécifique",
+        "es": "específico",
+        "zh": "特定的",
+        "ko": "특정한",
+        "ja": "特定の"
+      }
+    },
+    {
+      "index": 88,
+      "word": "legal",
+      "start": 625,
+      "end": 630,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 89,
+      "word": "advice",
+      "start": 631,
+      "end": 637,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 90,
+      "word": "Offer",
+      "start": 641,
+      "end": 646,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 91,
+      "word": "suggestions",
+      "start": 647,
+      "end": 658,
+      "candidates": {
+        "fr": "suggestions",
+        "es": "sugerencias",
+        "zh": "建议",
+        "ko": "제안",
+        "ja": "提案"
+      }
+    },
+    {
+      "index": 92,
+      "word": "for",
+      "start": 659,
+      "end": 662,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 93,
+      "word": "self",
+      "start": 663,
+      "end": 667,
+      "candidates": {
+        "fr": "soi",
+        "es": "uno mismo",
+        "zh": "自身",
+        "ko": "자신",
+        "ja": "自己"
+      }
+    },
+    {
+      "index": 94,
+      "word": "help",
+      "start": 668,
+      "end": 672,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 95,
+      "word": "legal",
+      "start": 673,
+      "end": 678,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 96,
+      "word": "resources",
+      "start": 679,
+      "end": 688,
+      "candidates": {
+        "fr": "ressource",
+        "es": "recurso",
+        "zh": "资源",
+        "ko": "자원",
+        "ja": "資源"
+      }
+    },
+    {
+      "index": 97,
+      "word": "if",
+      "start": 689,
+      "end": 691,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 98,
+      "word": "applicable",
+      "start": 692,
+      "end": 702,
+      "candidates": {
+        "fr": "applicable",
+        "es": "aplicable",
+        "zh": "适用的",
+        "ko": "적용 가능한",
+        "ja": "適用可能な"
+      }
+    },
+    {
+      "index": 99,
+      "word": "Do",
+      "start": 706,
+      "end": 708,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 100,
+      "word": "not",
+      "start": 709,
+      "end": 712,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 101,
+      "word": "engage",
+      "start": 713,
+      "end": 719,
+      "candidates": {
+        "fr": "mobiliser",
+        "es": "involucrar",
+        "zh": "吸引参与",
+        "ko": "참여시키다",
+        "ja": "引き込む"
+      }
+    },
+    {
+      "index": 102,
+      "word": "in",
+      "start": 720,
+      "end": 722,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 103,
+      "word": "forming",
+      "start": 723,
+      "end": 730,
+      "candidates": {
+        "fr": "forme",
+        "es": "forma",
+        "zh": "形式",
+        "ko": "형태",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 104,
+      "word": "legal",
+      "start": 731,
+      "end": 736,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 105,
+      "word": "opinions",
+      "start": 737,
+      "end": 745,
+      "candidates": {
+        "fr": "opinion",
+        "es": "opinión",
+        "zh": "观点",
+        "ko": "의견",
+        "ja": "意見"
+      }
+    },
+    {
+      "index": 106,
+      "word": "or",
+      "start": 746,
+      "end": 748,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 107,
+      "word": "interpretations",
+      "start": 749,
+      "end": 764,
+      "candidates": {
+        "fr": "interprétation",
+        "es": "interpretación",
+        "zh": "解释",
+        "ko": "해석",
+        "ja": "解釈"
+      }
+    },
+    {
+      "index": 108,
+      "word": "of",
+      "start": 765,
+      "end": 767,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 109,
+      "word": "statutes",
+      "start": 768,
+      "end": 776,
+      "candidates": {
+        "fr": "lois",
+        "es": "estatutos",
+        "zh": "法规",
+        "ko": "법령",
+        "ja": "法令"
+      }
+    },
+    {
+      "index": 110,
+      "word": "Structure",
+      "start": 781,
+      "end": 790,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 111,
+      "word": "for",
+      "start": 791,
+      "end": 794,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 112,
+      "word": "Responses",
+      "start": 795,
+      "end": 804,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 113,
+      "word": "Start",
+      "start": 810,
+      "end": 815,
+      "candidates": {
+        "fr": "commencer",
+        "es": "empezar",
+        "zh": "开始",
+        "ko": "시작하다",
+        "ja": "開始する"
+      }
+    },
+    {
+      "index": 114,
+      "word": "with",
+      "start": 816,
+      "end": 820,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 115,
+      "word": "a",
+      "start": 821,
+      "end": 822,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 116,
+      "word": "friendly",
+      "start": 823,
+      "end": 831,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 117,
+      "word": "greeting",
+      "start": 832,
+      "end": 840,
+      "candidates": {
+        "fr": "salutation",
+        "es": "saludo",
+        "zh": "问候",
+        "ko": "인사",
+        "ja": "挨拶"
+      }
+    },
+    {
+      "index": 118,
+      "word": "acknowledging",
+      "start": 842,
+      "end": 855,
+      "candidates": {
+        "fr": "reconnaissant",
+        "es": "reconociendo",
+        "zh": "承认",
+        "ko": "인정하며",
+        "ja": "認めて"
+      }
+    },
+    {
+      "index": 119,
+      "word": "the",
+      "start": 856,
+      "end": 859,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 120,
+      "word": "user",
+      "start": 860,
+      "end": 864,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 121,
+      "word": "Present",
+      "start": 868,
+      "end": 875,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 122,
+      "word": "information",
+      "start": 876,
+      "end": 887,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 123,
+      "word": "in",
+      "start": 888,
+      "end": 890,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 124,
+      "word": "bullet",
+      "start": 891,
+      "end": 897,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 125,
+      "word": "point",
+      "start": 898,
+      "end": 903,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 126,
+      "word": "format",
+      "start": 904,
+      "end": 910,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 127,
+      "word": "for",
+      "start": 911,
+      "end": 914,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 128,
+      "word": "easy",
+      "start": 915,
+      "end": 919,
+      "candidates": {
+        "fr": "facile",
+        "es": "fácil",
+        "zh": "容易的",
+        "ko": "쉬운",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 129,
+      "word": "reading",
+      "start": 920,
+      "end": 927,
+      "candidates": {
+        "fr": "lire",
+        "es": "leer",
+        "zh": "阅读",
+        "ko": "읽다",
+        "ja": "読む"
+      }
+    },
+    {
+      "index": 130,
+      "word": "End",
+      "start": 931,
+      "end": 934,
+      "candidates": {
+        "fr": "fin",
+        "es": "fin",
+        "zh": "结尾",
+        "ko": "끝",
+        "ja": "終わり"
+      }
+    },
+    {
+      "index": 131,
+      "word": "by",
+      "start": 935,
+      "end": 937,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 132,
+      "word": "encouraging",
+      "start": 938,
+      "end": 949,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 133,
+      "word": "the",
+      "start": 950,
+      "end": 953,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 134,
+      "word": "user",
+      "start": 954,
+      "end": 958,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 135,
+      "word": "to",
+      "start": 959,
+      "end": 961,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 136,
+      "word": "seek",
+      "start": 962,
+      "end": 966,
+      "candidates": {
+        "fr": "chercher",
+        "es": "buscar",
+        "zh": "寻求",
+        "ko": "찾다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 137,
+      "word": "further",
+      "start": 967,
+      "end": 974,
+      "candidates": {
+        "fr": "supplémentaire",
+        "es": "adicional",
+        "zh": "进一步的",
+        "ko": "추가적인",
+        "ja": "さらなる"
+      }
+    },
+    {
+      "index": 138,
+      "word": "consultation",
+      "start": 975,
+      "end": 987,
+      "candidates": {
+        "fr": "consultation",
+        "es": "consulta",
+        "zh": "咨询",
+        "ko": "상담",
+        "ja": "相談"
+      }
+    },
+    {
+      "index": 139,
+      "word": "from",
+      "start": 988,
+      "end": 992,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 140,
+      "word": "legal",
+      "start": 993,
+      "end": 998,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 141,
+      "word": "professionals",
+      "start": 999,
+      "end": 1012,
+      "candidates": {
+        "fr": "professionnels",
+        "es": "profesionales",
+        "zh": "专业人士",
+        "ko": "전문가",
+        "ja": "専門家"
+      }
+    },
+    {
+      "index": 142,
+      "word": "Examples",
+      "start": 1017,
+      "end": 1025,
+      "candidates": {
+        "fr": "exemple",
+        "es": "ejemplo",
+        "zh": "示例",
+        "ko": "예시",
+        "ja": "例"
+      }
+    },
+    {
+      "index": 143,
+      "word": "of",
+      "start": 1026,
+      "end": 1028,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 144,
+      "word": "Legal",
+      "start": 1029,
+      "end": 1034,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 145,
+      "word": "Topics",
+      "start": 1035,
+      "end": 1041,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "话题",
+        "ko": "주제",
+        "ja": "話題"
+      }
+    },
+    {
+      "index": 146,
+      "word": "for",
+      "start": 1042,
+      "end": 1045,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 147,
+      "word": "Discussion",
+      "start": 1046,
+      "end": 1056,
+      "candidates": {
+        "fr": "discussion",
+        "es": "discusión",
+        "zh": "讨论",
+        "ko": "논의",
+        "ja": "議論"
+      }
+    },
+    {
+      "index": 148,
+      "word": "Understanding",
+      "start": 1062,
+      "end": 1075,
+      "candidates": {
+        "fr": "compréhension",
+        "es": "comprensión",
+        "zh": "理解",
+        "ko": "이해",
+        "ja": "理解"
+      }
+    },
+    {
+      "index": 149,
+      "word": "basic",
+      "start": 1076,
+      "end": 1081,
+      "candidates": {
+        "fr": "élémentaire",
+        "es": "básico",
+        "zh": "基本的",
+        "ko": "기본적인",
+        "ja": "基本的な"
+      }
+    },
+    {
+      "index": 150,
+      "word": "rental",
+      "start": 1082,
+      "end": 1088,
+      "candidates": {
+        "fr": "location",
+        "es": "alquiler",
+        "zh": "租赁",
+        "ko": "임대",
+        "ja": "賃貸"
+      }
+    },
+    {
+      "index": 151,
+      "word": "agreements",
+      "start": 1089,
+      "end": 1099,
+      "candidates": {
+        "fr": "accords",
+        "es": "acuerdos",
+        "zh": "协议",
+        "ko": "합의",
+        "ja": "合意"
+      }
+    },
+    {
+      "index": 152,
+      "word": "The",
+      "start": 1103,
+      "end": 1106,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 153,
+      "word": "process",
+      "start": 1107,
+      "end": 1114,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 154,
+      "word": "for",
+      "start": 1115,
+      "end": 1118,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 155,
+      "word": "contesting",
+      "start": 1119,
+      "end": 1129,
+      "candidates": {
+        "fr": "contestation",
+        "es": "impugnación",
+        "zh": "质疑",
+        "ko": "이의 제기",
+        "ja": "異議申し立て"
+      }
+    },
+    {
+      "index": 156,
+      "word": "a",
+      "start": 1130,
+      "end": 1131,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 157,
+      "word": "traffic",
+      "start": 1132,
+      "end": 1139,
+      "candidates": {
+        "fr": "circulation",
+        "es": "tráfico",
+        "zh": "交通",
+        "ko": "교통",
+        "ja": "交通"
+      }
+    },
+    {
+      "index": 158,
+      "word": "ticket",
+      "start": 1140,
+      "end": 1146,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 159,
+      "word": "Overview",
+      "start": 1150,
+      "end": 1158,
+      "candidates": {
+        "fr": "vue d’ensemble",
+        "es": "visión general",
+        "zh": "概览",
+        "ko": "개요",
+        "ja": "概要"
+      }
+    },
+    {
+      "index": 160,
+      "word": "of",
+      "start": 1159,
+      "end": 1161,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 161,
+      "word": "family",
+      "start": 1162,
+      "end": 1168,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 162,
+      "word": "law",
+      "start": 1169,
+      "end": 1172,
+      "candidates": {
+        "fr": "loi",
+        "es": "ley",
+        "zh": "法律",
+        "ko": "법",
+        "ja": "法律"
+      }
+    },
+    {
+      "index": 163,
+      "word": "matters",
+      "start": 1173,
+      "end": 1180,
+      "candidates": {
+        "fr": "sujet",
+        "es": "asunto",
+        "zh": "事项",
+        "ko": "사안",
+        "ja": "事柄"
+      }
+    },
+    {
+      "index": 164,
+      "word": "divorce",
+      "start": 1182,
+      "end": 1189,
+      "candidates": {
+        "fr": "divorce",
+        "es": "divorcio",
+        "zh": "离婚",
+        "ko": "이혼",
+        "ja": "離婚"
+      }
+    },
+    {
+      "index": 165,
+      "word": "custody",
+      "start": 1191,
+      "end": 1198,
+      "candidates": {
+        "fr": "garde",
+        "es": "custodia",
+        "zh": "监护权",
+        "ko": "양육권",
+        "ja": "親権"
+      }
+    },
+    {
+      "index": 166,
+      "word": "Legal",
+      "start": 1203,
+      "end": 1208,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 167,
+      "word": "requirements",
+      "start": 1209,
+      "end": 1221,
+      "candidates": {
+        "fr": "exigences",
+        "es": "requisitos",
+        "zh": "要求",
+        "ko": "요구사항",
+        "ja": "要件"
+      }
+    },
+    {
+      "index": 168,
+      "word": "for",
+      "start": 1222,
+      "end": 1225,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 169,
+      "word": "starting",
+      "start": 1226,
+      "end": 1234,
+      "candidates": {
+        "fr": "commencer",
+        "es": "empezar",
+        "zh": "开始",
+        "ko": "시작하다",
+        "ja": "開始する"
+      }
+    },
+    {
+      "index": 170,
+      "word": "a",
+      "start": 1235,
+      "end": 1236,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 171,
+      "word": "business",
+      "start": 1237,
+      "end": 1245,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 172,
+      "word": "Small",
+      "start": 1249,
+      "end": 1254,
+      "candidates": {
+        "fr": "petit",
+        "es": "pequeño",
+        "zh": "小的",
+        "ko": "작은",
+        "ja": "小さい"
+      }
+    },
+    {
+      "index": 173,
+      "word": "claims",
+      "start": 1255,
+      "end": 1261,
+      "candidates": {
+        "fr": "affirmations",
+        "es": "afirmaciones",
+        "zh": "主张",
+        "ko": "주장",
+        "ja": "主張"
+      }
+    },
+    {
+      "index": 174,
+      "word": "court",
+      "start": 1262,
+      "end": 1267,
+      "candidates": {
+        "fr": "tribunal",
+        "es": "tribunal",
+        "zh": "法院",
+        "ko": "법원",
+        "ja": "裁判所"
+      }
+    },
+    {
+      "index": 175,
+      "word": "procedures",
+      "start": 1268,
+      "end": 1278,
+      "candidates": {
+        "fr": "procédures",
+        "es": "procedimientos",
+        "zh": "程序",
+        "ko": "절차",
+        "ja": "手順"
+      }
+    },
+    {
+      "index": 176,
+      "word": "Prohibitions",
+      "start": 1283,
+      "end": 1295,
+      "candidates": {
+        "fr": "interdictions",
+        "es": "prohibiciones",
+        "zh": "禁令",
+        "ko": "금지사항",
+        "ja": "禁止事項"
+      }
+    },
+    {
+      "index": 177,
+      "word": "Avoid",
+      "start": 1301,
+      "end": 1306,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 178,
+      "word": "engaging",
+      "start": 1307,
+      "end": 1315,
+      "candidates": {
+        "fr": "captivant",
+        "es": "atractivo",
+        "zh": "引人入胜的",
+        "ko": "흥미로운",
+        "ja": "魅力的な"
+      }
+    },
+    {
+      "index": 179,
+      "word": "in",
+      "start": 1316,
+      "end": 1318,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 180,
+      "word": "political",
+      "start": 1319,
+      "end": 1328,
+      "candidates": {
+        "fr": "politique",
+        "es": "político",
+        "zh": "政治的",
+        "ko": "정치적인",
+        "ja": "政治的な"
+      }
+    },
+    {
+      "index": 181,
+      "word": "discussions",
+      "start": 1329,
+      "end": 1340,
+      "candidates": {
+        "fr": "discussion",
+        "es": "discusión",
+        "zh": "讨论",
+        "ko": "논의",
+        "ja": "議論"
+      }
+    },
+    {
+      "index": 182,
+      "word": "or",
+      "start": 1341,
+      "end": 1343,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 183,
+      "word": "legal",
+      "start": 1344,
+      "end": 1349,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 184,
+      "word": "system",
+      "start": 1350,
+      "end": 1356,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 185,
+      "word": "critiques",
+      "start": 1357,
+      "end": 1366,
+      "candidates": {
+        "fr": "critiques",
+        "es": "críticas",
+        "zh": "评论",
+        "ko": "비평",
+        "ja": "批評"
+      }
+    },
+    {
+      "index": 186,
+      "word": "Do",
+      "start": 1370,
+      "end": 1372,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 187,
+      "word": "not",
+      "start": 1373,
+      "end": 1376,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 188,
+      "word": "provide",
+      "start": 1377,
+      "end": 1384,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 189,
+      "word": "explicit",
+      "start": 1385,
+      "end": 1393,
+      "candidates": {
+        "fr": "explicite",
+        "es": "explícito",
+        "zh": "明确的",
+        "ko": "명시적인",
+        "ja": "明示的な"
+      }
+    },
+    {
+      "index": 190,
+      "word": "interpretations",
+      "start": 1394,
+      "end": 1409,
+      "candidates": {
+        "fr": "interprétation",
+        "es": "interpretación",
+        "zh": "解释",
+        "ko": "해석",
+        "ja": "解釈"
+      }
+    },
+    {
+      "index": 191,
+      "word": "or",
+      "start": 1410,
+      "end": 1412,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 192,
+      "word": "applications",
+      "start": 1413,
+      "end": 1425,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "응용",
+        "ja": "応用"
+      }
+    },
+    {
+      "index": 193,
+      "word": "of",
+      "start": 1426,
+      "end": 1428,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 194,
+      "word": "specific",
+      "start": 1429,
+      "end": 1437,
+      "candidates": {
+        "fr": "spécifique",
+        "es": "específico",
+        "zh": "特定的",
+        "ko": "특정한",
+        "ja": "特定の"
+      }
+    },
+    {
+      "index": 195,
+      "word": "laws",
+      "start": 1438,
+      "end": 1442,
+      "candidates": {
+        "fr": "loi",
+        "es": "ley",
+        "zh": "法律",
+        "ko": "법",
+        "ja": "法律"
+      }
+    },
+    {
+      "index": 196,
+      "word": "Avoid",
+      "start": 1446,
+      "end": 1451,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 197,
+      "word": "debates",
+      "start": 1452,
+      "end": 1459,
+      "candidates": {
+        "fr": "débats",
+        "es": "debates",
+        "zh": "辩论",
+        "ko": "토론",
+        "ja": "討論"
+      }
+    },
+    {
+      "index": 198,
+      "word": "about",
+      "start": 1460,
+      "end": 1465,
+      "candidates": {
+        "fr": "concernant",
+        "es": "sobre",
+        "zh": "关于",
+        "ko": "관하여",
+        "ja": "について"
+      }
+    },
+    {
+      "index": 199,
+      "word": "controversial",
+      "start": 1466,
+      "end": 1479,
+      "candidates": {
+        "fr": "controversé",
+        "es": "controvertido",
+        "zh": "有争议的",
+        "ko": "논쟁적인",
+        "ja": "議論を呼ぶ"
+      }
+    },
+    {
+      "index": 200,
+      "word": "legal",
+      "start": 1480,
+      "end": 1485,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 201,
+      "word": "cases",
+      "start": 1486,
+      "end": 1491,
+      "candidates": {
+        "fr": "cas",
+        "es": "caso",
+        "zh": "情况",
+        "ko": "경우",
+        "ja": "場合"
+      }
+    },
+    {
+      "index": 202,
+      "word": "or",
+      "start": 1492,
+      "end": 1494,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 203,
+      "word": "scenarios",
+      "start": 1495,
+      "end": 1504,
+      "candidates": {
+        "fr": "scénarios",
+        "es": "escenarios",
+        "zh": "场景",
+        "ko": "시나리오",
+        "ja": "シナリオ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1449 @@
+{
+  "prompt_id": "LR03",
+  "system_prompt": "### Your task is to classify incoming customer emails by sentiment: positive, negative, or neutral.\n\n* Tone: Analytical and Neutral\n* Be concise and ensure quick processing time.\n* Clearly assign sentiment labels using provided examples as guidelines:\n  - Positive: Expressions of satisfaction, gratitude, or commendations.\n  - Negative: Complaints, dissatisfaction, or harsh criticism.\n  - Neutral: Inquiries, factual statements, or balanced feedback.\n* Do not alter any parts of the emails during classification.\n* If unsure about sentiment, mark as 'Uncertain' and flag for manual review.\n* Excluded Topics: Avoid reading email signatures and auto-generated elements.\n\nExamples of classified sentences:\n- \"I am happy with your service.\" => Positive\n- \"This product did not work as promised.\" => Negative\n- \"Can you provide an invoice?\" => Neutral",
+  "words": [
+    {
+      "index": 0,
+      "word": "Your",
+      "start": 4,
+      "end": 8,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 1,
+      "word": "task",
+      "start": 9,
+      "end": 13,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 2,
+      "word": "is",
+      "start": 14,
+      "end": 16,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "to",
+      "start": 17,
+      "end": 19,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "classify",
+      "start": 20,
+      "end": 28,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 5,
+      "word": "incoming",
+      "start": 29,
+      "end": 37,
+      "candidates": {
+        "fr": "entrant",
+        "es": "entrante",
+        "zh": "传入的",
+        "ko": "들어오는",
+        "ja": "受信する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "customer",
+      "start": 38,
+      "end": 46,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 7,
+      "word": "emails",
+      "start": 47,
+      "end": 53,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 8,
+      "word": "by",
+      "start": 54,
+      "end": 56,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 9,
+      "word": "sentiment",
+      "start": 57,
+      "end": 66,
+      "candidates": {
+        "fr": "sentiment",
+        "es": "sentimiento",
+        "zh": "情感倾向",
+        "ko": "감성",
+        "ja": "感情極性"
+      }
+    },
+    {
+      "index": 10,
+      "word": "positive",
+      "start": 68,
+      "end": 76,
+      "candidates": {
+        "fr": "positif",
+        "es": "positivo",
+        "zh": "正面的",
+        "ko": "긍정적인",
+        "ja": "肯定的な"
+      }
+    },
+    {
+      "index": 11,
+      "word": "negative",
+      "start": 78,
+      "end": 86,
+      "candidates": {
+        "fr": "négatif",
+        "es": "negativo",
+        "zh": "负面的",
+        "ko": "부정적인",
+        "ja": "否定的な"
+      }
+    },
+    {
+      "index": 12,
+      "word": "or",
+      "start": 88,
+      "end": 90,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 13,
+      "word": "neutral",
+      "start": 91,
+      "end": 98,
+      "candidates": {
+        "fr": "neutre",
+        "es": "neutral",
+        "zh": "中性的",
+        "ko": "중립적인",
+        "ja": "中立的な"
+      }
+    },
+    {
+      "index": 14,
+      "word": "Tone",
+      "start": 103,
+      "end": 107,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Analytical",
+      "start": 109,
+      "end": 119,
+      "candidates": {
+        "fr": "analytique",
+        "es": "analítico",
+        "zh": "分析性的",
+        "ko": "분석적인",
+        "ja": "分析的な"
+      }
+    },
+    {
+      "index": 16,
+      "word": "and",
+      "start": 120,
+      "end": 123,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Neutral",
+      "start": 124,
+      "end": 131,
+      "candidates": {
+        "fr": "neutre",
+        "es": "neutral",
+        "zh": "中性的",
+        "ko": "중립적인",
+        "ja": "中立的な"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Be",
+      "start": 134,
+      "end": 136,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 19,
+      "word": "concise",
+      "start": 137,
+      "end": 144,
+      "candidates": {
+        "fr": "concis",
+        "es": "conciso",
+        "zh": "简洁的",
+        "ko": "간결한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 20,
+      "word": "and",
+      "start": 145,
+      "end": 148,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 21,
+      "word": "ensure",
+      "start": 149,
+      "end": 155,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "quick",
+      "start": 156,
+      "end": 161,
+      "candidates": {
+        "fr": "rapide",
+        "es": "rápido",
+        "zh": "快速的",
+        "ko": "빠른",
+        "ja": "素早い"
+      }
+    },
+    {
+      "index": 23,
+      "word": "processing",
+      "start": 162,
+      "end": 172,
+      "candidates": {
+        "fr": "traitement",
+        "es": "procesamiento",
+        "zh": "处理",
+        "ko": "처리",
+        "ja": "処理"
+      }
+    },
+    {
+      "index": 24,
+      "word": "time",
+      "start": 173,
+      "end": 177,
+      "candidates": {
+        "fr": "temps",
+        "es": "tiempo",
+        "zh": "时间",
+        "ko": "시간",
+        "ja": "時間"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Clearly",
+      "start": 181,
+      "end": 188,
+      "candidates": {
+        "fr": "clairement",
+        "es": "claramente",
+        "zh": "清晰地",
+        "ko": "명확하게",
+        "ja": "明確に"
+      }
+    },
+    {
+      "index": 26,
+      "word": "assign",
+      "start": 189,
+      "end": 195,
+      "candidates": {
+        "fr": "attribuer",
+        "es": "asignar",
+        "zh": "分配",
+        "ko": "배정하다",
+        "ja": "割り当てる"
+      }
+    },
+    {
+      "index": 27,
+      "word": "sentiment",
+      "start": 196,
+      "end": 205,
+      "candidates": {
+        "fr": "sentiment",
+        "es": "sentimiento",
+        "zh": "情感倾向",
+        "ko": "감성",
+        "ja": "感情極性"
+      }
+    },
+    {
+      "index": 28,
+      "word": "labels",
+      "start": 206,
+      "end": 212,
+      "candidates": {
+        "fr": "étiquette",
+        "es": "etiqueta",
+        "zh": "标签",
+        "ko": "라벨",
+        "ja": "ラベル"
+      }
+    },
+    {
+      "index": 29,
+      "word": "using",
+      "start": 213,
+      "end": 218,
+      "candidates": {
+        "fr": "en utilisant",
+        "es": "usando",
+        "zh": "使用",
+        "ko": "사용하여",
+        "ja": "用いて"
+      }
+    },
+    {
+      "index": 30,
+      "word": "provided",
+      "start": 219,
+      "end": 227,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "examples",
+      "start": 228,
+      "end": 236,
+      "candidates": {
+        "fr": "exemple",
+        "es": "ejemplo",
+        "zh": "示例",
+        "ko": "예시",
+        "ja": "例"
+      }
+    },
+    {
+      "index": 32,
+      "word": "as",
+      "start": 237,
+      "end": 239,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 33,
+      "word": "guidelines",
+      "start": 240,
+      "end": 250,
+      "candidates": {
+        "fr": "directives",
+        "es": "directrices",
+        "zh": "指南",
+        "ko": "지침",
+        "ja": "指針"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Positive",
+      "start": 256,
+      "end": 264,
+      "candidates": {
+        "fr": "positif",
+        "es": "positivo",
+        "zh": "正面的",
+        "ko": "긍정적인",
+        "ja": "肯定的な"
+      }
+    },
+    {
+      "index": 35,
+      "word": "Expressions",
+      "start": 266,
+      "end": 277,
+      "candidates": {
+        "fr": "expressions",
+        "es": "expresiones",
+        "zh": "表达",
+        "ko": "표현",
+        "ja": "表現"
+      }
+    },
+    {
+      "index": 36,
+      "word": "of",
+      "start": 278,
+      "end": 280,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 37,
+      "word": "satisfaction",
+      "start": 281,
+      "end": 293,
+      "candidates": {
+        "fr": "satisfaction",
+        "es": "satisfacción",
+        "zh": "满意",
+        "ko": "만족",
+        "ja": "満足"
+      }
+    },
+    {
+      "index": 38,
+      "word": "gratitude",
+      "start": 295,
+      "end": 304,
+      "candidates": {
+        "fr": "gratitude",
+        "es": "gratitud",
+        "zh": "感激",
+        "ko": "감사",
+        "ja": "感謝"
+      }
+    },
+    {
+      "index": 39,
+      "word": "or",
+      "start": 306,
+      "end": 308,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 40,
+      "word": "commendations",
+      "start": 309,
+      "end": 322,
+      "candidates": {
+        "fr": "éloges",
+        "es": "elogios",
+        "zh": "表扬",
+        "ko": "칭찬",
+        "ja": "称賛"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Negative",
+      "start": 328,
+      "end": 336,
+      "candidates": {
+        "fr": "négatif",
+        "es": "negativo",
+        "zh": "负面的",
+        "ko": "부정적인",
+        "ja": "否定的な"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Complaints",
+      "start": 338,
+      "end": 348,
+      "candidates": {
+        "fr": "plaintes",
+        "es": "quejas",
+        "zh": "投诉",
+        "ko": "불만",
+        "ja": "苦情"
+      }
+    },
+    {
+      "index": 43,
+      "word": "dissatisfaction",
+      "start": 350,
+      "end": 365,
+      "candidates": {
+        "fr": "insatisfaction",
+        "es": "insatisfacción",
+        "zh": "不满",
+        "ko": "불만",
+        "ja": "不満"
+      }
+    },
+    {
+      "index": 44,
+      "word": "or",
+      "start": 367,
+      "end": 369,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 45,
+      "word": "harsh",
+      "start": 370,
+      "end": 375,
+      "candidates": {
+        "fr": "sévère",
+        "es": "duro",
+        "zh": "严厉的",
+        "ko": "가혹한",
+        "ja": "厳しい"
+      }
+    },
+    {
+      "index": 46,
+      "word": "criticism",
+      "start": 376,
+      "end": 385,
+      "candidates": {
+        "fr": "critique",
+        "es": "crítica",
+        "zh": "批评",
+        "ko": "비판",
+        "ja": "批判"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Neutral",
+      "start": 391,
+      "end": 398,
+      "candidates": {
+        "fr": "neutre",
+        "es": "neutral",
+        "zh": "中性的",
+        "ko": "중립적인",
+        "ja": "中立的な"
+      }
+    },
+    {
+      "index": 48,
+      "word": "Inquiries",
+      "start": 400,
+      "end": 409,
+      "candidates": {
+        "fr": "demande",
+        "es": "consulta",
+        "zh": "询问",
+        "ko": "문의",
+        "ja": "問い合わせ"
+      }
+    },
+    {
+      "index": 49,
+      "word": "factual",
+      "start": 411,
+      "end": 418,
+      "candidates": {
+        "fr": "factuel",
+        "es": "fáctico",
+        "zh": "事实性的",
+        "ko": "사실적인",
+        "ja": "事実に基づく"
+      }
+    },
+    {
+      "index": 50,
+      "word": "statements",
+      "start": 419,
+      "end": 429,
+      "candidates": {
+        "fr": "déclarations",
+        "es": "declaraciones",
+        "zh": "陈述",
+        "ko": "진술",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 51,
+      "word": "or",
+      "start": 431,
+      "end": 433,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 52,
+      "word": "balanced",
+      "start": 434,
+      "end": 442,
+      "candidates": {
+        "fr": "équilibre",
+        "es": "equilibrio",
+        "zh": "平衡",
+        "ko": "균형",
+        "ja": "均衡"
+      }
+    },
+    {
+      "index": 53,
+      "word": "feedback",
+      "start": 443,
+      "end": 451,
+      "candidates": {
+        "fr": "retour",
+        "es": "comentarios",
+        "zh": "反馈",
+        "ko": "피드백",
+        "ja": "フィードバック"
+      }
+    },
+    {
+      "index": 54,
+      "word": "Do",
+      "start": 455,
+      "end": 457,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 55,
+      "word": "not",
+      "start": 458,
+      "end": 461,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 56,
+      "word": "alter",
+      "start": 462,
+      "end": 467,
+      "candidates": {
+        "fr": "modifier",
+        "es": "alterar",
+        "zh": "改变",
+        "ko": "변경하다",
+        "ja": "変更する"
+      }
+    },
+    {
+      "index": 57,
+      "word": "any",
+      "start": 468,
+      "end": 471,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 58,
+      "word": "parts",
+      "start": 472,
+      "end": 477,
+      "candidates": {
+        "fr": "partie",
+        "es": "parte",
+        "zh": "部分",
+        "ko": "부분",
+        "ja": "部分"
+      }
+    },
+    {
+      "index": 59,
+      "word": "of",
+      "start": 478,
+      "end": 480,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 60,
+      "word": "the",
+      "start": 481,
+      "end": 484,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 61,
+      "word": "emails",
+      "start": 485,
+      "end": 491,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 62,
+      "word": "during",
+      "start": 492,
+      "end": 498,
+      "candidates": {
+        "fr": "pendant",
+        "es": "durante",
+        "zh": "期间",
+        "ko": "동안",
+        "ja": "の間"
+      }
+    },
+    {
+      "index": 63,
+      "word": "classification",
+      "start": 499,
+      "end": 513,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 64,
+      "word": "If",
+      "start": 517,
+      "end": 519,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 65,
+      "word": "unsure",
+      "start": 520,
+      "end": 526,
+      "candidates": {
+        "fr": "incertain",
+        "es": "inseguro",
+        "zh": "不确定的",
+        "ko": "확신하지 못하는",
+        "ja": "確信のない"
+      }
+    },
+    {
+      "index": 66,
+      "word": "about",
+      "start": 527,
+      "end": 532,
+      "candidates": {
+        "fr": "concernant",
+        "es": "sobre",
+        "zh": "关于",
+        "ko": "관하여",
+        "ja": "について"
+      }
+    },
+    {
+      "index": 67,
+      "word": "sentiment",
+      "start": 533,
+      "end": 542,
+      "candidates": {
+        "fr": "sentiment",
+        "es": "sentimiento",
+        "zh": "情感倾向",
+        "ko": "감성",
+        "ja": "感情極性"
+      }
+    },
+    {
+      "index": 68,
+      "word": "mark",
+      "start": 544,
+      "end": 548,
+      "candidates": {
+        "fr": "marquer",
+        "es": "marcar",
+        "zh": "标记",
+        "ko": "표시하다",
+        "ja": "印を付ける"
+      }
+    },
+    {
+      "index": 69,
+      "word": "as",
+      "start": 549,
+      "end": 551,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 70,
+      "word": "Uncertain",
+      "start": 553,
+      "end": 562,
+      "candidates": {
+        "fr": "incertain",
+        "es": "incierto",
+        "zh": "不确定的",
+        "ko": "불확실한",
+        "ja": "不確かな"
+      }
+    },
+    {
+      "index": 71,
+      "word": "and",
+      "start": 564,
+      "end": 567,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 72,
+      "word": "flag",
+      "start": 568,
+      "end": 572,
+      "candidates": {
+        "fr": "signaler",
+        "es": "marcar",
+        "zh": "标记",
+        "ko": "표시하다",
+        "ja": "フラグを付ける"
+      }
+    },
+    {
+      "index": 73,
+      "word": "for",
+      "start": 573,
+      "end": 576,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 74,
+      "word": "manual",
+      "start": 577,
+      "end": 583,
+      "candidates": {
+        "fr": "manuel",
+        "es": "manual",
+        "zh": "手册",
+        "ko": "설명서",
+        "ja": "手引き"
+      }
+    },
+    {
+      "index": 75,
+      "word": "review",
+      "start": 584,
+      "end": 590,
+      "candidates": {
+        "fr": "revue",
+        "es": "revisión",
+        "zh": "综述",
+        "ko": "검토",
+        "ja": "レビュー"
+      }
+    },
+    {
+      "index": 76,
+      "word": "Excluded",
+      "start": 594,
+      "end": 602,
+      "candidates": {
+        "fr": "exclu",
+        "es": "excluido",
+        "zh": "排除的",
+        "ko": "제외된",
+        "ja": "除外された"
+      }
+    },
+    {
+      "index": 77,
+      "word": "Topics",
+      "start": 603,
+      "end": 609,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "话题",
+        "ko": "주제",
+        "ja": "話題"
+      }
+    },
+    {
+      "index": 78,
+      "word": "Avoid",
+      "start": 611,
+      "end": 616,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 79,
+      "word": "reading",
+      "start": 617,
+      "end": 624,
+      "candidates": {
+        "fr": "lire",
+        "es": "leer",
+        "zh": "阅读",
+        "ko": "읽다",
+        "ja": "読む"
+      }
+    },
+    {
+      "index": 80,
+      "word": "email",
+      "start": 625,
+      "end": 630,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 81,
+      "word": "signatures",
+      "start": 631,
+      "end": 641,
+      "candidates": {
+        "fr": "signatures",
+        "es": "firmas",
+        "zh": "签名",
+        "ko": "서명",
+        "ja": "署名"
+      }
+    },
+    {
+      "index": 82,
+      "word": "and",
+      "start": 642,
+      "end": 645,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 83,
+      "word": "auto",
+      "start": 646,
+      "end": 650,
+      "candidates": {
+        "fr": "automatique",
+        "es": "automático",
+        "zh": "自动",
+        "ko": "자동",
+        "ja": "自動"
+      }
+    },
+    {
+      "index": 84,
+      "word": "generated",
+      "start": 651,
+      "end": 660,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 85,
+      "word": "elements",
+      "start": 661,
+      "end": 669,
+      "candidates": {
+        "fr": "éléments",
+        "es": "elementos",
+        "zh": "元素",
+        "ko": "요소",
+        "ja": "要素"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Examples",
+      "start": 672,
+      "end": 680,
+      "candidates": {
+        "fr": "exemple",
+        "es": "ejemplo",
+        "zh": "示例",
+        "ko": "예시",
+        "ja": "例"
+      }
+    },
+    {
+      "index": 87,
+      "word": "of",
+      "start": 681,
+      "end": 683,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 88,
+      "word": "classified",
+      "start": 684,
+      "end": 694,
+      "candidates": {
+        "fr": "classé",
+        "es": "clasificado",
+        "zh": "已分类的",
+        "ko": "분류된",
+        "ja": "分類された"
+      }
+    },
+    {
+      "index": 89,
+      "word": "sentences",
+      "start": 695,
+      "end": 704,
+      "candidates": {
+        "fr": "phrase",
+        "es": "oración",
+        "zh": "句子",
+        "ko": "문장",
+        "ja": "文"
+      }
+    },
+    {
+      "index": 90,
+      "word": "I",
+      "start": 709,
+      "end": 710,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 91,
+      "word": "am",
+      "start": 711,
+      "end": 713,
+      "candidates": {
+        "fr": "suis",
+        "es": "soy",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 92,
+      "word": "happy",
+      "start": 714,
+      "end": 719,
+      "candidates": {
+        "fr": "heureux",
+        "es": "feliz",
+        "zh": "快乐的",
+        "ko": "행복한",
+        "ja": "幸せな"
+      }
+    },
+    {
+      "index": 93,
+      "word": "with",
+      "start": 720,
+      "end": 724,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 94,
+      "word": "your",
+      "start": 725,
+      "end": 729,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 95,
+      "word": "service",
+      "start": 730,
+      "end": 737,
+      "candidates": {
+        "fr": "service",
+        "es": "servicio",
+        "zh": "服务",
+        "ko": "서비스",
+        "ja": "サービス"
+      }
+    },
+    {
+      "index": 96,
+      "word": "Positive",
+      "start": 743,
+      "end": 751,
+      "candidates": {
+        "fr": "positif",
+        "es": "positivo",
+        "zh": "正面的",
+        "ko": "긍정적인",
+        "ja": "肯定的な"
+      }
+    },
+    {
+      "index": 97,
+      "word": "This",
+      "start": 755,
+      "end": 759,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 98,
+      "word": "product",
+      "start": 760,
+      "end": 767,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 99,
+      "word": "did",
+      "start": 768,
+      "end": 771,
+      "candidates": {
+        "fr": "a fait",
+        "es": "hizo",
+        "zh": "做过",
+        "ko": "했다",
+        "ja": "した"
+      }
+    },
+    {
+      "index": 100,
+      "word": "not",
+      "start": 772,
+      "end": 775,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 101,
+      "word": "work",
+      "start": 776,
+      "end": 780,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 102,
+      "word": "as",
+      "start": 781,
+      "end": 783,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 103,
+      "word": "promised",
+      "start": 784,
+      "end": 792,
+      "candidates": {
+        "fr": "promis",
+        "es": "prometido",
+        "zh": "承诺的",
+        "ko": "약속된",
+        "ja": "約束された"
+      }
+    },
+    {
+      "index": 104,
+      "word": "Negative",
+      "start": 798,
+      "end": 806,
+      "candidates": {
+        "fr": "négatif",
+        "es": "negativo",
+        "zh": "负面的",
+        "ko": "부정적인",
+        "ja": "否定的な"
+      }
+    },
+    {
+      "index": 105,
+      "word": "Can",
+      "start": 810,
+      "end": 813,
+      "candidates": {
+        "fr": "pouvoir",
+        "es": "poder",
+        "zh": "能够",
+        "ko": "할 수 있다",
+        "ja": "できる"
+      }
+    },
+    {
+      "index": 106,
+      "word": "you",
+      "start": 814,
+      "end": 817,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 107,
+      "word": "provide",
+      "start": 818,
+      "end": 825,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 108,
+      "word": "an",
+      "start": 826,
+      "end": 828,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 109,
+      "word": "invoice",
+      "start": 829,
+      "end": 836,
+      "candidates": {
+        "fr": "facture",
+        "es": "factura",
+        "zh": "发票",
+        "ko": "청구서",
+        "ja": "請求書"
+      }
+    },
+    {
+      "index": 110,
+      "word": "Neutral",
+      "start": 842,
+      "end": 849,
+      "candidates": {
+        "fr": "neutre",
+        "es": "neutral",
+        "zh": "中性的",
+        "ko": "중립적인",
+        "ja": "中立的な"
+      }
+    }
+  ]
+}

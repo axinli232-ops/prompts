@@ -1,0 +1,1124 @@
+{
+  "prompt_id": "FC37",
+  "system_prompt": "Create a brief summary of classic literature text, designed for middle school students. You must provide key plot points, main characters, and theme insights in easy to understand language. Ensure your explanation helps enhance a student's understanding of the cultural and historical context of the text.\n\nGuidelines:\n* Keep language simple, avoid jargon.\n* Include at least three key characters.\n* Mention two thematic elements.\n* Highlight significant historical or cultural influences.\n* Do not exceed 200 words.\n\nOutput Format:\n- Title of the book\n- Main Plot Points\n- Characters\n- Themes\n- Historical/Cultural Context",
+  "words": [
+    {
+      "index": 0,
+      "word": "Create",
+      "start": 0,
+      "end": 6,
+      "candidates": {
+        "fr": "créer",
+        "es": "crear",
+        "zh": "创建",
+        "ko": "만들다",
+        "ja": "作成する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "a",
+      "start": 7,
+      "end": 8,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 2,
+      "word": "brief",
+      "start": 9,
+      "end": 14,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 3,
+      "word": "summary",
+      "start": 15,
+      "end": 22,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 4,
+      "word": "of",
+      "start": 23,
+      "end": 25,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "classic",
+      "start": 26,
+      "end": 33,
+      "candidates": {
+        "fr": "classique",
+        "es": "clásico",
+        "zh": "经典的",
+        "ko": "고전적인",
+        "ja": "古典的な"
+      }
+    },
+    {
+      "index": 6,
+      "word": "literature",
+      "start": 34,
+      "end": 44,
+      "candidates": {
+        "fr": "littérature",
+        "es": "literatura",
+        "zh": "文学",
+        "ko": "문학",
+        "ja": "文学"
+      }
+    },
+    {
+      "index": 7,
+      "word": "text",
+      "start": 45,
+      "end": 49,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 8,
+      "word": "designed",
+      "start": 51,
+      "end": 59,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 9,
+      "word": "for",
+      "start": 60,
+      "end": 63,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 10,
+      "word": "middle",
+      "start": 64,
+      "end": 70,
+      "candidates": {
+        "fr": "milieu",
+        "es": "medio",
+        "zh": "中间",
+        "ko": "중간",
+        "ja": "中間"
+      }
+    },
+    {
+      "index": 11,
+      "word": "school",
+      "start": 71,
+      "end": 77,
+      "candidates": {
+        "fr": "école",
+        "es": "escuela",
+        "zh": "学校",
+        "ko": "학교",
+        "ja": "学校"
+      }
+    },
+    {
+      "index": 12,
+      "word": "students",
+      "start": 78,
+      "end": 86,
+      "candidates": {
+        "fr": "étudiants",
+        "es": "estudiantes",
+        "zh": "学生",
+        "ko": "학생",
+        "ja": "学生"
+      }
+    },
+    {
+      "index": 13,
+      "word": "You",
+      "start": 88,
+      "end": 91,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 14,
+      "word": "must",
+      "start": 92,
+      "end": 96,
+      "candidates": {
+        "fr": "devoir",
+        "es": "deber",
+        "zh": "必须",
+        "ko": "해야 한다",
+        "ja": "しなければならない"
+      }
+    },
+    {
+      "index": 15,
+      "word": "provide",
+      "start": 97,
+      "end": 104,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 16,
+      "word": "key",
+      "start": 105,
+      "end": 108,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 17,
+      "word": "plot",
+      "start": 109,
+      "end": 113,
+      "candidates": {
+        "fr": "intrigue",
+        "es": "trama",
+        "zh": "情节",
+        "ko": "줄거리",
+        "ja": "筋書き"
+      }
+    },
+    {
+      "index": 18,
+      "word": "points",
+      "start": 114,
+      "end": 120,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 19,
+      "word": "main",
+      "start": 122,
+      "end": 126,
+      "candidates": {
+        "fr": "principal",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 20,
+      "word": "characters",
+      "start": 127,
+      "end": 137,
+      "candidates": {
+        "fr": "caractères",
+        "es": "caracteres",
+        "zh": "字符",
+        "ko": "문자",
+        "ja": "文字"
+      }
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 139,
+      "end": 142,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 22,
+      "word": "theme",
+      "start": 143,
+      "end": 148,
+      "candidates": {
+        "fr": "thème",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 23,
+      "word": "insights",
+      "start": 149,
+      "end": 157,
+      "candidates": {
+        "fr": "aperçu",
+        "es": "perspectiva",
+        "zh": "洞见",
+        "ko": "통찰",
+        "ja": "洞察"
+      }
+    },
+    {
+      "index": 24,
+      "word": "in",
+      "start": 158,
+      "end": 160,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 25,
+      "word": "easy",
+      "start": 161,
+      "end": 165,
+      "candidates": {
+        "fr": "facile",
+        "es": "fácil",
+        "zh": "容易的",
+        "ko": "쉬운",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 26,
+      "word": "to",
+      "start": 166,
+      "end": 168,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 27,
+      "word": "understand",
+      "start": 169,
+      "end": 179,
+      "candidates": {
+        "fr": "comprendre",
+        "es": "entender",
+        "zh": "理解",
+        "ko": "이해하다",
+        "ja": "理解する"
+      }
+    },
+    {
+      "index": 28,
+      "word": "language",
+      "start": 180,
+      "end": 188,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Ensure",
+      "start": 190,
+      "end": 196,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "your",
+      "start": 197,
+      "end": 201,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 31,
+      "word": "explanation",
+      "start": 202,
+      "end": 213,
+      "candidates": {
+        "fr": "explication",
+        "es": "explicación",
+        "zh": "解释",
+        "ko": "설명",
+        "ja": "説明"
+      }
+    },
+    {
+      "index": 32,
+      "word": "helps",
+      "start": 214,
+      "end": 219,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 33,
+      "word": "enhance",
+      "start": 220,
+      "end": 227,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "增强",
+        "ko": "향상하다",
+        "ja": "向上させる"
+      }
+    },
+    {
+      "index": 34,
+      "word": "a",
+      "start": 228,
+      "end": 229,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 35,
+      "word": "student's",
+      "start": 230,
+      "end": 239,
+      "candidates": {
+        "fr": "de l’étudiant",
+        "es": "del estudiante",
+        "zh": "学生的",
+        "ko": "학생의",
+        "ja": "学生の"
+      }
+    },
+    {
+      "index": 36,
+      "word": "understanding",
+      "start": 240,
+      "end": 253,
+      "candidates": {
+        "fr": "compréhension",
+        "es": "comprensión",
+        "zh": "理解",
+        "ko": "이해",
+        "ja": "理解"
+      }
+    },
+    {
+      "index": 37,
+      "word": "of",
+      "start": 254,
+      "end": 256,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 38,
+      "word": "the",
+      "start": 257,
+      "end": 260,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 39,
+      "word": "cultural",
+      "start": 261,
+      "end": 269,
+      "candidates": {
+        "fr": "culturel",
+        "es": "cultural",
+        "zh": "文化的",
+        "ko": "문화적인",
+        "ja": "文化的な"
+      }
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 270,
+      "end": 273,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "historical",
+      "start": 274,
+      "end": 284,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 42,
+      "word": "context",
+      "start": 285,
+      "end": 292,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    },
+    {
+      "index": 43,
+      "word": "of",
+      "start": 293,
+      "end": 295,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "the",
+      "start": 296,
+      "end": 299,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 45,
+      "word": "text",
+      "start": 300,
+      "end": 304,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 46,
+      "word": "Guidelines",
+      "start": 307,
+      "end": 317,
+      "candidates": {
+        "fr": "directives",
+        "es": "directrices",
+        "zh": "指南",
+        "ko": "지침",
+        "ja": "指針"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Keep",
+      "start": 321,
+      "end": 325,
+      "candidates": {
+        "fr": "garder",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 48,
+      "word": "language",
+      "start": 326,
+      "end": 334,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 49,
+      "word": "simple",
+      "start": 335,
+      "end": 341,
+      "candidates": {
+        "fr": "simple",
+        "es": "simple",
+        "zh": "简单的",
+        "ko": "간단한",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 50,
+      "word": "avoid",
+      "start": 343,
+      "end": 348,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 51,
+      "word": "jargon",
+      "start": 349,
+      "end": 355,
+      "candidates": {
+        "fr": "jargon",
+        "es": "jerga",
+        "zh": "术语",
+        "ko": "전문 용어",
+        "ja": "専門用語"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Include",
+      "start": 359,
+      "end": 366,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 53,
+      "word": "at",
+      "start": 367,
+      "end": 369,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 54,
+      "word": "least",
+      "start": 370,
+      "end": 375,
+      "candidates": {
+        "fr": "le moins",
+        "es": "lo menos",
+        "zh": "最少",
+        "ko": "최소",
+        "ja": "最少"
+      }
+    },
+    {
+      "index": 55,
+      "word": "three",
+      "start": 376,
+      "end": 381,
+      "candidates": {
+        "fr": "trois",
+        "es": "tres",
+        "zh": "三",
+        "ko": "셋",
+        "ja": "三"
+      }
+    },
+    {
+      "index": 56,
+      "word": "key",
+      "start": 382,
+      "end": 385,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 57,
+      "word": "characters",
+      "start": 386,
+      "end": 396,
+      "candidates": {
+        "fr": "caractères",
+        "es": "caracteres",
+        "zh": "字符",
+        "ko": "문자",
+        "ja": "文字"
+      }
+    },
+    {
+      "index": 58,
+      "word": "Mention",
+      "start": 400,
+      "end": 407,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 59,
+      "word": "two",
+      "start": 408,
+      "end": 411,
+      "candidates": {
+        "fr": "deux",
+        "es": "dos",
+        "zh": "二",
+        "ko": "둘",
+        "ja": "二"
+      }
+    },
+    {
+      "index": 60,
+      "word": "thematic",
+      "start": 412,
+      "end": 420,
+      "candidates": {
+        "fr": "thématique",
+        "es": "temático",
+        "zh": "主题的",
+        "ko": "주제의",
+        "ja": "主題の"
+      }
+    },
+    {
+      "index": 61,
+      "word": "elements",
+      "start": 421,
+      "end": 429,
+      "candidates": {
+        "fr": "éléments",
+        "es": "elementos",
+        "zh": "元素",
+        "ko": "요소",
+        "ja": "要素"
+      }
+    },
+    {
+      "index": 62,
+      "word": "Highlight",
+      "start": 433,
+      "end": 442,
+      "candidates": {
+        "fr": "mettre en évidence",
+        "es": "destacar",
+        "zh": "突出",
+        "ko": "강조하다",
+        "ja": "強調する"
+      }
+    },
+    {
+      "index": 63,
+      "word": "significant",
+      "start": 443,
+      "end": 454,
+      "candidates": {
+        "fr": "significatif",
+        "es": "significativo",
+        "zh": "显著的",
+        "ko": "유의미한",
+        "ja": "有意な"
+      }
+    },
+    {
+      "index": 64,
+      "word": "historical",
+      "start": 455,
+      "end": 465,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 65,
+      "word": "or",
+      "start": 466,
+      "end": 468,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 66,
+      "word": "cultural",
+      "start": 469,
+      "end": 477,
+      "candidates": {
+        "fr": "culturel",
+        "es": "cultural",
+        "zh": "文化的",
+        "ko": "문화적인",
+        "ja": "文化的な"
+      }
+    },
+    {
+      "index": 67,
+      "word": "influences",
+      "start": 478,
+      "end": 488,
+      "candidates": {
+        "fr": "influences",
+        "es": "influencias",
+        "zh": "影响",
+        "ko": "영향",
+        "ja": "影響"
+      }
+    },
+    {
+      "index": 68,
+      "word": "Do",
+      "start": 492,
+      "end": 494,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 69,
+      "word": "not",
+      "start": 495,
+      "end": 498,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 70,
+      "word": "exceed",
+      "start": 499,
+      "end": 505,
+      "candidates": {
+        "fr": "dépasser",
+        "es": "exceder",
+        "zh": "超出",
+        "ko": "초과하다",
+        "ja": "超える"
+      }
+    },
+    {
+      "index": 71,
+      "word": "words",
+      "start": 510,
+      "end": 515,
+      "candidates": {
+        "fr": "mots",
+        "es": "palabras",
+        "zh": "单词",
+        "ko": "단어",
+        "ja": "単語"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Output",
+      "start": 518,
+      "end": 524,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 73,
+      "word": "Format",
+      "start": 525,
+      "end": 531,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 74,
+      "word": "Title",
+      "start": 535,
+      "end": 540,
+      "candidates": {
+        "fr": "titre",
+        "es": "título",
+        "zh": "标题",
+        "ko": "제목",
+        "ja": "タイトル"
+      }
+    },
+    {
+      "index": 75,
+      "word": "of",
+      "start": 541,
+      "end": 543,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 76,
+      "word": "the",
+      "start": 544,
+      "end": 547,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 77,
+      "word": "book",
+      "start": 548,
+      "end": 552,
+      "candidates": {
+        "fr": "livre",
+        "es": "libro",
+        "zh": "书",
+        "ko": "책",
+        "ja": "本"
+      }
+    },
+    {
+      "index": 78,
+      "word": "Main",
+      "start": 555,
+      "end": 559,
+      "candidates": {
+        "fr": "principal",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Plot",
+      "start": 560,
+      "end": 564,
+      "candidates": {
+        "fr": "intrigue",
+        "es": "trama",
+        "zh": "情节",
+        "ko": "줄거리",
+        "ja": "筋書き"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Points",
+      "start": 565,
+      "end": 571,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 81,
+      "word": "Characters",
+      "start": 574,
+      "end": 584,
+      "candidates": {
+        "fr": "caractères",
+        "es": "caracteres",
+        "zh": "字符",
+        "ko": "문자",
+        "ja": "文字"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Themes",
+      "start": 587,
+      "end": 593,
+      "candidates": {
+        "fr": "thème",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 83,
+      "word": "Historical",
+      "start": 596,
+      "end": 606,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 84,
+      "word": "Cultural",
+      "start": 607,
+      "end": 615,
+      "candidates": {
+        "fr": "culturel",
+        "es": "cultural",
+        "zh": "文化的",
+        "ko": "문화적인",
+        "ja": "文化的な"
+      }
+    },
+    {
+      "index": 85,
+      "word": "Context",
+      "start": 616,
+      "end": 623,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    }
+  ]
+}

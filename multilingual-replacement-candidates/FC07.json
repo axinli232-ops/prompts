@@ -1,0 +1,708 @@
+{
+  "prompt_id": "FC07",
+  "system_prompt": "As a financial report generator, your task is to collate quarterly data and present them in summary format. Ensure clarity, conciseness, and accuracy in your reports. Major sections should include revenue, expenses, net profit, and future projections. Use bullet points for listing data, and provide brief insights on trends noted in the financial period.",
+  "words": [
+    {
+      "index": 0,
+      "word": "As",
+      "start": 0,
+      "end": 2,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 1,
+      "word": "a",
+      "start": 3,
+      "end": 4,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 2,
+      "word": "financial",
+      "start": 5,
+      "end": 14,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "report",
+      "start": 15,
+      "end": 21,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 4,
+      "word": "generator",
+      "start": 22,
+      "end": 31,
+      "candidates": {
+        "fr": "générateur",
+        "es": "generador",
+        "zh": "生成器",
+        "ko": "생성기",
+        "ja": "生成器"
+      }
+    },
+    {
+      "index": 5,
+      "word": "your",
+      "start": 33,
+      "end": 37,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 6,
+      "word": "task",
+      "start": 38,
+      "end": 42,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 7,
+      "word": "is",
+      "start": 43,
+      "end": 45,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 46,
+      "end": 48,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "collate",
+      "start": 49,
+      "end": 56,
+      "candidates": {
+        "fr": "collationner",
+        "es": "cotejar",
+        "zh": "整理汇集",
+        "ko": "대조하여 모으다",
+        "ja": "照合する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "quarterly",
+      "start": 57,
+      "end": 66,
+      "candidates": {
+        "fr": "trimestriel",
+        "es": "trimestral",
+        "zh": "每季度的",
+        "ko": "분기별",
+        "ja": "四半期ごとの"
+      }
+    },
+    {
+      "index": 11,
+      "word": "data",
+      "start": 67,
+      "end": 71,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 12,
+      "word": "and",
+      "start": 72,
+      "end": 75,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 13,
+      "word": "present",
+      "start": 76,
+      "end": 83,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "them",
+      "start": 84,
+      "end": 88,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 15,
+      "word": "in",
+      "start": 89,
+      "end": 91,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 16,
+      "word": "summary",
+      "start": 92,
+      "end": 99,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 17,
+      "word": "format",
+      "start": 100,
+      "end": 106,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Ensure",
+      "start": 108,
+      "end": 114,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 19,
+      "word": "clarity",
+      "start": 115,
+      "end": 122,
+      "candidates": {
+        "fr": "clarté",
+        "es": "claridad",
+        "zh": "清晰度",
+        "ko": "명확성",
+        "ja": "明瞭さ"
+      }
+    },
+    {
+      "index": 20,
+      "word": "conciseness",
+      "start": 124,
+      "end": 135,
+      "candidates": {
+        "fr": "concision",
+        "es": "concisión",
+        "zh": "简洁性",
+        "ko": "간결성",
+        "ja": "簡潔さ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 137,
+      "end": 140,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 22,
+      "word": "accuracy",
+      "start": 141,
+      "end": 149,
+      "candidates": {
+        "fr": "exactitude",
+        "es": "exactitud",
+        "zh": "准确性",
+        "ko": "정확성",
+        "ja": "正確性"
+      }
+    },
+    {
+      "index": 23,
+      "word": "in",
+      "start": 150,
+      "end": 152,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 24,
+      "word": "your",
+      "start": 153,
+      "end": 157,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 25,
+      "word": "reports",
+      "start": 158,
+      "end": 165,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Major",
+      "start": 167,
+      "end": 172,
+      "candidates": {
+        "fr": "majeur",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 27,
+      "word": "sections",
+      "start": 173,
+      "end": 181,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 28,
+      "word": "should",
+      "start": 182,
+      "end": 188,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 29,
+      "word": "include",
+      "start": 189,
+      "end": 196,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 30,
+      "word": "revenue",
+      "start": 197,
+      "end": 204,
+      "candidates": {
+        "fr": "chiffre d’affaires",
+        "es": "ingresos",
+        "zh": "营收",
+        "ko": "매출",
+        "ja": "売上"
+      }
+    },
+    {
+      "index": 31,
+      "word": "expenses",
+      "start": 206,
+      "end": 214,
+      "candidates": {
+        "fr": "dépenses",
+        "es": "gastos",
+        "zh": "开支",
+        "ko": "지출",
+        "ja": "支出"
+      }
+    },
+    {
+      "index": 32,
+      "word": "net",
+      "start": 216,
+      "end": 219,
+      "candidates": {
+        "fr": "net",
+        "es": "neto",
+        "zh": "净额",
+        "ko": "순액",
+        "ja": "純額"
+      }
+    },
+    {
+      "index": 33,
+      "word": "profit",
+      "start": 220,
+      "end": 226,
+      "candidates": {
+        "fr": "bénéfice",
+        "es": "beneficio",
+        "zh": "利润",
+        "ko": "이익",
+        "ja": "利益"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 228,
+      "end": 231,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "future",
+      "start": 232,
+      "end": 238,
+      "candidates": {
+        "fr": "avenir",
+        "es": "futuro",
+        "zh": "未来",
+        "ko": "미래",
+        "ja": "未来"
+      }
+    },
+    {
+      "index": 36,
+      "word": "projections",
+      "start": 239,
+      "end": 250,
+      "candidates": {
+        "fr": "projections",
+        "es": "proyecciones",
+        "zh": "预测",
+        "ko": "전망",
+        "ja": "予測"
+      }
+    },
+    {
+      "index": 37,
+      "word": "Use",
+      "start": 252,
+      "end": 255,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "bullet",
+      "start": 256,
+      "end": 262,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 39,
+      "word": "points",
+      "start": 263,
+      "end": 269,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 40,
+      "word": "for",
+      "start": 270,
+      "end": 273,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 41,
+      "word": "listing",
+      "start": 274,
+      "end": 281,
+      "candidates": {
+        "fr": "liste",
+        "es": "listado",
+        "zh": "列表",
+        "ko": "목록화",
+        "ja": "一覧"
+      }
+    },
+    {
+      "index": 42,
+      "word": "data",
+      "start": 282,
+      "end": 286,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 43,
+      "word": "and",
+      "start": 288,
+      "end": 291,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 44,
+      "word": "provide",
+      "start": 292,
+      "end": 299,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 45,
+      "word": "brief",
+      "start": 300,
+      "end": 305,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 46,
+      "word": "insights",
+      "start": 306,
+      "end": 314,
+      "candidates": {
+        "fr": "aperçu",
+        "es": "perspectiva",
+        "zh": "洞见",
+        "ko": "통찰",
+        "ja": "洞察"
+      }
+    },
+    {
+      "index": 47,
+      "word": "on",
+      "start": 315,
+      "end": 317,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 48,
+      "word": "trends",
+      "start": 318,
+      "end": 324,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 49,
+      "word": "noted",
+      "start": 325,
+      "end": 330,
+      "candidates": {
+        "fr": "noté",
+        "es": "señalado",
+        "zh": "指出的",
+        "ko": "언급된",
+        "ja": "指摘された"
+      }
+    },
+    {
+      "index": 50,
+      "word": "in",
+      "start": 331,
+      "end": 333,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 51,
+      "word": "the",
+      "start": 334,
+      "end": 337,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 52,
+      "word": "financial",
+      "start": 338,
+      "end": 347,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 53,
+      "word": "period",
+      "start": 348,
+      "end": 354,
+      "candidates": {
+        "fr": "période",
+        "es": "período",
+        "zh": "时期",
+        "ko": "기간",
+        "ja": "期間"
+      }
+    }
+  ]
+}

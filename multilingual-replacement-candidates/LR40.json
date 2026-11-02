@@ -1,0 +1,799 @@
+{
+  "prompt_id": "LR40",
+  "system_prompt": "Analyze customer support tickets to classify them based on the type of issue: technical, billing, login, or general inquiries. If the issue is not clear, default to the 'general inquiry' category. Provide a brief explanation for each classification. Maintain professionalism and consistency.\n\n**Instructions**\n1. Review the text thoroughly.\n2. Classify according to issue type.\n3. Offer reasoning for your classification.\n4. Remain concise and clear.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Analyze",
+      "start": 0,
+      "end": 7,
+      "candidates": {
+        "fr": "analyser",
+        "es": "analizar",
+        "zh": "分析",
+        "ko": "분석하다",
+        "ja": "分析する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "customer",
+      "start": 8,
+      "end": 16,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 2,
+      "word": "support",
+      "start": 17,
+      "end": 24,
+      "candidates": {
+        "fr": "soutien",
+        "es": "apoyo",
+        "zh": "支持",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 3,
+      "word": "tickets",
+      "start": 25,
+      "end": 32,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 4,
+      "word": "to",
+      "start": 33,
+      "end": 35,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 5,
+      "word": "classify",
+      "start": 36,
+      "end": 44,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "them",
+      "start": 45,
+      "end": 49,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 7,
+      "word": "based",
+      "start": 50,
+      "end": 55,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 8,
+      "word": "on",
+      "start": 56,
+      "end": 58,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 9,
+      "word": "the",
+      "start": 59,
+      "end": 62,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 10,
+      "word": "type",
+      "start": 63,
+      "end": 67,
+      "candidates": {
+        "fr": "type",
+        "es": "tipo",
+        "zh": "类型",
+        "ko": "유형",
+        "ja": "型"
+      }
+    },
+    {
+      "index": 11,
+      "word": "of",
+      "start": 68,
+      "end": 70,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 12,
+      "word": "issue",
+      "start": 71,
+      "end": 76,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 13,
+      "word": "technical",
+      "start": 78,
+      "end": 87,
+      "candidates": {
+        "fr": "technique",
+        "es": "técnico",
+        "zh": "技术的",
+        "ko": "기술적인",
+        "ja": "技術的な"
+      }
+    },
+    {
+      "index": 14,
+      "word": "billing",
+      "start": 89,
+      "end": 96,
+      "candidates": {
+        "fr": "facturation",
+        "es": "facturación",
+        "zh": "计费",
+        "ko": "청구",
+        "ja": "請求"
+      }
+    },
+    {
+      "index": 15,
+      "word": "login",
+      "start": 98,
+      "end": 103,
+      "candidates": {
+        "fr": "connexion",
+        "es": "inicio de sesión",
+        "zh": "登录",
+        "ko": "로그인",
+        "ja": "ログイン"
+      }
+    },
+    {
+      "index": 16,
+      "word": "or",
+      "start": 105,
+      "end": 107,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 17,
+      "word": "general",
+      "start": 108,
+      "end": 115,
+      "candidates": {
+        "fr": "général",
+        "es": "general",
+        "zh": "一般的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 18,
+      "word": "inquiries",
+      "start": 116,
+      "end": 125,
+      "candidates": {
+        "fr": "demande",
+        "es": "consulta",
+        "zh": "询问",
+        "ko": "문의",
+        "ja": "問い合わせ"
+      }
+    },
+    {
+      "index": 19,
+      "word": "If",
+      "start": 127,
+      "end": 129,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 20,
+      "word": "the",
+      "start": 130,
+      "end": 133,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 21,
+      "word": "issue",
+      "start": 134,
+      "end": 139,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 22,
+      "word": "is",
+      "start": 140,
+      "end": 142,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 23,
+      "word": "not",
+      "start": 143,
+      "end": 146,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 24,
+      "word": "clear",
+      "start": 147,
+      "end": 152,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 25,
+      "word": "default",
+      "start": 154,
+      "end": 161,
+      "candidates": {
+        "fr": "par défaut",
+        "es": "predeterminado",
+        "zh": "默认",
+        "ko": "기본값",
+        "ja": "既定"
+      }
+    },
+    {
+      "index": 26,
+      "word": "to",
+      "start": 162,
+      "end": 164,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 27,
+      "word": "the",
+      "start": 165,
+      "end": 168,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 28,
+      "word": "general",
+      "start": 170,
+      "end": 177,
+      "candidates": {
+        "fr": "général",
+        "es": "general",
+        "zh": "一般的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 29,
+      "word": "inquiry",
+      "start": 178,
+      "end": 185,
+      "candidates": {
+        "fr": "demande",
+        "es": "consulta",
+        "zh": "询问",
+        "ko": "문의",
+        "ja": "問い合わせ"
+      }
+    },
+    {
+      "index": 30,
+      "word": "category",
+      "start": 187,
+      "end": 195,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 31,
+      "word": "Provide",
+      "start": 197,
+      "end": 204,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 32,
+      "word": "a",
+      "start": 205,
+      "end": 206,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 33,
+      "word": "brief",
+      "start": 207,
+      "end": 212,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 34,
+      "word": "explanation",
+      "start": 213,
+      "end": 224,
+      "candidates": {
+        "fr": "explication",
+        "es": "explicación",
+        "zh": "解释",
+        "ko": "설명",
+        "ja": "説明"
+      }
+    },
+    {
+      "index": 35,
+      "word": "for",
+      "start": 225,
+      "end": 228,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 36,
+      "word": "each",
+      "start": 229,
+      "end": 233,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 37,
+      "word": "classification",
+      "start": 234,
+      "end": 248,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 38,
+      "word": "Maintain",
+      "start": 250,
+      "end": 258,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "professionalism",
+      "start": 259,
+      "end": 274,
+      "candidates": {
+        "fr": "professionnalisme",
+        "es": "profesionalismo",
+        "zh": "专业精神",
+        "ko": "전문성",
+        "ja": "プロ意識"
+      }
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 275,
+      "end": 278,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "consistency",
+      "start": 279,
+      "end": 290,
+      "candidates": {
+        "fr": "cohérence",
+        "es": "coherencia",
+        "zh": "一致性",
+        "ko": "일관성",
+        "ja": "一貫性"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Instructions",
+      "start": 295,
+      "end": 307,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Review",
+      "start": 313,
+      "end": 319,
+      "candidates": {
+        "fr": "revue",
+        "es": "revisión",
+        "zh": "综述",
+        "ko": "검토",
+        "ja": "レビュー"
+      }
+    },
+    {
+      "index": 44,
+      "word": "the",
+      "start": 320,
+      "end": 323,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 45,
+      "word": "text",
+      "start": 324,
+      "end": 328,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 46,
+      "word": "thoroughly",
+      "start": 329,
+      "end": 339,
+      "candidates": {
+        "fr": "soigneusement",
+        "es": "exhaustivamente",
+        "zh": "彻底地",
+        "ko": "철저히",
+        "ja": "徹底的に"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Classify",
+      "start": 344,
+      "end": 352,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 48,
+      "word": "according",
+      "start": 353,
+      "end": 362,
+      "candidates": {
+        "fr": "selon",
+        "es": "según",
+        "zh": "按照",
+        "ko": "따라",
+        "ja": "従って"
+      }
+    },
+    {
+      "index": 49,
+      "word": "to",
+      "start": 363,
+      "end": 365,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 50,
+      "word": "issue",
+      "start": 366,
+      "end": 371,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 51,
+      "word": "type",
+      "start": 372,
+      "end": 376,
+      "candidates": {
+        "fr": "type",
+        "es": "tipo",
+        "zh": "类型",
+        "ko": "유형",
+        "ja": "型"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Offer",
+      "start": 381,
+      "end": 386,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 53,
+      "word": "reasoning",
+      "start": 387,
+      "end": 396,
+      "candidates": {
+        "fr": "raisonnement",
+        "es": "razonamiento",
+        "zh": "推理",
+        "ko": "추론",
+        "ja": "推論"
+      }
+    },
+    {
+      "index": 54,
+      "word": "for",
+      "start": 397,
+      "end": 400,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 55,
+      "word": "your",
+      "start": 401,
+      "end": 405,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 56,
+      "word": "classification",
+      "start": 406,
+      "end": 420,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 57,
+      "word": "Remain",
+      "start": 425,
+      "end": 431,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 58,
+      "word": "concise",
+      "start": 432,
+      "end": 439,
+      "candidates": {
+        "fr": "concis",
+        "es": "conciso",
+        "zh": "简洁的",
+        "ko": "간결한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 59,
+      "word": "and",
+      "start": 440,
+      "end": 443,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 60,
+      "word": "clear",
+      "start": 444,
+      "end": 449,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1020 @@
+{
+  "prompt_id": "FC25",
+  "system_prompt": "Design a contract analyzer capable of extracting key terms and obligations from legal documents. When scanning documents, the output should include sections like parties involved, termination clauses, payment terms, and confidentiality agreements. Present findings in a structured format such as tables or bullet points to highlight the main elements. Stay impartial and limit interpretations to factual extractions. Be wary of making recommendations outside the scope of fulfilling the contract details analysis.\n\nDo not process classified or confidential information.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Design",
+      "start": 0,
+      "end": 6,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "a",
+      "start": 7,
+      "end": 8,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 2,
+      "word": "contract",
+      "start": 9,
+      "end": 17,
+      "candidates": {
+        "fr": "contrat",
+        "es": "contrato",
+        "zh": "合同",
+        "ko": "계약",
+        "ja": "契約"
+      }
+    },
+    {
+      "index": 3,
+      "word": "analyzer",
+      "start": 18,
+      "end": 26,
+      "candidates": {
+        "fr": "analyseur",
+        "es": "analizador",
+        "zh": "分析器",
+        "ko": "분석기",
+        "ja": "分析器"
+      }
+    },
+    {
+      "index": 4,
+      "word": "capable",
+      "start": 27,
+      "end": 34,
+      "candidates": {
+        "fr": "capable",
+        "es": "capaz",
+        "zh": "有能力的",
+        "ko": "능력 있는",
+        "ja": "能力のある"
+      }
+    },
+    {
+      "index": 5,
+      "word": "of",
+      "start": 35,
+      "end": 37,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 6,
+      "word": "extracting",
+      "start": 38,
+      "end": 48,
+      "candidates": {
+        "fr": "extraire",
+        "es": "extraer",
+        "zh": "提取",
+        "ko": "추출하다",
+        "ja": "抽出する"
+      }
+    },
+    {
+      "index": 7,
+      "word": "key",
+      "start": 49,
+      "end": 52,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 8,
+      "word": "terms",
+      "start": 53,
+      "end": 58,
+      "candidates": {
+        "fr": "terme",
+        "es": "término",
+        "zh": "术语",
+        "ko": "용어",
+        "ja": "用語"
+      }
+    },
+    {
+      "index": 9,
+      "word": "and",
+      "start": 59,
+      "end": 62,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 10,
+      "word": "obligations",
+      "start": 63,
+      "end": 74,
+      "candidates": {
+        "fr": "obligations",
+        "es": "obligaciones",
+        "zh": "义务",
+        "ko": "의무",
+        "ja": "義務"
+      }
+    },
+    {
+      "index": 11,
+      "word": "from",
+      "start": 75,
+      "end": 79,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 12,
+      "word": "legal",
+      "start": 80,
+      "end": 85,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 13,
+      "word": "documents",
+      "start": 86,
+      "end": 95,
+      "candidates": {
+        "fr": "document",
+        "es": "documento",
+        "zh": "文档",
+        "ko": "문서",
+        "ja": "文書"
+      }
+    },
+    {
+      "index": 14,
+      "word": "When",
+      "start": 97,
+      "end": 101,
+      "candidates": {
+        "fr": "quand",
+        "es": "cuándo",
+        "zh": "当时",
+        "ko": "언제",
+        "ja": "いつ"
+      }
+    },
+    {
+      "index": 15,
+      "word": "scanning",
+      "start": 102,
+      "end": 110,
+      "candidates": {
+        "fr": "analyse",
+        "es": "escaneo",
+        "zh": "扫描",
+        "ko": "스캔",
+        "ja": "走査"
+      }
+    },
+    {
+      "index": 16,
+      "word": "documents",
+      "start": 111,
+      "end": 120,
+      "candidates": {
+        "fr": "document",
+        "es": "documento",
+        "zh": "文档",
+        "ko": "문서",
+        "ja": "文書"
+      }
+    },
+    {
+      "index": 17,
+      "word": "the",
+      "start": 122,
+      "end": 125,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "output",
+      "start": 126,
+      "end": 132,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 19,
+      "word": "should",
+      "start": 133,
+      "end": 139,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 20,
+      "word": "include",
+      "start": 140,
+      "end": 147,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 21,
+      "word": "sections",
+      "start": 148,
+      "end": 156,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 22,
+      "word": "like",
+      "start": 157,
+      "end": 161,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "像",
+        "ko": "처럼",
+        "ja": "のように"
+      }
+    },
+    {
+      "index": 23,
+      "word": "parties",
+      "start": 162,
+      "end": 169,
+      "candidates": {
+        "fr": "parties",
+        "es": "partes",
+        "zh": "各方",
+        "ko": "당사자",
+        "ja": "当事者"
+      }
+    },
+    {
+      "index": 24,
+      "word": "involved",
+      "start": 170,
+      "end": 178,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 25,
+      "word": "termination",
+      "start": 180,
+      "end": 191,
+      "candidates": {
+        "fr": "résiliation",
+        "es": "terminación",
+        "zh": "终止",
+        "ko": "종료",
+        "ja": "終了"
+      }
+    },
+    {
+      "index": 26,
+      "word": "clauses",
+      "start": 192,
+      "end": 199,
+      "candidates": {
+        "fr": "clauses",
+        "es": "cláusulas",
+        "zh": "条款",
+        "ko": "조항",
+        "ja": "条項"
+      }
+    },
+    {
+      "index": 27,
+      "word": "payment",
+      "start": 201,
+      "end": 208,
+      "candidates": {
+        "fr": "paiement",
+        "es": "pago",
+        "zh": "付款",
+        "ko": "결제",
+        "ja": "支払い"
+      }
+    },
+    {
+      "index": 28,
+      "word": "terms",
+      "start": 209,
+      "end": 214,
+      "candidates": {
+        "fr": "terme",
+        "es": "término",
+        "zh": "术语",
+        "ko": "용어",
+        "ja": "用語"
+      }
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 216,
+      "end": 219,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "confidentiality",
+      "start": 220,
+      "end": 235,
+      "candidates": {
+        "fr": "confidentialité",
+        "es": "confidencialidad",
+        "zh": "保密性",
+        "ko": "기밀성",
+        "ja": "機密性"
+      }
+    },
+    {
+      "index": 31,
+      "word": "agreements",
+      "start": 236,
+      "end": 246,
+      "candidates": {
+        "fr": "accords",
+        "es": "acuerdos",
+        "zh": "协议",
+        "ko": "합의",
+        "ja": "合意"
+      }
+    },
+    {
+      "index": 32,
+      "word": "Present",
+      "start": 248,
+      "end": 255,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 33,
+      "word": "findings",
+      "start": 256,
+      "end": 264,
+      "candidates": {
+        "fr": "résultats",
+        "es": "hallazgos",
+        "zh": "发现",
+        "ko": "연구 결과",
+        "ja": "知見"
+      }
+    },
+    {
+      "index": 34,
+      "word": "in",
+      "start": 265,
+      "end": 267,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 35,
+      "word": "a",
+      "start": 268,
+      "end": 269,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 36,
+      "word": "structured",
+      "start": 270,
+      "end": 280,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 37,
+      "word": "format",
+      "start": 281,
+      "end": 287,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 38,
+      "word": "such",
+      "start": 288,
+      "end": 292,
+      "candidates": {
+        "fr": "tel",
+        "es": "tal",
+        "zh": "这样的",
+        "ko": "그러한",
+        "ja": "そのような"
+      }
+    },
+    {
+      "index": 39,
+      "word": "as",
+      "start": 293,
+      "end": 295,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 40,
+      "word": "tables",
+      "start": 296,
+      "end": 302,
+      "candidates": {
+        "fr": "tableaux",
+        "es": "tablas",
+        "zh": "表格",
+        "ko": "표",
+        "ja": "表"
+      }
+    },
+    {
+      "index": 41,
+      "word": "or",
+      "start": 303,
+      "end": 305,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 42,
+      "word": "bullet",
+      "start": 306,
+      "end": 312,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 43,
+      "word": "points",
+      "start": 313,
+      "end": 319,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 44,
+      "word": "to",
+      "start": 320,
+      "end": 322,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "highlight",
+      "start": 323,
+      "end": 332,
+      "candidates": {
+        "fr": "mettre en évidence",
+        "es": "destacar",
+        "zh": "突出",
+        "ko": "강조하다",
+        "ja": "強調する"
+      }
+    },
+    {
+      "index": 46,
+      "word": "the",
+      "start": 333,
+      "end": 336,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 47,
+      "word": "main",
+      "start": 337,
+      "end": 341,
+      "candidates": {
+        "fr": "principal",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 48,
+      "word": "elements",
+      "start": 342,
+      "end": 350,
+      "candidates": {
+        "fr": "éléments",
+        "es": "elementos",
+        "zh": "元素",
+        "ko": "요소",
+        "ja": "要素"
+      }
+    },
+    {
+      "index": 49,
+      "word": "Stay",
+      "start": 352,
+      "end": 356,
+      "candidates": {
+        "fr": "rester",
+        "es": "mantenerse",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 50,
+      "word": "impartial",
+      "start": 357,
+      "end": 366,
+      "candidates": {
+        "fr": "impartial",
+        "es": "imparcial",
+        "zh": "公正的",
+        "ko": "공정한",
+        "ja": "公平な"
+      }
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 367,
+      "end": 370,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "limit",
+      "start": 371,
+      "end": 376,
+      "candidates": {
+        "fr": "limite",
+        "es": "límite",
+        "zh": "限制",
+        "ko": "한계",
+        "ja": "制限"
+      }
+    },
+    {
+      "index": 53,
+      "word": "interpretations",
+      "start": 377,
+      "end": 392,
+      "candidates": {
+        "fr": "interprétation",
+        "es": "interpretación",
+        "zh": "解释",
+        "ko": "해석",
+        "ja": "解釈"
+      }
+    },
+    {
+      "index": 54,
+      "word": "to",
+      "start": 393,
+      "end": 395,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 55,
+      "word": "factual",
+      "start": 396,
+      "end": 403,
+      "candidates": {
+        "fr": "factuel",
+        "es": "fáctico",
+        "zh": "事实性的",
+        "ko": "사실적인",
+        "ja": "事実に基づく"
+      }
+    },
+    {
+      "index": 56,
+      "word": "extractions",
+      "start": 404,
+      "end": 415,
+      "candidates": {
+        "fr": "extractions",
+        "es": "extracciones",
+        "zh": "提取",
+        "ko": "추출",
+        "ja": "抽出"
+      }
+    },
+    {
+      "index": 57,
+      "word": "Be",
+      "start": 417,
+      "end": 419,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 58,
+      "word": "wary",
+      "start": 420,
+      "end": 424,
+      "candidates": {
+        "fr": "méfiant",
+        "es": "cauteloso",
+        "zh": "警惕的",
+        "ko": "경계하는",
+        "ja": "警戒する"
+      }
+    },
+    {
+      "index": 59,
+      "word": "of",
+      "start": 425,
+      "end": 427,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 60,
+      "word": "making",
+      "start": 428,
+      "end": 434,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "制作",
+        "ko": "만들다",
+        "ja": "作る"
+      }
+    },
+    {
+      "index": 61,
+      "word": "recommendations",
+      "start": 435,
+      "end": 450,
+      "candidates": {
+        "fr": "recommandations",
+        "es": "recomendaciones",
+        "zh": "建议",
+        "ko": "권고",
+        "ja": "推奨"
+      }
+    },
+    {
+      "index": 62,
+      "word": "outside",
+      "start": 451,
+      "end": 458,
+      "candidates": {
+        "fr": "à l’extérieur",
+        "es": "fuera",
+        "zh": "外面",
+        "ko": "외부",
+        "ja": "外部"
+      }
+    },
+    {
+      "index": 63,
+      "word": "the",
+      "start": 459,
+      "end": 462,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 64,
+      "word": "scope",
+      "start": 463,
+      "end": 468,
+      "candidates": {
+        "fr": "portée",
+        "es": "alcance",
+        "zh": "范围",
+        "ko": "범위",
+        "ja": "範囲"
+      }
+    },
+    {
+      "index": 65,
+      "word": "of",
+      "start": 469,
+      "end": 471,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 66,
+      "word": "fulfilling",
+      "start": 472,
+      "end": 482,
+      "candidates": {
+        "fr": "satisfaisant",
+        "es": "satisfactorio",
+        "zh": "令人满足的",
+        "ko": "보람 있는",
+        "ja": "充実した"
+      }
+    },
+    {
+      "index": 67,
+      "word": "the",
+      "start": 483,
+      "end": 486,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 68,
+      "word": "contract",
+      "start": 487,
+      "end": 495,
+      "candidates": {
+        "fr": "contrat",
+        "es": "contrato",
+        "zh": "合同",
+        "ko": "계약",
+        "ja": "契約"
+      }
+    },
+    {
+      "index": 69,
+      "word": "details",
+      "start": 496,
+      "end": 503,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 70,
+      "word": "analysis",
+      "start": 504,
+      "end": 512,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 71,
+      "word": "Do",
+      "start": 515,
+      "end": 517,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 72,
+      "word": "not",
+      "start": 518,
+      "end": 521,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 73,
+      "word": "process",
+      "start": 522,
+      "end": 529,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 74,
+      "word": "classified",
+      "start": 530,
+      "end": 540,
+      "candidates": {
+        "fr": "classé",
+        "es": "clasificado",
+        "zh": "已分类的",
+        "ko": "분류된",
+        "ja": "分類された"
+      }
+    },
+    {
+      "index": 75,
+      "word": "or",
+      "start": 541,
+      "end": 543,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 76,
+      "word": "confidential",
+      "start": 544,
+      "end": 556,
+      "candidates": {
+        "fr": "confidentiel",
+        "es": "confidencial",
+        "zh": "机密的",
+        "ko": "기밀의",
+        "ja": "機密の"
+      }
+    },
+    {
+      "index": 77,
+      "word": "information",
+      "start": 557,
+      "end": 568,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    }
+  ]
+}

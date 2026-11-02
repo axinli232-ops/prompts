@@ -1,0 +1,955 @@
+{
+  "prompt_id": "LR16",
+  "system_prompt": "Analyze submitted textual data to classify its subject matter. You will categorize the data into one of the predefined categories: Technology, Health, Economy, Culture, Environment, and Education. Extract keywords if necessary to assist in classification. If data contains mixed subjects, assign it to the category that is most represented. Avoid assumptions based on minimal context. Provide categorization rationale in 2-3 sentences explaining your choice. Do not categorize content that uses offensive or suggestive language.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Analyze",
+      "start": 0,
+      "end": 7,
+      "candidates": {
+        "fr": "analyser",
+        "es": "analizar",
+        "zh": "分析",
+        "ko": "분석하다",
+        "ja": "分析する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "submitted",
+      "start": 8,
+      "end": 17,
+      "candidates": {
+        "fr": "soumis",
+        "es": "enviado",
+        "zh": "已提交的",
+        "ko": "제출된",
+        "ja": "提出された"
+      }
+    },
+    {
+      "index": 2,
+      "word": "textual",
+      "start": 18,
+      "end": 25,
+      "candidates": {
+        "fr": "textuel",
+        "es": "textual",
+        "zh": "文本的",
+        "ko": "텍스트의",
+        "ja": "テキストの"
+      }
+    },
+    {
+      "index": 3,
+      "word": "data",
+      "start": 26,
+      "end": 30,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "to",
+      "start": 31,
+      "end": 33,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 5,
+      "word": "classify",
+      "start": 34,
+      "end": 42,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "its",
+      "start": 43,
+      "end": 46,
+      "candidates": {
+        "fr": "son",
+        "es": "su",
+        "zh": "它的",
+        "ko": "그것의",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "subject",
+      "start": 47,
+      "end": 54,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 8,
+      "word": "matter",
+      "start": 55,
+      "end": 61,
+      "candidates": {
+        "fr": "sujet",
+        "es": "asunto",
+        "zh": "事项",
+        "ko": "사안",
+        "ja": "事柄"
+      }
+    },
+    {
+      "index": 9,
+      "word": "You",
+      "start": 63,
+      "end": 66,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 10,
+      "word": "will",
+      "start": 67,
+      "end": 71,
+      "candidates": {
+        "fr": "aller",
+        "es": "irá a",
+        "zh": "将",
+        "ko": "할 것이다",
+        "ja": "するだろう"
+      }
+    },
+    {
+      "index": 11,
+      "word": "categorize",
+      "start": 72,
+      "end": 82,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 12,
+      "word": "the",
+      "start": 83,
+      "end": 86,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 13,
+      "word": "data",
+      "start": 87,
+      "end": 91,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 14,
+      "word": "into",
+      "start": 92,
+      "end": 96,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 15,
+      "word": "one",
+      "start": 97,
+      "end": 100,
+      "candidates": {
+        "fr": "un",
+        "es": "uno",
+        "zh": "一",
+        "ko": "하나",
+        "ja": "一"
+      }
+    },
+    {
+      "index": 16,
+      "word": "of",
+      "start": 101,
+      "end": 103,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 17,
+      "word": "the",
+      "start": 104,
+      "end": 107,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "predefined",
+      "start": 108,
+      "end": 118,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 19,
+      "word": "categories",
+      "start": 119,
+      "end": 129,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Technology",
+      "start": 131,
+      "end": 141,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Health",
+      "start": 143,
+      "end": 149,
+      "candidates": {
+        "fr": "santé",
+        "es": "salud",
+        "zh": "健康",
+        "ko": "건강",
+        "ja": "健康"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Economy",
+      "start": 151,
+      "end": 158,
+      "candidates": {
+        "fr": "économie",
+        "es": "economía",
+        "zh": "经济",
+        "ko": "경제",
+        "ja": "経済"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Culture",
+      "start": 160,
+      "end": 167,
+      "candidates": {
+        "fr": "culture",
+        "es": "cultura",
+        "zh": "文化",
+        "ko": "문화",
+        "ja": "文化"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Environment",
+      "start": 169,
+      "end": 180,
+      "candidates": {
+        "fr": "environnement",
+        "es": "entorno",
+        "zh": "环境",
+        "ko": "환경",
+        "ja": "環境"
+      }
+    },
+    {
+      "index": 25,
+      "word": "and",
+      "start": 182,
+      "end": 185,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Education",
+      "start": 186,
+      "end": 195,
+      "candidates": {
+        "fr": "éducation",
+        "es": "educación",
+        "zh": "教育",
+        "ko": "교육",
+        "ja": "教育"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Extract",
+      "start": 197,
+      "end": 204,
+      "candidates": {
+        "fr": "extraire",
+        "es": "extraer",
+        "zh": "提取",
+        "ko": "추출하다",
+        "ja": "抽出する"
+      }
+    },
+    {
+      "index": 28,
+      "word": "keywords",
+      "start": 205,
+      "end": 213,
+      "candidates": {
+        "fr": "mots-clés",
+        "es": "palabras clave",
+        "zh": "关键词",
+        "ko": "키워드",
+        "ja": "キーワード"
+      }
+    },
+    {
+      "index": 29,
+      "word": "if",
+      "start": 214,
+      "end": 216,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 30,
+      "word": "necessary",
+      "start": 217,
+      "end": 226,
+      "candidates": {
+        "fr": "nécessaire",
+        "es": "necesario",
+        "zh": "必要的",
+        "ko": "필요한",
+        "ja": "必要な"
+      }
+    },
+    {
+      "index": 31,
+      "word": "to",
+      "start": 227,
+      "end": 229,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "assist",
+      "start": 230,
+      "end": 236,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 33,
+      "word": "in",
+      "start": 237,
+      "end": 239,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 34,
+      "word": "classification",
+      "start": 240,
+      "end": 254,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 35,
+      "word": "If",
+      "start": 256,
+      "end": 258,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 36,
+      "word": "data",
+      "start": 259,
+      "end": 263,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 37,
+      "word": "contains",
+      "start": 264,
+      "end": 272,
+      "candidates": {
+        "fr": "contient",
+        "es": "contiene",
+        "zh": "包含",
+        "ko": "포함하다",
+        "ja": "含む"
+      }
+    },
+    {
+      "index": 38,
+      "word": "mixed",
+      "start": 273,
+      "end": 278,
+      "candidates": {
+        "fr": "mélange",
+        "es": "mezcla",
+        "zh": "混合",
+        "ko": "혼합",
+        "ja": "混合"
+      }
+    },
+    {
+      "index": 39,
+      "word": "subjects",
+      "start": 279,
+      "end": 287,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 40,
+      "word": "assign",
+      "start": 289,
+      "end": 295,
+      "candidates": {
+        "fr": "attribuer",
+        "es": "asignar",
+        "zh": "分配",
+        "ko": "배정하다",
+        "ja": "割り当てる"
+      }
+    },
+    {
+      "index": 41,
+      "word": "it",
+      "start": 296,
+      "end": 298,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 42,
+      "word": "to",
+      "start": 299,
+      "end": 301,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 43,
+      "word": "the",
+      "start": 302,
+      "end": 305,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 44,
+      "word": "category",
+      "start": 306,
+      "end": 314,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "that",
+      "start": 315,
+      "end": 319,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 46,
+      "word": "is",
+      "start": 320,
+      "end": 322,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 47,
+      "word": "most",
+      "start": 323,
+      "end": 327,
+      "candidates": {
+        "fr": "le plus",
+        "es": "la mayoría",
+        "zh": "最多",
+        "ko": "가장 많은",
+        "ja": "最も多くの"
+      }
+    },
+    {
+      "index": 48,
+      "word": "represented",
+      "start": 328,
+      "end": 339,
+      "candidates": {
+        "fr": "représenter",
+        "es": "representar",
+        "zh": "代表",
+        "ko": "대표하다",
+        "ja": "表す"
+      }
+    },
+    {
+      "index": 49,
+      "word": "Avoid",
+      "start": 341,
+      "end": 346,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 50,
+      "word": "assumptions",
+      "start": 347,
+      "end": 358,
+      "candidates": {
+        "fr": "hypothèses",
+        "es": "suposiciones",
+        "zh": "假设",
+        "ko": "가정",
+        "ja": "仮定"
+      }
+    },
+    {
+      "index": 51,
+      "word": "based",
+      "start": 359,
+      "end": 364,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 52,
+      "word": "on",
+      "start": 365,
+      "end": 367,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 53,
+      "word": "minimal",
+      "start": 368,
+      "end": 375,
+      "candidates": {
+        "fr": "minimal",
+        "es": "mínimo",
+        "zh": "最小的",
+        "ko": "최소한의",
+        "ja": "最小限の"
+      }
+    },
+    {
+      "index": 54,
+      "word": "context",
+      "start": 376,
+      "end": 383,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Provide",
+      "start": 385,
+      "end": 392,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 56,
+      "word": "categorization",
+      "start": 393,
+      "end": 407,
+      "candidates": {
+        "fr": "catégorisation",
+        "es": "categorización",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 57,
+      "word": "rationale",
+      "start": 408,
+      "end": 417,
+      "candidates": {
+        "fr": "justification",
+        "es": "fundamento",
+        "zh": "理由",
+        "ko": "근거",
+        "ja": "根拠"
+      }
+    },
+    {
+      "index": 58,
+      "word": "in",
+      "start": 418,
+      "end": 420,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 59,
+      "word": "sentences",
+      "start": 425,
+      "end": 434,
+      "candidates": {
+        "fr": "phrase",
+        "es": "oración",
+        "zh": "句子",
+        "ko": "문장",
+        "ja": "文"
+      }
+    },
+    {
+      "index": 60,
+      "word": "explaining",
+      "start": 435,
+      "end": 445,
+      "candidates": {
+        "fr": "expliquer",
+        "es": "explicar",
+        "zh": "解释",
+        "ko": "설명하다",
+        "ja": "説明する"
+      }
+    },
+    {
+      "index": 61,
+      "word": "your",
+      "start": 446,
+      "end": 450,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 62,
+      "word": "choice",
+      "start": 451,
+      "end": 457,
+      "candidates": {
+        "fr": "choix",
+        "es": "elección",
+        "zh": "选择",
+        "ko": "선택",
+        "ja": "選択"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Do",
+      "start": 459,
+      "end": 461,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 64,
+      "word": "not",
+      "start": 462,
+      "end": 465,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 65,
+      "word": "categorize",
+      "start": 466,
+      "end": 476,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 66,
+      "word": "content",
+      "start": 477,
+      "end": 484,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 67,
+      "word": "that",
+      "start": 485,
+      "end": 489,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 68,
+      "word": "uses",
+      "start": 490,
+      "end": 494,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 69,
+      "word": "offensive",
+      "start": 495,
+      "end": 504,
+      "candidates": {
+        "fr": "offensant",
+        "es": "ofensivo",
+        "zh": "冒犯性的",
+        "ko": "모욕적인",
+        "ja": "攻撃的な"
+      }
+    },
+    {
+      "index": 70,
+      "word": "or",
+      "start": 505,
+      "end": 507,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 71,
+      "word": "suggestive",
+      "start": 508,
+      "end": 518,
+      "candidates": {
+        "fr": "évocateur",
+        "es": "sugestivo",
+        "zh": "暗示性的",
+        "ko": "암시적인",
+        "ja": "示唆的な"
+      }
+    },
+    {
+      "index": 72,
+      "word": "language",
+      "start": 519,
+      "end": 527,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    }
+  ]
+}

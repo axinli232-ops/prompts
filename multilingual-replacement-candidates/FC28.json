@@ -1,0 +1,1202 @@
+{
+  "prompt_id": "FC28",
+  "system_prompt": "You are a fashion trend analyst who predicts upcoming wardrobe essentials. Collect data from various fashion shows, street styles, and social media to analyze emerging trends. Present findings in a concise report format highlighting key trends, influential designers and geographic variations. Adapt focus based on seasonal changes and cultural festivals affecting fashion. You must avoid personal biases and remain neutral in style analysis. ### REQUIRED SECTIONS • **Trend Overview**: Summary of key seasonal trends. • **Influencer Impact**: Designers and celebrities driving trends. • **Regional Differences**: How trends vary by location. • **Retail Forecast**: Predicated consumer demand segments.",
+  "words": [
+    {
+      "index": 0,
+      "word": "You",
+      "start": 0,
+      "end": 3,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 1,
+      "word": "are",
+      "start": 4,
+      "end": 7,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "a",
+      "start": 8,
+      "end": 9,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "fashion",
+      "start": 10,
+      "end": 17,
+      "candidates": {
+        "fr": "mode",
+        "es": "moda",
+        "zh": "时尚",
+        "ko": "패션",
+        "ja": "ファッション"
+      }
+    },
+    {
+      "index": 4,
+      "word": "trend",
+      "start": 18,
+      "end": 23,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 5,
+      "word": "analyst",
+      "start": 24,
+      "end": 31,
+      "candidates": {
+        "fr": "analyste",
+        "es": "analista",
+        "zh": "分析师",
+        "ko": "분석가",
+        "ja": "分析者"
+      }
+    },
+    {
+      "index": 6,
+      "word": "who",
+      "start": 32,
+      "end": 35,
+      "candidates": {
+        "fr": "qui",
+        "es": "quién",
+        "zh": "谁",
+        "ko": "누구",
+        "ja": "誰"
+      }
+    },
+    {
+      "index": 7,
+      "word": "predicts",
+      "start": 36,
+      "end": 44,
+      "candidates": {
+        "fr": "prédit",
+        "es": "predice",
+        "zh": "预测",
+        "ko": "예측하다",
+        "ja": "予測する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "upcoming",
+      "start": 45,
+      "end": 53,
+      "candidates": {
+        "fr": "à venir",
+        "es": "próximo",
+        "zh": "即将到来的",
+        "ko": "다가오는",
+        "ja": "今後の"
+      }
+    },
+    {
+      "index": 9,
+      "word": "wardrobe",
+      "start": 54,
+      "end": 62,
+      "candidates": {
+        "fr": "garde-robe",
+        "es": "vestuario",
+        "zh": "衣橱",
+        "ko": "옷장",
+        "ja": "ワードローブ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "essentials",
+      "start": 63,
+      "end": 73,
+      "candidates": {
+        "fr": "essentiel",
+        "es": "esencial",
+        "zh": "必要的",
+        "ko": "필수적인",
+        "ja": "不可欠な"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Collect",
+      "start": 75,
+      "end": 82,
+      "candidates": {
+        "fr": "collecter",
+        "es": "recopilar",
+        "zh": "收集",
+        "ko": "수집하다",
+        "ja": "収集する"
+      }
+    },
+    {
+      "index": 12,
+      "word": "data",
+      "start": 83,
+      "end": 87,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "from",
+      "start": 88,
+      "end": 92,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 14,
+      "word": "various",
+      "start": 93,
+      "end": 100,
+      "candidates": {
+        "fr": "divers",
+        "es": "varios",
+        "zh": "各种",
+        "ko": "여러 가지",
+        "ja": "さまざまな"
+      }
+    },
+    {
+      "index": 15,
+      "word": "fashion",
+      "start": 101,
+      "end": 108,
+      "candidates": {
+        "fr": "mode",
+        "es": "moda",
+        "zh": "时尚",
+        "ko": "패션",
+        "ja": "ファッション"
+      }
+    },
+    {
+      "index": 16,
+      "word": "shows",
+      "start": 109,
+      "end": 114,
+      "candidates": {
+        "fr": "montre",
+        "es": "muestra",
+        "zh": "显示",
+        "ko": "보여 주다",
+        "ja": "示す"
+      }
+    },
+    {
+      "index": 17,
+      "word": "street",
+      "start": 116,
+      "end": 122,
+      "candidates": {
+        "fr": "rue",
+        "es": "calle",
+        "zh": "街道",
+        "ko": "거리",
+        "ja": "通り"
+      }
+    },
+    {
+      "index": 18,
+      "word": "styles",
+      "start": 123,
+      "end": 129,
+      "candidates": {
+        "fr": "style",
+        "es": "estilo",
+        "zh": "风格",
+        "ko": "문체",
+        "ja": "文体"
+      }
+    },
+    {
+      "index": 19,
+      "word": "and",
+      "start": 131,
+      "end": 134,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 20,
+      "word": "social",
+      "start": 135,
+      "end": 141,
+      "candidates": {
+        "fr": "social",
+        "es": "social",
+        "zh": "社会的",
+        "ko": "사회의",
+        "ja": "社会的な"
+      }
+    },
+    {
+      "index": 21,
+      "word": "media",
+      "start": 142,
+      "end": 147,
+      "candidates": {
+        "fr": "médias",
+        "es": "medios",
+        "zh": "媒体",
+        "ko": "미디어",
+        "ja": "メディア"
+      }
+    },
+    {
+      "index": 22,
+      "word": "to",
+      "start": 148,
+      "end": 150,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 23,
+      "word": "analyze",
+      "start": 151,
+      "end": 158,
+      "candidates": {
+        "fr": "analyser",
+        "es": "analizar",
+        "zh": "分析",
+        "ko": "분석하다",
+        "ja": "分析する"
+      }
+    },
+    {
+      "index": 24,
+      "word": "emerging",
+      "start": 159,
+      "end": 167,
+      "candidates": {
+        "fr": "émergent",
+        "es": "emergente",
+        "zh": "新兴的",
+        "ko": "새롭게 등장하는",
+        "ja": "新興の"
+      }
+    },
+    {
+      "index": 25,
+      "word": "trends",
+      "start": 168,
+      "end": 174,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Present",
+      "start": 176,
+      "end": 183,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 27,
+      "word": "findings",
+      "start": 184,
+      "end": 192,
+      "candidates": {
+        "fr": "résultats",
+        "es": "hallazgos",
+        "zh": "发现",
+        "ko": "연구 결과",
+        "ja": "知見"
+      }
+    },
+    {
+      "index": 28,
+      "word": "in",
+      "start": 193,
+      "end": 195,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 29,
+      "word": "a",
+      "start": 196,
+      "end": 197,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 30,
+      "word": "concise",
+      "start": 198,
+      "end": 205,
+      "candidates": {
+        "fr": "concis",
+        "es": "conciso",
+        "zh": "简洁的",
+        "ko": "간결한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 31,
+      "word": "report",
+      "start": 206,
+      "end": 212,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 32,
+      "word": "format",
+      "start": 213,
+      "end": 219,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 33,
+      "word": "highlighting",
+      "start": 220,
+      "end": 232,
+      "candidates": {
+        "fr": "mettre en évidence",
+        "es": "destacar",
+        "zh": "突出",
+        "ko": "강조하다",
+        "ja": "強調する"
+      }
+    },
+    {
+      "index": 34,
+      "word": "key",
+      "start": 233,
+      "end": 236,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 35,
+      "word": "trends",
+      "start": 237,
+      "end": 243,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 36,
+      "word": "influential",
+      "start": 245,
+      "end": 256,
+      "candidates": {
+        "fr": "influent",
+        "es": "influyente",
+        "zh": "有影响力的",
+        "ko": "영향력 있는",
+        "ja": "影響力のある"
+      }
+    },
+    {
+      "index": 37,
+      "word": "designers",
+      "start": 257,
+      "end": 266,
+      "candidates": {
+        "fr": "concepteurs",
+        "es": "diseñadores",
+        "zh": "设计师",
+        "ko": "디자이너",
+        "ja": "設計者"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 267,
+      "end": 270,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "geographic",
+      "start": 271,
+      "end": 281,
+      "candidates": {
+        "fr": "géographique",
+        "es": "geográfico",
+        "zh": "地理的",
+        "ko": "지리적인",
+        "ja": "地理的な"
+      }
+    },
+    {
+      "index": 40,
+      "word": "variations",
+      "start": 282,
+      "end": 292,
+      "candidates": {
+        "fr": "variations",
+        "es": "variaciones",
+        "zh": "变体",
+        "ko": "변형",
+        "ja": "変種"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Adapt",
+      "start": 294,
+      "end": 299,
+      "candidates": {
+        "fr": "adapter",
+        "es": "adaptar",
+        "zh": "调整",
+        "ko": "적응시키다",
+        "ja": "適応させる"
+      }
+    },
+    {
+      "index": 42,
+      "word": "focus",
+      "start": 300,
+      "end": 305,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "based",
+      "start": 306,
+      "end": 311,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 44,
+      "word": "on",
+      "start": 312,
+      "end": 314,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 45,
+      "word": "seasonal",
+      "start": 315,
+      "end": 323,
+      "candidates": {
+        "fr": "saisonnier",
+        "es": "estacional",
+        "zh": "季节性的",
+        "ko": "계절의",
+        "ja": "季節の"
+      }
+    },
+    {
+      "index": 46,
+      "word": "changes",
+      "start": 324,
+      "end": 331,
+      "candidates": {
+        "fr": "changements",
+        "es": "cambios",
+        "zh": "变化",
+        "ko": "변화",
+        "ja": "変更"
+      }
+    },
+    {
+      "index": 47,
+      "word": "and",
+      "start": 332,
+      "end": 335,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 48,
+      "word": "cultural",
+      "start": 336,
+      "end": 344,
+      "candidates": {
+        "fr": "culturel",
+        "es": "cultural",
+        "zh": "文化的",
+        "ko": "문화적인",
+        "ja": "文化的な"
+      }
+    },
+    {
+      "index": 49,
+      "word": "festivals",
+      "start": 345,
+      "end": 354,
+      "candidates": {
+        "fr": "festivals",
+        "es": "festivales",
+        "zh": "节庆",
+        "ko": "축제",
+        "ja": "祭り"
+      }
+    },
+    {
+      "index": 50,
+      "word": "affecting",
+      "start": 355,
+      "end": 364,
+      "candidates": {
+        "fr": "affecter",
+        "es": "afectar",
+        "zh": "影响",
+        "ko": "영향을 미치다",
+        "ja": "影響する"
+      }
+    },
+    {
+      "index": 51,
+      "word": "fashion",
+      "start": 365,
+      "end": 372,
+      "candidates": {
+        "fr": "mode",
+        "es": "moda",
+        "zh": "时尚",
+        "ko": "패션",
+        "ja": "ファッション"
+      }
+    },
+    {
+      "index": 52,
+      "word": "You",
+      "start": 374,
+      "end": 377,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 53,
+      "word": "must",
+      "start": 378,
+      "end": 382,
+      "candidates": {
+        "fr": "devoir",
+        "es": "deber",
+        "zh": "必须",
+        "ko": "해야 한다",
+        "ja": "しなければならない"
+      }
+    },
+    {
+      "index": 54,
+      "word": "avoid",
+      "start": 383,
+      "end": 388,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 55,
+      "word": "personal",
+      "start": 389,
+      "end": 397,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 56,
+      "word": "biases",
+      "start": 398,
+      "end": 404,
+      "candidates": {
+        "fr": "biais",
+        "es": "sesgo",
+        "zh": "偏见",
+        "ko": "편향",
+        "ja": "偏り"
+      }
+    },
+    {
+      "index": 57,
+      "word": "and",
+      "start": 405,
+      "end": 408,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 58,
+      "word": "remain",
+      "start": 409,
+      "end": 415,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 59,
+      "word": "neutral",
+      "start": 416,
+      "end": 423,
+      "candidates": {
+        "fr": "neutre",
+        "es": "neutral",
+        "zh": "中性的",
+        "ko": "중립적인",
+        "ja": "中立的な"
+      }
+    },
+    {
+      "index": 60,
+      "word": "in",
+      "start": 424,
+      "end": 426,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 61,
+      "word": "style",
+      "start": 427,
+      "end": 432,
+      "candidates": {
+        "fr": "style",
+        "es": "estilo",
+        "zh": "风格",
+        "ko": "문체",
+        "ja": "文体"
+      }
+    },
+    {
+      "index": 62,
+      "word": "analysis",
+      "start": 433,
+      "end": 441,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 63,
+      "word": "REQUIRED",
+      "start": 447,
+      "end": 455,
+      "candidates": {
+        "fr": "exiger",
+        "es": "requerir",
+        "zh": "要求",
+        "ko": "요구하다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 64,
+      "word": "SECTIONS",
+      "start": 456,
+      "end": 464,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 65,
+      "word": "Trend",
+      "start": 469,
+      "end": 474,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Overview",
+      "start": 475,
+      "end": 483,
+      "candidates": {
+        "fr": "vue d’ensemble",
+        "es": "visión general",
+        "zh": "概览",
+        "ko": "개요",
+        "ja": "概要"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Summary",
+      "start": 487,
+      "end": 494,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 68,
+      "word": "of",
+      "start": 495,
+      "end": 497,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 69,
+      "word": "key",
+      "start": 498,
+      "end": 501,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 70,
+      "word": "seasonal",
+      "start": 502,
+      "end": 510,
+      "candidates": {
+        "fr": "saisonnier",
+        "es": "estacional",
+        "zh": "季节性的",
+        "ko": "계절의",
+        "ja": "季節の"
+      }
+    },
+    {
+      "index": 71,
+      "word": "trends",
+      "start": 511,
+      "end": 517,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Influencer",
+      "start": 523,
+      "end": 533,
+      "candidates": {
+        "fr": "influenceur",
+        "es": "influente",
+        "zh": "意见领袖",
+        "ko": "인플루언서",
+        "ja": "インフルエンサー"
+      }
+    },
+    {
+      "index": 73,
+      "word": "Impact",
+      "start": 534,
+      "end": 540,
+      "candidates": {
+        "fr": "impact",
+        "es": "impacto",
+        "zh": "影响",
+        "ko": "영향",
+        "ja": "影響"
+      }
+    },
+    {
+      "index": 74,
+      "word": "Designers",
+      "start": 544,
+      "end": 553,
+      "candidates": {
+        "fr": "concepteurs",
+        "es": "diseñadores",
+        "zh": "设计师",
+        "ko": "디자이너",
+        "ja": "設計者"
+      }
+    },
+    {
+      "index": 75,
+      "word": "and",
+      "start": 554,
+      "end": 557,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 76,
+      "word": "celebrities",
+      "start": 558,
+      "end": 569,
+      "candidates": {
+        "fr": "célébrités",
+        "es": "celebridades",
+        "zh": "名人",
+        "ko": "유명인",
+        "ja": "著名人"
+      }
+    },
+    {
+      "index": 77,
+      "word": "driving",
+      "start": 570,
+      "end": 577,
+      "candidates": {
+        "fr": "moteur",
+        "es": "impulsor",
+        "zh": "驱动",
+        "ko": "추진",
+        "ja": "推進"
+      }
+    },
+    {
+      "index": 78,
+      "word": "trends",
+      "start": 578,
+      "end": 584,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Regional",
+      "start": 590,
+      "end": 598,
+      "candidates": {
+        "fr": "régional",
+        "es": "regional",
+        "zh": "区域的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Differences",
+      "start": 599,
+      "end": 610,
+      "candidates": {
+        "fr": "différences",
+        "es": "diferencias",
+        "zh": "差异",
+        "ko": "차이",
+        "ja": "相違"
+      }
+    },
+    {
+      "index": 81,
+      "word": "How",
+      "start": 614,
+      "end": 617,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 82,
+      "word": "trends",
+      "start": 618,
+      "end": 624,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 83,
+      "word": "vary",
+      "start": 625,
+      "end": 629,
+      "candidates": {
+        "fr": "varier",
+        "es": "variar",
+        "zh": "变化",
+        "ko": "달라지다",
+        "ja": "変化する"
+      }
+    },
+    {
+      "index": 84,
+      "word": "by",
+      "start": 630,
+      "end": 632,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 85,
+      "word": "location",
+      "start": 633,
+      "end": 641,
+      "candidates": {
+        "fr": "emplacement",
+        "es": "ubicación",
+        "zh": "位置",
+        "ko": "위치",
+        "ja": "位置"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Retail",
+      "start": 647,
+      "end": 653,
+      "candidates": {
+        "fr": "vente au détail",
+        "es": "venta minorista",
+        "zh": "零售",
+        "ko": "소매",
+        "ja": "小売"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Forecast",
+      "start": 654,
+      "end": 662,
+      "candidates": {
+        "fr": "prévision",
+        "es": "pronóstico",
+        "zh": "预测",
+        "ko": "예측",
+        "ja": "予測"
+      }
+    },
+    {
+      "index": 88,
+      "word": "Predicated",
+      "start": 666,
+      "end": 676,
+      "candidates": {
+        "fr": "fondé",
+        "es": "basado",
+        "zh": "基于",
+        "ko": "기반한",
+        "ja": "に基づく"
+      }
+    },
+    {
+      "index": 89,
+      "word": "consumer",
+      "start": 677,
+      "end": 685,
+      "candidates": {
+        "fr": "consommateur",
+        "es": "consumidor",
+        "zh": "消费者",
+        "ko": "소비자",
+        "ja": "消費者"
+      }
+    },
+    {
+      "index": 90,
+      "word": "demand",
+      "start": 686,
+      "end": 692,
+      "candidates": {
+        "fr": "demande",
+        "es": "demanda",
+        "zh": "需求",
+        "ko": "수요",
+        "ja": "需要"
+      }
+    },
+    {
+      "index": 91,
+      "word": "segments",
+      "start": 693,
+      "end": 701,
+      "candidates": {
+        "fr": "segment",
+        "es": "segmento",
+        "zh": "片段",
+        "ko": "구간",
+        "ja": "区間"
+      }
+    }
+  ]
+}

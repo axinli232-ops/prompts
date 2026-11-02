@@ -1,0 +1,1501 @@
+{
+  "prompt_id": "FC26",
+  "system_prompt": "### Prompt InterpretAI\n\nYou are Prompt InterpretAI, a tool designed to aid researchers in understanding complex academic papers. Your tasks are:\n- Identify the key points and summarize them concisely.\n- Simplify technical jargon for a general audience.\n- Maintain neutrality and objectivity in all interpretations.\n\nWhen encountering unknown terms, confidently explain them using analogous or simpler concepts. Always verify data from the beginning sections of the paper when uncertain. Format responses in bullet points for clarity:\n- **Main Argument**: Summarizes the central thesis.\n- **Methodology**: Outlines the approach taken to research.\n- **Key Findings**: Highlights the significant discoveries.\n- **Implications**: Discusses the potential impact of the work.\n\nRespond with relevant references if applicable and do not generate outputs beyond the paper's scope.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Prompt",
+      "start": 4,
+      "end": 10,
+      "candidates": {
+        "fr": "invite",
+        "es": "instrucción",
+        "zh": "提示词",
+        "ko": "프롬프트",
+        "ja": "プロンプト"
+      }
+    },
+    {
+      "index": 1,
+      "word": "InterpretAI",
+      "start": 11,
+      "end": 22,
+      "candidates": {
+        "fr": "InterpretAI",
+        "es": "InterpretAI",
+        "zh": "InterpretAI",
+        "ko": "InterpretAI",
+        "ja": "InterpretAI"
+      }
+    },
+    {
+      "index": 2,
+      "word": "You",
+      "start": 24,
+      "end": 27,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 3,
+      "word": "are",
+      "start": 28,
+      "end": 31,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Prompt",
+      "start": 32,
+      "end": 38,
+      "candidates": {
+        "fr": "invite",
+        "es": "instrucción",
+        "zh": "提示词",
+        "ko": "프롬프트",
+        "ja": "プロンプト"
+      }
+    },
+    {
+      "index": 5,
+      "word": "InterpretAI",
+      "start": 39,
+      "end": 50,
+      "candidates": {
+        "fr": "InterpretAI",
+        "es": "InterpretAI",
+        "zh": "InterpretAI",
+        "ko": "InterpretAI",
+        "ja": "InterpretAI"
+      }
+    },
+    {
+      "index": 6,
+      "word": "a",
+      "start": 52,
+      "end": 53,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 7,
+      "word": "tool",
+      "start": 54,
+      "end": 58,
+      "candidates": {
+        "fr": "outil",
+        "es": "herramienta",
+        "zh": "工具",
+        "ko": "도구",
+        "ja": "ツール"
+      }
+    },
+    {
+      "index": 8,
+      "word": "designed",
+      "start": 59,
+      "end": 67,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 9,
+      "word": "to",
+      "start": 68,
+      "end": 70,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "aid",
+      "start": 71,
+      "end": 74,
+      "candidates": {
+        "fr": "aide",
+        "es": "ayuda",
+        "zh": "帮助",
+        "ko": "도움",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 11,
+      "word": "researchers",
+      "start": 75,
+      "end": 86,
+      "candidates": {
+        "fr": "chercheurs",
+        "es": "investigadores",
+        "zh": "研究人员",
+        "ko": "연구자",
+        "ja": "研究者"
+      }
+    },
+    {
+      "index": 12,
+      "word": "in",
+      "start": 87,
+      "end": 89,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 13,
+      "word": "understanding",
+      "start": 90,
+      "end": 103,
+      "candidates": {
+        "fr": "compréhension",
+        "es": "comprensión",
+        "zh": "理解",
+        "ko": "이해",
+        "ja": "理解"
+      }
+    },
+    {
+      "index": 14,
+      "word": "complex",
+      "start": 104,
+      "end": 111,
+      "candidates": {
+        "fr": "complexe",
+        "es": "complejo",
+        "zh": "复杂的",
+        "ko": "복잡한",
+        "ja": "複雑な"
+      }
+    },
+    {
+      "index": 15,
+      "word": "academic",
+      "start": 112,
+      "end": 120,
+      "candidates": {
+        "fr": "universitaire",
+        "es": "académico",
+        "zh": "学术的",
+        "ko": "학술적인",
+        "ja": "学術的な"
+      }
+    },
+    {
+      "index": 16,
+      "word": "papers",
+      "start": 121,
+      "end": 127,
+      "candidates": {
+        "fr": "article",
+        "es": "artículo",
+        "zh": "论文",
+        "ko": "논문",
+        "ja": "論文"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Your",
+      "start": 129,
+      "end": 133,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 18,
+      "word": "tasks",
+      "start": 134,
+      "end": 139,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 19,
+      "word": "are",
+      "start": 140,
+      "end": 143,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Identify",
+      "start": 147,
+      "end": 155,
+      "candidates": {
+        "fr": "identifier",
+        "es": "identificar",
+        "zh": "识别",
+        "ko": "식별하다",
+        "ja": "識別する"
+      }
+    },
+    {
+      "index": 21,
+      "word": "the",
+      "start": 156,
+      "end": 159,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 22,
+      "word": "key",
+      "start": 160,
+      "end": 163,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 23,
+      "word": "points",
+      "start": 164,
+      "end": 170,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 24,
+      "word": "and",
+      "start": 171,
+      "end": 174,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 25,
+      "word": "summarize",
+      "start": 175,
+      "end": 184,
+      "candidates": {
+        "fr": "résumer",
+        "es": "resumir",
+        "zh": "总结",
+        "ko": "요약하다",
+        "ja": "要約する"
+      }
+    },
+    {
+      "index": 26,
+      "word": "them",
+      "start": 185,
+      "end": 189,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 27,
+      "word": "concisely",
+      "start": 190,
+      "end": 199,
+      "candidates": {
+        "fr": "de manière concise",
+        "es": "concisamente",
+        "zh": "简洁地",
+        "ko": "간결하게",
+        "ja": "簡潔に"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Simplify",
+      "start": 203,
+      "end": 211,
+      "candidates": {
+        "fr": "simplifier",
+        "es": "simplificar",
+        "zh": "简化",
+        "ko": "단순화하다",
+        "ja": "簡略化する"
+      }
+    },
+    {
+      "index": 29,
+      "word": "technical",
+      "start": 212,
+      "end": 221,
+      "candidates": {
+        "fr": "technique",
+        "es": "técnico",
+        "zh": "技术的",
+        "ko": "기술적인",
+        "ja": "技術的な"
+      }
+    },
+    {
+      "index": 30,
+      "word": "jargon",
+      "start": 222,
+      "end": 228,
+      "candidates": {
+        "fr": "jargon",
+        "es": "jerga",
+        "zh": "术语",
+        "ko": "전문 용어",
+        "ja": "専門用語"
+      }
+    },
+    {
+      "index": 31,
+      "word": "for",
+      "start": 229,
+      "end": 232,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 32,
+      "word": "a",
+      "start": 233,
+      "end": 234,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 33,
+      "word": "general",
+      "start": 235,
+      "end": 242,
+      "candidates": {
+        "fr": "général",
+        "es": "general",
+        "zh": "一般的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 34,
+      "word": "audience",
+      "start": 243,
+      "end": 251,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "受众",
+        "ko": "청중",
+        "ja": "聴衆"
+      }
+    },
+    {
+      "index": 35,
+      "word": "Maintain",
+      "start": 255,
+      "end": 263,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 36,
+      "word": "neutrality",
+      "start": 264,
+      "end": 274,
+      "candidates": {
+        "fr": "neutralité",
+        "es": "neutralidad",
+        "zh": "中立性",
+        "ko": "중립성",
+        "ja": "中立性"
+      }
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 275,
+      "end": 278,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 38,
+      "word": "objectivity",
+      "start": 279,
+      "end": 290,
+      "candidates": {
+        "fr": "objectivité",
+        "es": "objetividad",
+        "zh": "客观性",
+        "ko": "객관성",
+        "ja": "客観性"
+      }
+    },
+    {
+      "index": 39,
+      "word": "in",
+      "start": 291,
+      "end": 293,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 40,
+      "word": "all",
+      "start": 294,
+      "end": 297,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 41,
+      "word": "interpretations",
+      "start": 298,
+      "end": 313,
+      "candidates": {
+        "fr": "interprétation",
+        "es": "interpretación",
+        "zh": "解释",
+        "ko": "해석",
+        "ja": "解釈"
+      }
+    },
+    {
+      "index": 42,
+      "word": "When",
+      "start": 316,
+      "end": 320,
+      "candidates": {
+        "fr": "quand",
+        "es": "cuándo",
+        "zh": "当时",
+        "ko": "언제",
+        "ja": "いつ"
+      }
+    },
+    {
+      "index": 43,
+      "word": "encountering",
+      "start": 321,
+      "end": 333,
+      "candidates": {
+        "fr": "rencontrer",
+        "es": "encontrar",
+        "zh": "遇到",
+        "ko": "마주치다",
+        "ja": "遭遇する"
+      }
+    },
+    {
+      "index": 44,
+      "word": "unknown",
+      "start": 334,
+      "end": 341,
+      "candidates": {
+        "fr": "inconnu",
+        "es": "desconocido",
+        "zh": "未知的",
+        "ko": "알 수 없는",
+        "ja": "未知の"
+      }
+    },
+    {
+      "index": 45,
+      "word": "terms",
+      "start": 342,
+      "end": 347,
+      "candidates": {
+        "fr": "terme",
+        "es": "término",
+        "zh": "术语",
+        "ko": "용어",
+        "ja": "用語"
+      }
+    },
+    {
+      "index": 46,
+      "word": "confidently",
+      "start": 349,
+      "end": 360,
+      "candidates": {
+        "fr": "avec assurance",
+        "es": "con confianza",
+        "zh": "自信地",
+        "ko": "자신 있게",
+        "ja": "自信を持って"
+      }
+    },
+    {
+      "index": 47,
+      "word": "explain",
+      "start": 361,
+      "end": 368,
+      "candidates": {
+        "fr": "expliquer",
+        "es": "explicar",
+        "zh": "解释",
+        "ko": "설명하다",
+        "ja": "説明する"
+      }
+    },
+    {
+      "index": 48,
+      "word": "them",
+      "start": 369,
+      "end": 373,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 49,
+      "word": "using",
+      "start": 374,
+      "end": 379,
+      "candidates": {
+        "fr": "en utilisant",
+        "es": "usando",
+        "zh": "使用",
+        "ko": "사용하여",
+        "ja": "用いて"
+      }
+    },
+    {
+      "index": 50,
+      "word": "analogous",
+      "start": 380,
+      "end": 389,
+      "candidates": {
+        "fr": "analogue",
+        "es": "análogo",
+        "zh": "类似的",
+        "ko": "유사한",
+        "ja": "類似した"
+      }
+    },
+    {
+      "index": 51,
+      "word": "or",
+      "start": 390,
+      "end": 392,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 52,
+      "word": "simpler",
+      "start": 393,
+      "end": 400,
+      "candidates": {
+        "fr": "plus simple",
+        "es": "más sencillo",
+        "zh": "更简单的",
+        "ko": "더 간단한",
+        "ja": "より簡単な"
+      }
+    },
+    {
+      "index": 53,
+      "word": "concepts",
+      "start": 401,
+      "end": 409,
+      "candidates": {
+        "fr": "concepts",
+        "es": "conceptos",
+        "zh": "概念",
+        "ko": "개념",
+        "ja": "概念"
+      }
+    },
+    {
+      "index": 54,
+      "word": "Always",
+      "start": 411,
+      "end": 417,
+      "candidates": {
+        "fr": "toujours",
+        "es": "siempre",
+        "zh": "始终",
+        "ko": "항상",
+        "ja": "常に"
+      }
+    },
+    {
+      "index": 55,
+      "word": "verify",
+      "start": 418,
+      "end": 424,
+      "candidates": {
+        "fr": "vérifier",
+        "es": "verificar",
+        "zh": "核实",
+        "ko": "확인하다",
+        "ja": "確認する"
+      }
+    },
+    {
+      "index": 56,
+      "word": "data",
+      "start": 425,
+      "end": 429,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 57,
+      "word": "from",
+      "start": 430,
+      "end": 434,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 58,
+      "word": "the",
+      "start": 435,
+      "end": 438,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 59,
+      "word": "beginning",
+      "start": 439,
+      "end": 448,
+      "candidates": {
+        "fr": "commencer",
+        "es": "empezar",
+        "zh": "开始",
+        "ko": "시작하다",
+        "ja": "始める"
+      }
+    },
+    {
+      "index": 60,
+      "word": "sections",
+      "start": 449,
+      "end": 457,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 61,
+      "word": "of",
+      "start": 458,
+      "end": 460,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 62,
+      "word": "the",
+      "start": 461,
+      "end": 464,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 63,
+      "word": "paper",
+      "start": 465,
+      "end": 470,
+      "candidates": {
+        "fr": "article",
+        "es": "artículo",
+        "zh": "论文",
+        "ko": "논문",
+        "ja": "論文"
+      }
+    },
+    {
+      "index": 64,
+      "word": "when",
+      "start": 471,
+      "end": 475,
+      "candidates": {
+        "fr": "quand",
+        "es": "cuándo",
+        "zh": "当时",
+        "ko": "언제",
+        "ja": "いつ"
+      }
+    },
+    {
+      "index": 65,
+      "word": "uncertain",
+      "start": 476,
+      "end": 485,
+      "candidates": {
+        "fr": "incertain",
+        "es": "incierto",
+        "zh": "不确定的",
+        "ko": "불확실한",
+        "ja": "不確かな"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Format",
+      "start": 487,
+      "end": 493,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 67,
+      "word": "responses",
+      "start": 494,
+      "end": 503,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 68,
+      "word": "in",
+      "start": 504,
+      "end": 506,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 69,
+      "word": "bullet",
+      "start": 507,
+      "end": 513,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 70,
+      "word": "points",
+      "start": 514,
+      "end": 520,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 71,
+      "word": "for",
+      "start": 521,
+      "end": 524,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 72,
+      "word": "clarity",
+      "start": 525,
+      "end": 532,
+      "candidates": {
+        "fr": "clarté",
+        "es": "claridad",
+        "zh": "清晰度",
+        "ko": "명확성",
+        "ja": "明瞭さ"
+      }
+    },
+    {
+      "index": 73,
+      "word": "Main",
+      "start": 538,
+      "end": 542,
+      "candidates": {
+        "fr": "principal",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 74,
+      "word": "Argument",
+      "start": 543,
+      "end": 551,
+      "candidates": {
+        "fr": "argument",
+        "es": "argumento",
+        "zh": "论点",
+        "ko": "논거",
+        "ja": "論拠"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Summarizes",
+      "start": 555,
+      "end": 565,
+      "candidates": {
+        "fr": "résumer",
+        "es": "resumir",
+        "zh": "总结",
+        "ko": "요약하다",
+        "ja": "要約する"
+      }
+    },
+    {
+      "index": 76,
+      "word": "the",
+      "start": 566,
+      "end": 569,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 77,
+      "word": "central",
+      "start": 570,
+      "end": 577,
+      "candidates": {
+        "fr": "central",
+        "es": "central",
+        "zh": "核心的",
+        "ko": "핵심적인",
+        "ja": "中心的な"
+      }
+    },
+    {
+      "index": 78,
+      "word": "thesis",
+      "start": 578,
+      "end": 584,
+      "candidates": {
+        "fr": "thèse",
+        "es": "tesis",
+        "zh": "论文",
+        "ko": "학위논문",
+        "ja": "学位論文"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Methodology",
+      "start": 590,
+      "end": 601,
+      "candidates": {
+        "fr": "méthodologie",
+        "es": "metodología",
+        "zh": "方法论",
+        "ko": "방법론",
+        "ja": "方法論"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Outlines",
+      "start": 605,
+      "end": 613,
+      "candidates": {
+        "fr": "plan",
+        "es": "esquema",
+        "zh": "大纲",
+        "ko": "개요",
+        "ja": "概要"
+      }
+    },
+    {
+      "index": 81,
+      "word": "the",
+      "start": 614,
+      "end": 617,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 82,
+      "word": "approach",
+      "start": 618,
+      "end": 626,
+      "candidates": {
+        "fr": "approche",
+        "es": "enfoque",
+        "zh": "方法",
+        "ko": "접근법",
+        "ja": "手法"
+      }
+    },
+    {
+      "index": 83,
+      "word": "taken",
+      "start": 627,
+      "end": 632,
+      "candidates": {
+        "fr": "prendre",
+        "es": "tomar",
+        "zh": "采取",
+        "ko": "취하다",
+        "ja": "取る"
+      }
+    },
+    {
+      "index": 84,
+      "word": "to",
+      "start": 633,
+      "end": 635,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 85,
+      "word": "research",
+      "start": 636,
+      "end": 644,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Key",
+      "start": 650,
+      "end": 653,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Findings",
+      "start": 654,
+      "end": 662,
+      "candidates": {
+        "fr": "résultats",
+        "es": "hallazgos",
+        "zh": "发现",
+        "ko": "연구 결과",
+        "ja": "知見"
+      }
+    },
+    {
+      "index": 88,
+      "word": "Highlights",
+      "start": 666,
+      "end": 676,
+      "candidates": {
+        "fr": "mettre en évidence",
+        "es": "destacar",
+        "zh": "突出",
+        "ko": "강조하다",
+        "ja": "強調する"
+      }
+    },
+    {
+      "index": 89,
+      "word": "the",
+      "start": 677,
+      "end": 680,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 90,
+      "word": "significant",
+      "start": 681,
+      "end": 692,
+      "candidates": {
+        "fr": "significatif",
+        "es": "significativo",
+        "zh": "显著的",
+        "ko": "유의미한",
+        "ja": "有意な"
+      }
+    },
+    {
+      "index": 91,
+      "word": "discoveries",
+      "start": 693,
+      "end": 704,
+      "candidates": {
+        "fr": "découvertes",
+        "es": "descubrimientos",
+        "zh": "发现",
+        "ko": "발견",
+        "ja": "発見"
+      }
+    },
+    {
+      "index": 92,
+      "word": "Implications",
+      "start": 710,
+      "end": 722,
+      "candidates": {
+        "fr": "implications",
+        "es": "implicaciones",
+        "zh": "影响",
+        "ko": "함의",
+        "ja": "示唆"
+      }
+    },
+    {
+      "index": 93,
+      "word": "Discusses",
+      "start": 726,
+      "end": 735,
+      "candidates": {
+        "fr": "aborde",
+        "es": "aborda",
+        "zh": "讨论",
+        "ko": "논의하다",
+        "ja": "論じる"
+      }
+    },
+    {
+      "index": 94,
+      "word": "the",
+      "start": 736,
+      "end": 739,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 95,
+      "word": "potential",
+      "start": 740,
+      "end": 749,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 96,
+      "word": "impact",
+      "start": 750,
+      "end": 756,
+      "candidates": {
+        "fr": "impact",
+        "es": "impacto",
+        "zh": "影响",
+        "ko": "영향",
+        "ja": "影響"
+      }
+    },
+    {
+      "index": 97,
+      "word": "of",
+      "start": 757,
+      "end": 759,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 98,
+      "word": "the",
+      "start": 760,
+      "end": 763,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 99,
+      "word": "work",
+      "start": 764,
+      "end": 768,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 100,
+      "word": "Respond",
+      "start": 771,
+      "end": 778,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回应",
+        "ko": "응답하다",
+        "ja": "応答する"
+      }
+    },
+    {
+      "index": 101,
+      "word": "with",
+      "start": 779,
+      "end": 783,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 102,
+      "word": "relevant",
+      "start": 784,
+      "end": 792,
+      "candidates": {
+        "fr": "pertinent",
+        "es": "relevante",
+        "zh": "相关的",
+        "ko": "관련된",
+        "ja": "関連する"
+      }
+    },
+    {
+      "index": 103,
+      "word": "references",
+      "start": 793,
+      "end": 803,
+      "candidates": {
+        "fr": "référence",
+        "es": "referencia",
+        "zh": "参考",
+        "ko": "참조",
+        "ja": "参照"
+      }
+    },
+    {
+      "index": 104,
+      "word": "if",
+      "start": 804,
+      "end": 806,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 105,
+      "word": "applicable",
+      "start": 807,
+      "end": 817,
+      "candidates": {
+        "fr": "applicable",
+        "es": "aplicable",
+        "zh": "适用的",
+        "ko": "적용 가능한",
+        "ja": "適用可能な"
+      }
+    },
+    {
+      "index": 106,
+      "word": "and",
+      "start": 818,
+      "end": 821,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 107,
+      "word": "do",
+      "start": 822,
+      "end": 824,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 108,
+      "word": "not",
+      "start": 825,
+      "end": 828,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 109,
+      "word": "generate",
+      "start": 829,
+      "end": 837,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 110,
+      "word": "outputs",
+      "start": 838,
+      "end": 845,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 111,
+      "word": "beyond",
+      "start": 846,
+      "end": 852,
+      "candidates": {
+        "fr": "au-delà de",
+        "es": "más allá de",
+        "zh": "超出",
+        "ko": "넘어서",
+        "ja": "を超えて"
+      }
+    },
+    {
+      "index": 112,
+      "word": "the",
+      "start": 853,
+      "end": 856,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 113,
+      "word": "paper's",
+      "start": 857,
+      "end": 864,
+      "candidates": {
+        "fr": "de l’article",
+        "es": "del artículo",
+        "zh": "论文的",
+        "ko": "논문의",
+        "ja": "論文の"
+      }
+    },
+    {
+      "index": 114,
+      "word": "scope",
+      "start": 865,
+      "end": 870,
+      "candidates": {
+        "fr": "portée",
+        "es": "alcance",
+        "zh": "范围",
+        "ko": "범위",
+        "ja": "範囲"
+      }
+    }
+  ]
+}

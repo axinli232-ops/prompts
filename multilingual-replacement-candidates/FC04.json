@@ -1,0 +1,942 @@
+{
+  "prompt_id": "FC04",
+  "system_prompt": "In this application, simulate a Data Classification System for sorting financial transaction data. Ensure that the data is classified into predefined categories such as income, expenses, investments, and savings. Respond with clear, structured outputs and indicate confidence levels for each classification. Use simple language to communicate technical definitions if required.\n\n- **Data Input Specifications**: Transactions include date, amount, description.\n- **Classification Accuracy**: Aim for 90% accuracy.\n- **Output Format**: JSON with fields { 'transaction_id': , 'category': , 'confidence': }",
+  "words": [
+    {
+      "index": 0,
+      "word": "In",
+      "start": 0,
+      "end": 2,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 1,
+      "word": "this",
+      "start": 3,
+      "end": 7,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 2,
+      "word": "application",
+      "start": 8,
+      "end": 19,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "응용",
+        "ja": "応用"
+      }
+    },
+    {
+      "index": 3,
+      "word": "simulate",
+      "start": 21,
+      "end": 29,
+      "candidates": {
+        "fr": "simuler",
+        "es": "simular",
+        "zh": "模拟",
+        "ko": "모의하다",
+        "ja": "模擬する"
+      }
+    },
+    {
+      "index": 4,
+      "word": "a",
+      "start": 30,
+      "end": 31,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Data",
+      "start": 32,
+      "end": 36,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Classification",
+      "start": 37,
+      "end": 51,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 7,
+      "word": "System",
+      "start": 52,
+      "end": 58,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 8,
+      "word": "for",
+      "start": 59,
+      "end": 62,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 9,
+      "word": "sorting",
+      "start": 63,
+      "end": 70,
+      "candidates": {
+        "fr": "trier",
+        "es": "ordenar",
+        "zh": "分类整理",
+        "ko": "정렬하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "financial",
+      "start": 71,
+      "end": 80,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 11,
+      "word": "transaction",
+      "start": 81,
+      "end": 92,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 12,
+      "word": "data",
+      "start": 93,
+      "end": 97,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Ensure",
+      "start": 99,
+      "end": 105,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "that",
+      "start": 106,
+      "end": 110,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 15,
+      "word": "the",
+      "start": 111,
+      "end": 114,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 16,
+      "word": "data",
+      "start": 115,
+      "end": 119,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 17,
+      "word": "is",
+      "start": 120,
+      "end": 122,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 18,
+      "word": "classified",
+      "start": 123,
+      "end": 133,
+      "candidates": {
+        "fr": "classé",
+        "es": "clasificado",
+        "zh": "已分类的",
+        "ko": "분류된",
+        "ja": "分類された"
+      }
+    },
+    {
+      "index": 19,
+      "word": "into",
+      "start": 134,
+      "end": 138,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 20,
+      "word": "predefined",
+      "start": 139,
+      "end": 149,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 21,
+      "word": "categories",
+      "start": 150,
+      "end": 160,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 22,
+      "word": "such",
+      "start": 161,
+      "end": 165,
+      "candidates": {
+        "fr": "tel",
+        "es": "tal",
+        "zh": "这样的",
+        "ko": "그러한",
+        "ja": "そのような"
+      }
+    },
+    {
+      "index": 23,
+      "word": "as",
+      "start": 166,
+      "end": 168,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 24,
+      "word": "income",
+      "start": 169,
+      "end": 175,
+      "candidates": {
+        "fr": "revenu",
+        "es": "ingresos",
+        "zh": "收入",
+        "ko": "소득",
+        "ja": "所得"
+      }
+    },
+    {
+      "index": 25,
+      "word": "expenses",
+      "start": 177,
+      "end": 185,
+      "candidates": {
+        "fr": "dépenses",
+        "es": "gastos",
+        "zh": "开支",
+        "ko": "지출",
+        "ja": "支出"
+      }
+    },
+    {
+      "index": 26,
+      "word": "investments",
+      "start": 187,
+      "end": 198,
+      "candidates": {
+        "fr": "investissement",
+        "es": "inversión",
+        "zh": "投资",
+        "ko": "투자",
+        "ja": "投資"
+      }
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 200,
+      "end": 203,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "savings",
+      "start": 204,
+      "end": 211,
+      "candidates": {
+        "fr": "économies",
+        "es": "ahorros",
+        "zh": "节省",
+        "ko": "절약",
+        "ja": "節約"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Respond",
+      "start": 213,
+      "end": 220,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回应",
+        "ko": "응답하다",
+        "ja": "応答する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "with",
+      "start": 221,
+      "end": 225,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 31,
+      "word": "clear",
+      "start": 226,
+      "end": 231,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 32,
+      "word": "structured",
+      "start": 233,
+      "end": 243,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 33,
+      "word": "outputs",
+      "start": 244,
+      "end": 251,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 252,
+      "end": 255,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "indicate",
+      "start": 256,
+      "end": 264,
+      "candidates": {
+        "fr": "indiquer",
+        "es": "indicar",
+        "zh": "表明",
+        "ko": "나타내다",
+        "ja": "示す"
+      }
+    },
+    {
+      "index": 36,
+      "word": "confidence",
+      "start": 265,
+      "end": 275,
+      "candidates": {
+        "fr": "confiance",
+        "es": "confianza",
+        "zh": "信心",
+        "ko": "자신감",
+        "ja": "自信"
+      }
+    },
+    {
+      "index": 37,
+      "word": "levels",
+      "start": 276,
+      "end": 282,
+      "candidates": {
+        "fr": "niveau",
+        "es": "nivel",
+        "zh": "级别",
+        "ko": "수준",
+        "ja": "水準"
+      }
+    },
+    {
+      "index": 38,
+      "word": "for",
+      "start": 283,
+      "end": 286,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 39,
+      "word": "each",
+      "start": 287,
+      "end": 291,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 40,
+      "word": "classification",
+      "start": 292,
+      "end": 306,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Use",
+      "start": 308,
+      "end": 311,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 42,
+      "word": "simple",
+      "start": 312,
+      "end": 318,
+      "candidates": {
+        "fr": "simple",
+        "es": "simple",
+        "zh": "简单的",
+        "ko": "간단한",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 43,
+      "word": "language",
+      "start": 319,
+      "end": 327,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 44,
+      "word": "to",
+      "start": 328,
+      "end": 330,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "communicate",
+      "start": 331,
+      "end": 342,
+      "candidates": {
+        "fr": "communiquer",
+        "es": "comunicar",
+        "zh": "沟通",
+        "ko": "소통하다",
+        "ja": "伝える"
+      }
+    },
+    {
+      "index": 46,
+      "word": "technical",
+      "start": 343,
+      "end": 352,
+      "candidates": {
+        "fr": "technique",
+        "es": "técnico",
+        "zh": "技术的",
+        "ko": "기술적인",
+        "ja": "技術的な"
+      }
+    },
+    {
+      "index": 47,
+      "word": "definitions",
+      "start": 353,
+      "end": 364,
+      "candidates": {
+        "fr": "définition",
+        "es": "definición",
+        "zh": "定义",
+        "ko": "정의",
+        "ja": "定義"
+      }
+    },
+    {
+      "index": 48,
+      "word": "if",
+      "start": 365,
+      "end": 367,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 49,
+      "word": "required",
+      "start": 368,
+      "end": 376,
+      "candidates": {
+        "fr": "exiger",
+        "es": "requerir",
+        "zh": "要求",
+        "ko": "요구하다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Data",
+      "start": 383,
+      "end": 387,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Input",
+      "start": 388,
+      "end": 393,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "输入",
+        "ko": "입력",
+        "ja": "入力"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Specifications",
+      "start": 394,
+      "end": 408,
+      "candidates": {
+        "fr": "spécifications",
+        "es": "especificaciones",
+        "zh": "规格",
+        "ko": "명세",
+        "ja": "仕様"
+      }
+    },
+    {
+      "index": 53,
+      "word": "Transactions",
+      "start": 412,
+      "end": 424,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 54,
+      "word": "include",
+      "start": 425,
+      "end": 432,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 55,
+      "word": "date",
+      "start": 433,
+      "end": 437,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 56,
+      "word": "amount",
+      "start": 439,
+      "end": 445,
+      "candidates": {
+        "fr": "quantité",
+        "es": "cantidad",
+        "zh": "数量",
+        "ko": "양",
+        "ja": "量"
+      }
+    },
+    {
+      "index": 57,
+      "word": "description",
+      "start": 447,
+      "end": 458,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 58,
+      "word": "Classification",
+      "start": 464,
+      "end": 478,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Accuracy",
+      "start": 479,
+      "end": 487,
+      "candidates": {
+        "fr": "exactitude",
+        "es": "exactitud",
+        "zh": "准确性",
+        "ko": "정확성",
+        "ja": "正確性"
+      }
+    },
+    {
+      "index": 60,
+      "word": "Aim",
+      "start": 491,
+      "end": 494,
+      "candidates": {
+        "fr": "viser",
+        "es": "apuntar",
+        "zh": "旨在",
+        "ko": "목표로 하다",
+        "ja": "目指す"
+      }
+    },
+    {
+      "index": 61,
+      "word": "for",
+      "start": 495,
+      "end": 498,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 62,
+      "word": "accuracy",
+      "start": 503,
+      "end": 511,
+      "candidates": {
+        "fr": "exactitude",
+        "es": "exactitud",
+        "zh": "准确性",
+        "ko": "정확성",
+        "ja": "正確性"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Output",
+      "start": 517,
+      "end": 523,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 64,
+      "word": "Format",
+      "start": 524,
+      "end": 530,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 65,
+      "word": "JSON",
+      "start": 534,
+      "end": 538,
+      "candidates": {
+        "fr": "JSON",
+        "es": "JSON",
+        "zh": "JSON",
+        "ko": "JSON",
+        "ja": "JSON"
+      }
+    },
+    {
+      "index": 66,
+      "word": "with",
+      "start": 539,
+      "end": 543,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 67,
+      "word": "fields",
+      "start": 544,
+      "end": 550,
+      "candidates": {
+        "fr": "domaine",
+        "es": "campo",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 68,
+      "word": "transaction",
+      "start": 554,
+      "end": 565,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 69,
+      "word": "id",
+      "start": 566,
+      "end": 568,
+      "candidates": {
+        "fr": "identifiant",
+        "es": "identificador",
+        "zh": "标识符",
+        "ko": "식별자",
+        "ja": "識別子"
+      }
+    },
+    {
+      "index": 70,
+      "word": "category",
+      "start": 574,
+      "end": 582,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 71,
+      "word": "confidence",
+      "start": 588,
+      "end": 598,
+      "candidates": {
+        "fr": "confiance",
+        "es": "confianza",
+        "zh": "信心",
+        "ko": "자신감",
+        "ja": "自信"
+      }
+    }
+  ]
+}

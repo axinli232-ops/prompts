@@ -1,0 +1,2008 @@
+{
+  "prompt_id": "FC17",
+  "system_prompt": "Imagine you're a health and fitness consultant designed to offer workout and nutrition advice on a digital platform. Your task is to provide tailored fitness plans that match user goals, preferences, and current fitness levels.\n\nGoals:\n* Help users improve their physical fitness \n* Provide nutrition tips aligned with their fitness goals \n* Encourage healthy lifestyle habits \n\n### Key Instructions:\n1. Obtain user details including age, weight, current fitness level, and goals.\n2. Provide recommendations for workout routines that are appropriate for home and gym settings.\n3. Suggest nutrition plans considering dietary restrictions and preferences.\n4. Encourage regular tracking of progress and provide revision of plans as necessary.\n5. Maintain a motivating and positive tone in communication.\n\n### Output Format:\n- Workout Structure: Include duration, type (e.g., cardio, strength), and target muscle groups.\n- Nutrition Guide: Weekly meal plans and tips.\n- Progress Tips: How to observe and measure progress effectively.\n\n**Attention:** Avoid medical advice or therapies. Redirect users toward professionals if they seek medical interventions.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Imagine",
+      "start": 0,
+      "end": 7,
+      "candidates": {
+        "fr": "imaginer",
+        "es": "imaginar",
+        "zh": "想象",
+        "ko": "상상하다",
+        "ja": "想像する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "you're",
+      "start": 8,
+      "end": 14,
+      "candidates": {
+        "fr": "vous êtes",
+        "es": "eres",
+        "zh": "你是",
+        "ko": "당신은 이다",
+        "ja": "あなたはである"
+      }
+    },
+    {
+      "index": 2,
+      "word": "a",
+      "start": 15,
+      "end": 16,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "health",
+      "start": 17,
+      "end": 23,
+      "candidates": {
+        "fr": "santé",
+        "es": "salud",
+        "zh": "健康",
+        "ko": "건강",
+        "ja": "健康"
+      }
+    },
+    {
+      "index": 4,
+      "word": "and",
+      "start": 24,
+      "end": 27,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 5,
+      "word": "fitness",
+      "start": 28,
+      "end": 35,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 6,
+      "word": "consultant",
+      "start": 36,
+      "end": 46,
+      "candidates": {
+        "fr": "consultant",
+        "es": "consultor",
+        "zh": "咨询顾问",
+        "ko": "컨설턴트",
+        "ja": "コンサルタント"
+      }
+    },
+    {
+      "index": 7,
+      "word": "designed",
+      "start": 47,
+      "end": 55,
+      "candidates": {
+        "fr": "concevoir",
+        "es": "diseñar",
+        "zh": "设计",
+        "ko": "설계하다",
+        "ja": "設計する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 56,
+      "end": 58,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "offer",
+      "start": 59,
+      "end": 64,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "workout",
+      "start": 65,
+      "end": 72,
+      "candidates": {
+        "fr": "entraînement",
+        "es": "entrenamiento",
+        "zh": "锻炼",
+        "ko": "운동",
+        "ja": "トレーニング"
+      }
+    },
+    {
+      "index": 11,
+      "word": "and",
+      "start": 73,
+      "end": 76,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 12,
+      "word": "nutrition",
+      "start": 77,
+      "end": 86,
+      "candidates": {
+        "fr": "nutrition",
+        "es": "nutrición",
+        "zh": "营养",
+        "ko": "영양",
+        "ja": "栄養"
+      }
+    },
+    {
+      "index": 13,
+      "word": "advice",
+      "start": 87,
+      "end": 93,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 14,
+      "word": "on",
+      "start": 94,
+      "end": 96,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 15,
+      "word": "a",
+      "start": 97,
+      "end": 98,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 16,
+      "word": "digital",
+      "start": 99,
+      "end": 106,
+      "candidates": {
+        "fr": "numérique",
+        "es": "digital",
+        "zh": "数字的",
+        "ko": "디지털의",
+        "ja": "デジタルの"
+      }
+    },
+    {
+      "index": 17,
+      "word": "platform",
+      "start": 107,
+      "end": 115,
+      "candidates": {
+        "fr": "plateforme",
+        "es": "plataforma",
+        "zh": "平台",
+        "ko": "플랫폼",
+        "ja": "プラットフォーム"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Your",
+      "start": 117,
+      "end": 121,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 19,
+      "word": "task",
+      "start": 122,
+      "end": 126,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 20,
+      "word": "is",
+      "start": 127,
+      "end": 129,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 21,
+      "word": "to",
+      "start": 130,
+      "end": 132,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 22,
+      "word": "provide",
+      "start": 133,
+      "end": 140,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 23,
+      "word": "tailored",
+      "start": 141,
+      "end": 149,
+      "candidates": {
+        "fr": "adapté",
+        "es": "adaptado",
+        "zh": "定制的",
+        "ko": "맞춤형",
+        "ja": "調整された"
+      }
+    },
+    {
+      "index": 24,
+      "word": "fitness",
+      "start": 150,
+      "end": 157,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 25,
+      "word": "plans",
+      "start": 158,
+      "end": 163,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 26,
+      "word": "that",
+      "start": 164,
+      "end": 168,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 27,
+      "word": "match",
+      "start": 169,
+      "end": 174,
+      "candidates": {
+        "fr": "correspondre",
+        "es": "coincidir",
+        "zh": "匹配",
+        "ko": "일치하다",
+        "ja": "一致する"
+      }
+    },
+    {
+      "index": 28,
+      "word": "user",
+      "start": 175,
+      "end": 179,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 29,
+      "word": "goals",
+      "start": 180,
+      "end": 185,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 30,
+      "word": "preferences",
+      "start": 187,
+      "end": 198,
+      "candidates": {
+        "fr": "préférences",
+        "es": "preferencias",
+        "zh": "偏好",
+        "ko": "선호",
+        "ja": "好み"
+      }
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 200,
+      "end": 203,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 32,
+      "word": "current",
+      "start": 204,
+      "end": 211,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 33,
+      "word": "fitness",
+      "start": 212,
+      "end": 219,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 34,
+      "word": "levels",
+      "start": 220,
+      "end": 226,
+      "candidates": {
+        "fr": "niveau",
+        "es": "nivel",
+        "zh": "级别",
+        "ko": "수준",
+        "ja": "水準"
+      }
+    },
+    {
+      "index": 35,
+      "word": "Goals",
+      "start": 229,
+      "end": 234,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 36,
+      "word": "Help",
+      "start": 238,
+      "end": 242,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 37,
+      "word": "users",
+      "start": 243,
+      "end": 248,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 38,
+      "word": "improve",
+      "start": 249,
+      "end": 256,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "改进",
+        "ko": "개선하다",
+        "ja": "改善する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "their",
+      "start": 257,
+      "end": 262,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 40,
+      "word": "physical",
+      "start": 263,
+      "end": 271,
+      "candidates": {
+        "fr": "physique",
+        "es": "físico",
+        "zh": "物理的",
+        "ko": "물리적인",
+        "ja": "物理的な"
+      }
+    },
+    {
+      "index": 41,
+      "word": "fitness",
+      "start": 272,
+      "end": 279,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Provide",
+      "start": 283,
+      "end": 290,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "nutrition",
+      "start": 291,
+      "end": 300,
+      "candidates": {
+        "fr": "nutrition",
+        "es": "nutrición",
+        "zh": "营养",
+        "ko": "영양",
+        "ja": "栄養"
+      }
+    },
+    {
+      "index": 44,
+      "word": "tips",
+      "start": 301,
+      "end": 305,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 45,
+      "word": "aligned",
+      "start": 306,
+      "end": 313,
+      "candidates": {
+        "fr": "aligner",
+        "es": "alinear",
+        "zh": "对齐",
+        "ko": "정렬하다",
+        "ja": "整合させる"
+      }
+    },
+    {
+      "index": 46,
+      "word": "with",
+      "start": 314,
+      "end": 318,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 47,
+      "word": "their",
+      "start": 319,
+      "end": 324,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 48,
+      "word": "fitness",
+      "start": 325,
+      "end": 332,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 49,
+      "word": "goals",
+      "start": 333,
+      "end": 338,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Encourage",
+      "start": 342,
+      "end": 351,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 51,
+      "word": "healthy",
+      "start": 352,
+      "end": 359,
+      "candidates": {
+        "fr": "sain",
+        "es": "saludable",
+        "zh": "健康的",
+        "ko": "건강한",
+        "ja": "健康な"
+      }
+    },
+    {
+      "index": 52,
+      "word": "lifestyle",
+      "start": 360,
+      "end": 369,
+      "candidates": {
+        "fr": "mode de vie",
+        "es": "estilo de vida",
+        "zh": "生活方式",
+        "ko": "생활 방식",
+        "ja": "生活様式"
+      }
+    },
+    {
+      "index": 53,
+      "word": "habits",
+      "start": 370,
+      "end": 376,
+      "candidates": {
+        "fr": "habitudes",
+        "es": "hábitos",
+        "zh": "习惯",
+        "ko": "습관",
+        "ja": "習慣"
+      }
+    },
+    {
+      "index": 54,
+      "word": "Key",
+      "start": 383,
+      "end": 386,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Instructions",
+      "start": 387,
+      "end": 399,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 56,
+      "word": "Obtain",
+      "start": 404,
+      "end": 410,
+      "candidates": {
+        "fr": "obtenir",
+        "es": "obtener",
+        "zh": "获得",
+        "ko": "얻다",
+        "ja": "得る"
+      }
+    },
+    {
+      "index": 57,
+      "word": "user",
+      "start": 411,
+      "end": 415,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 58,
+      "word": "details",
+      "start": 416,
+      "end": 423,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 59,
+      "word": "including",
+      "start": 424,
+      "end": 433,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 60,
+      "word": "age",
+      "start": 434,
+      "end": 437,
+      "candidates": {
+        "fr": "âge",
+        "es": "edad",
+        "zh": "年龄",
+        "ko": "나이",
+        "ja": "年齢"
+      }
+    },
+    {
+      "index": 61,
+      "word": "weight",
+      "start": 439,
+      "end": 445,
+      "candidates": {
+        "fr": "poids",
+        "es": "peso",
+        "zh": "重量",
+        "ko": "무게",
+        "ja": "重量"
+      }
+    },
+    {
+      "index": 62,
+      "word": "current",
+      "start": 447,
+      "end": 454,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 63,
+      "word": "fitness",
+      "start": 455,
+      "end": 462,
+      "candidates": {
+        "fr": "forme physique",
+        "es": "condición física",
+        "zh": "身体素质",
+        "ko": "체력",
+        "ja": "体力"
+      }
+    },
+    {
+      "index": 64,
+      "word": "level",
+      "start": 463,
+      "end": 468,
+      "candidates": {
+        "fr": "niveau",
+        "es": "nivel",
+        "zh": "级别",
+        "ko": "수준",
+        "ja": "水準"
+      }
+    },
+    {
+      "index": 65,
+      "word": "and",
+      "start": 470,
+      "end": 473,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 66,
+      "word": "goals",
+      "start": 474,
+      "end": 479,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Provide",
+      "start": 484,
+      "end": 491,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 68,
+      "word": "recommendations",
+      "start": 492,
+      "end": 507,
+      "candidates": {
+        "fr": "recommandations",
+        "es": "recomendaciones",
+        "zh": "建议",
+        "ko": "권고",
+        "ja": "推奨"
+      }
+    },
+    {
+      "index": 69,
+      "word": "for",
+      "start": 508,
+      "end": 511,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 70,
+      "word": "workout",
+      "start": 512,
+      "end": 519,
+      "candidates": {
+        "fr": "entraînement",
+        "es": "entrenamiento",
+        "zh": "锻炼",
+        "ko": "운동",
+        "ja": "トレーニング"
+      }
+    },
+    {
+      "index": 71,
+      "word": "routines",
+      "start": 520,
+      "end": 528,
+      "candidates": {
+        "fr": "routines",
+        "es": "rutinas",
+        "zh": "常规",
+        "ko": "일과",
+        "ja": "日課"
+      }
+    },
+    {
+      "index": 72,
+      "word": "that",
+      "start": 529,
+      "end": 533,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 73,
+      "word": "are",
+      "start": 534,
+      "end": 537,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 74,
+      "word": "appropriate",
+      "start": 538,
+      "end": 549,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "适当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 75,
+      "word": "for",
+      "start": 550,
+      "end": 553,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 76,
+      "word": "home",
+      "start": 554,
+      "end": 558,
+      "candidates": {
+        "fr": "maison",
+        "es": "hogar",
+        "zh": "家庭",
+        "ko": "가정",
+        "ja": "家庭"
+      }
+    },
+    {
+      "index": 77,
+      "word": "and",
+      "start": 559,
+      "end": 562,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 78,
+      "word": "gym",
+      "start": 563,
+      "end": 566,
+      "candidates": {
+        "fr": "salle de sport",
+        "es": "gimnasio",
+        "zh": "健身房",
+        "ko": "체육관",
+        "ja": "ジム"
+      }
+    },
+    {
+      "index": 79,
+      "word": "settings",
+      "start": 567,
+      "end": 575,
+      "candidates": {
+        "fr": "paramètres",
+        "es": "configuración",
+        "zh": "设置",
+        "ko": "설정",
+        "ja": "設定"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Suggest",
+      "start": 580,
+      "end": 587,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 81,
+      "word": "nutrition",
+      "start": 588,
+      "end": 597,
+      "candidates": {
+        "fr": "nutrition",
+        "es": "nutrición",
+        "zh": "营养",
+        "ko": "영양",
+        "ja": "栄養"
+      }
+    },
+    {
+      "index": 82,
+      "word": "plans",
+      "start": 598,
+      "end": 603,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 83,
+      "word": "considering",
+      "start": 604,
+      "end": 615,
+      "candidates": {
+        "fr": "considérer",
+        "es": "considerar",
+        "zh": "考虑",
+        "ko": "고려하다",
+        "ja": "考慮する"
+      }
+    },
+    {
+      "index": 84,
+      "word": "dietary",
+      "start": 616,
+      "end": 623,
+      "candidates": {
+        "fr": "alimentaire",
+        "es": "dietético",
+        "zh": "饮食的",
+        "ko": "식이의",
+        "ja": "食事の"
+      }
+    },
+    {
+      "index": 85,
+      "word": "restrictions",
+      "start": 624,
+      "end": 636,
+      "candidates": {
+        "fr": "restrictions",
+        "es": "restricciones",
+        "zh": "限制",
+        "ko": "제한",
+        "ja": "制限"
+      }
+    },
+    {
+      "index": 86,
+      "word": "and",
+      "start": 637,
+      "end": 640,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 87,
+      "word": "preferences",
+      "start": 641,
+      "end": 652,
+      "candidates": {
+        "fr": "préférences",
+        "es": "preferencias",
+        "zh": "偏好",
+        "ko": "선호",
+        "ja": "好み"
+      }
+    },
+    {
+      "index": 88,
+      "word": "Encourage",
+      "start": 657,
+      "end": 666,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 89,
+      "word": "regular",
+      "start": 667,
+      "end": 674,
+      "candidates": {
+        "fr": "régulier",
+        "es": "regular",
+        "zh": "定期的",
+        "ko": "정기적인",
+        "ja": "定期的な"
+      }
+    },
+    {
+      "index": 90,
+      "word": "tracking",
+      "start": 675,
+      "end": 683,
+      "candidates": {
+        "fr": "suivi",
+        "es": "seguimiento",
+        "zh": "跟踪",
+        "ko": "추적",
+        "ja": "追跡"
+      }
+    },
+    {
+      "index": 91,
+      "word": "of",
+      "start": 684,
+      "end": 686,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 92,
+      "word": "progress",
+      "start": 687,
+      "end": 695,
+      "candidates": {
+        "fr": "progrès",
+        "es": "progreso",
+        "zh": "进展",
+        "ko": "진행 상황",
+        "ja": "進捗"
+      }
+    },
+    {
+      "index": 93,
+      "word": "and",
+      "start": 696,
+      "end": 699,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 94,
+      "word": "provide",
+      "start": 700,
+      "end": 707,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 95,
+      "word": "revision",
+      "start": 708,
+      "end": 716,
+      "candidates": {
+        "fr": "révision",
+        "es": "revisión",
+        "zh": "修订",
+        "ko": "개정",
+        "ja": "改訂"
+      }
+    },
+    {
+      "index": 96,
+      "word": "of",
+      "start": 717,
+      "end": 719,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 97,
+      "word": "plans",
+      "start": 720,
+      "end": 725,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 98,
+      "word": "as",
+      "start": 726,
+      "end": 728,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 99,
+      "word": "necessary",
+      "start": 729,
+      "end": 738,
+      "candidates": {
+        "fr": "nécessaire",
+        "es": "necesario",
+        "zh": "必要的",
+        "ko": "필요한",
+        "ja": "必要な"
+      }
+    },
+    {
+      "index": 100,
+      "word": "Maintain",
+      "start": 743,
+      "end": 751,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 101,
+      "word": "a",
+      "start": 752,
+      "end": 753,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 102,
+      "word": "motivating",
+      "start": 754,
+      "end": 764,
+      "candidates": {
+        "fr": "motivant",
+        "es": "motivador",
+        "zh": "激励的",
+        "ko": "동기를 부여하는",
+        "ja": "動機付ける"
+      }
+    },
+    {
+      "index": 103,
+      "word": "and",
+      "start": 765,
+      "end": 768,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 104,
+      "word": "positive",
+      "start": 769,
+      "end": 777,
+      "candidates": {
+        "fr": "positif",
+        "es": "positivo",
+        "zh": "正面的",
+        "ko": "긍정적인",
+        "ja": "肯定的な"
+      }
+    },
+    {
+      "index": 105,
+      "word": "tone",
+      "start": 778,
+      "end": 782,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 106,
+      "word": "in",
+      "start": 783,
+      "end": 785,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 107,
+      "word": "communication",
+      "start": 786,
+      "end": 799,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 108,
+      "word": "Output",
+      "start": 806,
+      "end": 812,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 109,
+      "word": "Format",
+      "start": 813,
+      "end": 819,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 110,
+      "word": "Workout",
+      "start": 823,
+      "end": 830,
+      "candidates": {
+        "fr": "entraînement",
+        "es": "entrenamiento",
+        "zh": "锻炼",
+        "ko": "운동",
+        "ja": "トレーニング"
+      }
+    },
+    {
+      "index": 111,
+      "word": "Structure",
+      "start": 831,
+      "end": 840,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 112,
+      "word": "Include",
+      "start": 842,
+      "end": 849,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 113,
+      "word": "duration",
+      "start": 850,
+      "end": 858,
+      "candidates": {
+        "fr": "durée",
+        "es": "duración",
+        "zh": "持续时间",
+        "ko": "기간",
+        "ja": "期間"
+      }
+    },
+    {
+      "index": 114,
+      "word": "type",
+      "start": 860,
+      "end": 864,
+      "candidates": {
+        "fr": "type",
+        "es": "tipo",
+        "zh": "类型",
+        "ko": "유형",
+        "ja": "型"
+      }
+    },
+    {
+      "index": 115,
+      "word": "e",
+      "start": 866,
+      "end": 867,
+      "candidates": {
+        "fr": "e",
+        "es": "e",
+        "zh": "e",
+        "ko": "e",
+        "ja": "e"
+      }
+    },
+    {
+      "index": 116,
+      "word": "g",
+      "start": 868,
+      "end": 869,
+      "candidates": {
+        "fr": "g",
+        "es": "g",
+        "zh": "g",
+        "ko": "g",
+        "ja": "g"
+      }
+    },
+    {
+      "index": 117,
+      "word": "cardio",
+      "start": 872,
+      "end": 878,
+      "candidates": {
+        "fr": "cardio",
+        "es": "cardio",
+        "zh": "有氧运动",
+        "ko": "유산소 운동",
+        "ja": "有酸素運動"
+      }
+    },
+    {
+      "index": 118,
+      "word": "strength",
+      "start": 880,
+      "end": 888,
+      "candidates": {
+        "fr": "force",
+        "es": "fortaleza",
+        "zh": "优势",
+        "ko": "강점",
+        "ja": "強み"
+      }
+    },
+    {
+      "index": 119,
+      "word": "and",
+      "start": 891,
+      "end": 894,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 120,
+      "word": "target",
+      "start": 895,
+      "end": 901,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    },
+    {
+      "index": 121,
+      "word": "muscle",
+      "start": 902,
+      "end": 908,
+      "candidates": {
+        "fr": "muscle",
+        "es": "músculo",
+        "zh": "肌肉",
+        "ko": "근육",
+        "ja": "筋肉"
+      }
+    },
+    {
+      "index": 122,
+      "word": "groups",
+      "start": 909,
+      "end": 915,
+      "candidates": {
+        "fr": "groupe",
+        "es": "grupo",
+        "zh": "组",
+        "ko": "그룹",
+        "ja": "グループ"
+      }
+    },
+    {
+      "index": 123,
+      "word": "Nutrition",
+      "start": 919,
+      "end": 928,
+      "candidates": {
+        "fr": "nutrition",
+        "es": "nutrición",
+        "zh": "营养",
+        "ko": "영양",
+        "ja": "栄養"
+      }
+    },
+    {
+      "index": 124,
+      "word": "Guide",
+      "start": 929,
+      "end": 934,
+      "candidates": {
+        "fr": "guider",
+        "es": "guiar",
+        "zh": "指导",
+        "ko": "안내하다",
+        "ja": "案内する"
+      }
+    },
+    {
+      "index": 125,
+      "word": "Weekly",
+      "start": 936,
+      "end": 942,
+      "candidates": {
+        "fr": "hebdomadaire",
+        "es": "semanal",
+        "zh": "每周的",
+        "ko": "주간의",
+        "ja": "毎週の"
+      }
+    },
+    {
+      "index": 126,
+      "word": "meal",
+      "start": 943,
+      "end": 947,
+      "candidates": {
+        "fr": "repas",
+        "es": "comida",
+        "zh": "餐食",
+        "ko": "식사",
+        "ja": "食事"
+      }
+    },
+    {
+      "index": 127,
+      "word": "plans",
+      "start": 948,
+      "end": 953,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 128,
+      "word": "and",
+      "start": 954,
+      "end": 957,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 129,
+      "word": "tips",
+      "start": 958,
+      "end": 962,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 130,
+      "word": "Progress",
+      "start": 966,
+      "end": 974,
+      "candidates": {
+        "fr": "progrès",
+        "es": "progreso",
+        "zh": "进展",
+        "ko": "진행 상황",
+        "ja": "進捗"
+      }
+    },
+    {
+      "index": 131,
+      "word": "Tips",
+      "start": 975,
+      "end": 979,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 132,
+      "word": "How",
+      "start": 981,
+      "end": 984,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 133,
+      "word": "to",
+      "start": 985,
+      "end": 987,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 134,
+      "word": "observe",
+      "start": 988,
+      "end": 995,
+      "candidates": {
+        "fr": "observer",
+        "es": "observar",
+        "zh": "观察",
+        "ko": "관찰하다",
+        "ja": "観察する"
+      }
+    },
+    {
+      "index": 135,
+      "word": "and",
+      "start": 996,
+      "end": 999,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 136,
+      "word": "measure",
+      "start": 1000,
+      "end": 1007,
+      "candidates": {
+        "fr": "mesurer",
+        "es": "medir",
+        "zh": "衡量",
+        "ko": "측정하다",
+        "ja": "測定する"
+      }
+    },
+    {
+      "index": 137,
+      "word": "progress",
+      "start": 1008,
+      "end": 1016,
+      "candidates": {
+        "fr": "progrès",
+        "es": "progreso",
+        "zh": "进展",
+        "ko": "진행 상황",
+        "ja": "進捗"
+      }
+    },
+    {
+      "index": 138,
+      "word": "effectively",
+      "start": 1017,
+      "end": 1028,
+      "candidates": {
+        "fr": "efficacement",
+        "es": "eficazmente",
+        "zh": "有效地",
+        "ko": "효과적으로",
+        "ja": "効果的に"
+      }
+    },
+    {
+      "index": 139,
+      "word": "Attention",
+      "start": 1033,
+      "end": 1042,
+      "candidates": {
+        "fr": "attention",
+        "es": "atención",
+        "zh": "注意",
+        "ko": "주의",
+        "ja": "注意"
+      }
+    },
+    {
+      "index": 140,
+      "word": "Avoid",
+      "start": 1046,
+      "end": 1051,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 141,
+      "word": "medical",
+      "start": 1052,
+      "end": 1059,
+      "candidates": {
+        "fr": "médical",
+        "es": "médico",
+        "zh": "医疗的",
+        "ko": "의료의",
+        "ja": "医療の"
+      }
+    },
+    {
+      "index": 142,
+      "word": "advice",
+      "start": 1060,
+      "end": 1066,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 143,
+      "word": "or",
+      "start": 1067,
+      "end": 1069,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 144,
+      "word": "therapies",
+      "start": 1070,
+      "end": 1079,
+      "candidates": {
+        "fr": "thérapie",
+        "es": "terapia",
+        "zh": "治疗",
+        "ko": "치료",
+        "ja": "治療"
+      }
+    },
+    {
+      "index": 145,
+      "word": "Redirect",
+      "start": 1081,
+      "end": 1089,
+      "candidates": {
+        "fr": "rediriger",
+        "es": "redirigir",
+        "zh": "重定向",
+        "ko": "리디렉션하다",
+        "ja": "リダイレクトする"
+      }
+    },
+    {
+      "index": 146,
+      "word": "users",
+      "start": 1090,
+      "end": 1095,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 147,
+      "word": "toward",
+      "start": 1096,
+      "end": 1102,
+      "candidates": {
+        "fr": "vers",
+        "es": "hacia",
+        "zh": "朝向",
+        "ko": "향하여",
+        "ja": "に向かって"
+      }
+    },
+    {
+      "index": 148,
+      "word": "professionals",
+      "start": 1103,
+      "end": 1116,
+      "candidates": {
+        "fr": "professionnels",
+        "es": "profesionales",
+        "zh": "专业人士",
+        "ko": "전문가",
+        "ja": "専門家"
+      }
+    },
+    {
+      "index": 149,
+      "word": "if",
+      "start": 1117,
+      "end": 1119,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 150,
+      "word": "they",
+      "start": 1120,
+      "end": 1124,
+      "candidates": {
+        "fr": "ils",
+        "es": "ellos",
+        "zh": "他们",
+        "ko": "그들",
+        "ja": "彼ら"
+      }
+    },
+    {
+      "index": 151,
+      "word": "seek",
+      "start": 1125,
+      "end": 1129,
+      "candidates": {
+        "fr": "chercher",
+        "es": "buscar",
+        "zh": "寻求",
+        "ko": "찾다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 152,
+      "word": "medical",
+      "start": 1130,
+      "end": 1137,
+      "candidates": {
+        "fr": "médical",
+        "es": "médico",
+        "zh": "医疗的",
+        "ko": "의료의",
+        "ja": "医療の"
+      }
+    },
+    {
+      "index": 153,
+      "word": "interventions",
+      "start": 1138,
+      "end": 1151,
+      "candidates": {
+        "fr": "interventions",
+        "es": "intervenciones",
+        "zh": "干预",
+        "ko": "개입",
+        "ja": "介入"
+      }
+    }
+  ]
+}

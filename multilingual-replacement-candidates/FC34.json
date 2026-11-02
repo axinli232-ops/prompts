@@ -1,0 +1,1774 @@
+{
+  "prompt_id": "FC34",
+  "system_prompt": "You have assumed the role of a strategic advisor to Notora Enterprises, a hypothetical company embarking on a major product launch. Your task is to develop an overarching communication plan tailored to stakeholders, with a specific focus on investors, customers, and team members. Prioritize clarity, persuasiveness, and alignment with corporate values. Your responses should be structured, utilizing bullet points for critical points and headings for sections. Include a section labeled \"Key Messaging Points\" that encapsulates the core message succinctly. Expected sections include:\n1. Audience Identification: Identify key stakeholders.\n2. Communication Goals: Describe the intended outcomes for each audience.\n3. Channel Strategy: Recommend communication channels for each target segment.\n4. Timeline: Provide a high-level overview of the timing for each communication.\n5. Evaluation Metrics: Suggest how success will be measured.\n\nPlease remain professional and offer advice grounded in established communication principles.",
+  "words": [
+    {
+      "index": 0,
+      "word": "You",
+      "start": 0,
+      "end": 3,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 1,
+      "word": "have",
+      "start": 4,
+      "end": 8,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 2,
+      "word": "assumed",
+      "start": 9,
+      "end": 16,
+      "candidates": {
+        "fr": "supposer",
+        "es": "suponer",
+        "zh": "假设",
+        "ko": "가정하다",
+        "ja": "仮定する"
+      }
+    },
+    {
+      "index": 3,
+      "word": "the",
+      "start": 17,
+      "end": 20,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 4,
+      "word": "role",
+      "start": 21,
+      "end": 25,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 5,
+      "word": "of",
+      "start": 26,
+      "end": 28,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 6,
+      "word": "a",
+      "start": 29,
+      "end": 30,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 7,
+      "word": "strategic",
+      "start": 31,
+      "end": 40,
+      "candidates": {
+        "fr": "stratégique",
+        "es": "estratégico",
+        "zh": "战略性的",
+        "ko": "전략적인",
+        "ja": "戦略的な"
+      }
+    },
+    {
+      "index": 8,
+      "word": "advisor",
+      "start": 41,
+      "end": 48,
+      "candidates": {
+        "fr": "conseiller",
+        "es": "asesor",
+        "zh": "顾问",
+        "ko": "고문",
+        "ja": "助言者"
+      }
+    },
+    {
+      "index": 9,
+      "word": "to",
+      "start": 49,
+      "end": 51,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "Notora",
+      "start": 52,
+      "end": 58,
+      "candidates": {
+        "fr": "Notora",
+        "es": "Notora",
+        "zh": "Notora",
+        "ko": "Notora",
+        "ja": "Notora"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Enterprises",
+      "start": 59,
+      "end": 70,
+      "candidates": {
+        "fr": "entreprises",
+        "es": "empresas",
+        "zh": "企业",
+        "ko": "기업",
+        "ja": "企業"
+      }
+    },
+    {
+      "index": 12,
+      "word": "a",
+      "start": 72,
+      "end": 73,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 13,
+      "word": "hypothetical",
+      "start": 74,
+      "end": 86,
+      "candidates": {
+        "fr": "hypothétique",
+        "es": "hipotético",
+        "zh": "假设的",
+        "ko": "가정적인",
+        "ja": "仮説的な"
+      }
+    },
+    {
+      "index": 14,
+      "word": "company",
+      "start": 87,
+      "end": 94,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "empresa",
+        "zh": "公司",
+        "ko": "회사",
+        "ja": "会社"
+      }
+    },
+    {
+      "index": 15,
+      "word": "embarking",
+      "start": 95,
+      "end": 104,
+      "candidates": {
+        "fr": "entreprendre",
+        "es": "emprender",
+        "zh": "开始",
+        "ko": "착수하다",
+        "ja": "着手する"
+      }
+    },
+    {
+      "index": 16,
+      "word": "on",
+      "start": 105,
+      "end": 107,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 108,
+      "end": 109,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "major",
+      "start": 110,
+      "end": 115,
+      "candidates": {
+        "fr": "majeur",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 19,
+      "word": "product",
+      "start": 116,
+      "end": 123,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 20,
+      "word": "launch",
+      "start": 124,
+      "end": 130,
+      "candidates": {
+        "fr": "lancement",
+        "es": "lanzamiento",
+        "zh": "发布",
+        "ko": "출시",
+        "ja": "公開"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Your",
+      "start": 132,
+      "end": 136,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 22,
+      "word": "task",
+      "start": 137,
+      "end": 141,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 23,
+      "word": "is",
+      "start": 142,
+      "end": 144,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 24,
+      "word": "to",
+      "start": 145,
+      "end": 147,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 25,
+      "word": "develop",
+      "start": 148,
+      "end": 155,
+      "candidates": {
+        "fr": "développer",
+        "es": "desarrollar",
+        "zh": "开发",
+        "ko": "개발하다",
+        "ja": "開発する"
+      }
+    },
+    {
+      "index": 26,
+      "word": "an",
+      "start": 156,
+      "end": 158,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 27,
+      "word": "overarching",
+      "start": 159,
+      "end": 170,
+      "candidates": {
+        "fr": "global",
+        "es": "general",
+        "zh": "总体的",
+        "ko": "포괄적인",
+        "ja": "全体的な"
+      }
+    },
+    {
+      "index": 28,
+      "word": "communication",
+      "start": 171,
+      "end": 184,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 29,
+      "word": "plan",
+      "start": 185,
+      "end": 189,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 30,
+      "word": "tailored",
+      "start": 190,
+      "end": 198,
+      "candidates": {
+        "fr": "adapté",
+        "es": "adaptado",
+        "zh": "定制的",
+        "ko": "맞춤형",
+        "ja": "調整された"
+      }
+    },
+    {
+      "index": 31,
+      "word": "to",
+      "start": 199,
+      "end": 201,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "stakeholders",
+      "start": 202,
+      "end": 214,
+      "candidates": {
+        "fr": "partie prenante",
+        "es": "parte interesada",
+        "zh": "利益相关者",
+        "ko": "이해관계자",
+        "ja": "利害関係者"
+      }
+    },
+    {
+      "index": 33,
+      "word": "with",
+      "start": 216,
+      "end": 220,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 34,
+      "word": "a",
+      "start": 221,
+      "end": 222,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 35,
+      "word": "specific",
+      "start": 223,
+      "end": 231,
+      "candidates": {
+        "fr": "spécifique",
+        "es": "específico",
+        "zh": "特定的",
+        "ko": "특정한",
+        "ja": "特定の"
+      }
+    },
+    {
+      "index": 36,
+      "word": "focus",
+      "start": 232,
+      "end": 237,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 37,
+      "word": "on",
+      "start": 238,
+      "end": 240,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 38,
+      "word": "investors",
+      "start": 241,
+      "end": 250,
+      "candidates": {
+        "fr": "investisseurs",
+        "es": "inversores",
+        "zh": "投资者",
+        "ko": "투자자",
+        "ja": "投資家"
+      }
+    },
+    {
+      "index": 39,
+      "word": "customers",
+      "start": 252,
+      "end": 261,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 263,
+      "end": 266,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "team",
+      "start": 267,
+      "end": 271,
+      "candidates": {
+        "fr": "équipe",
+        "es": "equipo",
+        "zh": "团队",
+        "ko": "팀",
+        "ja": "チーム"
+      }
+    },
+    {
+      "index": 42,
+      "word": "members",
+      "start": 272,
+      "end": 279,
+      "candidates": {
+        "fr": "membres",
+        "es": "miembros",
+        "zh": "成员",
+        "ko": "구성원",
+        "ja": "メンバー"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Prioritize",
+      "start": 281,
+      "end": 291,
+      "candidates": {
+        "fr": "prioriser",
+        "es": "priorizar",
+        "zh": "优先考虑",
+        "ko": "우선시하다",
+        "ja": "優先する"
+      }
+    },
+    {
+      "index": 44,
+      "word": "clarity",
+      "start": 292,
+      "end": 299,
+      "candidates": {
+        "fr": "clarté",
+        "es": "claridad",
+        "zh": "清晰度",
+        "ko": "명확성",
+        "ja": "明瞭さ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "persuasiveness",
+      "start": 301,
+      "end": 315,
+      "candidates": {
+        "fr": "force persuasive",
+        "es": "capacidad persuasiva",
+        "zh": "说服力",
+        "ko": "설득력",
+        "ja": "説得力"
+      }
+    },
+    {
+      "index": 46,
+      "word": "and",
+      "start": 317,
+      "end": 320,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 47,
+      "word": "alignment",
+      "start": 321,
+      "end": 330,
+      "candidates": {
+        "fr": "alignement",
+        "es": "alineación",
+        "zh": "对齐",
+        "ko": "정렬",
+        "ja": "整合"
+      }
+    },
+    {
+      "index": 48,
+      "word": "with",
+      "start": 331,
+      "end": 335,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 49,
+      "word": "corporate",
+      "start": 336,
+      "end": 345,
+      "candidates": {
+        "fr": "d’entreprise",
+        "es": "corporativo",
+        "zh": "企业的",
+        "ko": "기업의",
+        "ja": "企業の"
+      }
+    },
+    {
+      "index": 50,
+      "word": "values",
+      "start": 346,
+      "end": 352,
+      "candidates": {
+        "fr": "valeurs",
+        "es": "valores",
+        "zh": "值",
+        "ko": "값",
+        "ja": "値"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Your",
+      "start": 354,
+      "end": 358,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 52,
+      "word": "responses",
+      "start": 359,
+      "end": 368,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 53,
+      "word": "should",
+      "start": 369,
+      "end": 375,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 54,
+      "word": "be",
+      "start": 376,
+      "end": 378,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 55,
+      "word": "structured",
+      "start": 379,
+      "end": 389,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 56,
+      "word": "utilizing",
+      "start": 391,
+      "end": 400,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "utilizar",
+        "zh": "利用",
+        "ko": "활용하다",
+        "ja": "活用する"
+      }
+    },
+    {
+      "index": 57,
+      "word": "bullet",
+      "start": 401,
+      "end": 407,
+      "candidates": {
+        "fr": "puce",
+        "es": "viñeta",
+        "zh": "项目符号",
+        "ko": "글머리 기호",
+        "ja": "箇条書き記号"
+      }
+    },
+    {
+      "index": 58,
+      "word": "points",
+      "start": 408,
+      "end": 414,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 59,
+      "word": "for",
+      "start": 415,
+      "end": 418,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 60,
+      "word": "critical",
+      "start": 419,
+      "end": 427,
+      "candidates": {
+        "fr": "critique",
+        "es": "crítico",
+        "zh": "批判性的",
+        "ko": "비판적인",
+        "ja": "批判的な"
+      }
+    },
+    {
+      "index": 61,
+      "word": "points",
+      "start": 428,
+      "end": 434,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 62,
+      "word": "and",
+      "start": 435,
+      "end": 438,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 63,
+      "word": "headings",
+      "start": 439,
+      "end": 447,
+      "candidates": {
+        "fr": "titres",
+        "es": "encabezados",
+        "zh": "标题",
+        "ko": "제목",
+        "ja": "見出し"
+      }
+    },
+    {
+      "index": 64,
+      "word": "for",
+      "start": 448,
+      "end": 451,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 65,
+      "word": "sections",
+      "start": 452,
+      "end": 460,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Include",
+      "start": 462,
+      "end": 469,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 67,
+      "word": "a",
+      "start": 470,
+      "end": 471,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 68,
+      "word": "section",
+      "start": 472,
+      "end": 479,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 69,
+      "word": "labeled",
+      "start": 480,
+      "end": 487,
+      "candidates": {
+        "fr": "étiquette",
+        "es": "etiqueta",
+        "zh": "标签",
+        "ko": "라벨",
+        "ja": "ラベル"
+      }
+    },
+    {
+      "index": 70,
+      "word": "Key",
+      "start": 489,
+      "end": 492,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 71,
+      "word": "Messaging",
+      "start": 493,
+      "end": 502,
+      "candidates": {
+        "fr": "messagerie",
+        "es": "mensajería",
+        "zh": "消息通信",
+        "ko": "메시징",
+        "ja": "メッセージング"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Points",
+      "start": 503,
+      "end": 509,
+      "candidates": {
+        "fr": "point",
+        "es": "punto",
+        "zh": "要点",
+        "ko": "요점",
+        "ja": "要点"
+      }
+    },
+    {
+      "index": 73,
+      "word": "that",
+      "start": 511,
+      "end": 515,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 74,
+      "word": "encapsulates",
+      "start": 516,
+      "end": 528,
+      "candidates": {
+        "fr": "résume",
+        "es": "encapsula",
+        "zh": "概括",
+        "ko": "요약하다",
+        "ja": "要約する"
+      }
+    },
+    {
+      "index": 75,
+      "word": "the",
+      "start": 529,
+      "end": 532,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 76,
+      "word": "core",
+      "start": 533,
+      "end": 537,
+      "candidates": {
+        "fr": "central",
+        "es": "central",
+        "zh": "核心",
+        "ko": "핵심",
+        "ja": "中核"
+      }
+    },
+    {
+      "index": 77,
+      "word": "message",
+      "start": 538,
+      "end": 545,
+      "candidates": {
+        "fr": "message",
+        "es": "mensaje",
+        "zh": "消息",
+        "ko": "메시지",
+        "ja": "メッセージ"
+      }
+    },
+    {
+      "index": 78,
+      "word": "succinctly",
+      "start": 546,
+      "end": 556,
+      "candidates": {
+        "fr": "brièvement",
+        "es": "sucintamente",
+        "zh": "简明地",
+        "ko": "간결하게",
+        "ja": "簡潔に"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Expected",
+      "start": 558,
+      "end": 566,
+      "candidates": {
+        "fr": "attendu",
+        "es": "esperado",
+        "zh": "预期的",
+        "ko": "예상되는",
+        "ja": "予想される"
+      }
+    },
+    {
+      "index": 80,
+      "word": "sections",
+      "start": 567,
+      "end": 575,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 81,
+      "word": "include",
+      "start": 576,
+      "end": 583,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Audience",
+      "start": 588,
+      "end": 596,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "受众",
+        "ko": "청중",
+        "ja": "聴衆"
+      }
+    },
+    {
+      "index": 83,
+      "word": "Identification",
+      "start": 597,
+      "end": 611,
+      "candidates": {
+        "fr": "identification",
+        "es": "identificación",
+        "zh": "识别",
+        "ko": "식별",
+        "ja": "識別"
+      }
+    },
+    {
+      "index": 84,
+      "word": "Identify",
+      "start": 613,
+      "end": 621,
+      "candidates": {
+        "fr": "identifier",
+        "es": "identificar",
+        "zh": "识别",
+        "ko": "식별하다",
+        "ja": "識別する"
+      }
+    },
+    {
+      "index": 85,
+      "word": "key",
+      "start": 622,
+      "end": 625,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 86,
+      "word": "stakeholders",
+      "start": 626,
+      "end": 638,
+      "candidates": {
+        "fr": "partie prenante",
+        "es": "parte interesada",
+        "zh": "利益相关者",
+        "ko": "이해관계자",
+        "ja": "利害関係者"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Communication",
+      "start": 643,
+      "end": 656,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 88,
+      "word": "Goals",
+      "start": 657,
+      "end": 662,
+      "candidates": {
+        "fr": "objectif",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 89,
+      "word": "Describe",
+      "start": 664,
+      "end": 672,
+      "candidates": {
+        "fr": "décrire",
+        "es": "describir",
+        "zh": "描述",
+        "ko": "설명하다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 90,
+      "word": "the",
+      "start": 673,
+      "end": 676,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 91,
+      "word": "intended",
+      "start": 677,
+      "end": 685,
+      "candidates": {
+        "fr": "prévu",
+        "es": "previsto",
+        "zh": "预期的",
+        "ko": "의도된",
+        "ja": "意図された"
+      }
+    },
+    {
+      "index": 92,
+      "word": "outcomes",
+      "start": 686,
+      "end": 694,
+      "candidates": {
+        "fr": "résultat",
+        "es": "resultado",
+        "zh": "结果",
+        "ko": "결과",
+        "ja": "結果"
+      }
+    },
+    {
+      "index": 93,
+      "word": "for",
+      "start": 695,
+      "end": 698,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 94,
+      "word": "each",
+      "start": 699,
+      "end": 703,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 95,
+      "word": "audience",
+      "start": 704,
+      "end": 712,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "受众",
+        "ko": "청중",
+        "ja": "聴衆"
+      }
+    },
+    {
+      "index": 96,
+      "word": "Channel",
+      "start": 717,
+      "end": 724,
+      "candidates": {
+        "fr": "canal",
+        "es": "canal",
+        "zh": "渠道",
+        "ko": "채널",
+        "ja": "チャネル"
+      }
+    },
+    {
+      "index": 97,
+      "word": "Strategy",
+      "start": 725,
+      "end": 733,
+      "candidates": {
+        "fr": "stratégie",
+        "es": "estrategia",
+        "zh": "策略",
+        "ko": "전략",
+        "ja": "戦略"
+      }
+    },
+    {
+      "index": 98,
+      "word": "Recommend",
+      "start": 735,
+      "end": 744,
+      "candidates": {
+        "fr": "recommander",
+        "es": "recomendar",
+        "zh": "推荐",
+        "ko": "추천하다",
+        "ja": "推薦する"
+      }
+    },
+    {
+      "index": 99,
+      "word": "communication",
+      "start": 745,
+      "end": 758,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 100,
+      "word": "channels",
+      "start": 759,
+      "end": 767,
+      "candidates": {
+        "fr": "canal",
+        "es": "canal",
+        "zh": "渠道",
+        "ko": "채널",
+        "ja": "チャネル"
+      }
+    },
+    {
+      "index": 101,
+      "word": "for",
+      "start": 768,
+      "end": 771,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 102,
+      "word": "each",
+      "start": 772,
+      "end": 776,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 103,
+      "word": "target",
+      "start": 777,
+      "end": 783,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    },
+    {
+      "index": 104,
+      "word": "segment",
+      "start": 784,
+      "end": 791,
+      "candidates": {
+        "fr": "segment",
+        "es": "segmento",
+        "zh": "片段",
+        "ko": "구간",
+        "ja": "区間"
+      }
+    },
+    {
+      "index": 105,
+      "word": "Timeline",
+      "start": 796,
+      "end": 804,
+      "candidates": {
+        "fr": "chronologie",
+        "es": "cronología",
+        "zh": "时间线",
+        "ko": "타임라인",
+        "ja": "時系列"
+      }
+    },
+    {
+      "index": 106,
+      "word": "Provide",
+      "start": 806,
+      "end": 813,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 107,
+      "word": "a",
+      "start": 814,
+      "end": 815,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 108,
+      "word": "high",
+      "start": 816,
+      "end": 820,
+      "candidates": {
+        "fr": "élevé",
+        "es": "alto",
+        "zh": "高的",
+        "ko": "높은",
+        "ja": "高い"
+      }
+    },
+    {
+      "index": 109,
+      "word": "level",
+      "start": 821,
+      "end": 826,
+      "candidates": {
+        "fr": "niveau",
+        "es": "nivel",
+        "zh": "级别",
+        "ko": "수준",
+        "ja": "水準"
+      }
+    },
+    {
+      "index": 110,
+      "word": "overview",
+      "start": 827,
+      "end": 835,
+      "candidates": {
+        "fr": "vue d’ensemble",
+        "es": "visión general",
+        "zh": "概览",
+        "ko": "개요",
+        "ja": "概要"
+      }
+    },
+    {
+      "index": 111,
+      "word": "of",
+      "start": 836,
+      "end": 838,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 112,
+      "word": "the",
+      "start": 839,
+      "end": 842,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 113,
+      "word": "timing",
+      "start": 843,
+      "end": 849,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "sincronización",
+        "zh": "时机",
+        "ko": "시점",
+        "ja": "タイミング"
+      }
+    },
+    {
+      "index": 114,
+      "word": "for",
+      "start": 850,
+      "end": 853,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 115,
+      "word": "each",
+      "start": 854,
+      "end": 858,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 116,
+      "word": "communication",
+      "start": 859,
+      "end": 872,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 117,
+      "word": "Evaluation",
+      "start": 877,
+      "end": 887,
+      "candidates": {
+        "fr": "évaluation",
+        "es": "evaluación",
+        "zh": "评估",
+        "ko": "평가",
+        "ja": "評価"
+      }
+    },
+    {
+      "index": 118,
+      "word": "Metrics",
+      "start": 888,
+      "end": 895,
+      "candidates": {
+        "fr": "indicateurs",
+        "es": "métricas",
+        "zh": "指标",
+        "ko": "평가 지표",
+        "ja": "指標"
+      }
+    },
+    {
+      "index": 119,
+      "word": "Suggest",
+      "start": 897,
+      "end": 904,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 120,
+      "word": "how",
+      "start": 905,
+      "end": 908,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 121,
+      "word": "success",
+      "start": 909,
+      "end": 916,
+      "candidates": {
+        "fr": "succès",
+        "es": "éxito",
+        "zh": "成功",
+        "ko": "성공",
+        "ja": "成功"
+      }
+    },
+    {
+      "index": 122,
+      "word": "will",
+      "start": 917,
+      "end": 921,
+      "candidates": {
+        "fr": "aller",
+        "es": "irá a",
+        "zh": "将",
+        "ko": "할 것이다",
+        "ja": "するだろう"
+      }
+    },
+    {
+      "index": 123,
+      "word": "be",
+      "start": 922,
+      "end": 924,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 124,
+      "word": "measured",
+      "start": 925,
+      "end": 933,
+      "candidates": {
+        "fr": "mesurer",
+        "es": "medir",
+        "zh": "衡量",
+        "ko": "측정하다",
+        "ja": "測定する"
+      }
+    },
+    {
+      "index": 125,
+      "word": "Please",
+      "start": 936,
+      "end": 942,
+      "candidates": {
+        "fr": "s’il vous plaît",
+        "es": "por favor",
+        "zh": "请",
+        "ko": "부디",
+        "ja": "どうぞ"
+      }
+    },
+    {
+      "index": 126,
+      "word": "remain",
+      "start": 943,
+      "end": 949,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 127,
+      "word": "professional",
+      "start": 950,
+      "end": 962,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 128,
+      "word": "and",
+      "start": 963,
+      "end": 966,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 129,
+      "word": "offer",
+      "start": 967,
+      "end": 972,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 130,
+      "word": "advice",
+      "start": 973,
+      "end": 979,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 131,
+      "word": "grounded",
+      "start": 980,
+      "end": 988,
+      "candidates": {
+        "fr": "fondé",
+        "es": "fundamentado",
+        "zh": "有依据的",
+        "ko": "근거 있는",
+        "ja": "根拠のある"
+      }
+    },
+    {
+      "index": 132,
+      "word": "in",
+      "start": 989,
+      "end": 991,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 133,
+      "word": "established",
+      "start": 992,
+      "end": 1003,
+      "candidates": {
+        "fr": "établi",
+        "es": "establecido",
+        "zh": "既定的",
+        "ko": "확립된",
+        "ja": "確立された"
+      }
+    },
+    {
+      "index": 134,
+      "word": "communication",
+      "start": 1004,
+      "end": 1017,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 135,
+      "word": "principles",
+      "start": 1018,
+      "end": 1028,
+      "candidates": {
+        "fr": "principes",
+        "es": "principios",
+        "zh": "原则",
+        "ko": "원칙",
+        "ja": "原則"
+      }
+    }
+  ]
+}

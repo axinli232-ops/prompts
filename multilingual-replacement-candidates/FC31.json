@@ -1,0 +1,1033 @@
+{
+  "prompt_id": "FC31",
+  "system_prompt": "You are a friendly Story Idea Generator. Create compelling story concepts based on the themes, characters, or scenarios given by users. Maintain an imaginative tone. Structure the output to include a title, main plot, and potential characters. Feel free to incorporate elements from a wide range of genres, but keep the themes appropriate for all age groups. Highlight the excitement of storytelling and encourage creative exploration. Keep responses under 200 words unless a longer format is requested by the user.",
+  "words": [
+    {
+      "index": 0,
+      "word": "You",
+      "start": 0,
+      "end": 3,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 1,
+      "word": "are",
+      "start": 4,
+      "end": 7,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "a",
+      "start": 8,
+      "end": 9,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "friendly",
+      "start": 10,
+      "end": 18,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Story",
+      "start": 19,
+      "end": 24,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "故事",
+        "ko": "이야기",
+        "ja": "物語"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Idea",
+      "start": 25,
+      "end": 29,
+      "candidates": {
+        "fr": "idée",
+        "es": "idea",
+        "zh": "想法",
+        "ko": "아이디어",
+        "ja": "考え"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Generator",
+      "start": 30,
+      "end": 39,
+      "candidates": {
+        "fr": "générateur",
+        "es": "generador",
+        "zh": "生成器",
+        "ko": "생성기",
+        "ja": "生成器"
+      }
+    },
+    {
+      "index": 7,
+      "word": "Create",
+      "start": 41,
+      "end": 47,
+      "candidates": {
+        "fr": "créer",
+        "es": "crear",
+        "zh": "创建",
+        "ko": "만들다",
+        "ja": "作成する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "compelling",
+      "start": 48,
+      "end": 58,
+      "candidates": {
+        "fr": "convaincant",
+        "es": "convincente",
+        "zh": "有说服力的",
+        "ko": "설득력 있는",
+        "ja": "説得力のある"
+      }
+    },
+    {
+      "index": 9,
+      "word": "story",
+      "start": 59,
+      "end": 64,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "故事",
+        "ko": "이야기",
+        "ja": "物語"
+      }
+    },
+    {
+      "index": 10,
+      "word": "concepts",
+      "start": 65,
+      "end": 73,
+      "candidates": {
+        "fr": "concepts",
+        "es": "conceptos",
+        "zh": "概念",
+        "ko": "개념",
+        "ja": "概念"
+      }
+    },
+    {
+      "index": 11,
+      "word": "based",
+      "start": 74,
+      "end": 79,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 12,
+      "word": "on",
+      "start": 80,
+      "end": 82,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 13,
+      "word": "the",
+      "start": 83,
+      "end": 86,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 14,
+      "word": "themes",
+      "start": 87,
+      "end": 93,
+      "candidates": {
+        "fr": "thème",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 15,
+      "word": "characters",
+      "start": 95,
+      "end": 105,
+      "candidates": {
+        "fr": "caractères",
+        "es": "caracteres",
+        "zh": "字符",
+        "ko": "문자",
+        "ja": "文字"
+      }
+    },
+    {
+      "index": 16,
+      "word": "or",
+      "start": 107,
+      "end": 109,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 17,
+      "word": "scenarios",
+      "start": 110,
+      "end": 119,
+      "candidates": {
+        "fr": "scénarios",
+        "es": "escenarios",
+        "zh": "场景",
+        "ko": "시나리오",
+        "ja": "シナリオ"
+      }
+    },
+    {
+      "index": 18,
+      "word": "given",
+      "start": 120,
+      "end": 125,
+      "candidates": {
+        "fr": "donner",
+        "es": "dar",
+        "zh": "给予",
+        "ko": "주다",
+        "ja": "与える"
+      }
+    },
+    {
+      "index": 19,
+      "word": "by",
+      "start": 126,
+      "end": 128,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 20,
+      "word": "users",
+      "start": 129,
+      "end": 134,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Maintain",
+      "start": 136,
+      "end": 144,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "an",
+      "start": 145,
+      "end": 147,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 23,
+      "word": "imaginative",
+      "start": 148,
+      "end": 159,
+      "candidates": {
+        "fr": "imaginatif",
+        "es": "imaginativo",
+        "zh": "富有想象力的",
+        "ko": "상상력이 풍부한",
+        "ja": "想像力豊かな"
+      }
+    },
+    {
+      "index": 24,
+      "word": "tone",
+      "start": 160,
+      "end": 164,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Structure",
+      "start": 166,
+      "end": 175,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 26,
+      "word": "the",
+      "start": 176,
+      "end": 179,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 27,
+      "word": "output",
+      "start": 180,
+      "end": 186,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 28,
+      "word": "to",
+      "start": 187,
+      "end": 189,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 29,
+      "word": "include",
+      "start": 190,
+      "end": 197,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 30,
+      "word": "a",
+      "start": 198,
+      "end": 199,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 31,
+      "word": "title",
+      "start": 200,
+      "end": 205,
+      "candidates": {
+        "fr": "titre",
+        "es": "título",
+        "zh": "标题",
+        "ko": "제목",
+        "ja": "タイトル"
+      }
+    },
+    {
+      "index": 32,
+      "word": "main",
+      "start": 207,
+      "end": 211,
+      "candidates": {
+        "fr": "principal",
+        "es": "principal",
+        "zh": "主要的",
+        "ko": "주요한",
+        "ja": "主要な"
+      }
+    },
+    {
+      "index": 33,
+      "word": "plot",
+      "start": 212,
+      "end": 216,
+      "candidates": {
+        "fr": "intrigue",
+        "es": "trama",
+        "zh": "情节",
+        "ko": "줄거리",
+        "ja": "筋書き"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 218,
+      "end": 221,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "potential",
+      "start": 222,
+      "end": 231,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 36,
+      "word": "characters",
+      "start": 232,
+      "end": 242,
+      "candidates": {
+        "fr": "caractères",
+        "es": "caracteres",
+        "zh": "字符",
+        "ko": "문자",
+        "ja": "文字"
+      }
+    },
+    {
+      "index": 37,
+      "word": "Feel",
+      "start": 244,
+      "end": 248,
+      "candidates": {
+        "fr": "ressentir",
+        "es": "sentir",
+        "zh": "感受",
+        "ko": "느끼다",
+        "ja": "感じる"
+      }
+    },
+    {
+      "index": 38,
+      "word": "free",
+      "start": 249,
+      "end": 253,
+      "candidates": {
+        "fr": "libre",
+        "es": "libre",
+        "zh": "自由的",
+        "ko": "자유로운",
+        "ja": "自由な"
+      }
+    },
+    {
+      "index": 39,
+      "word": "to",
+      "start": 254,
+      "end": 256,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 40,
+      "word": "incorporate",
+      "start": 257,
+      "end": 268,
+      "candidates": {
+        "fr": "intégrer",
+        "es": "incorporar",
+        "zh": "纳入",
+        "ko": "통합하다",
+        "ja": "組み込む"
+      }
+    },
+    {
+      "index": 41,
+      "word": "elements",
+      "start": 269,
+      "end": 277,
+      "candidates": {
+        "fr": "éléments",
+        "es": "elementos",
+        "zh": "元素",
+        "ko": "요소",
+        "ja": "要素"
+      }
+    },
+    {
+      "index": 42,
+      "word": "from",
+      "start": 278,
+      "end": 282,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 43,
+      "word": "a",
+      "start": 283,
+      "end": 284,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 44,
+      "word": "wide",
+      "start": 285,
+      "end": 289,
+      "candidates": {
+        "fr": "large",
+        "es": "amplio",
+        "zh": "广泛的",
+        "ko": "넓은",
+        "ja": "広い"
+      }
+    },
+    {
+      "index": 45,
+      "word": "range",
+      "start": 290,
+      "end": 295,
+      "candidates": {
+        "fr": "plage",
+        "es": "rango",
+        "zh": "范围",
+        "ko": "범위",
+        "ja": "範囲"
+      }
+    },
+    {
+      "index": 46,
+      "word": "of",
+      "start": 296,
+      "end": 298,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 47,
+      "word": "genres",
+      "start": 299,
+      "end": 305,
+      "candidates": {
+        "fr": "genres",
+        "es": "géneros",
+        "zh": "体裁",
+        "ko": "장르",
+        "ja": "ジャンル"
+      }
+    },
+    {
+      "index": 48,
+      "word": "but",
+      "start": 307,
+      "end": 310,
+      "candidates": {
+        "fr": "mais",
+        "es": "pero",
+        "zh": "但是",
+        "ko": "하지만",
+        "ja": "しかし"
+      }
+    },
+    {
+      "index": 49,
+      "word": "keep",
+      "start": 311,
+      "end": 315,
+      "candidates": {
+        "fr": "garder",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 50,
+      "word": "the",
+      "start": 316,
+      "end": 319,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 51,
+      "word": "themes",
+      "start": 320,
+      "end": 326,
+      "candidates": {
+        "fr": "thème",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 52,
+      "word": "appropriate",
+      "start": 327,
+      "end": 338,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "适当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 53,
+      "word": "for",
+      "start": 339,
+      "end": 342,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 54,
+      "word": "all",
+      "start": 343,
+      "end": 346,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 55,
+      "word": "age",
+      "start": 347,
+      "end": 350,
+      "candidates": {
+        "fr": "âge",
+        "es": "edad",
+        "zh": "年龄",
+        "ko": "나이",
+        "ja": "年齢"
+      }
+    },
+    {
+      "index": 56,
+      "word": "groups",
+      "start": 351,
+      "end": 357,
+      "candidates": {
+        "fr": "groupe",
+        "es": "grupo",
+        "zh": "组",
+        "ko": "그룹",
+        "ja": "グループ"
+      }
+    },
+    {
+      "index": 57,
+      "word": "Highlight",
+      "start": 359,
+      "end": 368,
+      "candidates": {
+        "fr": "mettre en évidence",
+        "es": "destacar",
+        "zh": "突出",
+        "ko": "강조하다",
+        "ja": "強調する"
+      }
+    },
+    {
+      "index": 58,
+      "word": "the",
+      "start": 369,
+      "end": 372,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 59,
+      "word": "excitement",
+      "start": 373,
+      "end": 383,
+      "candidates": {
+        "fr": "enthousiasme",
+        "es": "emoción",
+        "zh": "兴奋",
+        "ko": "흥분",
+        "ja": "興奮"
+      }
+    },
+    {
+      "index": 60,
+      "word": "of",
+      "start": 384,
+      "end": 386,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 61,
+      "word": "storytelling",
+      "start": 387,
+      "end": 399,
+      "candidates": {
+        "fr": "narration",
+        "es": "narración",
+        "zh": "叙事",
+        "ko": "스토리텔링",
+        "ja": "物語を語ること"
+      }
+    },
+    {
+      "index": 62,
+      "word": "and",
+      "start": 400,
+      "end": 403,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 63,
+      "word": "encourage",
+      "start": 404,
+      "end": 413,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 64,
+      "word": "creative",
+      "start": 414,
+      "end": 422,
+      "candidates": {
+        "fr": "créatif",
+        "es": "creativo",
+        "zh": "创造性的",
+        "ko": "창의적인",
+        "ja": "創造的な"
+      }
+    },
+    {
+      "index": 65,
+      "word": "exploration",
+      "start": 423,
+      "end": 434,
+      "candidates": {
+        "fr": "exploration",
+        "es": "exploración",
+        "zh": "探索",
+        "ko": "탐색",
+        "ja": "探索"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Keep",
+      "start": 436,
+      "end": 440,
+      "candidates": {
+        "fr": "garder",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 67,
+      "word": "responses",
+      "start": 441,
+      "end": 450,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 68,
+      "word": "under",
+      "start": 451,
+      "end": 456,
+      "candidates": {
+        "fr": "sous",
+        "es": "bajo",
+        "zh": "在下方",
+        "ko": "아래에",
+        "ja": "の下に"
+      }
+    },
+    {
+      "index": 69,
+      "word": "words",
+      "start": 461,
+      "end": 466,
+      "candidates": {
+        "fr": "mots",
+        "es": "palabras",
+        "zh": "单词",
+        "ko": "단어",
+        "ja": "単語"
+      }
+    },
+    {
+      "index": 70,
+      "word": "unless",
+      "start": 467,
+      "end": 473,
+      "candidates": {
+        "fr": "à moins que",
+        "es": "a menos que",
+        "zh": "除非",
+        "ko": "하지 않는 한",
+        "ja": "でない限り"
+      }
+    },
+    {
+      "index": 71,
+      "word": "a",
+      "start": 474,
+      "end": 475,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 72,
+      "word": "longer",
+      "start": 476,
+      "end": 482,
+      "candidates": {
+        "fr": "plus long",
+        "es": "más largo",
+        "zh": "更长的",
+        "ko": "더 긴",
+        "ja": "より長い"
+      }
+    },
+    {
+      "index": 73,
+      "word": "format",
+      "start": 483,
+      "end": 489,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 74,
+      "word": "is",
+      "start": 490,
+      "end": 492,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 75,
+      "word": "requested",
+      "start": 493,
+      "end": 502,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 76,
+      "word": "by",
+      "start": 503,
+      "end": 505,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 77,
+      "word": "the",
+      "start": 506,
+      "end": 509,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 78,
+      "word": "user",
+      "start": 510,
+      "end": 514,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    }
+  ]
+}

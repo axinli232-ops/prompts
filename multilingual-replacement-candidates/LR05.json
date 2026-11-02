@@ -1,0 +1,1150 @@
+{
+  "prompt_id": "LR05",
+  "system_prompt": "### Your role is to assist users in classifying their emails into one of four categories: Personal, Work, Spam, and Important. When classifying, use the provided subject line and a brief excerpt of the content. Consider contextual cues and keywords to help you determine the suitable category. If it's a promotional email with no relevance to the user, classify it as Spam. Personal emails are often informal, with known sender information. Work emails should relate to the user's professional life. Important emails involve time-sensitive information or critical tasks.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Your",
+      "start": 4,
+      "end": 8,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 1,
+      "word": "role",
+      "start": 9,
+      "end": 13,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 2,
+      "word": "is",
+      "start": 14,
+      "end": 16,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "to",
+      "start": 17,
+      "end": 19,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "assist",
+      "start": 20,
+      "end": 26,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 5,
+      "word": "users",
+      "start": 27,
+      "end": 32,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 6,
+      "word": "in",
+      "start": 33,
+      "end": 35,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 7,
+      "word": "classifying",
+      "start": 36,
+      "end": 47,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "their",
+      "start": 48,
+      "end": 53,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 9,
+      "word": "emails",
+      "start": 54,
+      "end": 60,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 10,
+      "word": "into",
+      "start": 61,
+      "end": 65,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 11,
+      "word": "one",
+      "start": 66,
+      "end": 69,
+      "candidates": {
+        "fr": "un",
+        "es": "uno",
+        "zh": "一",
+        "ko": "하나",
+        "ja": "一"
+      }
+    },
+    {
+      "index": 12,
+      "word": "of",
+      "start": 70,
+      "end": 72,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 13,
+      "word": "four",
+      "start": 73,
+      "end": 77,
+      "candidates": {
+        "fr": "quatre",
+        "es": "cuatro",
+        "zh": "四",
+        "ko": "넷",
+        "ja": "四"
+      }
+    },
+    {
+      "index": 14,
+      "word": "categories",
+      "start": 78,
+      "end": 88,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Personal",
+      "start": 90,
+      "end": 98,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Work",
+      "start": 100,
+      "end": 104,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Spam",
+      "start": 106,
+      "end": 110,
+      "candidates": {
+        "fr": "pourriel",
+        "es": "correo no deseado",
+        "zh": "垃圾邮件",
+        "ko": "스팸",
+        "ja": "迷惑メール"
+      }
+    },
+    {
+      "index": 18,
+      "word": "and",
+      "start": 112,
+      "end": 115,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 19,
+      "word": "Important",
+      "start": 116,
+      "end": 125,
+      "candidates": {
+        "fr": "important",
+        "es": "importante",
+        "zh": "重要的",
+        "ko": "중요한",
+        "ja": "重要な"
+      }
+    },
+    {
+      "index": 20,
+      "word": "When",
+      "start": 127,
+      "end": 131,
+      "candidates": {
+        "fr": "quand",
+        "es": "cuándo",
+        "zh": "当时",
+        "ko": "언제",
+        "ja": "いつ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "classifying",
+      "start": 132,
+      "end": 143,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "use",
+      "start": 145,
+      "end": 148,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 23,
+      "word": "the",
+      "start": 149,
+      "end": 152,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 24,
+      "word": "provided",
+      "start": 153,
+      "end": 161,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 25,
+      "word": "subject",
+      "start": 162,
+      "end": 169,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 26,
+      "word": "line",
+      "start": 170,
+      "end": 174,
+      "candidates": {
+        "fr": "ligne",
+        "es": "línea",
+        "zh": "行",
+        "ko": "행",
+        "ja": "行"
+      }
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 175,
+      "end": 178,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "a",
+      "start": 179,
+      "end": 180,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 29,
+      "word": "brief",
+      "start": 181,
+      "end": 186,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 30,
+      "word": "excerpt",
+      "start": 187,
+      "end": 194,
+      "candidates": {
+        "fr": "extrait",
+        "es": "extracto",
+        "zh": "摘录",
+        "ko": "발췌",
+        "ja": "抜粋"
+      }
+    },
+    {
+      "index": 31,
+      "word": "of",
+      "start": 195,
+      "end": 197,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 32,
+      "word": "the",
+      "start": 198,
+      "end": 201,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 33,
+      "word": "content",
+      "start": 202,
+      "end": 209,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Consider",
+      "start": 211,
+      "end": 219,
+      "candidates": {
+        "fr": "considérer",
+        "es": "considerar",
+        "zh": "考虑",
+        "ko": "고려하다",
+        "ja": "考慮する"
+      }
+    },
+    {
+      "index": 35,
+      "word": "contextual",
+      "start": 220,
+      "end": 230,
+      "candidates": {
+        "fr": "contextuel",
+        "es": "contextual",
+        "zh": "上下文的",
+        "ko": "문맥상의",
+        "ja": "文脈上の"
+      }
+    },
+    {
+      "index": 36,
+      "word": "cues",
+      "start": 231,
+      "end": 235,
+      "candidates": {
+        "fr": "indices",
+        "es": "indicios",
+        "zh": "线索",
+        "ko": "단서",
+        "ja": "手がかり"
+      }
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 236,
+      "end": 239,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 38,
+      "word": "keywords",
+      "start": 240,
+      "end": 248,
+      "candidates": {
+        "fr": "mots-clés",
+        "es": "palabras clave",
+        "zh": "关键词",
+        "ko": "키워드",
+        "ja": "キーワード"
+      }
+    },
+    {
+      "index": 39,
+      "word": "to",
+      "start": 249,
+      "end": 251,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 40,
+      "word": "help",
+      "start": 252,
+      "end": 256,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 41,
+      "word": "you",
+      "start": 257,
+      "end": 260,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 42,
+      "word": "determine",
+      "start": 261,
+      "end": 270,
+      "candidates": {
+        "fr": "déterminer",
+        "es": "determinar",
+        "zh": "确定",
+        "ko": "결정하다",
+        "ja": "判断する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "the",
+      "start": 271,
+      "end": 274,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 44,
+      "word": "suitable",
+      "start": 275,
+      "end": 283,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "合适的",
+        "ko": "적합한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 45,
+      "word": "category",
+      "start": 284,
+      "end": 292,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 46,
+      "word": "If",
+      "start": 294,
+      "end": 296,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 47,
+      "word": "it's",
+      "start": 297,
+      "end": 301,
+      "candidates": {
+        "fr": "il est",
+        "es": "es",
+        "zh": "它是",
+        "ko": "그것은 이다",
+        "ja": "それはである"
+      }
+    },
+    {
+      "index": 48,
+      "word": "a",
+      "start": 302,
+      "end": 303,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 49,
+      "word": "promotional",
+      "start": 304,
+      "end": 315,
+      "candidates": {
+        "fr": "promotionnel",
+        "es": "promocional",
+        "zh": "促销的",
+        "ko": "홍보의",
+        "ja": "販促の"
+      }
+    },
+    {
+      "index": 50,
+      "word": "email",
+      "start": 316,
+      "end": 321,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 51,
+      "word": "with",
+      "start": 322,
+      "end": 326,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 52,
+      "word": "no",
+      "start": 327,
+      "end": 329,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "没有",
+        "ko": "없는",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 53,
+      "word": "relevance",
+      "start": 330,
+      "end": 339,
+      "candidates": {
+        "fr": "pertinence",
+        "es": "relevancia",
+        "zh": "相关性",
+        "ko": "관련성",
+        "ja": "関連性"
+      }
+    },
+    {
+      "index": 54,
+      "word": "to",
+      "start": 340,
+      "end": 342,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 55,
+      "word": "the",
+      "start": 343,
+      "end": 346,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 56,
+      "word": "user",
+      "start": 347,
+      "end": 351,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 57,
+      "word": "classify",
+      "start": 353,
+      "end": 361,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 58,
+      "word": "it",
+      "start": 362,
+      "end": 364,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 59,
+      "word": "as",
+      "start": 365,
+      "end": 367,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 60,
+      "word": "Spam",
+      "start": 368,
+      "end": 372,
+      "candidates": {
+        "fr": "pourriel",
+        "es": "correo no deseado",
+        "zh": "垃圾邮件",
+        "ko": "스팸",
+        "ja": "迷惑メール"
+      }
+    },
+    {
+      "index": 61,
+      "word": "Personal",
+      "start": 374,
+      "end": 382,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 62,
+      "word": "emails",
+      "start": 383,
+      "end": 389,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 63,
+      "word": "are",
+      "start": 390,
+      "end": 393,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 64,
+      "word": "often",
+      "start": 394,
+      "end": 399,
+      "candidates": {
+        "fr": "souvent",
+        "es": "a menudo",
+        "zh": "经常",
+        "ko": "자주",
+        "ja": "しばしば"
+      }
+    },
+    {
+      "index": 65,
+      "word": "informal",
+      "start": 400,
+      "end": 408,
+      "candidates": {
+        "fr": "informel",
+        "es": "informal",
+        "zh": "非正式的",
+        "ko": "비격식적인",
+        "ja": "非公式な"
+      }
+    },
+    {
+      "index": 66,
+      "word": "with",
+      "start": 410,
+      "end": 414,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 67,
+      "word": "known",
+      "start": 415,
+      "end": 420,
+      "candidates": {
+        "fr": "connu",
+        "es": "conocido",
+        "zh": "已知的",
+        "ko": "알려진",
+        "ja": "既知の"
+      }
+    },
+    {
+      "index": 68,
+      "word": "sender",
+      "start": 421,
+      "end": 427,
+      "candidates": {
+        "fr": "expéditeur",
+        "es": "remitente",
+        "zh": "发件人",
+        "ko": "발신자",
+        "ja": "送信者"
+      }
+    },
+    {
+      "index": 69,
+      "word": "information",
+      "start": 428,
+      "end": 439,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 70,
+      "word": "Work",
+      "start": 441,
+      "end": 445,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 71,
+      "word": "emails",
+      "start": 446,
+      "end": 452,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 72,
+      "word": "should",
+      "start": 453,
+      "end": 459,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 73,
+      "word": "relate",
+      "start": 460,
+      "end": 466,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 74,
+      "word": "to",
+      "start": 467,
+      "end": 469,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 75,
+      "word": "the",
+      "start": 470,
+      "end": 473,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 76,
+      "word": "user's",
+      "start": 474,
+      "end": 480,
+      "candidates": {
+        "fr": "de l’utilisateur",
+        "es": "del usuario",
+        "zh": "用户的",
+        "ko": "사용자의",
+        "ja": "ユーザーの"
+      }
+    },
+    {
+      "index": 77,
+      "word": "professional",
+      "start": 481,
+      "end": 493,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 78,
+      "word": "life",
+      "start": 494,
+      "end": 498,
+      "candidates": {
+        "fr": "vie",
+        "es": "vida",
+        "zh": "生活",
+        "ko": "삶",
+        "ja": "生活"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Important",
+      "start": 500,
+      "end": 509,
+      "candidates": {
+        "fr": "important",
+        "es": "importante",
+        "zh": "重要的",
+        "ko": "중요한",
+        "ja": "重要な"
+      }
+    },
+    {
+      "index": 80,
+      "word": "emails",
+      "start": 510,
+      "end": 516,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 81,
+      "word": "involve",
+      "start": 517,
+      "end": 524,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 82,
+      "word": "time",
+      "start": 525,
+      "end": 529,
+      "candidates": {
+        "fr": "temps",
+        "es": "tiempo",
+        "zh": "时间",
+        "ko": "시간",
+        "ja": "時間"
+      }
+    },
+    {
+      "index": 83,
+      "word": "sensitive",
+      "start": 530,
+      "end": 539,
+      "candidates": {
+        "fr": "sensible",
+        "es": "sensible",
+        "zh": "敏感的",
+        "ko": "민감한",
+        "ja": "機微な"
+      }
+    },
+    {
+      "index": 84,
+      "word": "information",
+      "start": 540,
+      "end": 551,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 85,
+      "word": "or",
+      "start": 552,
+      "end": 554,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 86,
+      "word": "critical",
+      "start": 555,
+      "end": 563,
+      "candidates": {
+        "fr": "critique",
+        "es": "crítico",
+        "zh": "批判性的",
+        "ko": "비판적인",
+        "ja": "批判的な"
+      }
+    },
+    {
+      "index": 87,
+      "word": "tasks",
+      "start": 564,
+      "end": 569,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    }
+  ]
+}

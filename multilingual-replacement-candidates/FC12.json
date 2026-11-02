@@ -1,0 +1,2242 @@
+{
+  "prompt_id": "FC12",
+  "system_prompt": "Assist in crafting engaging and informative content related to family relationships. You should provide guidance on how individuals can improve their family dynamics. Focus can be on areas that promote bonding, open communication, understanding, and conflict resolution. Generate content that is both sensitive and practical, offering real-world solutions. Ensure empathy and supportiveness in tone, while encouraging positive action. Structure responses according to: Introduction, Practical Tips, and Conclusion.\n\n### Output Format\n- List actionable items\n- Provide real-life examples\n- Keep tone empathetic and constructive\n- Do not delve into legal advice, therapy or medical discussions unless specifically asked\n\nContent Suggestions:\n1. How to improve parent-child communication\n2. Effective family meeting strategies\n3. Activities to enhance family bonding\n4. Addressing conflicts between siblings\n5. Building trust in family relationships\n\nContent Prohibitions:\n1. Avoid discussing family planning methods or parental rights issues.\n2. Refrain from providing child-rearing practices not universally accepted.\n3. Do not delve into religious practices unless specified by the user.\n4. Avoid discussing therapy techniques not grounded in general acceptance.\n5. Stay clear of controversial topics not directly related to family dynamics.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Assist",
+      "start": 0,
+      "end": 6,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "in",
+      "start": 7,
+      "end": 9,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 2,
+      "word": "crafting",
+      "start": 10,
+      "end": 18,
+      "candidates": {
+        "fr": "élaboration",
+        "es": "elaboración",
+        "zh": "精心制作",
+        "ko": "정교한 작성",
+        "ja": "作成"
+      }
+    },
+    {
+      "index": 3,
+      "word": "engaging",
+      "start": 19,
+      "end": 27,
+      "candidates": {
+        "fr": "captivant",
+        "es": "atractivo",
+        "zh": "引人入胜的",
+        "ko": "흥미로운",
+        "ja": "魅力的な"
+      }
+    },
+    {
+      "index": 4,
+      "word": "and",
+      "start": 28,
+      "end": 31,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 5,
+      "word": "informative",
+      "start": 32,
+      "end": 43,
+      "candidates": {
+        "fr": "informatif",
+        "es": "informativo",
+        "zh": "信息丰富的",
+        "ko": "유익한",
+        "ja": "情報豊かな"
+      }
+    },
+    {
+      "index": 6,
+      "word": "content",
+      "start": 44,
+      "end": 51,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 7,
+      "word": "related",
+      "start": 52,
+      "end": 59,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 60,
+      "end": 62,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "family",
+      "start": 63,
+      "end": 69,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 10,
+      "word": "relationships",
+      "start": 70,
+      "end": 83,
+      "candidates": {
+        "fr": "relations",
+        "es": "relaciones",
+        "zh": "关系",
+        "ko": "관계",
+        "ja": "関係"
+      }
+    },
+    {
+      "index": 11,
+      "word": "You",
+      "start": 85,
+      "end": 88,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 12,
+      "word": "should",
+      "start": 89,
+      "end": 95,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 13,
+      "word": "provide",
+      "start": 96,
+      "end": 103,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "guidance",
+      "start": 104,
+      "end": 112,
+      "candidates": {
+        "fr": "conseils",
+        "es": "orientación",
+        "zh": "指导",
+        "ko": "지도",
+        "ja": "指導"
+      }
+    },
+    {
+      "index": 15,
+      "word": "on",
+      "start": 113,
+      "end": 115,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 16,
+      "word": "how",
+      "start": 116,
+      "end": 119,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 17,
+      "word": "individuals",
+      "start": 120,
+      "end": 131,
+      "candidates": {
+        "fr": "individus",
+        "es": "individuos",
+        "zh": "个人",
+        "ko": "개인",
+        "ja": "個人"
+      }
+    },
+    {
+      "index": 18,
+      "word": "can",
+      "start": 132,
+      "end": 135,
+      "candidates": {
+        "fr": "pouvoir",
+        "es": "poder",
+        "zh": "能够",
+        "ko": "할 수 있다",
+        "ja": "できる"
+      }
+    },
+    {
+      "index": 19,
+      "word": "improve",
+      "start": 136,
+      "end": 143,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "改进",
+        "ko": "개선하다",
+        "ja": "改善する"
+      }
+    },
+    {
+      "index": 20,
+      "word": "their",
+      "start": 144,
+      "end": 149,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 21,
+      "word": "family",
+      "start": 150,
+      "end": 156,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 22,
+      "word": "dynamics",
+      "start": 157,
+      "end": 165,
+      "candidates": {
+        "fr": "dynamique",
+        "es": "dinámica",
+        "zh": "动态",
+        "ko": "역학",
+        "ja": "動態"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Focus",
+      "start": 167,
+      "end": 172,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 24,
+      "word": "can",
+      "start": 173,
+      "end": 176,
+      "candidates": {
+        "fr": "pouvoir",
+        "es": "poder",
+        "zh": "能够",
+        "ko": "할 수 있다",
+        "ja": "できる"
+      }
+    },
+    {
+      "index": 25,
+      "word": "be",
+      "start": 177,
+      "end": 179,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 26,
+      "word": "on",
+      "start": 180,
+      "end": 182,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 27,
+      "word": "areas",
+      "start": 183,
+      "end": 188,
+      "candidates": {
+        "fr": "domaines",
+        "es": "áreas",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 28,
+      "word": "that",
+      "start": 189,
+      "end": 193,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 29,
+      "word": "promote",
+      "start": 194,
+      "end": 201,
+      "candidates": {
+        "fr": "promouvoir",
+        "es": "promover",
+        "zh": "促进",
+        "ko": "촉진하다",
+        "ja": "促進する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "bonding",
+      "start": 202,
+      "end": 209,
+      "candidates": {
+        "fr": "liaison",
+        "es": "vinculación",
+        "zh": "建立联系",
+        "ko": "유대 형성",
+        "ja": "絆の形成"
+      }
+    },
+    {
+      "index": 31,
+      "word": "open",
+      "start": 211,
+      "end": 215,
+      "candidates": {
+        "fr": "ouvert",
+        "es": "abierto",
+        "zh": "开放的",
+        "ko": "열린",
+        "ja": "開いた"
+      }
+    },
+    {
+      "index": 32,
+      "word": "communication",
+      "start": 216,
+      "end": 229,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 33,
+      "word": "understanding",
+      "start": 231,
+      "end": 244,
+      "candidates": {
+        "fr": "compréhension",
+        "es": "comprensión",
+        "zh": "理解",
+        "ko": "이해",
+        "ja": "理解"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 246,
+      "end": 249,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "conflict",
+      "start": 250,
+      "end": 258,
+      "candidates": {
+        "fr": "conflit",
+        "es": "conflicto",
+        "zh": "冲突",
+        "ko": "갈등",
+        "ja": "対立"
+      }
+    },
+    {
+      "index": 36,
+      "word": "resolution",
+      "start": 259,
+      "end": 269,
+      "candidates": {
+        "fr": "résolution",
+        "es": "resolución",
+        "zh": "解决",
+        "ko": "해결",
+        "ja": "解決"
+      }
+    },
+    {
+      "index": 37,
+      "word": "Generate",
+      "start": 271,
+      "end": 279,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "content",
+      "start": 280,
+      "end": 287,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 39,
+      "word": "that",
+      "start": 288,
+      "end": 292,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "is",
+      "start": 293,
+      "end": 295,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 41,
+      "word": "both",
+      "start": 296,
+      "end": 300,
+      "candidates": {
+        "fr": "les deux",
+        "es": "ambos",
+        "zh": "两者",
+        "ko": "둘 다",
+        "ja": "両方"
+      }
+    },
+    {
+      "index": 42,
+      "word": "sensitive",
+      "start": 301,
+      "end": 310,
+      "candidates": {
+        "fr": "sensible",
+        "es": "sensible",
+        "zh": "敏感的",
+        "ko": "민감한",
+        "ja": "機微な"
+      }
+    },
+    {
+      "index": 43,
+      "word": "and",
+      "start": 311,
+      "end": 314,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 44,
+      "word": "practical",
+      "start": 315,
+      "end": 324,
+      "candidates": {
+        "fr": "pratique",
+        "es": "práctico",
+        "zh": "实用的",
+        "ko": "실용적인",
+        "ja": "実用的な"
+      }
+    },
+    {
+      "index": 45,
+      "word": "offering",
+      "start": 326,
+      "end": 334,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 46,
+      "word": "real",
+      "start": 335,
+      "end": 339,
+      "candidates": {
+        "fr": "réel",
+        "es": "real",
+        "zh": "真实的",
+        "ko": "실제의",
+        "ja": "現実の"
+      }
+    },
+    {
+      "index": 47,
+      "word": "world",
+      "start": 340,
+      "end": 345,
+      "candidates": {
+        "fr": "monde",
+        "es": "mundo",
+        "zh": "世界",
+        "ko": "세계",
+        "ja": "世界"
+      }
+    },
+    {
+      "index": 48,
+      "word": "solutions",
+      "start": 346,
+      "end": 355,
+      "candidates": {
+        "fr": "solution",
+        "es": "solución",
+        "zh": "解决方案",
+        "ko": "해결책",
+        "ja": "解決策"
+      }
+    },
+    {
+      "index": 49,
+      "word": "Ensure",
+      "start": 357,
+      "end": 363,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 50,
+      "word": "empathy",
+      "start": 364,
+      "end": 371,
+      "candidates": {
+        "fr": "empathie",
+        "es": "empatía",
+        "zh": "同理心",
+        "ko": "공감",
+        "ja": "共感"
+      }
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 372,
+      "end": 375,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "supportiveness",
+      "start": 376,
+      "end": 390,
+      "candidates": {
+        "fr": "bienveillance",
+        "es": "actitud de apoyo",
+        "zh": "支持性",
+        "ko": "지지하는 태도",
+        "ja": "支援的な姿勢"
+      }
+    },
+    {
+      "index": 53,
+      "word": "in",
+      "start": 391,
+      "end": 393,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 54,
+      "word": "tone",
+      "start": 394,
+      "end": 398,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 55,
+      "word": "while",
+      "start": 400,
+      "end": 405,
+      "candidates": {
+        "fr": "pendant que",
+        "es": "mientras",
+        "zh": "当时",
+        "ko": "동안",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 56,
+      "word": "encouraging",
+      "start": 406,
+      "end": 417,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 57,
+      "word": "positive",
+      "start": 418,
+      "end": 426,
+      "candidates": {
+        "fr": "positif",
+        "es": "positivo",
+        "zh": "正面的",
+        "ko": "긍정적인",
+        "ja": "肯定的な"
+      }
+    },
+    {
+      "index": 58,
+      "word": "action",
+      "start": 427,
+      "end": 433,
+      "candidates": {
+        "fr": "action",
+        "es": "acción",
+        "zh": "行动",
+        "ko": "행동",
+        "ja": "行動"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Structure",
+      "start": 435,
+      "end": 444,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 60,
+      "word": "responses",
+      "start": 445,
+      "end": 454,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 61,
+      "word": "according",
+      "start": 455,
+      "end": 464,
+      "candidates": {
+        "fr": "selon",
+        "es": "según",
+        "zh": "按照",
+        "ko": "따라",
+        "ja": "従って"
+      }
+    },
+    {
+      "index": 62,
+      "word": "to",
+      "start": 465,
+      "end": 467,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Introduction",
+      "start": 469,
+      "end": 481,
+      "candidates": {
+        "fr": "introduction",
+        "es": "introducción",
+        "zh": "引言",
+        "ko": "서론",
+        "ja": "序論"
+      }
+    },
+    {
+      "index": 64,
+      "word": "Practical",
+      "start": 483,
+      "end": 492,
+      "candidates": {
+        "fr": "pratique",
+        "es": "práctico",
+        "zh": "实用的",
+        "ko": "실용적인",
+        "ja": "実用的な"
+      }
+    },
+    {
+      "index": 65,
+      "word": "Tips",
+      "start": 493,
+      "end": 497,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 66,
+      "word": "and",
+      "start": 499,
+      "end": 502,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Conclusion",
+      "start": 503,
+      "end": 513,
+      "candidates": {
+        "fr": "conclusion",
+        "es": "conclusión",
+        "zh": "结论",
+        "ko": "결론",
+        "ja": "結論"
+      }
+    },
+    {
+      "index": 68,
+      "word": "Output",
+      "start": 520,
+      "end": 526,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 69,
+      "word": "Format",
+      "start": 527,
+      "end": 533,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 70,
+      "word": "List",
+      "start": 536,
+      "end": 540,
+      "candidates": {
+        "fr": "liste",
+        "es": "lista",
+        "zh": "列表",
+        "ko": "목록",
+        "ja": "リスト"
+      }
+    },
+    {
+      "index": 71,
+      "word": "actionable",
+      "start": 541,
+      "end": 551,
+      "candidates": {
+        "fr": "exploitable",
+        "es": "viable",
+        "zh": "可执行的",
+        "ko": "실행 가능한",
+        "ja": "実行可能な"
+      }
+    },
+    {
+      "index": 72,
+      "word": "items",
+      "start": 552,
+      "end": 557,
+      "candidates": {
+        "fr": "éléments",
+        "es": "elementos",
+        "zh": "项目",
+        "ko": "항목",
+        "ja": "項目"
+      }
+    },
+    {
+      "index": 73,
+      "word": "Provide",
+      "start": 560,
+      "end": 567,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 74,
+      "word": "real",
+      "start": 568,
+      "end": 572,
+      "candidates": {
+        "fr": "réel",
+        "es": "real",
+        "zh": "真实的",
+        "ko": "실제의",
+        "ja": "現実の"
+      }
+    },
+    {
+      "index": 75,
+      "word": "life",
+      "start": 573,
+      "end": 577,
+      "candidates": {
+        "fr": "vie",
+        "es": "vida",
+        "zh": "生活",
+        "ko": "삶",
+        "ja": "生活"
+      }
+    },
+    {
+      "index": 76,
+      "word": "examples",
+      "start": 578,
+      "end": 586,
+      "candidates": {
+        "fr": "exemple",
+        "es": "ejemplo",
+        "zh": "示例",
+        "ko": "예시",
+        "ja": "例"
+      }
+    },
+    {
+      "index": 77,
+      "word": "Keep",
+      "start": 589,
+      "end": 593,
+      "candidates": {
+        "fr": "garder",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 78,
+      "word": "tone",
+      "start": 594,
+      "end": 598,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 79,
+      "word": "empathetic",
+      "start": 599,
+      "end": 609,
+      "candidates": {
+        "fr": "empathique",
+        "es": "empático",
+        "zh": "有同理心的",
+        "ko": "공감하는",
+        "ja": "共感的な"
+      }
+    },
+    {
+      "index": 80,
+      "word": "and",
+      "start": 610,
+      "end": 613,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 81,
+      "word": "constructive",
+      "start": 614,
+      "end": 626,
+      "candidates": {
+        "fr": "constructif",
+        "es": "constructivo",
+        "zh": "建设性的",
+        "ko": "건설적인",
+        "ja": "建設的な"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Do",
+      "start": 629,
+      "end": 631,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 83,
+      "word": "not",
+      "start": 632,
+      "end": 635,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 84,
+      "word": "delve",
+      "start": 636,
+      "end": 641,
+      "candidates": {
+        "fr": "approfondir",
+        "es": "profundizar",
+        "zh": "深入研究",
+        "ko": "깊이 탐구하다",
+        "ja": "掘り下げる"
+      }
+    },
+    {
+      "index": 85,
+      "word": "into",
+      "start": 642,
+      "end": 646,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 86,
+      "word": "legal",
+      "start": 647,
+      "end": 652,
+      "candidates": {
+        "fr": "juridique",
+        "es": "jurídico",
+        "zh": "法律的",
+        "ko": "법률의",
+        "ja": "法律上の"
+      }
+    },
+    {
+      "index": 87,
+      "word": "advice",
+      "start": 653,
+      "end": 659,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 88,
+      "word": "therapy",
+      "start": 661,
+      "end": 668,
+      "candidates": {
+        "fr": "thérapie",
+        "es": "terapia",
+        "zh": "治疗",
+        "ko": "치료",
+        "ja": "治療"
+      }
+    },
+    {
+      "index": 89,
+      "word": "or",
+      "start": 669,
+      "end": 671,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 90,
+      "word": "medical",
+      "start": 672,
+      "end": 679,
+      "candidates": {
+        "fr": "médical",
+        "es": "médico",
+        "zh": "医疗的",
+        "ko": "의료의",
+        "ja": "医療の"
+      }
+    },
+    {
+      "index": 91,
+      "word": "discussions",
+      "start": 680,
+      "end": 691,
+      "candidates": {
+        "fr": "discussion",
+        "es": "discusión",
+        "zh": "讨论",
+        "ko": "논의",
+        "ja": "議論"
+      }
+    },
+    {
+      "index": 92,
+      "word": "unless",
+      "start": 692,
+      "end": 698,
+      "candidates": {
+        "fr": "à moins que",
+        "es": "a menos que",
+        "zh": "除非",
+        "ko": "하지 않는 한",
+        "ja": "でない限り"
+      }
+    },
+    {
+      "index": 93,
+      "word": "specifically",
+      "start": 699,
+      "end": 711,
+      "candidates": {
+        "fr": "spécifiquement",
+        "es": "específicamente",
+        "zh": "具体地",
+        "ko": "구체적으로",
+        "ja": "具体的に"
+      }
+    },
+    {
+      "index": 94,
+      "word": "asked",
+      "start": 712,
+      "end": 717,
+      "candidates": {
+        "fr": "demander",
+        "es": "preguntar",
+        "zh": "询问",
+        "ko": "묻다",
+        "ja": "尋ねる"
+      }
+    },
+    {
+      "index": 95,
+      "word": "Content",
+      "start": 719,
+      "end": 726,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 96,
+      "word": "Suggestions",
+      "start": 727,
+      "end": 738,
+      "candidates": {
+        "fr": "suggestions",
+        "es": "sugerencias",
+        "zh": "建议",
+        "ko": "제안",
+        "ja": "提案"
+      }
+    },
+    {
+      "index": 97,
+      "word": "How",
+      "start": 743,
+      "end": 746,
+      "candidates": {
+        "fr": "comment",
+        "es": "cómo",
+        "zh": "如何",
+        "ko": "어떻게",
+        "ja": "どのように"
+      }
+    },
+    {
+      "index": 98,
+      "word": "to",
+      "start": 747,
+      "end": 749,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 99,
+      "word": "improve",
+      "start": 750,
+      "end": 757,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "改进",
+        "ko": "개선하다",
+        "ja": "改善する"
+      }
+    },
+    {
+      "index": 100,
+      "word": "parent",
+      "start": 758,
+      "end": 764,
+      "candidates": {
+        "fr": "parent",
+        "es": "progenitor",
+        "zh": "父母",
+        "ko": "부모",
+        "ja": "親"
+      }
+    },
+    {
+      "index": 101,
+      "word": "child",
+      "start": 765,
+      "end": 770,
+      "candidates": {
+        "fr": "enfant",
+        "es": "niño",
+        "zh": "儿童",
+        "ko": "아이",
+        "ja": "子供"
+      }
+    },
+    {
+      "index": 102,
+      "word": "communication",
+      "start": 771,
+      "end": 784,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 103,
+      "word": "Effective",
+      "start": 788,
+      "end": 797,
+      "candidates": {
+        "fr": "efficace",
+        "es": "eficaz",
+        "zh": "有效的",
+        "ko": "효과적인",
+        "ja": "効果的な"
+      }
+    },
+    {
+      "index": 104,
+      "word": "family",
+      "start": 798,
+      "end": 804,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 105,
+      "word": "meeting",
+      "start": 805,
+      "end": 812,
+      "candidates": {
+        "fr": "réunion",
+        "es": "reunión",
+        "zh": "会议",
+        "ko": "회의",
+        "ja": "会議"
+      }
+    },
+    {
+      "index": 106,
+      "word": "strategies",
+      "start": 813,
+      "end": 823,
+      "candidates": {
+        "fr": "stratégie",
+        "es": "estrategia",
+        "zh": "策略",
+        "ko": "전략",
+        "ja": "戦略"
+      }
+    },
+    {
+      "index": 107,
+      "word": "Activities",
+      "start": 827,
+      "end": 837,
+      "candidates": {
+        "fr": "activités",
+        "es": "actividades",
+        "zh": "活动",
+        "ko": "활동",
+        "ja": "活動"
+      }
+    },
+    {
+      "index": 108,
+      "word": "to",
+      "start": 838,
+      "end": 840,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 109,
+      "word": "enhance",
+      "start": 841,
+      "end": 848,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "增强",
+        "ko": "향상하다",
+        "ja": "向上させる"
+      }
+    },
+    {
+      "index": 110,
+      "word": "family",
+      "start": 849,
+      "end": 855,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 111,
+      "word": "bonding",
+      "start": 856,
+      "end": 863,
+      "candidates": {
+        "fr": "liaison",
+        "es": "vinculación",
+        "zh": "建立联系",
+        "ko": "유대 형성",
+        "ja": "絆の形成"
+      }
+    },
+    {
+      "index": 112,
+      "word": "Addressing",
+      "start": 867,
+      "end": 877,
+      "candidates": {
+        "fr": "traiter",
+        "es": "abordar",
+        "zh": "处理",
+        "ko": "다루다",
+        "ja": "対処する"
+      }
+    },
+    {
+      "index": 113,
+      "word": "conflicts",
+      "start": 878,
+      "end": 887,
+      "candidates": {
+        "fr": "conflit",
+        "es": "conflicto",
+        "zh": "冲突",
+        "ko": "갈등",
+        "ja": "対立"
+      }
+    },
+    {
+      "index": 114,
+      "word": "between",
+      "start": 888,
+      "end": 895,
+      "candidates": {
+        "fr": "entre",
+        "es": "entre",
+        "zh": "之间",
+        "ko": "사이에",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 115,
+      "word": "siblings",
+      "start": 896,
+      "end": 904,
+      "candidates": {
+        "fr": "frères et sœurs",
+        "es": "hermanos",
+        "zh": "兄弟姐妹",
+        "ko": "형제자매",
+        "ja": "兄弟姉妹"
+      }
+    },
+    {
+      "index": 116,
+      "word": "Building",
+      "start": 908,
+      "end": 916,
+      "candidates": {
+        "fr": "construction",
+        "es": "construcción",
+        "zh": "构建",
+        "ko": "구축",
+        "ja": "構築"
+      }
+    },
+    {
+      "index": 117,
+      "word": "trust",
+      "start": 917,
+      "end": 922,
+      "candidates": {
+        "fr": "confiance",
+        "es": "confianza",
+        "zh": "信任",
+        "ko": "신뢰",
+        "ja": "信頼"
+      }
+    },
+    {
+      "index": 118,
+      "word": "in",
+      "start": 923,
+      "end": 925,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 119,
+      "word": "family",
+      "start": 926,
+      "end": 932,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 120,
+      "word": "relationships",
+      "start": 933,
+      "end": 946,
+      "candidates": {
+        "fr": "relations",
+        "es": "relaciones",
+        "zh": "关系",
+        "ko": "관계",
+        "ja": "関係"
+      }
+    },
+    {
+      "index": 121,
+      "word": "Content",
+      "start": 948,
+      "end": 955,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 122,
+      "word": "Prohibitions",
+      "start": 956,
+      "end": 968,
+      "candidates": {
+        "fr": "interdictions",
+        "es": "prohibiciones",
+        "zh": "禁令",
+        "ko": "금지사항",
+        "ja": "禁止事項"
+      }
+    },
+    {
+      "index": 123,
+      "word": "Avoid",
+      "start": 973,
+      "end": 978,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 124,
+      "word": "discussing",
+      "start": 979,
+      "end": 989,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 125,
+      "word": "family",
+      "start": 990,
+      "end": 996,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 126,
+      "word": "planning",
+      "start": 997,
+      "end": 1005,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 127,
+      "word": "methods",
+      "start": 1006,
+      "end": 1013,
+      "candidates": {
+        "fr": "méthodes",
+        "es": "métodos",
+        "zh": "方法",
+        "ko": "방법",
+        "ja": "方法"
+      }
+    },
+    {
+      "index": 128,
+      "word": "or",
+      "start": 1014,
+      "end": 1016,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 129,
+      "word": "parental",
+      "start": 1017,
+      "end": 1025,
+      "candidates": {
+        "fr": "parental",
+        "es": "parental",
+        "zh": "父母的",
+        "ko": "부모의",
+        "ja": "親の"
+      }
+    },
+    {
+      "index": 130,
+      "word": "rights",
+      "start": 1026,
+      "end": 1032,
+      "candidates": {
+        "fr": "droits",
+        "es": "derechos",
+        "zh": "权利",
+        "ko": "권리",
+        "ja": "権利"
+      }
+    },
+    {
+      "index": 131,
+      "word": "issues",
+      "start": 1033,
+      "end": 1039,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 132,
+      "word": "Refrain",
+      "start": 1044,
+      "end": 1051,
+      "candidates": {
+        "fr": "s’abstenir",
+        "es": "abstenerse",
+        "zh": "避免",
+        "ko": "삼가다",
+        "ja": "控える"
+      }
+    },
+    {
+      "index": 133,
+      "word": "from",
+      "start": 1052,
+      "end": 1056,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 134,
+      "word": "providing",
+      "start": 1057,
+      "end": 1066,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 135,
+      "word": "child",
+      "start": 1067,
+      "end": 1072,
+      "candidates": {
+        "fr": "enfant",
+        "es": "niño",
+        "zh": "儿童",
+        "ko": "아이",
+        "ja": "子供"
+      }
+    },
+    {
+      "index": 136,
+      "word": "rearing",
+      "start": 1073,
+      "end": 1080,
+      "candidates": {
+        "fr": "éducation",
+        "es": "crianza",
+        "zh": "养育",
+        "ko": "양육",
+        "ja": "養育"
+      }
+    },
+    {
+      "index": 137,
+      "word": "practices",
+      "start": 1081,
+      "end": 1090,
+      "candidates": {
+        "fr": "pratiques",
+        "es": "prácticas",
+        "zh": "实践",
+        "ko": "관행",
+        "ja": "実践"
+      }
+    },
+    {
+      "index": 138,
+      "word": "not",
+      "start": 1091,
+      "end": 1094,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 139,
+      "word": "universally",
+      "start": 1095,
+      "end": 1106,
+      "candidates": {
+        "fr": "universellement",
+        "es": "universalmente",
+        "zh": "普遍地",
+        "ko": "보편적으로",
+        "ja": "普遍的に"
+      }
+    },
+    {
+      "index": 140,
+      "word": "accepted",
+      "start": 1107,
+      "end": 1115,
+      "candidates": {
+        "fr": "accepter",
+        "es": "aceptar",
+        "zh": "接受",
+        "ko": "수락하다",
+        "ja": "受け入れる"
+      }
+    },
+    {
+      "index": 141,
+      "word": "Do",
+      "start": 1120,
+      "end": 1122,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 142,
+      "word": "not",
+      "start": 1123,
+      "end": 1126,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 143,
+      "word": "delve",
+      "start": 1127,
+      "end": 1132,
+      "candidates": {
+        "fr": "approfondir",
+        "es": "profundizar",
+        "zh": "深入研究",
+        "ko": "깊이 탐구하다",
+        "ja": "掘り下げる"
+      }
+    },
+    {
+      "index": 144,
+      "word": "into",
+      "start": 1133,
+      "end": 1137,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 145,
+      "word": "religious",
+      "start": 1138,
+      "end": 1147,
+      "candidates": {
+        "fr": "religieux",
+        "es": "religioso",
+        "zh": "宗教的",
+        "ko": "종교의",
+        "ja": "宗教的な"
+      }
+    },
+    {
+      "index": 146,
+      "word": "practices",
+      "start": 1148,
+      "end": 1157,
+      "candidates": {
+        "fr": "pratiques",
+        "es": "prácticas",
+        "zh": "实践",
+        "ko": "관행",
+        "ja": "実践"
+      }
+    },
+    {
+      "index": 147,
+      "word": "unless",
+      "start": 1158,
+      "end": 1164,
+      "candidates": {
+        "fr": "à moins que",
+        "es": "a menos que",
+        "zh": "除非",
+        "ko": "하지 않는 한",
+        "ja": "でない限り"
+      }
+    },
+    {
+      "index": 148,
+      "word": "specified",
+      "start": 1165,
+      "end": 1174,
+      "candidates": {
+        "fr": "spécifié",
+        "es": "especificado",
+        "zh": "指定的",
+        "ko": "지정된",
+        "ja": "指定された"
+      }
+    },
+    {
+      "index": 149,
+      "word": "by",
+      "start": 1175,
+      "end": 1177,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 150,
+      "word": "the",
+      "start": 1178,
+      "end": 1181,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 151,
+      "word": "user",
+      "start": 1182,
+      "end": 1186,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 152,
+      "word": "Avoid",
+      "start": 1191,
+      "end": 1196,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 153,
+      "word": "discussing",
+      "start": 1197,
+      "end": 1207,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 154,
+      "word": "therapy",
+      "start": 1208,
+      "end": 1215,
+      "candidates": {
+        "fr": "thérapie",
+        "es": "terapia",
+        "zh": "治疗",
+        "ko": "치료",
+        "ja": "治療"
+      }
+    },
+    {
+      "index": 155,
+      "word": "techniques",
+      "start": 1216,
+      "end": 1226,
+      "candidates": {
+        "fr": "techniques",
+        "es": "técnicas",
+        "zh": "技术",
+        "ko": "기법",
+        "ja": "技法"
+      }
+    },
+    {
+      "index": 156,
+      "word": "not",
+      "start": 1227,
+      "end": 1230,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 157,
+      "word": "grounded",
+      "start": 1231,
+      "end": 1239,
+      "candidates": {
+        "fr": "fondé",
+        "es": "fundamentado",
+        "zh": "有依据的",
+        "ko": "근거 있는",
+        "ja": "根拠のある"
+      }
+    },
+    {
+      "index": 158,
+      "word": "in",
+      "start": 1240,
+      "end": 1242,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 159,
+      "word": "general",
+      "start": 1243,
+      "end": 1250,
+      "candidates": {
+        "fr": "général",
+        "es": "general",
+        "zh": "一般的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 160,
+      "word": "acceptance",
+      "start": 1251,
+      "end": 1261,
+      "candidates": {
+        "fr": "acceptation",
+        "es": "aceptación",
+        "zh": "接受",
+        "ko": "수락",
+        "ja": "受け入れ"
+      }
+    },
+    {
+      "index": 161,
+      "word": "Stay",
+      "start": 1266,
+      "end": 1270,
+      "candidates": {
+        "fr": "rester",
+        "es": "mantenerse",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 162,
+      "word": "clear",
+      "start": 1271,
+      "end": 1276,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 163,
+      "word": "of",
+      "start": 1277,
+      "end": 1279,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 164,
+      "word": "controversial",
+      "start": 1280,
+      "end": 1293,
+      "candidates": {
+        "fr": "controversé",
+        "es": "controvertido",
+        "zh": "有争议的",
+        "ko": "논쟁적인",
+        "ja": "議論を呼ぶ"
+      }
+    },
+    {
+      "index": 165,
+      "word": "topics",
+      "start": 1294,
+      "end": 1300,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "话题",
+        "ko": "주제",
+        "ja": "話題"
+      }
+    },
+    {
+      "index": 166,
+      "word": "not",
+      "start": 1301,
+      "end": 1304,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 167,
+      "word": "directly",
+      "start": 1305,
+      "end": 1313,
+      "candidates": {
+        "fr": "directement",
+        "es": "directamente",
+        "zh": "直接地",
+        "ko": "직접",
+        "ja": "直接に"
+      }
+    },
+    {
+      "index": 168,
+      "word": "related",
+      "start": 1314,
+      "end": 1321,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 169,
+      "word": "to",
+      "start": 1322,
+      "end": 1324,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 170,
+      "word": "family",
+      "start": 1325,
+      "end": 1331,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 171,
+      "word": "dynamics",
+      "start": 1332,
+      "end": 1340,
+      "candidates": {
+        "fr": "dynamique",
+        "es": "dinámica",
+        "zh": "动态",
+        "ko": "역학",
+        "ja": "動態"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1618 @@
+{
+  "prompt_id": "FC40",
+  "system_prompt": "Serve as an AI Planning Assistant tasked with developing weekly production schedules for a fictional manufacturing plant. This plant produces eco-friendly home goods, such as bamboo cookware, recycled glassware, and organic cotton bedding. Each schedule must optimize resource allocation and meet specified production targets while minimizing waste and emissions. Consider factors like workforce availability, machine maintenance schedules, and material supply timelines in planning your output.\n\nThe output format should include:\n1. Daily Production Tasks\n2. Resource Allocation Details\n3. Waste Minimization Strategy\n4. Energy Efficiency Measures\n\n### Guidelines for Schedule Creation:\n1. Include staff shifts, machine usage, and product lines.\n2. Monitor emission levels and suggest improvements.\n3. Adapt schedule based on reported constraints (machine downtimes, manpower shortages).\n\n### Constraints:\n- Maintain a focus on sustainability.\n- Deliver weekly schedules aligned with monthly targets.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Serve",
+      "start": 0,
+      "end": 5,
+      "candidates": {
+        "fr": "servir",
+        "es": "servir",
+        "zh": "服务",
+        "ko": "서비스하다",
+        "ja": "奉仕する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "as",
+      "start": 6,
+      "end": 8,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 2,
+      "word": "an",
+      "start": 9,
+      "end": 11,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "AI",
+      "start": 12,
+      "end": 14,
+      "candidates": {
+        "fr": "intelligence artificielle",
+        "es": "inteligencia artificial",
+        "zh": "人工智能",
+        "ko": "인공지능",
+        "ja": "人工知能"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Planning",
+      "start": 15,
+      "end": 23,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Assistant",
+      "start": 24,
+      "end": 33,
+      "candidates": {
+        "fr": "assistant",
+        "es": "asistente",
+        "zh": "助手",
+        "ko": "보조자",
+        "ja": "アシスタント"
+      }
+    },
+    {
+      "index": 6,
+      "word": "tasked",
+      "start": 34,
+      "end": 40,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 7,
+      "word": "with",
+      "start": 41,
+      "end": 45,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 8,
+      "word": "developing",
+      "start": 46,
+      "end": 56,
+      "candidates": {
+        "fr": "développer",
+        "es": "desarrollar",
+        "zh": "开发",
+        "ko": "개발하다",
+        "ja": "開発する"
+      }
+    },
+    {
+      "index": 9,
+      "word": "weekly",
+      "start": 57,
+      "end": 63,
+      "candidates": {
+        "fr": "hebdomadaire",
+        "es": "semanal",
+        "zh": "每周的",
+        "ko": "주간의",
+        "ja": "毎週の"
+      }
+    },
+    {
+      "index": 10,
+      "word": "production",
+      "start": 64,
+      "end": 74,
+      "candidates": {
+        "fr": "production",
+        "es": "producción",
+        "zh": "生产",
+        "ko": "생산",
+        "ja": "生産"
+      }
+    },
+    {
+      "index": 11,
+      "word": "schedules",
+      "start": 75,
+      "end": 84,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 12,
+      "word": "for",
+      "start": 85,
+      "end": 88,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 13,
+      "word": "a",
+      "start": 89,
+      "end": 90,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 14,
+      "word": "fictional",
+      "start": 91,
+      "end": 100,
+      "candidates": {
+        "fr": "fictif",
+        "es": "ficticio",
+        "zh": "虚构的",
+        "ko": "허구의",
+        "ja": "架空の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "manufacturing",
+      "start": 101,
+      "end": 114,
+      "candidates": {
+        "fr": "fabrication",
+        "es": "fabricación",
+        "zh": "制造",
+        "ko": "제조",
+        "ja": "製造"
+      }
+    },
+    {
+      "index": 16,
+      "word": "plant",
+      "start": 115,
+      "end": 120,
+      "candidates": {
+        "fr": "plante",
+        "es": "planta",
+        "zh": "植物",
+        "ko": "식물",
+        "ja": "植物"
+      }
+    },
+    {
+      "index": 17,
+      "word": "This",
+      "start": 122,
+      "end": 126,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 18,
+      "word": "plant",
+      "start": 127,
+      "end": 132,
+      "candidates": {
+        "fr": "plante",
+        "es": "planta",
+        "zh": "植物",
+        "ko": "식물",
+        "ja": "植物"
+      }
+    },
+    {
+      "index": 19,
+      "word": "produces",
+      "start": 133,
+      "end": 141,
+      "candidates": {
+        "fr": "produit",
+        "es": "produce",
+        "zh": "产生",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 20,
+      "word": "eco",
+      "start": 142,
+      "end": 145,
+      "candidates": {
+        "fr": "écologique",
+        "es": "ecológico",
+        "zh": "环保",
+        "ko": "친환경",
+        "ja": "環境配慮"
+      }
+    },
+    {
+      "index": 21,
+      "word": "friendly",
+      "start": 146,
+      "end": 154,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 22,
+      "word": "home",
+      "start": 155,
+      "end": 159,
+      "candidates": {
+        "fr": "maison",
+        "es": "hogar",
+        "zh": "家庭",
+        "ko": "가정",
+        "ja": "家庭"
+      }
+    },
+    {
+      "index": 23,
+      "word": "goods",
+      "start": 160,
+      "end": 165,
+      "candidates": {
+        "fr": "biens",
+        "es": "bienes",
+        "zh": "商品",
+        "ko": "상품",
+        "ja": "商品"
+      }
+    },
+    {
+      "index": 24,
+      "word": "such",
+      "start": 167,
+      "end": 171,
+      "candidates": {
+        "fr": "tel",
+        "es": "tal",
+        "zh": "这样的",
+        "ko": "그러한",
+        "ja": "そのような"
+      }
+    },
+    {
+      "index": 25,
+      "word": "as",
+      "start": 172,
+      "end": 174,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 26,
+      "word": "bamboo",
+      "start": 175,
+      "end": 181,
+      "candidates": {
+        "fr": "bambou",
+        "es": "bambú",
+        "zh": "竹子",
+        "ko": "대나무",
+        "ja": "竹"
+      }
+    },
+    {
+      "index": 27,
+      "word": "cookware",
+      "start": 182,
+      "end": 190,
+      "candidates": {
+        "fr": "ustensiles de cuisine",
+        "es": "utensilios de cocina",
+        "zh": "炊具",
+        "ko": "조리기구",
+        "ja": "調理器具"
+      }
+    },
+    {
+      "index": 28,
+      "word": "recycled",
+      "start": 192,
+      "end": 200,
+      "candidates": {
+        "fr": "recyclé",
+        "es": "reciclado",
+        "zh": "回收再利用的",
+        "ko": "재활용된",
+        "ja": "再生された"
+      }
+    },
+    {
+      "index": 29,
+      "word": "glassware",
+      "start": 201,
+      "end": 210,
+      "candidates": {
+        "fr": "verrerie",
+        "es": "cristalería",
+        "zh": "玻璃器皿",
+        "ko": "유리 제품",
+        "ja": "ガラス器具"
+      }
+    },
+    {
+      "index": 30,
+      "word": "and",
+      "start": 212,
+      "end": 215,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 31,
+      "word": "organic",
+      "start": 216,
+      "end": 223,
+      "candidates": {
+        "fr": "biologique",
+        "es": "orgánico",
+        "zh": "有机的",
+        "ko": "유기적인",
+        "ja": "有機的な"
+      }
+    },
+    {
+      "index": 32,
+      "word": "cotton",
+      "start": 224,
+      "end": 230,
+      "candidates": {
+        "fr": "coton",
+        "es": "algodón",
+        "zh": "棉花",
+        "ko": "면",
+        "ja": "綿"
+      }
+    },
+    {
+      "index": 33,
+      "word": "bedding",
+      "start": 231,
+      "end": 238,
+      "candidates": {
+        "fr": "literie",
+        "es": "ropa de cama",
+        "zh": "床上用品",
+        "ko": "침구",
+        "ja": "寝具"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Each",
+      "start": 240,
+      "end": 244,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 35,
+      "word": "schedule",
+      "start": 245,
+      "end": 253,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 36,
+      "word": "must",
+      "start": 254,
+      "end": 258,
+      "candidates": {
+        "fr": "devoir",
+        "es": "deber",
+        "zh": "必须",
+        "ko": "해야 한다",
+        "ja": "しなければならない"
+      }
+    },
+    {
+      "index": 37,
+      "word": "optimize",
+      "start": 259,
+      "end": 267,
+      "candidates": {
+        "fr": "optimiser",
+        "es": "optimizar",
+        "zh": "优化",
+        "ko": "최적화하다",
+        "ja": "最適化する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "resource",
+      "start": 268,
+      "end": 276,
+      "candidates": {
+        "fr": "ressource",
+        "es": "recurso",
+        "zh": "资源",
+        "ko": "자원",
+        "ja": "資源"
+      }
+    },
+    {
+      "index": 39,
+      "word": "allocation",
+      "start": 277,
+      "end": 287,
+      "candidates": {
+        "fr": "allocation",
+        "es": "asignación",
+        "zh": "分配",
+        "ko": "할당",
+        "ja": "割り当て"
+      }
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 288,
+      "end": 291,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "meet",
+      "start": 292,
+      "end": 296,
+      "candidates": {
+        "fr": "satisfaire",
+        "es": "cumplir",
+        "zh": "满足",
+        "ko": "충족하다",
+        "ja": "満たす"
+      }
+    },
+    {
+      "index": 42,
+      "word": "specified",
+      "start": 297,
+      "end": 306,
+      "candidates": {
+        "fr": "spécifié",
+        "es": "especificado",
+        "zh": "指定的",
+        "ko": "지정된",
+        "ja": "指定された"
+      }
+    },
+    {
+      "index": 43,
+      "word": "production",
+      "start": 307,
+      "end": 317,
+      "candidates": {
+        "fr": "production",
+        "es": "producción",
+        "zh": "生产",
+        "ko": "생산",
+        "ja": "生産"
+      }
+    },
+    {
+      "index": 44,
+      "word": "targets",
+      "start": 318,
+      "end": 325,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    },
+    {
+      "index": 45,
+      "word": "while",
+      "start": 326,
+      "end": 331,
+      "candidates": {
+        "fr": "pendant que",
+        "es": "mientras",
+        "zh": "当时",
+        "ko": "동안",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 46,
+      "word": "minimizing",
+      "start": 332,
+      "end": 342,
+      "candidates": {
+        "fr": "minimisant",
+        "es": "minimizando",
+        "zh": "最小化",
+        "ko": "최소화하며",
+        "ja": "最小化して"
+      }
+    },
+    {
+      "index": 47,
+      "word": "waste",
+      "start": 343,
+      "end": 348,
+      "candidates": {
+        "fr": "déchets",
+        "es": "residuos",
+        "zh": "废弃物",
+        "ko": "폐기물",
+        "ja": "廃棄物"
+      }
+    },
+    {
+      "index": 48,
+      "word": "and",
+      "start": 349,
+      "end": 352,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 49,
+      "word": "emissions",
+      "start": 353,
+      "end": 362,
+      "candidates": {
+        "fr": "émission",
+        "es": "emisión",
+        "zh": "排放",
+        "ko": "배출",
+        "ja": "排出"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Consider",
+      "start": 364,
+      "end": 372,
+      "candidates": {
+        "fr": "considérer",
+        "es": "considerar",
+        "zh": "考虑",
+        "ko": "고려하다",
+        "ja": "考慮する"
+      }
+    },
+    {
+      "index": 51,
+      "word": "factors",
+      "start": 373,
+      "end": 380,
+      "candidates": {
+        "fr": "facteurs",
+        "es": "factores",
+        "zh": "因素",
+        "ko": "요인",
+        "ja": "要因"
+      }
+    },
+    {
+      "index": 52,
+      "word": "like",
+      "start": 381,
+      "end": 385,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "像",
+        "ko": "처럼",
+        "ja": "のように"
+      }
+    },
+    {
+      "index": 53,
+      "word": "workforce",
+      "start": 386,
+      "end": 395,
+      "candidates": {
+        "fr": "main-d’œuvre",
+        "es": "fuerza laboral",
+        "zh": "劳动力",
+        "ko": "노동력",
+        "ja": "労働力"
+      }
+    },
+    {
+      "index": 54,
+      "word": "availability",
+      "start": 396,
+      "end": 408,
+      "candidates": {
+        "fr": "disponibilité",
+        "es": "disponibilidad",
+        "zh": "可用性",
+        "ko": "가용성",
+        "ja": "可用性"
+      }
+    },
+    {
+      "index": 55,
+      "word": "machine",
+      "start": 410,
+      "end": 417,
+      "candidates": {
+        "fr": "machine",
+        "es": "máquina",
+        "zh": "机器",
+        "ko": "기계",
+        "ja": "機械"
+      }
+    },
+    {
+      "index": 56,
+      "word": "maintenance",
+      "start": 418,
+      "end": 429,
+      "candidates": {
+        "fr": "maintenance",
+        "es": "mantenimiento",
+        "zh": "维护",
+        "ko": "유지보수",
+        "ja": "保守"
+      }
+    },
+    {
+      "index": 57,
+      "word": "schedules",
+      "start": 430,
+      "end": 439,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 58,
+      "word": "and",
+      "start": 441,
+      "end": 444,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 59,
+      "word": "material",
+      "start": 445,
+      "end": 453,
+      "candidates": {
+        "fr": "matériau",
+        "es": "material",
+        "zh": "材料",
+        "ko": "자료",
+        "ja": "資料"
+      }
+    },
+    {
+      "index": 60,
+      "word": "supply",
+      "start": 454,
+      "end": 460,
+      "candidates": {
+        "fr": "fournir",
+        "es": "suministrar",
+        "zh": "供应",
+        "ko": "공급하다",
+        "ja": "供給する"
+      }
+    },
+    {
+      "index": 61,
+      "word": "timelines",
+      "start": 461,
+      "end": 470,
+      "candidates": {
+        "fr": "chronologie",
+        "es": "cronología",
+        "zh": "时间线",
+        "ko": "타임라인",
+        "ja": "時系列"
+      }
+    },
+    {
+      "index": 62,
+      "word": "in",
+      "start": 471,
+      "end": 473,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 63,
+      "word": "planning",
+      "start": 474,
+      "end": 482,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 64,
+      "word": "your",
+      "start": 483,
+      "end": 487,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 65,
+      "word": "output",
+      "start": 488,
+      "end": 494,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 66,
+      "word": "The",
+      "start": 497,
+      "end": 500,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 67,
+      "word": "output",
+      "start": 501,
+      "end": 507,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 68,
+      "word": "format",
+      "start": 508,
+      "end": 514,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 69,
+      "word": "should",
+      "start": 515,
+      "end": 521,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 70,
+      "word": "include",
+      "start": 522,
+      "end": 529,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 71,
+      "word": "Daily",
+      "start": 534,
+      "end": 539,
+      "candidates": {
+        "fr": "quotidien",
+        "es": "diario",
+        "zh": "每日的",
+        "ko": "매일의",
+        "ja": "毎日の"
+      }
+    },
+    {
+      "index": 72,
+      "word": "Production",
+      "start": 540,
+      "end": 550,
+      "candidates": {
+        "fr": "production",
+        "es": "producción",
+        "zh": "生产",
+        "ko": "생산",
+        "ja": "生産"
+      }
+    },
+    {
+      "index": 73,
+      "word": "Tasks",
+      "start": 551,
+      "end": 556,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 74,
+      "word": "Resource",
+      "start": 560,
+      "end": 568,
+      "candidates": {
+        "fr": "ressource",
+        "es": "recurso",
+        "zh": "资源",
+        "ko": "자원",
+        "ja": "資源"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Allocation",
+      "start": 569,
+      "end": 579,
+      "candidates": {
+        "fr": "allocation",
+        "es": "asignación",
+        "zh": "分配",
+        "ko": "할당",
+        "ja": "割り当て"
+      }
+    },
+    {
+      "index": 76,
+      "word": "Details",
+      "start": 580,
+      "end": 587,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 77,
+      "word": "Waste",
+      "start": 591,
+      "end": 596,
+      "candidates": {
+        "fr": "déchets",
+        "es": "residuos",
+        "zh": "废弃物",
+        "ko": "폐기물",
+        "ja": "廃棄物"
+      }
+    },
+    {
+      "index": 78,
+      "word": "Minimization",
+      "start": 597,
+      "end": 609,
+      "candidates": {
+        "fr": "minimisation",
+        "es": "minimización",
+        "zh": "最小化",
+        "ko": "최소화",
+        "ja": "最小化"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Strategy",
+      "start": 610,
+      "end": 618,
+      "candidates": {
+        "fr": "stratégie",
+        "es": "estrategia",
+        "zh": "策略",
+        "ko": "전략",
+        "ja": "戦略"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Energy",
+      "start": 622,
+      "end": 628,
+      "candidates": {
+        "fr": "énergie",
+        "es": "energía",
+        "zh": "能源",
+        "ko": "에너지",
+        "ja": "エネルギー"
+      }
+    },
+    {
+      "index": 81,
+      "word": "Efficiency",
+      "start": 629,
+      "end": 639,
+      "candidates": {
+        "fr": "efficacité",
+        "es": "eficiencia",
+        "zh": "效率",
+        "ko": "효율성",
+        "ja": "効率"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Measures",
+      "start": 640,
+      "end": 648,
+      "candidates": {
+        "fr": "mesurer",
+        "es": "medir",
+        "zh": "衡量",
+        "ko": "측정하다",
+        "ja": "測定する"
+      }
+    },
+    {
+      "index": 83,
+      "word": "Guidelines",
+      "start": 654,
+      "end": 664,
+      "candidates": {
+        "fr": "directives",
+        "es": "directrices",
+        "zh": "指南",
+        "ko": "지침",
+        "ja": "指針"
+      }
+    },
+    {
+      "index": 84,
+      "word": "for",
+      "start": 665,
+      "end": 668,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 85,
+      "word": "Schedule",
+      "start": 669,
+      "end": 677,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Creation",
+      "start": 678,
+      "end": 686,
+      "candidates": {
+        "fr": "création",
+        "es": "creación",
+        "zh": "创建",
+        "ko": "창작",
+        "ja": "創作"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Include",
+      "start": 691,
+      "end": 698,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 88,
+      "word": "staff",
+      "start": 699,
+      "end": 704,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "職員"
+      }
+    },
+    {
+      "index": 89,
+      "word": "shifts",
+      "start": 705,
+      "end": 711,
+      "candidates": {
+        "fr": "changements",
+        "es": "cambios",
+        "zh": "转变",
+        "ko": "변화",
+        "ja": "変化"
+      }
+    },
+    {
+      "index": 90,
+      "word": "machine",
+      "start": 713,
+      "end": 720,
+      "candidates": {
+        "fr": "machine",
+        "es": "máquina",
+        "zh": "机器",
+        "ko": "기계",
+        "ja": "機械"
+      }
+    },
+    {
+      "index": 91,
+      "word": "usage",
+      "start": 721,
+      "end": 726,
+      "candidates": {
+        "fr": "utilisation",
+        "es": "uso",
+        "zh": "用法",
+        "ko": "사용",
+        "ja": "使用"
+      }
+    },
+    {
+      "index": 92,
+      "word": "and",
+      "start": 728,
+      "end": 731,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 93,
+      "word": "product",
+      "start": 732,
+      "end": 739,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 94,
+      "word": "lines",
+      "start": 740,
+      "end": 745,
+      "candidates": {
+        "fr": "ligne",
+        "es": "línea",
+        "zh": "行",
+        "ko": "행",
+        "ja": "行"
+      }
+    },
+    {
+      "index": 95,
+      "word": "Monitor",
+      "start": 750,
+      "end": 757,
+      "candidates": {
+        "fr": "surveiller",
+        "es": "monitorear",
+        "zh": "监控",
+        "ko": "감시하다",
+        "ja": "監視する"
+      }
+    },
+    {
+      "index": 96,
+      "word": "emission",
+      "start": 758,
+      "end": 766,
+      "candidates": {
+        "fr": "émission",
+        "es": "emisión",
+        "zh": "排放",
+        "ko": "배출",
+        "ja": "排出"
+      }
+    },
+    {
+      "index": 97,
+      "word": "levels",
+      "start": 767,
+      "end": 773,
+      "candidates": {
+        "fr": "niveau",
+        "es": "nivel",
+        "zh": "级别",
+        "ko": "수준",
+        "ja": "水準"
+      }
+    },
+    {
+      "index": 98,
+      "word": "and",
+      "start": 774,
+      "end": 777,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 99,
+      "word": "suggest",
+      "start": 778,
+      "end": 785,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 100,
+      "word": "improvements",
+      "start": 786,
+      "end": 798,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "改进",
+        "ko": "개선하다",
+        "ja": "改善する"
+      }
+    },
+    {
+      "index": 101,
+      "word": "Adapt",
+      "start": 803,
+      "end": 808,
+      "candidates": {
+        "fr": "adapter",
+        "es": "adaptar",
+        "zh": "调整",
+        "ko": "적응시키다",
+        "ja": "適応させる"
+      }
+    },
+    {
+      "index": 102,
+      "word": "schedule",
+      "start": 809,
+      "end": 817,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 103,
+      "word": "based",
+      "start": 818,
+      "end": 823,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 104,
+      "word": "on",
+      "start": 824,
+      "end": 826,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 105,
+      "word": "reported",
+      "start": 827,
+      "end": 835,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 106,
+      "word": "constraints",
+      "start": 836,
+      "end": 847,
+      "candidates": {
+        "fr": "contraintes",
+        "es": "restricciones",
+        "zh": "约束",
+        "ko": "제약",
+        "ja": "制約"
+      }
+    },
+    {
+      "index": 107,
+      "word": "machine",
+      "start": 849,
+      "end": 856,
+      "candidates": {
+        "fr": "machine",
+        "es": "máquina",
+        "zh": "机器",
+        "ko": "기계",
+        "ja": "機械"
+      }
+    },
+    {
+      "index": 108,
+      "word": "downtimes",
+      "start": 857,
+      "end": 866,
+      "candidates": {
+        "fr": "temps d’arrêt",
+        "es": "tiempo de inactividad",
+        "zh": "停机时间",
+        "ko": "중단 시간",
+        "ja": "停止時間"
+      }
+    },
+    {
+      "index": 109,
+      "word": "manpower",
+      "start": 868,
+      "end": 876,
+      "candidates": {
+        "fr": "main-d’œuvre",
+        "es": "mano de obra",
+        "zh": "人力",
+        "ko": "인력",
+        "ja": "労働力"
+      }
+    },
+    {
+      "index": 110,
+      "word": "shortages",
+      "start": 877,
+      "end": 886,
+      "candidates": {
+        "fr": "pénuries",
+        "es": "escasez",
+        "zh": "短缺",
+        "ko": "부족",
+        "ja": "不足"
+      }
+    },
+    {
+      "index": 111,
+      "word": "Constraints",
+      "start": 894,
+      "end": 905,
+      "candidates": {
+        "fr": "contraintes",
+        "es": "restricciones",
+        "zh": "约束",
+        "ko": "제약",
+        "ja": "制約"
+      }
+    },
+    {
+      "index": 112,
+      "word": "Maintain",
+      "start": 909,
+      "end": 917,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 113,
+      "word": "a",
+      "start": 918,
+      "end": 919,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 114,
+      "word": "focus",
+      "start": 920,
+      "end": 925,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 115,
+      "word": "on",
+      "start": 926,
+      "end": 928,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 116,
+      "word": "sustainability",
+      "start": 929,
+      "end": 943,
+      "candidates": {
+        "fr": "durabilité",
+        "es": "sostenibilidad",
+        "zh": "可持续性",
+        "ko": "지속가능성",
+        "ja": "持続可能性"
+      }
+    },
+    {
+      "index": 117,
+      "word": "Deliver",
+      "start": 947,
+      "end": 954,
+      "candidates": {
+        "fr": "livrer",
+        "es": "entregar",
+        "zh": "交付",
+        "ko": "전달하다",
+        "ja": "届ける"
+      }
+    },
+    {
+      "index": 118,
+      "word": "weekly",
+      "start": 955,
+      "end": 961,
+      "candidates": {
+        "fr": "hebdomadaire",
+        "es": "semanal",
+        "zh": "每周的",
+        "ko": "주간의",
+        "ja": "毎週の"
+      }
+    },
+    {
+      "index": 119,
+      "word": "schedules",
+      "start": 962,
+      "end": 971,
+      "candidates": {
+        "fr": "calendrier",
+        "es": "cronograma",
+        "zh": "日程",
+        "ko": "일정",
+        "ja": "日程"
+      }
+    },
+    {
+      "index": 120,
+      "word": "aligned",
+      "start": 972,
+      "end": 979,
+      "candidates": {
+        "fr": "aligner",
+        "es": "alinear",
+        "zh": "对齐",
+        "ko": "정렬하다",
+        "ja": "整合させる"
+      }
+    },
+    {
+      "index": 121,
+      "word": "with",
+      "start": 980,
+      "end": 984,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 122,
+      "word": "monthly",
+      "start": 985,
+      "end": 992,
+      "candidates": {
+        "fr": "mensuel",
+        "es": "mensual",
+        "zh": "每月的",
+        "ko": "월간의",
+        "ja": "月次の"
+      }
+    },
+    {
+      "index": 123,
+      "word": "targets",
+      "start": 993,
+      "end": 1000,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    }
+  ]
+}

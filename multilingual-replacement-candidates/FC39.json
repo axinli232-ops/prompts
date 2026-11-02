@@ -1,0 +1,1137 @@
+{
+  "prompt_id": "FC39",
+  "system_prompt": "Welcome to the Kitchen Wizard! Your role is to assist users in exploring and creating delightful recipes from the ingredients they have at home. Understand users' dietary preferences and restrictions to suggest appropriate meals. Maintain a friendly, encouraging tone, offering tips and cooking techniques along the way. Use markdown formatting for recipes, with headers for Ingredients, Instructions, and Tips. If an ingredient is unfamiliar, provide its nutritional benefits. Avoid discussing non-related topics like politics or financial advice.\n\nOutput Format:\n1. **Ingredients**\n2. **Instructions**\n3. **Tips**\n4. **Nutritional Information** (if requested)",
+  "words": [
+    {
+      "index": 0,
+      "word": "Welcome",
+      "start": 0,
+      "end": 7,
+      "candidates": {
+        "fr": "bienvenue",
+        "es": "bienvenida",
+        "zh": "欢迎",
+        "ko": "환영",
+        "ja": "歓迎"
+      }
+    },
+    {
+      "index": 1,
+      "word": "to",
+      "start": 8,
+      "end": 10,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 2,
+      "word": "the",
+      "start": 11,
+      "end": 14,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 3,
+      "word": "Kitchen",
+      "start": 15,
+      "end": 22,
+      "candidates": {
+        "fr": "cuisine",
+        "es": "cocina",
+        "zh": "厨房",
+        "ko": "주방",
+        "ja": "台所"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Wizard",
+      "start": 23,
+      "end": 29,
+      "candidates": {
+        "fr": "assistant guidé",
+        "es": "asistente guiado",
+        "zh": "向导",
+        "ko": "마법사",
+        "ja": "ウィザード"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Your",
+      "start": 31,
+      "end": 35,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 6,
+      "word": "role",
+      "start": 36,
+      "end": 40,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 7,
+      "word": "is",
+      "start": 41,
+      "end": 43,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 44,
+      "end": 46,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "assist",
+      "start": 47,
+      "end": 53,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "users",
+      "start": 54,
+      "end": 59,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 11,
+      "word": "in",
+      "start": 60,
+      "end": 62,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 12,
+      "word": "exploring",
+      "start": 63,
+      "end": 72,
+      "candidates": {
+        "fr": "explorer",
+        "es": "explorar",
+        "zh": "探索",
+        "ko": "탐색하다",
+        "ja": "探求する"
+      }
+    },
+    {
+      "index": 13,
+      "word": "and",
+      "start": 73,
+      "end": 76,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 14,
+      "word": "creating",
+      "start": 77,
+      "end": 85,
+      "candidates": {
+        "fr": "créer",
+        "es": "crear",
+        "zh": "创建",
+        "ko": "만들다",
+        "ja": "作成する"
+      }
+    },
+    {
+      "index": 15,
+      "word": "delightful",
+      "start": 86,
+      "end": 96,
+      "candidates": {
+        "fr": "délicieux",
+        "es": "encantador",
+        "zh": "令人愉悦的",
+        "ko": "즐거운",
+        "ja": "楽しい"
+      }
+    },
+    {
+      "index": 16,
+      "word": "recipes",
+      "start": 97,
+      "end": 104,
+      "candidates": {
+        "fr": "recettes",
+        "es": "recetas",
+        "zh": "食谱",
+        "ko": "조리법",
+        "ja": "レシピ"
+      }
+    },
+    {
+      "index": 17,
+      "word": "from",
+      "start": 105,
+      "end": 109,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 18,
+      "word": "the",
+      "start": 110,
+      "end": 113,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 19,
+      "word": "ingredients",
+      "start": 114,
+      "end": 125,
+      "candidates": {
+        "fr": "ingrédient",
+        "es": "ingrediente",
+        "zh": "成分",
+        "ko": "재료",
+        "ja": "材料"
+      }
+    },
+    {
+      "index": 20,
+      "word": "they",
+      "start": 126,
+      "end": 130,
+      "candidates": {
+        "fr": "ils",
+        "es": "ellos",
+        "zh": "他们",
+        "ko": "그들",
+        "ja": "彼ら"
+      }
+    },
+    {
+      "index": 21,
+      "word": "have",
+      "start": 131,
+      "end": 135,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 22,
+      "word": "at",
+      "start": 136,
+      "end": 138,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 23,
+      "word": "home",
+      "start": 139,
+      "end": 143,
+      "candidates": {
+        "fr": "maison",
+        "es": "hogar",
+        "zh": "家庭",
+        "ko": "가정",
+        "ja": "家庭"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Understand",
+      "start": 145,
+      "end": 155,
+      "candidates": {
+        "fr": "comprendre",
+        "es": "entender",
+        "zh": "理解",
+        "ko": "이해하다",
+        "ja": "理解する"
+      }
+    },
+    {
+      "index": 25,
+      "word": "users",
+      "start": 156,
+      "end": 161,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 26,
+      "word": "dietary",
+      "start": 163,
+      "end": 170,
+      "candidates": {
+        "fr": "alimentaire",
+        "es": "dietético",
+        "zh": "饮食的",
+        "ko": "식이의",
+        "ja": "食事の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "preferences",
+      "start": 171,
+      "end": 182,
+      "candidates": {
+        "fr": "préférences",
+        "es": "preferencias",
+        "zh": "偏好",
+        "ko": "선호",
+        "ja": "好み"
+      }
+    },
+    {
+      "index": 28,
+      "word": "and",
+      "start": 183,
+      "end": 186,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 29,
+      "word": "restrictions",
+      "start": 187,
+      "end": 199,
+      "candidates": {
+        "fr": "restrictions",
+        "es": "restricciones",
+        "zh": "限制",
+        "ko": "제한",
+        "ja": "制限"
+      }
+    },
+    {
+      "index": 30,
+      "word": "to",
+      "start": 200,
+      "end": 202,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 31,
+      "word": "suggest",
+      "start": 203,
+      "end": 210,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 32,
+      "word": "appropriate",
+      "start": 211,
+      "end": 222,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "适当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 33,
+      "word": "meals",
+      "start": 223,
+      "end": 228,
+      "candidates": {
+        "fr": "repas",
+        "es": "comida",
+        "zh": "餐食",
+        "ko": "식사",
+        "ja": "食事"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Maintain",
+      "start": 230,
+      "end": 238,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 35,
+      "word": "a",
+      "start": 239,
+      "end": 240,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 36,
+      "word": "friendly",
+      "start": 241,
+      "end": 249,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 37,
+      "word": "encouraging",
+      "start": 251,
+      "end": 262,
+      "candidates": {
+        "fr": "encourager",
+        "es": "alentar",
+        "zh": "鼓励",
+        "ko": "격려하다",
+        "ja": "励ます"
+      }
+    },
+    {
+      "index": 38,
+      "word": "tone",
+      "start": 263,
+      "end": 267,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 39,
+      "word": "offering",
+      "start": 269,
+      "end": 277,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 40,
+      "word": "tips",
+      "start": 278,
+      "end": 282,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 41,
+      "word": "and",
+      "start": 283,
+      "end": 286,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 42,
+      "word": "cooking",
+      "start": 287,
+      "end": 294,
+      "candidates": {
+        "fr": "cuisine",
+        "es": "cocina",
+        "zh": "烹饪",
+        "ko": "요리",
+        "ja": "料理"
+      }
+    },
+    {
+      "index": 43,
+      "word": "techniques",
+      "start": 295,
+      "end": 305,
+      "candidates": {
+        "fr": "techniques",
+        "es": "técnicas",
+        "zh": "技术",
+        "ko": "기법",
+        "ja": "技法"
+      }
+    },
+    {
+      "index": 44,
+      "word": "along",
+      "start": 306,
+      "end": 311,
+      "candidates": {
+        "fr": "le long de",
+        "es": "a lo largo de",
+        "zh": "沿着",
+        "ko": "따라",
+        "ja": "に沿って"
+      }
+    },
+    {
+      "index": 45,
+      "word": "the",
+      "start": 312,
+      "end": 315,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 46,
+      "word": "way",
+      "start": 316,
+      "end": 319,
+      "candidates": {
+        "fr": "manière",
+        "es": "manera",
+        "zh": "方式",
+        "ko": "방식",
+        "ja": "方法"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Use",
+      "start": 321,
+      "end": 324,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 48,
+      "word": "markdown",
+      "start": 325,
+      "end": 333,
+      "candidates": {
+        "fr": "Markdown",
+        "es": "Markdown",
+        "zh": "Markdown",
+        "ko": "Markdown",
+        "ja": "Markdown"
+      }
+    },
+    {
+      "index": 49,
+      "word": "formatting",
+      "start": 334,
+      "end": 344,
+      "candidates": {
+        "fr": "mise en forme",
+        "es": "formato",
+        "zh": "格式编排",
+        "ko": "서식 지정",
+        "ja": "書式設定"
+      }
+    },
+    {
+      "index": 50,
+      "word": "for",
+      "start": 345,
+      "end": 348,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 51,
+      "word": "recipes",
+      "start": 349,
+      "end": 356,
+      "candidates": {
+        "fr": "recettes",
+        "es": "recetas",
+        "zh": "食谱",
+        "ko": "조리법",
+        "ja": "レシピ"
+      }
+    },
+    {
+      "index": 52,
+      "word": "with",
+      "start": 358,
+      "end": 362,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 53,
+      "word": "headers",
+      "start": 363,
+      "end": 370,
+      "candidates": {
+        "fr": "en-têtes",
+        "es": "encabezados",
+        "zh": "标题行",
+        "ko": "헤더",
+        "ja": "ヘッダー"
+      }
+    },
+    {
+      "index": 54,
+      "word": "for",
+      "start": 371,
+      "end": 374,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Ingredients",
+      "start": 375,
+      "end": 386,
+      "candidates": {
+        "fr": "ingrédient",
+        "es": "ingrediente",
+        "zh": "成分",
+        "ko": "재료",
+        "ja": "材料"
+      }
+    },
+    {
+      "index": 56,
+      "word": "Instructions",
+      "start": 388,
+      "end": 400,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 57,
+      "word": "and",
+      "start": 402,
+      "end": 405,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 58,
+      "word": "Tips",
+      "start": 406,
+      "end": 410,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 59,
+      "word": "If",
+      "start": 412,
+      "end": 414,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 60,
+      "word": "an",
+      "start": 415,
+      "end": 417,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 61,
+      "word": "ingredient",
+      "start": 418,
+      "end": 428,
+      "candidates": {
+        "fr": "ingrédient",
+        "es": "ingrediente",
+        "zh": "成分",
+        "ko": "재료",
+        "ja": "材料"
+      }
+    },
+    {
+      "index": 62,
+      "word": "is",
+      "start": 429,
+      "end": 431,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 63,
+      "word": "unfamiliar",
+      "start": 432,
+      "end": 442,
+      "candidates": {
+        "fr": "inconnu",
+        "es": "desconocido",
+        "zh": "不熟悉的",
+        "ko": "익숙하지 않은",
+        "ja": "不慣れな"
+      }
+    },
+    {
+      "index": 64,
+      "word": "provide",
+      "start": 444,
+      "end": 451,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 65,
+      "word": "its",
+      "start": 452,
+      "end": 455,
+      "candidates": {
+        "fr": "son",
+        "es": "su",
+        "zh": "它的",
+        "ko": "그것의",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 66,
+      "word": "nutritional",
+      "start": 456,
+      "end": 467,
+      "candidates": {
+        "fr": "nutritionnel",
+        "es": "nutricional",
+        "zh": "营养的",
+        "ko": "영양의",
+        "ja": "栄養の"
+      }
+    },
+    {
+      "index": 67,
+      "word": "benefits",
+      "start": 468,
+      "end": 476,
+      "candidates": {
+        "fr": "avantages",
+        "es": "beneficios",
+        "zh": "益处",
+        "ko": "이점",
+        "ja": "利点"
+      }
+    },
+    {
+      "index": 68,
+      "word": "Avoid",
+      "start": 478,
+      "end": 483,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 69,
+      "word": "discussing",
+      "start": 484,
+      "end": 494,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 70,
+      "word": "non",
+      "start": 495,
+      "end": 498,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "非",
+        "ko": "비",
+        "ja": "非"
+      }
+    },
+    {
+      "index": 71,
+      "word": "related",
+      "start": 499,
+      "end": 506,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 72,
+      "word": "topics",
+      "start": 507,
+      "end": 513,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "话题",
+        "ko": "주제",
+        "ja": "話題"
+      }
+    },
+    {
+      "index": 73,
+      "word": "like",
+      "start": 514,
+      "end": 518,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "像",
+        "ko": "처럼",
+        "ja": "のように"
+      }
+    },
+    {
+      "index": 74,
+      "word": "politics",
+      "start": 519,
+      "end": 527,
+      "candidates": {
+        "fr": "politique",
+        "es": "política",
+        "zh": "政治",
+        "ko": "정치",
+        "ja": "政治"
+      }
+    },
+    {
+      "index": 75,
+      "word": "or",
+      "start": 528,
+      "end": 530,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 76,
+      "word": "financial",
+      "start": 531,
+      "end": 540,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 77,
+      "word": "advice",
+      "start": 541,
+      "end": 547,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 78,
+      "word": "Output",
+      "start": 550,
+      "end": 556,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 79,
+      "word": "Format",
+      "start": 557,
+      "end": 563,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Ingredients",
+      "start": 570,
+      "end": 581,
+      "candidates": {
+        "fr": "ingrédient",
+        "es": "ingrediente",
+        "zh": "成分",
+        "ko": "재료",
+        "ja": "材料"
+      }
+    },
+    {
+      "index": 81,
+      "word": "Instructions",
+      "start": 589,
+      "end": 601,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Tips",
+      "start": 609,
+      "end": 613,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 83,
+      "word": "Nutritional",
+      "start": 621,
+      "end": 632,
+      "candidates": {
+        "fr": "nutritionnel",
+        "es": "nutricional",
+        "zh": "营养的",
+        "ko": "영양의",
+        "ja": "栄養の"
+      }
+    },
+    {
+      "index": 84,
+      "word": "Information",
+      "start": 633,
+      "end": 644,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 85,
+      "word": "if",
+      "start": 648,
+      "end": 650,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 86,
+      "word": "requested",
+      "start": 651,
+      "end": 660,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    }
+  ]
+}

@@ -26,4 +26,4 @@ python examples/read_dataset.py --prompt-id short_01 --split train --limit 2
 
 ## 多语替换候选
 
-[多语词级／短语级候选](multilingual-replacement-candidates/) 对应 LR01–LR40、FC01–FC40，提供法语、西班牙语、中文、韩语、日语候选、原文位置映射和替换脚本；词元候选、原样保留标识符和保护项均单独标记，供后续 GPU 搜索评分。
+[逐条prompt的五语单词候选](multilingual-replacement-candidates/) 包含80份独立JSON文件（LR01–LR40、FC01–FC40）；每份按原文顺序逐词列出法语、西班牙语、中文、韩语、日语五个候选，直接写在对应单词下面，无需共享词典。

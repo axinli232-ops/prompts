@@ -1,0 +1,695 @@
+{
+  "prompt_id": "LR24",
+  "system_prompt": "### Classification Bot for Bank Transactions\nTake a list of bank transactions and classify them into the following categories:\n- Personal Expenses\n- Business Expenses\n- Unknown\n\n*Instructions:*\n1. Analyze the transaction description.\n2. Use known merchant names for classification.\n3. Mark as 'Unknown' if the transaction lacks identifiable characteristics.\n\n***Note:*** Avoid discussing outside bank account details other than classification.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Classification",
+      "start": 4,
+      "end": 18,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Bot",
+      "start": 19,
+      "end": 22,
+      "candidates": {
+        "fr": "robot logiciel",
+        "es": "bot",
+        "zh": "机器人",
+        "ko": "봇",
+        "ja": "ボット"
+      }
+    },
+    {
+      "index": 2,
+      "word": "for",
+      "start": 23,
+      "end": 26,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 3,
+      "word": "Bank",
+      "start": 27,
+      "end": 31,
+      "candidates": {
+        "fr": "banque",
+        "es": "banco",
+        "zh": "银行",
+        "ko": "은행",
+        "ja": "銀行"
+      }
+    },
+    {
+      "index": 4,
+      "word": "Transactions",
+      "start": 32,
+      "end": 44,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Take",
+      "start": 45,
+      "end": 49,
+      "candidates": {
+        "fr": "prendre",
+        "es": "tomar",
+        "zh": "采取",
+        "ko": "취하다",
+        "ja": "取る"
+      }
+    },
+    {
+      "index": 6,
+      "word": "a",
+      "start": 50,
+      "end": 51,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 7,
+      "word": "list",
+      "start": 52,
+      "end": 56,
+      "candidates": {
+        "fr": "liste",
+        "es": "lista",
+        "zh": "列表",
+        "ko": "목록",
+        "ja": "リスト"
+      }
+    },
+    {
+      "index": 8,
+      "word": "of",
+      "start": 57,
+      "end": 59,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 9,
+      "word": "bank",
+      "start": 60,
+      "end": 64,
+      "candidates": {
+        "fr": "banque",
+        "es": "banco",
+        "zh": "银行",
+        "ko": "은행",
+        "ja": "銀行"
+      }
+    },
+    {
+      "index": 10,
+      "word": "transactions",
+      "start": 65,
+      "end": 77,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 11,
+      "word": "and",
+      "start": 78,
+      "end": 81,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 12,
+      "word": "classify",
+      "start": 82,
+      "end": 90,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 13,
+      "word": "them",
+      "start": 91,
+      "end": 95,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 14,
+      "word": "into",
+      "start": 96,
+      "end": 100,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 15,
+      "word": "the",
+      "start": 101,
+      "end": 104,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 16,
+      "word": "following",
+      "start": 105,
+      "end": 114,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 17,
+      "word": "categories",
+      "start": 115,
+      "end": 125,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Personal",
+      "start": 129,
+      "end": 137,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 19,
+      "word": "Expenses",
+      "start": 138,
+      "end": 146,
+      "candidates": {
+        "fr": "dépenses",
+        "es": "gastos",
+        "zh": "开支",
+        "ko": "지출",
+        "ja": "支出"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Business",
+      "start": 149,
+      "end": 157,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Expenses",
+      "start": 158,
+      "end": 166,
+      "candidates": {
+        "fr": "dépenses",
+        "es": "gastos",
+        "zh": "开支",
+        "ko": "지출",
+        "ja": "支出"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Unknown",
+      "start": 169,
+      "end": 176,
+      "candidates": {
+        "fr": "inconnu",
+        "es": "desconocido",
+        "zh": "未知的",
+        "ko": "알 수 없는",
+        "ja": "未知の"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Instructions",
+      "start": 179,
+      "end": 191,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Analyze",
+      "start": 197,
+      "end": 204,
+      "candidates": {
+        "fr": "analyser",
+        "es": "analizar",
+        "zh": "分析",
+        "ko": "분석하다",
+        "ja": "分析する"
+      }
+    },
+    {
+      "index": 25,
+      "word": "the",
+      "start": 205,
+      "end": 208,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 26,
+      "word": "transaction",
+      "start": 209,
+      "end": 220,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 27,
+      "word": "description",
+      "start": 221,
+      "end": 232,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Use",
+      "start": 237,
+      "end": 240,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 29,
+      "word": "known",
+      "start": 241,
+      "end": 246,
+      "candidates": {
+        "fr": "connu",
+        "es": "conocido",
+        "zh": "已知的",
+        "ko": "알려진",
+        "ja": "既知の"
+      }
+    },
+    {
+      "index": 30,
+      "word": "merchant",
+      "start": 247,
+      "end": 255,
+      "candidates": {
+        "fr": "commerçant",
+        "es": "comerciante",
+        "zh": "商家",
+        "ko": "상인",
+        "ja": "商人"
+      }
+    },
+    {
+      "index": 31,
+      "word": "names",
+      "start": 256,
+      "end": 261,
+      "candidates": {
+        "fr": "nom",
+        "es": "nombre",
+        "zh": "名称",
+        "ko": "이름",
+        "ja": "名前"
+      }
+    },
+    {
+      "index": 32,
+      "word": "for",
+      "start": 262,
+      "end": 265,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 33,
+      "word": "classification",
+      "start": 266,
+      "end": 280,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Mark",
+      "start": 285,
+      "end": 289,
+      "candidates": {
+        "fr": "marquer",
+        "es": "marcar",
+        "zh": "标记",
+        "ko": "표시하다",
+        "ja": "印を付ける"
+      }
+    },
+    {
+      "index": 35,
+      "word": "as",
+      "start": 290,
+      "end": 292,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 36,
+      "word": "Unknown",
+      "start": 294,
+      "end": 301,
+      "candidates": {
+        "fr": "inconnu",
+        "es": "desconocido",
+        "zh": "未知的",
+        "ko": "알 수 없는",
+        "ja": "未知の"
+      }
+    },
+    {
+      "index": 37,
+      "word": "if",
+      "start": 303,
+      "end": 305,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 38,
+      "word": "the",
+      "start": 306,
+      "end": 309,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 39,
+      "word": "transaction",
+      "start": 310,
+      "end": 321,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 40,
+      "word": "lacks",
+      "start": 322,
+      "end": 327,
+      "candidates": {
+        "fr": "manque de",
+        "es": "carece de",
+        "zh": "缺乏",
+        "ko": "부족하다",
+        "ja": "欠いている"
+      }
+    },
+    {
+      "index": 41,
+      "word": "identifiable",
+      "start": 328,
+      "end": 340,
+      "candidates": {
+        "fr": "identifiable",
+        "es": "identificable",
+        "zh": "可识别的",
+        "ko": "식별 가능한",
+        "ja": "識別可能な"
+      }
+    },
+    {
+      "index": 42,
+      "word": "characteristics",
+      "start": 341,
+      "end": 356,
+      "candidates": {
+        "fr": "caractéristiques",
+        "es": "características",
+        "zh": "特征",
+        "ko": "특성",
+        "ja": "特徴"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Note",
+      "start": 362,
+      "end": 366,
+      "candidates": {
+        "fr": "note",
+        "es": "nota",
+        "zh": "说明",
+        "ko": "메모",
+        "ja": "注記"
+      }
+    },
+    {
+      "index": 44,
+      "word": "Avoid",
+      "start": 371,
+      "end": 376,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 45,
+      "word": "discussing",
+      "start": 377,
+      "end": 387,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 46,
+      "word": "outside",
+      "start": 388,
+      "end": 395,
+      "candidates": {
+        "fr": "à l’extérieur",
+        "es": "fuera",
+        "zh": "外面",
+        "ko": "외부",
+        "ja": "外部"
+      }
+    },
+    {
+      "index": 47,
+      "word": "bank",
+      "start": 396,
+      "end": 400,
+      "candidates": {
+        "fr": "banque",
+        "es": "banco",
+        "zh": "银行",
+        "ko": "은행",
+        "ja": "銀行"
+      }
+    },
+    {
+      "index": 48,
+      "word": "account",
+      "start": 401,
+      "end": 408,
+      "candidates": {
+        "fr": "compte",
+        "es": "cuenta",
+        "zh": "账户",
+        "ko": "계정",
+        "ja": "アカウント"
+      }
+    },
+    {
+      "index": 49,
+      "word": "details",
+      "start": 409,
+      "end": 416,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 50,
+      "word": "other",
+      "start": 417,
+      "end": 422,
+      "candidates": {
+        "fr": "autre",
+        "es": "otro",
+        "zh": "其他的",
+        "ko": "다른",
+        "ja": "ほかの"
+      }
+    },
+    {
+      "index": 51,
+      "word": "than",
+      "start": 423,
+      "end": 427,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "比",
+        "ko": "보다",
+        "ja": "より"
+      }
+    },
+    {
+      "index": 52,
+      "word": "classification",
+      "start": 428,
+      "end": 442,
+      "candidates": {
+        "fr": "classification",
+        "es": "clasificación",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    }
+  ]
+}

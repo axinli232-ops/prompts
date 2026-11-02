@@ -1,0 +1,1085 @@
+{
+  "prompt_id": "FC21",
+  "system_prompt": "Function as an AI that assists in expanding brief scientific research abstracts into full reports. Include sections on introduction, methodology, results, and conclusion based on the provided abstract. Ensure that your language is precise, formal, and carries a clear focus on the research findings while adhering to academic publishing standards.\n\n### Requirements:\n- Maintain confidentiality of the research subject.\n- Follow a clear scientific narrative structure.\n- Define all technical terms upon first use.\n- Support claims with appropriate citations wherever feasible.\n\n### Note:\nBe meticulous: errors undermine credibility.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Function",
+      "start": 0,
+      "end": 8,
+      "candidates": {
+        "fr": "fonction",
+        "es": "función",
+        "zh": "功能",
+        "ko": "기능",
+        "ja": "機能"
+      }
+    },
+    {
+      "index": 1,
+      "word": "as",
+      "start": 9,
+      "end": 11,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 2,
+      "word": "an",
+      "start": 12,
+      "end": 14,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "AI",
+      "start": 15,
+      "end": 17,
+      "candidates": {
+        "fr": "intelligence artificielle",
+        "es": "inteligencia artificial",
+        "zh": "人工智能",
+        "ko": "인공지능",
+        "ja": "人工知能"
+      }
+    },
+    {
+      "index": 4,
+      "word": "that",
+      "start": 18,
+      "end": 22,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 5,
+      "word": "assists",
+      "start": 23,
+      "end": 30,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "in",
+      "start": 31,
+      "end": 33,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 7,
+      "word": "expanding",
+      "start": 34,
+      "end": 43,
+      "candidates": {
+        "fr": "développer",
+        "es": "ampliar",
+        "zh": "扩展",
+        "ko": "확장하다",
+        "ja": "拡張する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "brief",
+      "start": 44,
+      "end": 49,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 9,
+      "word": "scientific",
+      "start": 50,
+      "end": 60,
+      "candidates": {
+        "fr": "scientifique",
+        "es": "científico",
+        "zh": "科学的",
+        "ko": "과학적인",
+        "ja": "科学的な"
+      }
+    },
+    {
+      "index": 10,
+      "word": "research",
+      "start": 61,
+      "end": 69,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 11,
+      "word": "abstracts",
+      "start": 70,
+      "end": 79,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 12,
+      "word": "into",
+      "start": 80,
+      "end": 84,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "full",
+      "start": 85,
+      "end": 89,
+      "candidates": {
+        "fr": "complet",
+        "es": "completo",
+        "zh": "完整的",
+        "ko": "완전한",
+        "ja": "完全な"
+      }
+    },
+    {
+      "index": 14,
+      "word": "reports",
+      "start": 90,
+      "end": 97,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Include",
+      "start": 99,
+      "end": 106,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 16,
+      "word": "sections",
+      "start": 107,
+      "end": 115,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 17,
+      "word": "on",
+      "start": 116,
+      "end": 118,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "introduction",
+      "start": 119,
+      "end": 131,
+      "candidates": {
+        "fr": "introduction",
+        "es": "introducción",
+        "zh": "引言",
+        "ko": "서론",
+        "ja": "序論"
+      }
+    },
+    {
+      "index": 19,
+      "word": "methodology",
+      "start": 133,
+      "end": 144,
+      "candidates": {
+        "fr": "méthodologie",
+        "es": "metodología",
+        "zh": "方法论",
+        "ko": "방법론",
+        "ja": "方法論"
+      }
+    },
+    {
+      "index": 20,
+      "word": "results",
+      "start": 146,
+      "end": 153,
+      "candidates": {
+        "fr": "résultat",
+        "es": "resultado",
+        "zh": "结果",
+        "ko": "결과",
+        "ja": "結果"
+      }
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 155,
+      "end": 158,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 22,
+      "word": "conclusion",
+      "start": 159,
+      "end": 169,
+      "candidates": {
+        "fr": "conclusion",
+        "es": "conclusión",
+        "zh": "结论",
+        "ko": "결론",
+        "ja": "結論"
+      }
+    },
+    {
+      "index": 23,
+      "word": "based",
+      "start": 170,
+      "end": 175,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 24,
+      "word": "on",
+      "start": 176,
+      "end": 178,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 25,
+      "word": "the",
+      "start": 179,
+      "end": 182,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 26,
+      "word": "provided",
+      "start": 183,
+      "end": 191,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 27,
+      "word": "abstract",
+      "start": 192,
+      "end": 200,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "초록",
+        "ja": "要旨"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Ensure",
+      "start": 202,
+      "end": 208,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 29,
+      "word": "that",
+      "start": 209,
+      "end": 213,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 30,
+      "word": "your",
+      "start": 214,
+      "end": 218,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 31,
+      "word": "language",
+      "start": 219,
+      "end": 227,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 32,
+      "word": "is",
+      "start": 228,
+      "end": 230,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 33,
+      "word": "precise",
+      "start": 231,
+      "end": 238,
+      "candidates": {
+        "fr": "précis",
+        "es": "preciso",
+        "zh": "精确的",
+        "ko": "정밀한",
+        "ja": "正確な"
+      }
+    },
+    {
+      "index": 34,
+      "word": "formal",
+      "start": 240,
+      "end": 246,
+      "candidates": {
+        "fr": "formel",
+        "es": "formal",
+        "zh": "正式的",
+        "ko": "격식 있는",
+        "ja": "正式な"
+      }
+    },
+    {
+      "index": 35,
+      "word": "and",
+      "start": 248,
+      "end": 251,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 36,
+      "word": "carries",
+      "start": 252,
+      "end": 259,
+      "candidates": {
+        "fr": "porte",
+        "es": "lleva",
+        "zh": "承载",
+        "ko": "담다",
+        "ja": "担う"
+      }
+    },
+    {
+      "index": 37,
+      "word": "a",
+      "start": 260,
+      "end": 261,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 38,
+      "word": "clear",
+      "start": 262,
+      "end": 267,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 39,
+      "word": "focus",
+      "start": 268,
+      "end": 273,
+      "candidates": {
+        "fr": "se concentrer",
+        "es": "centrarse",
+        "zh": "聚焦",
+        "ko": "집중하다",
+        "ja": "集中する"
+      }
+    },
+    {
+      "index": 40,
+      "word": "on",
+      "start": 274,
+      "end": 276,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 41,
+      "word": "the",
+      "start": 277,
+      "end": 280,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 42,
+      "word": "research",
+      "start": 281,
+      "end": 289,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 43,
+      "word": "findings",
+      "start": 290,
+      "end": 298,
+      "candidates": {
+        "fr": "résultats",
+        "es": "hallazgos",
+        "zh": "发现",
+        "ko": "연구 결과",
+        "ja": "知見"
+      }
+    },
+    {
+      "index": 44,
+      "word": "while",
+      "start": 299,
+      "end": 304,
+      "candidates": {
+        "fr": "pendant que",
+        "es": "mientras",
+        "zh": "当时",
+        "ko": "동안",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 45,
+      "word": "adhering",
+      "start": 305,
+      "end": 313,
+      "candidates": {
+        "fr": "adhérer",
+        "es": "adherirse",
+        "zh": "遵循",
+        "ko": "준수하다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 46,
+      "word": "to",
+      "start": 314,
+      "end": 316,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 47,
+      "word": "academic",
+      "start": 317,
+      "end": 325,
+      "candidates": {
+        "fr": "universitaire",
+        "es": "académico",
+        "zh": "学术的",
+        "ko": "학술적인",
+        "ja": "学術的な"
+      }
+    },
+    {
+      "index": 48,
+      "word": "publishing",
+      "start": 326,
+      "end": 336,
+      "candidates": {
+        "fr": "publication",
+        "es": "publicación",
+        "zh": "出版",
+        "ko": "출판",
+        "ja": "出版"
+      }
+    },
+    {
+      "index": 49,
+      "word": "standards",
+      "start": 337,
+      "end": 346,
+      "candidates": {
+        "fr": "norme",
+        "es": "norma",
+        "zh": "标准",
+        "ko": "표준",
+        "ja": "標準"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Requirements",
+      "start": 353,
+      "end": 365,
+      "candidates": {
+        "fr": "exigences",
+        "es": "requisitos",
+        "zh": "要求",
+        "ko": "요구사항",
+        "ja": "要件"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Maintain",
+      "start": 369,
+      "end": 377,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 52,
+      "word": "confidentiality",
+      "start": 378,
+      "end": 393,
+      "candidates": {
+        "fr": "confidentialité",
+        "es": "confidencialidad",
+        "zh": "保密性",
+        "ko": "기밀성",
+        "ja": "機密性"
+      }
+    },
+    {
+      "index": 53,
+      "word": "of",
+      "start": 394,
+      "end": 396,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 54,
+      "word": "the",
+      "start": 397,
+      "end": 400,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 55,
+      "word": "research",
+      "start": 401,
+      "end": 409,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 56,
+      "word": "subject",
+      "start": 410,
+      "end": 417,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "主题",
+        "ko": "주제",
+        "ja": "主題"
+      }
+    },
+    {
+      "index": 57,
+      "word": "Follow",
+      "start": 421,
+      "end": 427,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 58,
+      "word": "a",
+      "start": 428,
+      "end": 429,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 59,
+      "word": "clear",
+      "start": 430,
+      "end": 435,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 60,
+      "word": "scientific",
+      "start": 436,
+      "end": 446,
+      "candidates": {
+        "fr": "scientifique",
+        "es": "científico",
+        "zh": "科学的",
+        "ko": "과학적인",
+        "ja": "科学的な"
+      }
+    },
+    {
+      "index": 61,
+      "word": "narrative",
+      "start": 447,
+      "end": 456,
+      "candidates": {
+        "fr": "récit",
+        "es": "narrativa",
+        "zh": "叙事",
+        "ko": "서사",
+        "ja": "物語"
+      }
+    },
+    {
+      "index": 62,
+      "word": "structure",
+      "start": 457,
+      "end": 466,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Define",
+      "start": 470,
+      "end": 476,
+      "candidates": {
+        "fr": "définir",
+        "es": "definir",
+        "zh": "定义",
+        "ko": "정의하다",
+        "ja": "定義する"
+      }
+    },
+    {
+      "index": 64,
+      "word": "all",
+      "start": 477,
+      "end": 480,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 65,
+      "word": "technical",
+      "start": 481,
+      "end": 490,
+      "candidates": {
+        "fr": "technique",
+        "es": "técnico",
+        "zh": "技术的",
+        "ko": "기술적인",
+        "ja": "技術的な"
+      }
+    },
+    {
+      "index": 66,
+      "word": "terms",
+      "start": 491,
+      "end": 496,
+      "candidates": {
+        "fr": "terme",
+        "es": "término",
+        "zh": "术语",
+        "ko": "용어",
+        "ja": "用語"
+      }
+    },
+    {
+      "index": 67,
+      "word": "upon",
+      "start": 497,
+      "end": 501,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在之上",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 68,
+      "word": "first",
+      "start": 502,
+      "end": 507,
+      "candidates": {
+        "fr": "premier",
+        "es": "primero",
+        "zh": "第一",
+        "ko": "첫 번째",
+        "ja": "最初の"
+      }
+    },
+    {
+      "index": 69,
+      "word": "use",
+      "start": 508,
+      "end": 511,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 70,
+      "word": "Support",
+      "start": 515,
+      "end": 522,
+      "candidates": {
+        "fr": "soutien",
+        "es": "apoyo",
+        "zh": "支持",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 71,
+      "word": "claims",
+      "start": 523,
+      "end": 529,
+      "candidates": {
+        "fr": "affirmations",
+        "es": "afirmaciones",
+        "zh": "主张",
+        "ko": "주장",
+        "ja": "主張"
+      }
+    },
+    {
+      "index": 72,
+      "word": "with",
+      "start": 530,
+      "end": 534,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 73,
+      "word": "appropriate",
+      "start": 535,
+      "end": 546,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "适当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 74,
+      "word": "citations",
+      "start": 547,
+      "end": 556,
+      "candidates": {
+        "fr": "citations",
+        "es": "citas",
+        "zh": "引文",
+        "ko": "인용",
+        "ja": "引用"
+      }
+    },
+    {
+      "index": 75,
+      "word": "wherever",
+      "start": 557,
+      "end": 565,
+      "candidates": {
+        "fr": "où que",
+        "es": "dondequiera",
+        "zh": "无论哪里",
+        "ko": "어디든지",
+        "ja": "どこでも"
+      }
+    },
+    {
+      "index": 76,
+      "word": "feasible",
+      "start": 566,
+      "end": 574,
+      "candidates": {
+        "fr": "réalisable",
+        "es": "viable",
+        "zh": "可行的",
+        "ko": "실현 가능한",
+        "ja": "実現可能な"
+      }
+    },
+    {
+      "index": 77,
+      "word": "Note",
+      "start": 581,
+      "end": 585,
+      "candidates": {
+        "fr": "note",
+        "es": "nota",
+        "zh": "说明",
+        "ko": "메모",
+        "ja": "注記"
+      }
+    },
+    {
+      "index": 78,
+      "word": "Be",
+      "start": 587,
+      "end": 589,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 79,
+      "word": "meticulous",
+      "start": 590,
+      "end": 600,
+      "candidates": {
+        "fr": "méticuleux",
+        "es": "meticuloso",
+        "zh": "细致的",
+        "ko": "꼼꼼한",
+        "ja": "綿密な"
+      }
+    },
+    {
+      "index": 80,
+      "word": "errors",
+      "start": 602,
+      "end": 608,
+      "candidates": {
+        "fr": "erreur",
+        "es": "error",
+        "zh": "错误",
+        "ko": "오류",
+        "ja": "誤り"
+      }
+    },
+    {
+      "index": 81,
+      "word": "undermine",
+      "start": 609,
+      "end": 618,
+      "candidates": {
+        "fr": "compromettre",
+        "es": "socavar",
+        "zh": "削弱",
+        "ko": "약화시키다",
+        "ja": "損なう"
+      }
+    },
+    {
+      "index": 82,
+      "word": "credibility",
+      "start": 619,
+      "end": 630,
+      "candidates": {
+        "fr": "crédibilité",
+        "es": "credibilidad",
+        "zh": "可信度",
+        "ko": "신뢰성",
+        "ja": "信頼性"
+      }
+    }
+  ]
+}

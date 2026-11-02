@@ -1,0 +1,1826 @@
+{
+  "prompt_id": "FC08",
+  "system_prompt": "Your task is to assist with creating a Society Wellness Program proposal. This program aims to improve public health in urban areas. You will compile and expand upon information provided by stakeholders and research current wellness trends in various neighborhoods. The final proposal should include a comprehensive analysis, potential initiatives, expected outcomes, and suggestions for partnerships with local organizations. Here is the format for your output:\n\n1. Introduction: Summarize the need and objectives of the program. \n2. Initiatives: Describe and detail 3-5 wellness initiatives, referencing studies where applicable. \n3. Community Engagement: Suggest ways to engage local communities.\n4. Potential Partnerships: Identify possible local partners and the benefits of collaboration.\n5. Budget Considerations: Outline costs and potential funding sources.\n\nUse clear and concise language, aiming for a professional and persuasive tone. Always reference reliable sources in APA format, and where data is missing, mark it as \"TBD.\"",
+  "words": [
+    {
+      "index": 0,
+      "word": "Your",
+      "start": 0,
+      "end": 4,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 1,
+      "word": "task",
+      "start": 5,
+      "end": 9,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 2,
+      "word": "is",
+      "start": 10,
+      "end": 12,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "to",
+      "start": 13,
+      "end": 15,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "assist",
+      "start": 16,
+      "end": 22,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "协助",
+        "ko": "돕다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 5,
+      "word": "with",
+      "start": 23,
+      "end": 27,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 6,
+      "word": "creating",
+      "start": 28,
+      "end": 36,
+      "candidates": {
+        "fr": "créer",
+        "es": "crear",
+        "zh": "创建",
+        "ko": "만들다",
+        "ja": "作成する"
+      }
+    },
+    {
+      "index": 7,
+      "word": "a",
+      "start": 37,
+      "end": 38,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 8,
+      "word": "Society",
+      "start": 39,
+      "end": 46,
+      "candidates": {
+        "fr": "société",
+        "es": "sociedad",
+        "zh": "社会",
+        "ko": "사회",
+        "ja": "社会"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Wellness",
+      "start": 47,
+      "end": 55,
+      "candidates": {
+        "fr": "bien-être",
+        "es": "bienestar",
+        "zh": "身心健康",
+        "ko": "웰니스",
+        "ja": "健康維持"
+      }
+    },
+    {
+      "index": 10,
+      "word": "Program",
+      "start": 56,
+      "end": 63,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 11,
+      "word": "proposal",
+      "start": 64,
+      "end": 72,
+      "candidates": {
+        "fr": "proposition",
+        "es": "propuesta",
+        "zh": "提案",
+        "ko": "제안",
+        "ja": "提案"
+      }
+    },
+    {
+      "index": 12,
+      "word": "This",
+      "start": 74,
+      "end": 78,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 13,
+      "word": "program",
+      "start": 79,
+      "end": 86,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 14,
+      "word": "aims",
+      "start": 87,
+      "end": 91,
+      "candidates": {
+        "fr": "viser",
+        "es": "apuntar",
+        "zh": "旨在",
+        "ko": "목표로 하다",
+        "ja": "目指す"
+      }
+    },
+    {
+      "index": 15,
+      "word": "to",
+      "start": 92,
+      "end": 94,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "improve",
+      "start": 95,
+      "end": 102,
+      "candidates": {
+        "fr": "améliorer",
+        "es": "mejorar",
+        "zh": "改进",
+        "ko": "개선하다",
+        "ja": "改善する"
+      }
+    },
+    {
+      "index": 17,
+      "word": "public",
+      "start": 103,
+      "end": 109,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "公共的",
+        "ko": "공공의",
+        "ja": "公共の"
+      }
+    },
+    {
+      "index": 18,
+      "word": "health",
+      "start": 110,
+      "end": 116,
+      "candidates": {
+        "fr": "santé",
+        "es": "salud",
+        "zh": "健康",
+        "ko": "건강",
+        "ja": "健康"
+      }
+    },
+    {
+      "index": 19,
+      "word": "in",
+      "start": 117,
+      "end": 119,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "urban",
+      "start": 120,
+      "end": 125,
+      "candidates": {
+        "fr": "urbain",
+        "es": "urbano",
+        "zh": "城市的",
+        "ko": "도시의",
+        "ja": "都市の"
+      }
+    },
+    {
+      "index": 21,
+      "word": "areas",
+      "start": 126,
+      "end": 131,
+      "candidates": {
+        "fr": "domaines",
+        "es": "áreas",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 22,
+      "word": "You",
+      "start": 133,
+      "end": 136,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 23,
+      "word": "will",
+      "start": 137,
+      "end": 141,
+      "candidates": {
+        "fr": "aller",
+        "es": "irá a",
+        "zh": "将",
+        "ko": "할 것이다",
+        "ja": "するだろう"
+      }
+    },
+    {
+      "index": 24,
+      "word": "compile",
+      "start": 142,
+      "end": 149,
+      "candidates": {
+        "fr": "compiler",
+        "es": "recopilar",
+        "zh": "汇编",
+        "ko": "편집하다",
+        "ja": "まとめる"
+      }
+    },
+    {
+      "index": 25,
+      "word": "and",
+      "start": 150,
+      "end": 153,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 26,
+      "word": "expand",
+      "start": 154,
+      "end": 160,
+      "candidates": {
+        "fr": "développer",
+        "es": "ampliar",
+        "zh": "扩展",
+        "ko": "확장하다",
+        "ja": "拡張する"
+      }
+    },
+    {
+      "index": 27,
+      "word": "upon",
+      "start": 161,
+      "end": 165,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在之上",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 28,
+      "word": "information",
+      "start": 166,
+      "end": 177,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 29,
+      "word": "provided",
+      "start": 178,
+      "end": 186,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "by",
+      "start": 187,
+      "end": 189,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 31,
+      "word": "stakeholders",
+      "start": 190,
+      "end": 202,
+      "candidates": {
+        "fr": "partie prenante",
+        "es": "parte interesada",
+        "zh": "利益相关者",
+        "ko": "이해관계자",
+        "ja": "利害関係者"
+      }
+    },
+    {
+      "index": 32,
+      "word": "and",
+      "start": 203,
+      "end": 206,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 33,
+      "word": "research",
+      "start": 207,
+      "end": 215,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 34,
+      "word": "current",
+      "start": 216,
+      "end": 223,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 35,
+      "word": "wellness",
+      "start": 224,
+      "end": 232,
+      "candidates": {
+        "fr": "bien-être",
+        "es": "bienestar",
+        "zh": "身心健康",
+        "ko": "웰니스",
+        "ja": "健康維持"
+      }
+    },
+    {
+      "index": 36,
+      "word": "trends",
+      "start": 233,
+      "end": 239,
+      "candidates": {
+        "fr": "tendance",
+        "es": "tendencia",
+        "zh": "趋势",
+        "ko": "추세",
+        "ja": "傾向"
+      }
+    },
+    {
+      "index": 37,
+      "word": "in",
+      "start": 240,
+      "end": 242,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 38,
+      "word": "various",
+      "start": 243,
+      "end": 250,
+      "candidates": {
+        "fr": "divers",
+        "es": "varios",
+        "zh": "各种",
+        "ko": "여러 가지",
+        "ja": "さまざまな"
+      }
+    },
+    {
+      "index": 39,
+      "word": "neighborhoods",
+      "start": 251,
+      "end": 264,
+      "candidates": {
+        "fr": "quartiers",
+        "es": "barrios",
+        "zh": "社区",
+        "ko": "동네",
+        "ja": "近隣地域"
+      }
+    },
+    {
+      "index": 40,
+      "word": "The",
+      "start": 266,
+      "end": 269,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 41,
+      "word": "final",
+      "start": 270,
+      "end": 275,
+      "candidates": {
+        "fr": "final",
+        "es": "final",
+        "zh": "最终的",
+        "ko": "최종의",
+        "ja": "最終の"
+      }
+    },
+    {
+      "index": 42,
+      "word": "proposal",
+      "start": 276,
+      "end": 284,
+      "candidates": {
+        "fr": "proposition",
+        "es": "propuesta",
+        "zh": "提案",
+        "ko": "제안",
+        "ja": "提案"
+      }
+    },
+    {
+      "index": 43,
+      "word": "should",
+      "start": 285,
+      "end": 291,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 44,
+      "word": "include",
+      "start": 292,
+      "end": 299,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 45,
+      "word": "a",
+      "start": 300,
+      "end": 301,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 46,
+      "word": "comprehensive",
+      "start": 302,
+      "end": 315,
+      "candidates": {
+        "fr": "exhaustif",
+        "es": "exhaustivo",
+        "zh": "全面的",
+        "ko": "포괄적인",
+        "ja": "包括的な"
+      }
+    },
+    {
+      "index": 47,
+      "word": "analysis",
+      "start": 316,
+      "end": 324,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 48,
+      "word": "potential",
+      "start": 326,
+      "end": 335,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 49,
+      "word": "initiatives",
+      "start": 336,
+      "end": 347,
+      "candidates": {
+        "fr": "initiatives",
+        "es": "iniciativas",
+        "zh": "举措",
+        "ko": "계획",
+        "ja": "取り組み"
+      }
+    },
+    {
+      "index": 50,
+      "word": "expected",
+      "start": 349,
+      "end": 357,
+      "candidates": {
+        "fr": "attendu",
+        "es": "esperado",
+        "zh": "预期的",
+        "ko": "예상되는",
+        "ja": "予想される"
+      }
+    },
+    {
+      "index": 51,
+      "word": "outcomes",
+      "start": 358,
+      "end": 366,
+      "candidates": {
+        "fr": "résultat",
+        "es": "resultado",
+        "zh": "结果",
+        "ko": "결과",
+        "ja": "結果"
+      }
+    },
+    {
+      "index": 52,
+      "word": "and",
+      "start": 368,
+      "end": 371,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 53,
+      "word": "suggestions",
+      "start": 372,
+      "end": 383,
+      "candidates": {
+        "fr": "suggestions",
+        "es": "sugerencias",
+        "zh": "建议",
+        "ko": "제안",
+        "ja": "提案"
+      }
+    },
+    {
+      "index": 54,
+      "word": "for",
+      "start": 384,
+      "end": 387,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 55,
+      "word": "partnerships",
+      "start": 388,
+      "end": 400,
+      "candidates": {
+        "fr": "partenariats",
+        "es": "asociaciones",
+        "zh": "合作关系",
+        "ko": "협력 관계",
+        "ja": "提携"
+      }
+    },
+    {
+      "index": 56,
+      "word": "with",
+      "start": 401,
+      "end": 405,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 57,
+      "word": "local",
+      "start": 406,
+      "end": 411,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 58,
+      "word": "organizations",
+      "start": 412,
+      "end": 425,
+      "candidates": {
+        "fr": "organisations",
+        "es": "organizaciones",
+        "zh": "组织",
+        "ko": "조직",
+        "ja": "組織"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Here",
+      "start": 427,
+      "end": 431,
+      "candidates": {
+        "fr": "ici",
+        "es": "aquí",
+        "zh": "这里",
+        "ko": "여기",
+        "ja": "ここ"
+      }
+    },
+    {
+      "index": 60,
+      "word": "is",
+      "start": 432,
+      "end": 434,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 61,
+      "word": "the",
+      "start": 435,
+      "end": 438,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 62,
+      "word": "format",
+      "start": 439,
+      "end": 445,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 63,
+      "word": "for",
+      "start": 446,
+      "end": 449,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 64,
+      "word": "your",
+      "start": 450,
+      "end": 454,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 65,
+      "word": "output",
+      "start": 455,
+      "end": 461,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Introduction",
+      "start": 467,
+      "end": 479,
+      "candidates": {
+        "fr": "introduction",
+        "es": "introducción",
+        "zh": "引言",
+        "ko": "서론",
+        "ja": "序論"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Summarize",
+      "start": 481,
+      "end": 490,
+      "candidates": {
+        "fr": "résumer",
+        "es": "resumir",
+        "zh": "总结",
+        "ko": "요약하다",
+        "ja": "要約する"
+      }
+    },
+    {
+      "index": 68,
+      "word": "the",
+      "start": 491,
+      "end": 494,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 69,
+      "word": "need",
+      "start": 495,
+      "end": 499,
+      "candidates": {
+        "fr": "besoin",
+        "es": "necesidad",
+        "zh": "需要",
+        "ko": "필요",
+        "ja": "必要"
+      }
+    },
+    {
+      "index": 70,
+      "word": "and",
+      "start": 500,
+      "end": 503,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 71,
+      "word": "objectives",
+      "start": 504,
+      "end": 514,
+      "candidates": {
+        "fr": "objectifs",
+        "es": "objetivos",
+        "zh": "目标",
+        "ko": "목표",
+        "ja": "目標"
+      }
+    },
+    {
+      "index": 72,
+      "word": "of",
+      "start": 515,
+      "end": 517,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 73,
+      "word": "the",
+      "start": 518,
+      "end": 521,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 74,
+      "word": "program",
+      "start": 522,
+      "end": 529,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Initiatives",
+      "start": 535,
+      "end": 546,
+      "candidates": {
+        "fr": "initiatives",
+        "es": "iniciativas",
+        "zh": "举措",
+        "ko": "계획",
+        "ja": "取り組み"
+      }
+    },
+    {
+      "index": 76,
+      "word": "Describe",
+      "start": 548,
+      "end": 556,
+      "candidates": {
+        "fr": "décrire",
+        "es": "describir",
+        "zh": "描述",
+        "ko": "설명하다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 77,
+      "word": "and",
+      "start": 557,
+      "end": 560,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 78,
+      "word": "detail",
+      "start": 561,
+      "end": 567,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 79,
+      "word": "wellness",
+      "start": 572,
+      "end": 580,
+      "candidates": {
+        "fr": "bien-être",
+        "es": "bienestar",
+        "zh": "身心健康",
+        "ko": "웰니스",
+        "ja": "健康維持"
+      }
+    },
+    {
+      "index": 80,
+      "word": "initiatives",
+      "start": 581,
+      "end": 592,
+      "candidates": {
+        "fr": "initiatives",
+        "es": "iniciativas",
+        "zh": "举措",
+        "ko": "계획",
+        "ja": "取り組み"
+      }
+    },
+    {
+      "index": 81,
+      "word": "referencing",
+      "start": 594,
+      "end": 605,
+      "candidates": {
+        "fr": "référence",
+        "es": "referencia",
+        "zh": "参考",
+        "ko": "참조",
+        "ja": "参照"
+      }
+    },
+    {
+      "index": 82,
+      "word": "studies",
+      "start": 606,
+      "end": 613,
+      "candidates": {
+        "fr": "étude",
+        "es": "estudio",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 83,
+      "word": "where",
+      "start": 614,
+      "end": 619,
+      "candidates": {
+        "fr": "où",
+        "es": "dónde",
+        "zh": "哪里",
+        "ko": "어디",
+        "ja": "どこ"
+      }
+    },
+    {
+      "index": 84,
+      "word": "applicable",
+      "start": 620,
+      "end": 630,
+      "candidates": {
+        "fr": "applicable",
+        "es": "aplicable",
+        "zh": "适用的",
+        "ko": "적용 가능한",
+        "ja": "適用可能な"
+      }
+    },
+    {
+      "index": 85,
+      "word": "Community",
+      "start": 636,
+      "end": 645,
+      "candidates": {
+        "fr": "communauté",
+        "es": "comunidad",
+        "zh": "社区",
+        "ko": "공동체",
+        "ja": "共同体"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Engagement",
+      "start": 646,
+      "end": 656,
+      "candidates": {
+        "fr": "engagement",
+        "es": "participación",
+        "zh": "参与",
+        "ko": "참여",
+        "ja": "関与"
+      }
+    },
+    {
+      "index": 87,
+      "word": "Suggest",
+      "start": 658,
+      "end": 665,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 88,
+      "word": "ways",
+      "start": 666,
+      "end": 670,
+      "candidates": {
+        "fr": "manière",
+        "es": "manera",
+        "zh": "方式",
+        "ko": "방식",
+        "ja": "方法"
+      }
+    },
+    {
+      "index": 89,
+      "word": "to",
+      "start": 671,
+      "end": 673,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 90,
+      "word": "engage",
+      "start": 674,
+      "end": 680,
+      "candidates": {
+        "fr": "mobiliser",
+        "es": "involucrar",
+        "zh": "吸引参与",
+        "ko": "참여시키다",
+        "ja": "引き込む"
+      }
+    },
+    {
+      "index": 91,
+      "word": "local",
+      "start": 681,
+      "end": 686,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 92,
+      "word": "communities",
+      "start": 687,
+      "end": 698,
+      "candidates": {
+        "fr": "communauté",
+        "es": "comunidad",
+        "zh": "社区",
+        "ko": "공동체",
+        "ja": "共同体"
+      }
+    },
+    {
+      "index": 93,
+      "word": "Potential",
+      "start": 703,
+      "end": 712,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 94,
+      "word": "Partnerships",
+      "start": 713,
+      "end": 725,
+      "candidates": {
+        "fr": "partenariats",
+        "es": "asociaciones",
+        "zh": "合作关系",
+        "ko": "협력 관계",
+        "ja": "提携"
+      }
+    },
+    {
+      "index": 95,
+      "word": "Identify",
+      "start": 727,
+      "end": 735,
+      "candidates": {
+        "fr": "identifier",
+        "es": "identificar",
+        "zh": "识别",
+        "ko": "식별하다",
+        "ja": "識別する"
+      }
+    },
+    {
+      "index": 96,
+      "word": "possible",
+      "start": 736,
+      "end": 744,
+      "candidates": {
+        "fr": "possible",
+        "es": "posible",
+        "zh": "可能的",
+        "ko": "가능한",
+        "ja": "可能な"
+      }
+    },
+    {
+      "index": 97,
+      "word": "local",
+      "start": 745,
+      "end": 750,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 98,
+      "word": "partners",
+      "start": 751,
+      "end": 759,
+      "candidates": {
+        "fr": "partenaires",
+        "es": "socios",
+        "zh": "伙伴",
+        "ko": "협력자",
+        "ja": "パートナー"
+      }
+    },
+    {
+      "index": 99,
+      "word": "and",
+      "start": 760,
+      "end": 763,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 100,
+      "word": "the",
+      "start": 764,
+      "end": 767,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 101,
+      "word": "benefits",
+      "start": 768,
+      "end": 776,
+      "candidates": {
+        "fr": "avantages",
+        "es": "beneficios",
+        "zh": "益处",
+        "ko": "이점",
+        "ja": "利点"
+      }
+    },
+    {
+      "index": 102,
+      "word": "of",
+      "start": 777,
+      "end": 779,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 103,
+      "word": "collaboration",
+      "start": 780,
+      "end": 793,
+      "candidates": {
+        "fr": "collaboration",
+        "es": "colaboración",
+        "zh": "协作",
+        "ko": "협업",
+        "ja": "協働"
+      }
+    },
+    {
+      "index": 104,
+      "word": "Budget",
+      "start": 798,
+      "end": 804,
+      "candidates": {
+        "fr": "budget",
+        "es": "presupuesto",
+        "zh": "预算",
+        "ko": "예산",
+        "ja": "予算"
+      }
+    },
+    {
+      "index": 105,
+      "word": "Considerations",
+      "start": 805,
+      "end": 819,
+      "candidates": {
+        "fr": "considérations",
+        "es": "consideraciones",
+        "zh": "考虑因素",
+        "ko": "고려사항",
+        "ja": "考慮事項"
+      }
+    },
+    {
+      "index": 106,
+      "word": "Outline",
+      "start": 821,
+      "end": 828,
+      "candidates": {
+        "fr": "plan",
+        "es": "esquema",
+        "zh": "大纲",
+        "ko": "개요",
+        "ja": "概要"
+      }
+    },
+    {
+      "index": 107,
+      "word": "costs",
+      "start": 829,
+      "end": 834,
+      "candidates": {
+        "fr": "coût",
+        "es": "costo",
+        "zh": "成本",
+        "ko": "비용",
+        "ja": "費用"
+      }
+    },
+    {
+      "index": 108,
+      "word": "and",
+      "start": 835,
+      "end": 838,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 109,
+      "word": "potential",
+      "start": 839,
+      "end": 848,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 110,
+      "word": "funding",
+      "start": 849,
+      "end": 856,
+      "candidates": {
+        "fr": "financement",
+        "es": "financiación",
+        "zh": "资金",
+        "ko": "자금 조달",
+        "ja": "資金調達"
+      }
+    },
+    {
+      "index": 111,
+      "word": "sources",
+      "start": 857,
+      "end": 864,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 112,
+      "word": "Use",
+      "start": 867,
+      "end": 870,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 113,
+      "word": "clear",
+      "start": 871,
+      "end": 876,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 114,
+      "word": "and",
+      "start": 877,
+      "end": 880,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 115,
+      "word": "concise",
+      "start": 881,
+      "end": 888,
+      "candidates": {
+        "fr": "concis",
+        "es": "conciso",
+        "zh": "简洁的",
+        "ko": "간결한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 116,
+      "word": "language",
+      "start": 889,
+      "end": 897,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 117,
+      "word": "aiming",
+      "start": 899,
+      "end": 905,
+      "candidates": {
+        "fr": "viser",
+        "es": "apuntar",
+        "zh": "旨在",
+        "ko": "목표로 하다",
+        "ja": "目指す"
+      }
+    },
+    {
+      "index": 118,
+      "word": "for",
+      "start": 906,
+      "end": 909,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 119,
+      "word": "a",
+      "start": 910,
+      "end": 911,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 120,
+      "word": "professional",
+      "start": 912,
+      "end": 924,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 121,
+      "word": "and",
+      "start": 925,
+      "end": 928,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 122,
+      "word": "persuasive",
+      "start": 929,
+      "end": 939,
+      "candidates": {
+        "fr": "persuasif",
+        "es": "persuasivo",
+        "zh": "有说服力的",
+        "ko": "설득력 있는",
+        "ja": "説得力のある"
+      }
+    },
+    {
+      "index": 123,
+      "word": "tone",
+      "start": 940,
+      "end": 944,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 124,
+      "word": "Always",
+      "start": 946,
+      "end": 952,
+      "candidates": {
+        "fr": "toujours",
+        "es": "siempre",
+        "zh": "始终",
+        "ko": "항상",
+        "ja": "常に"
+      }
+    },
+    {
+      "index": 125,
+      "word": "reference",
+      "start": 953,
+      "end": 962,
+      "candidates": {
+        "fr": "référence",
+        "es": "referencia",
+        "zh": "参考",
+        "ko": "참조",
+        "ja": "参照"
+      }
+    },
+    {
+      "index": 126,
+      "word": "reliable",
+      "start": 963,
+      "end": 971,
+      "candidates": {
+        "fr": "fiable",
+        "es": "fiable",
+        "zh": "可靠的",
+        "ko": "신뢰할 수 있는",
+        "ja": "信頼できる"
+      }
+    },
+    {
+      "index": 127,
+      "word": "sources",
+      "start": 972,
+      "end": 979,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 128,
+      "word": "in",
+      "start": 980,
+      "end": 982,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 129,
+      "word": "APA",
+      "start": 983,
+      "end": 986,
+      "candidates": {
+        "fr": "APA",
+        "es": "APA",
+        "zh": "APA",
+        "ko": "APA",
+        "ja": "APA"
+      }
+    },
+    {
+      "index": 130,
+      "word": "format",
+      "start": 987,
+      "end": 993,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 131,
+      "word": "and",
+      "start": 995,
+      "end": 998,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 132,
+      "word": "where",
+      "start": 999,
+      "end": 1004,
+      "candidates": {
+        "fr": "où",
+        "es": "dónde",
+        "zh": "哪里",
+        "ko": "어디",
+        "ja": "どこ"
+      }
+    },
+    {
+      "index": 133,
+      "word": "data",
+      "start": 1005,
+      "end": 1009,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 134,
+      "word": "is",
+      "start": 1010,
+      "end": 1012,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 135,
+      "word": "missing",
+      "start": 1013,
+      "end": 1020,
+      "candidates": {
+        "fr": "manquant",
+        "es": "faltante",
+        "zh": "缺失的",
+        "ko": "누락된",
+        "ja": "欠けている"
+      }
+    },
+    {
+      "index": 136,
+      "word": "mark",
+      "start": 1022,
+      "end": 1026,
+      "candidates": {
+        "fr": "marquer",
+        "es": "marcar",
+        "zh": "标记",
+        "ko": "표시하다",
+        "ja": "印を付ける"
+      }
+    },
+    {
+      "index": 137,
+      "word": "it",
+      "start": 1027,
+      "end": 1029,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 138,
+      "word": "as",
+      "start": 1030,
+      "end": 1032,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 139,
+      "word": "TBD",
+      "start": 1034,
+      "end": 1037,
+      "candidates": {
+        "fr": "à déterminer",
+        "es": "por determinar",
+        "zh": "待定",
+        "ko": "미정",
+        "ja": "未定"
+      }
+    }
+  ]
+}

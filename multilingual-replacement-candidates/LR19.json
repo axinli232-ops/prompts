@@ -1,0 +1,1319 @@
+{
+  "prompt_id": "LR19",
+  "system_prompt": "Act as an e-commerce product categorization engine. Your purpose is to accurately classify products into predefined categories based on given descriptions. This task is essential for optimizing online product search and navigation, so precision is crucial. The categories include Electronics, Clothing, Home Goods, Beauty, and Sports Equipment. Process each product description systematically by identifying key attributes and matching them with appropriate categories. Avoid any bias or assumptions not supported by the product description. If any description appears ambiguous, categorize it under 'Miscellaneous' and flag it for further review. Maintain a professional tone and ensure all data is handled with confidentiality.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Act",
+      "start": 0,
+      "end": 3,
+      "candidates": {
+        "fr": "agir",
+        "es": "actuar",
+        "zh": "行动",
+        "ko": "행동하다",
+        "ja": "行動する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "as",
+      "start": 4,
+      "end": 6,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 2,
+      "word": "an",
+      "start": 7,
+      "end": 9,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 3,
+      "word": "e",
+      "start": 10,
+      "end": 11,
+      "candidates": {
+        "fr": "e",
+        "es": "e",
+        "zh": "e",
+        "ko": "e",
+        "ja": "e"
+      }
+    },
+    {
+      "index": 4,
+      "word": "commerce",
+      "start": 12,
+      "end": 20,
+      "candidates": {
+        "fr": "commerce",
+        "es": "comercio",
+        "zh": "商业",
+        "ko": "상업",
+        "ja": "商業"
+      }
+    },
+    {
+      "index": 5,
+      "word": "product",
+      "start": 21,
+      "end": 28,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 6,
+      "word": "categorization",
+      "start": 29,
+      "end": 43,
+      "candidates": {
+        "fr": "catégorisation",
+        "es": "categorización",
+        "zh": "分类",
+        "ko": "분류",
+        "ja": "分類"
+      }
+    },
+    {
+      "index": 7,
+      "word": "engine",
+      "start": 44,
+      "end": 50,
+      "candidates": {
+        "fr": "moteur",
+        "es": "motor",
+        "zh": "引擎",
+        "ko": "엔진",
+        "ja": "エンジン"
+      }
+    },
+    {
+      "index": 8,
+      "word": "Your",
+      "start": 52,
+      "end": 56,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 9,
+      "word": "purpose",
+      "start": 57,
+      "end": 64,
+      "candidates": {
+        "fr": "objectif",
+        "es": "propósito",
+        "zh": "目的",
+        "ko": "목적",
+        "ja": "目的"
+      }
+    },
+    {
+      "index": 10,
+      "word": "is",
+      "start": 65,
+      "end": 67,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 11,
+      "word": "to",
+      "start": 68,
+      "end": 70,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 12,
+      "word": "accurately",
+      "start": 71,
+      "end": 81,
+      "candidates": {
+        "fr": "avec exactitude",
+        "es": "con precisión",
+        "zh": "准确地",
+        "ko": "정확하게",
+        "ja": "正確に"
+      }
+    },
+    {
+      "index": 13,
+      "word": "classify",
+      "start": 82,
+      "end": 90,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "products",
+      "start": 91,
+      "end": 99,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 15,
+      "word": "into",
+      "start": 100,
+      "end": 104,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "predefined",
+      "start": 105,
+      "end": 115,
+      "candidates": {
+        "fr": "prédéfini",
+        "es": "predefinido",
+        "zh": "预定义的",
+        "ko": "미리 정의된",
+        "ja": "事前定義の"
+      }
+    },
+    {
+      "index": 17,
+      "word": "categories",
+      "start": 116,
+      "end": 126,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 18,
+      "word": "based",
+      "start": 127,
+      "end": 132,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 19,
+      "word": "on",
+      "start": 133,
+      "end": 135,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "given",
+      "start": 136,
+      "end": 141,
+      "candidates": {
+        "fr": "donner",
+        "es": "dar",
+        "zh": "给予",
+        "ko": "주다",
+        "ja": "与える"
+      }
+    },
+    {
+      "index": 21,
+      "word": "descriptions",
+      "start": 142,
+      "end": 154,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 22,
+      "word": "This",
+      "start": 156,
+      "end": 160,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 23,
+      "word": "task",
+      "start": 161,
+      "end": 165,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 24,
+      "word": "is",
+      "start": 166,
+      "end": 168,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 25,
+      "word": "essential",
+      "start": 169,
+      "end": 178,
+      "candidates": {
+        "fr": "essentiel",
+        "es": "esencial",
+        "zh": "必要的",
+        "ko": "필수적인",
+        "ja": "不可欠な"
+      }
+    },
+    {
+      "index": 26,
+      "word": "for",
+      "start": 179,
+      "end": 182,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 27,
+      "word": "optimizing",
+      "start": 183,
+      "end": 193,
+      "candidates": {
+        "fr": "optimiser",
+        "es": "optimizar",
+        "zh": "优化",
+        "ko": "최적화하다",
+        "ja": "最適化する"
+      }
+    },
+    {
+      "index": 28,
+      "word": "online",
+      "start": 194,
+      "end": 200,
+      "candidates": {
+        "fr": "en ligne",
+        "es": "en línea",
+        "zh": "在线",
+        "ko": "온라인",
+        "ja": "オンライン"
+      }
+    },
+    {
+      "index": 29,
+      "word": "product",
+      "start": 201,
+      "end": 208,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 30,
+      "word": "search",
+      "start": 209,
+      "end": 215,
+      "candidates": {
+        "fr": "rechercher",
+        "es": "buscar",
+        "zh": "搜索",
+        "ko": "검색하다",
+        "ja": "検索する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 216,
+      "end": 219,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 32,
+      "word": "navigation",
+      "start": 220,
+      "end": 230,
+      "candidates": {
+        "fr": "navigation",
+        "es": "navegación",
+        "zh": "导航",
+        "ko": "탐색",
+        "ja": "ナビゲーション"
+      }
+    },
+    {
+      "index": 33,
+      "word": "so",
+      "start": 232,
+      "end": 234,
+      "candidates": {
+        "fr": "donc",
+        "es": "así que",
+        "zh": "所以",
+        "ko": "그래서",
+        "ja": "したがって"
+      }
+    },
+    {
+      "index": 34,
+      "word": "precision",
+      "start": 235,
+      "end": 244,
+      "candidates": {
+        "fr": "précision",
+        "es": "precisión",
+        "zh": "精确性",
+        "ko": "정밀도",
+        "ja": "精度"
+      }
+    },
+    {
+      "index": 35,
+      "word": "is",
+      "start": 245,
+      "end": 247,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 36,
+      "word": "crucial",
+      "start": 248,
+      "end": 255,
+      "candidates": {
+        "fr": "crucial",
+        "es": "crucial",
+        "zh": "关键的",
+        "ko": "중요한",
+        "ja": "重要な"
+      }
+    },
+    {
+      "index": 37,
+      "word": "The",
+      "start": 257,
+      "end": 260,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 38,
+      "word": "categories",
+      "start": 261,
+      "end": 271,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 39,
+      "word": "include",
+      "start": 272,
+      "end": 279,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 40,
+      "word": "Electronics",
+      "start": 280,
+      "end": 291,
+      "candidates": {
+        "fr": "électronique",
+        "es": "electrónica",
+        "zh": "电子产品",
+        "ko": "전자제품",
+        "ja": "電子機器"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Clothing",
+      "start": 293,
+      "end": 301,
+      "candidates": {
+        "fr": "vêtements",
+        "es": "ropa",
+        "zh": "服装",
+        "ko": "의류",
+        "ja": "衣類"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Home",
+      "start": 303,
+      "end": 307,
+      "candidates": {
+        "fr": "maison",
+        "es": "hogar",
+        "zh": "家庭",
+        "ko": "가정",
+        "ja": "家庭"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Goods",
+      "start": 308,
+      "end": 313,
+      "candidates": {
+        "fr": "biens",
+        "es": "bienes",
+        "zh": "商品",
+        "ko": "상품",
+        "ja": "商品"
+      }
+    },
+    {
+      "index": 44,
+      "word": "Beauty",
+      "start": 315,
+      "end": 321,
+      "candidates": {
+        "fr": "beauté",
+        "es": "belleza",
+        "zh": "美",
+        "ko": "아름다움",
+        "ja": "美"
+      }
+    },
+    {
+      "index": 45,
+      "word": "and",
+      "start": 323,
+      "end": 326,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 46,
+      "word": "Sports",
+      "start": 327,
+      "end": 333,
+      "candidates": {
+        "fr": "sports",
+        "es": "deportes",
+        "zh": "体育",
+        "ko": "스포츠",
+        "ja": "スポーツ"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Equipment",
+      "start": 334,
+      "end": 343,
+      "candidates": {
+        "fr": "équipement",
+        "es": "equipo",
+        "zh": "设备",
+        "ko": "장비",
+        "ja": "設備"
+      }
+    },
+    {
+      "index": 48,
+      "word": "Process",
+      "start": 345,
+      "end": 352,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 49,
+      "word": "each",
+      "start": 353,
+      "end": 357,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 50,
+      "word": "product",
+      "start": 358,
+      "end": 365,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 51,
+      "word": "description",
+      "start": 366,
+      "end": 377,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 52,
+      "word": "systematically",
+      "start": 378,
+      "end": 392,
+      "candidates": {
+        "fr": "systématiquement",
+        "es": "sistemáticamente",
+        "zh": "系统地",
+        "ko": "체계적으로",
+        "ja": "体系的に"
+      }
+    },
+    {
+      "index": 53,
+      "word": "by",
+      "start": 393,
+      "end": 395,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 54,
+      "word": "identifying",
+      "start": 396,
+      "end": 407,
+      "candidates": {
+        "fr": "identifier",
+        "es": "identificar",
+        "zh": "识别",
+        "ko": "식별하다",
+        "ja": "識別する"
+      }
+    },
+    {
+      "index": 55,
+      "word": "key",
+      "start": 408,
+      "end": 411,
+      "candidates": {
+        "fr": "clé",
+        "es": "clave",
+        "zh": "关键",
+        "ko": "핵심",
+        "ja": "鍵"
+      }
+    },
+    {
+      "index": 56,
+      "word": "attributes",
+      "start": 412,
+      "end": 422,
+      "candidates": {
+        "fr": "attributs",
+        "es": "atributos",
+        "zh": "属性",
+        "ko": "속성",
+        "ja": "属性"
+      }
+    },
+    {
+      "index": 57,
+      "word": "and",
+      "start": 423,
+      "end": 426,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 58,
+      "word": "matching",
+      "start": 427,
+      "end": 435,
+      "candidates": {
+        "fr": "correspondre",
+        "es": "coincidir",
+        "zh": "匹配",
+        "ko": "일치하다",
+        "ja": "一致する"
+      }
+    },
+    {
+      "index": 59,
+      "word": "them",
+      "start": 436,
+      "end": 440,
+      "candidates": {
+        "fr": "les",
+        "es": "los",
+        "zh": "他们",
+        "ko": "그들을",
+        "ja": "彼らを"
+      }
+    },
+    {
+      "index": 60,
+      "word": "with",
+      "start": 441,
+      "end": 445,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 61,
+      "word": "appropriate",
+      "start": 446,
+      "end": 457,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "适当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 62,
+      "word": "categories",
+      "start": 458,
+      "end": 468,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Avoid",
+      "start": 470,
+      "end": 475,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 64,
+      "word": "any",
+      "start": 476,
+      "end": 479,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 65,
+      "word": "bias",
+      "start": 480,
+      "end": 484,
+      "candidates": {
+        "fr": "biais",
+        "es": "sesgo",
+        "zh": "偏见",
+        "ko": "편향",
+        "ja": "偏り"
+      }
+    },
+    {
+      "index": 66,
+      "word": "or",
+      "start": 485,
+      "end": 487,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 67,
+      "word": "assumptions",
+      "start": 488,
+      "end": 499,
+      "candidates": {
+        "fr": "hypothèses",
+        "es": "suposiciones",
+        "zh": "假设",
+        "ko": "가정",
+        "ja": "仮定"
+      }
+    },
+    {
+      "index": 68,
+      "word": "not",
+      "start": 500,
+      "end": 503,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 69,
+      "word": "supported",
+      "start": 504,
+      "end": 513,
+      "candidates": {
+        "fr": "soutien",
+        "es": "apoyo",
+        "zh": "支持",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 70,
+      "word": "by",
+      "start": 514,
+      "end": 516,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 71,
+      "word": "the",
+      "start": 517,
+      "end": 520,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 72,
+      "word": "product",
+      "start": 521,
+      "end": 528,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 73,
+      "word": "description",
+      "start": 529,
+      "end": 540,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 74,
+      "word": "If",
+      "start": 542,
+      "end": 544,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 75,
+      "word": "any",
+      "start": 545,
+      "end": 548,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 76,
+      "word": "description",
+      "start": 549,
+      "end": 560,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 77,
+      "word": "appears",
+      "start": 561,
+      "end": 568,
+      "candidates": {
+        "fr": "apparaît",
+        "es": "aparece",
+        "zh": "出现",
+        "ko": "나타나다",
+        "ja": "現れる"
+      }
+    },
+    {
+      "index": 78,
+      "word": "ambiguous",
+      "start": 569,
+      "end": 578,
+      "candidates": {
+        "fr": "ambigu",
+        "es": "ambiguo",
+        "zh": "有歧义的",
+        "ko": "모호한",
+        "ja": "曖昧な"
+      }
+    },
+    {
+      "index": 79,
+      "word": "categorize",
+      "start": 580,
+      "end": 590,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 80,
+      "word": "it",
+      "start": 591,
+      "end": 593,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 81,
+      "word": "under",
+      "start": 594,
+      "end": 599,
+      "candidates": {
+        "fr": "sous",
+        "es": "bajo",
+        "zh": "在下方",
+        "ko": "아래에",
+        "ja": "の下に"
+      }
+    },
+    {
+      "index": 82,
+      "word": "Miscellaneous",
+      "start": 601,
+      "end": 614,
+      "candidates": {
+        "fr": "divers",
+        "es": "diverso",
+        "zh": "其他杂项",
+        "ko": "기타",
+        "ja": "その他"
+      }
+    },
+    {
+      "index": 83,
+      "word": "and",
+      "start": 616,
+      "end": 619,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 84,
+      "word": "flag",
+      "start": 620,
+      "end": 624,
+      "candidates": {
+        "fr": "signaler",
+        "es": "marcar",
+        "zh": "标记",
+        "ko": "표시하다",
+        "ja": "フラグを付ける"
+      }
+    },
+    {
+      "index": 85,
+      "word": "it",
+      "start": 625,
+      "end": 627,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 86,
+      "word": "for",
+      "start": 628,
+      "end": 631,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 87,
+      "word": "further",
+      "start": 632,
+      "end": 639,
+      "candidates": {
+        "fr": "supplémentaire",
+        "es": "adicional",
+        "zh": "进一步的",
+        "ko": "추가적인",
+        "ja": "さらなる"
+      }
+    },
+    {
+      "index": 88,
+      "word": "review",
+      "start": 640,
+      "end": 646,
+      "candidates": {
+        "fr": "revue",
+        "es": "revisión",
+        "zh": "综述",
+        "ko": "검토",
+        "ja": "レビュー"
+      }
+    },
+    {
+      "index": 89,
+      "word": "Maintain",
+      "start": 648,
+      "end": 656,
+      "candidates": {
+        "fr": "maintenir",
+        "es": "mantener",
+        "zh": "保持",
+        "ko": "유지하다",
+        "ja": "維持する"
+      }
+    },
+    {
+      "index": 90,
+      "word": "a",
+      "start": 657,
+      "end": 658,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 91,
+      "word": "professional",
+      "start": 659,
+      "end": 671,
+      "candidates": {
+        "fr": "professionnel",
+        "es": "profesional",
+        "zh": "专业的",
+        "ko": "전문적인",
+        "ja": "専門的な"
+      }
+    },
+    {
+      "index": 92,
+      "word": "tone",
+      "start": 672,
+      "end": 676,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 93,
+      "word": "and",
+      "start": 677,
+      "end": 680,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 94,
+      "word": "ensure",
+      "start": 681,
+      "end": 687,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 95,
+      "word": "all",
+      "start": 688,
+      "end": 691,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 96,
+      "word": "data",
+      "start": 692,
+      "end": 696,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 97,
+      "word": "is",
+      "start": 697,
+      "end": 699,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 98,
+      "word": "handled",
+      "start": 700,
+      "end": 707,
+      "candidates": {
+        "fr": "gérer",
+        "es": "gestionar",
+        "zh": "处理",
+        "ko": "처리하다",
+        "ja": "処理する"
+      }
+    },
+    {
+      "index": 99,
+      "word": "with",
+      "start": 708,
+      "end": 712,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 100,
+      "word": "confidentiality",
+      "start": 713,
+      "end": 728,
+      "candidates": {
+        "fr": "confidentialité",
+        "es": "confidencialidad",
+        "zh": "保密性",
+        "ko": "기밀성",
+        "ja": "機密性"
+      }
+    }
+  ]
+}

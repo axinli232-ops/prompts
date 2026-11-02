@@ -1,0 +1,1397 @@
+{
+  "prompt_id": "FC15",
+  "system_prompt": "Markdown Financial Aggregator\n\nThe service provided here is meant to help users consolidate their financial data from multiple accounts into a singular, easy-to-read markdown formatted report. The report should include sections for account balances, recent transactions, and a monthly summary. Instructions for usage:\n1. Accept CSV or JSON data input.\n2. Parse input data to extract necessary financial information.\n3. Output sections in markdown format with proper headings (###). \n4. Cross-reference with historical data to provide insights.\n\n*Avoid discussing financial planning or giving investment advice. This assistant does not process real-time market data or offer predictive financial insights. Direct users to authorized financial advisors for personalized financial advice.*",
+  "words": [
+    {
+      "index": 0,
+      "word": "Markdown",
+      "start": 0,
+      "end": 8,
+      "candidates": {
+        "fr": "Markdown",
+        "es": "Markdown",
+        "zh": "Markdown",
+        "ko": "Markdown",
+        "ja": "Markdown"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Financial",
+      "start": 9,
+      "end": 18,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 2,
+      "word": "Aggregator",
+      "start": 19,
+      "end": 29,
+      "candidates": {
+        "fr": "agrégateur",
+        "es": "agregador",
+        "zh": "聚合器",
+        "ko": "집계기",
+        "ja": "集約器"
+      }
+    },
+    {
+      "index": 3,
+      "word": "The",
+      "start": 31,
+      "end": 34,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 4,
+      "word": "service",
+      "start": 35,
+      "end": 42,
+      "candidates": {
+        "fr": "service",
+        "es": "servicio",
+        "zh": "服务",
+        "ko": "서비스",
+        "ja": "サービス"
+      }
+    },
+    {
+      "index": 5,
+      "word": "provided",
+      "start": 43,
+      "end": 51,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "here",
+      "start": 52,
+      "end": 56,
+      "candidates": {
+        "fr": "ici",
+        "es": "aquí",
+        "zh": "这里",
+        "ko": "여기",
+        "ja": "ここ"
+      }
+    },
+    {
+      "index": 7,
+      "word": "is",
+      "start": 57,
+      "end": 59,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 8,
+      "word": "meant",
+      "start": 60,
+      "end": 65,
+      "candidates": {
+        "fr": "voulu",
+        "es": "previsto",
+        "zh": "意指",
+        "ko": "의미한",
+        "ja": "意味した"
+      }
+    },
+    {
+      "index": 9,
+      "word": "to",
+      "start": 66,
+      "end": 68,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "help",
+      "start": 69,
+      "end": 73,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 11,
+      "word": "users",
+      "start": 74,
+      "end": 79,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 12,
+      "word": "consolidate",
+      "start": 80,
+      "end": 91,
+      "candidates": {
+        "fr": "consolider",
+        "es": "consolidar",
+        "zh": "整合",
+        "ko": "통합하다",
+        "ja": "統合する"
+      }
+    },
+    {
+      "index": 13,
+      "word": "their",
+      "start": 92,
+      "end": 97,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 14,
+      "word": "financial",
+      "start": 98,
+      "end": 107,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "data",
+      "start": 108,
+      "end": 112,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "from",
+      "start": 113,
+      "end": 117,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 17,
+      "word": "multiple",
+      "start": 118,
+      "end": 126,
+      "candidates": {
+        "fr": "multiple",
+        "es": "múltiple",
+        "zh": "多个",
+        "ko": "여러",
+        "ja": "複数の"
+      }
+    },
+    {
+      "index": 18,
+      "word": "accounts",
+      "start": 127,
+      "end": 135,
+      "candidates": {
+        "fr": "compte",
+        "es": "cuenta",
+        "zh": "账户",
+        "ko": "계정",
+        "ja": "アカウント"
+      }
+    },
+    {
+      "index": 19,
+      "word": "into",
+      "start": 136,
+      "end": 140,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 20,
+      "word": "a",
+      "start": 141,
+      "end": 142,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 21,
+      "word": "singular",
+      "start": 143,
+      "end": 151,
+      "candidates": {
+        "fr": "singulier",
+        "es": "singular",
+        "zh": "单数的",
+        "ko": "단수의",
+        "ja": "単数の"
+      }
+    },
+    {
+      "index": 22,
+      "word": "easy",
+      "start": 153,
+      "end": 157,
+      "candidates": {
+        "fr": "facile",
+        "es": "fácil",
+        "zh": "容易的",
+        "ko": "쉬운",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 23,
+      "word": "to",
+      "start": 158,
+      "end": 160,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "read",
+      "start": 161,
+      "end": 165,
+      "candidates": {
+        "fr": "lire",
+        "es": "leer",
+        "zh": "阅读",
+        "ko": "읽다",
+        "ja": "読む"
+      }
+    },
+    {
+      "index": 25,
+      "word": "markdown",
+      "start": 166,
+      "end": 174,
+      "candidates": {
+        "fr": "Markdown",
+        "es": "Markdown",
+        "zh": "Markdown",
+        "ko": "Markdown",
+        "ja": "Markdown"
+      }
+    },
+    {
+      "index": 26,
+      "word": "formatted",
+      "start": 175,
+      "end": 184,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 27,
+      "word": "report",
+      "start": 185,
+      "end": 191,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 28,
+      "word": "The",
+      "start": 193,
+      "end": 196,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 29,
+      "word": "report",
+      "start": 197,
+      "end": 203,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 30,
+      "word": "should",
+      "start": 204,
+      "end": 210,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 31,
+      "word": "include",
+      "start": 211,
+      "end": 218,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 32,
+      "word": "sections",
+      "start": 219,
+      "end": 227,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 33,
+      "word": "for",
+      "start": 228,
+      "end": 231,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 34,
+      "word": "account",
+      "start": 232,
+      "end": 239,
+      "candidates": {
+        "fr": "compte",
+        "es": "cuenta",
+        "zh": "账户",
+        "ko": "계정",
+        "ja": "アカウント"
+      }
+    },
+    {
+      "index": 35,
+      "word": "balances",
+      "start": 240,
+      "end": 248,
+      "candidates": {
+        "fr": "équilibre",
+        "es": "equilibrio",
+        "zh": "平衡",
+        "ko": "균형",
+        "ja": "均衡"
+      }
+    },
+    {
+      "index": 36,
+      "word": "recent",
+      "start": 250,
+      "end": 256,
+      "candidates": {
+        "fr": "récent",
+        "es": "reciente",
+        "zh": "最近的",
+        "ko": "최근의",
+        "ja": "最近の"
+      }
+    },
+    {
+      "index": 37,
+      "word": "transactions",
+      "start": 257,
+      "end": 269,
+      "candidates": {
+        "fr": "transaction",
+        "es": "transacción",
+        "zh": "交易",
+        "ko": "거래",
+        "ja": "取引"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 271,
+      "end": 274,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "a",
+      "start": 275,
+      "end": 276,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 40,
+      "word": "monthly",
+      "start": 277,
+      "end": 284,
+      "candidates": {
+        "fr": "mensuel",
+        "es": "mensual",
+        "zh": "每月的",
+        "ko": "월간의",
+        "ja": "月次の"
+      }
+    },
+    {
+      "index": 41,
+      "word": "summary",
+      "start": 285,
+      "end": 292,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Instructions",
+      "start": 294,
+      "end": 306,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 43,
+      "word": "for",
+      "start": 307,
+      "end": 310,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 44,
+      "word": "usage",
+      "start": 311,
+      "end": 316,
+      "candidates": {
+        "fr": "utilisation",
+        "es": "uso",
+        "zh": "用法",
+        "ko": "사용",
+        "ja": "使用"
+      }
+    },
+    {
+      "index": 45,
+      "word": "Accept",
+      "start": 321,
+      "end": 327,
+      "candidates": {
+        "fr": "accepter",
+        "es": "aceptar",
+        "zh": "接受",
+        "ko": "수락하다",
+        "ja": "受け入れる"
+      }
+    },
+    {
+      "index": 46,
+      "word": "CSV",
+      "start": 328,
+      "end": 331,
+      "candidates": {
+        "fr": "CSV",
+        "es": "CSV",
+        "zh": "CSV",
+        "ko": "CSV",
+        "ja": "CSV"
+      }
+    },
+    {
+      "index": 47,
+      "word": "or",
+      "start": 332,
+      "end": 334,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 48,
+      "word": "JSON",
+      "start": 335,
+      "end": 339,
+      "candidates": {
+        "fr": "JSON",
+        "es": "JSON",
+        "zh": "JSON",
+        "ko": "JSON",
+        "ja": "JSON"
+      }
+    },
+    {
+      "index": 49,
+      "word": "data",
+      "start": 340,
+      "end": 344,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 50,
+      "word": "input",
+      "start": 345,
+      "end": 350,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "输入",
+        "ko": "입력",
+        "ja": "入力"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Parse",
+      "start": 355,
+      "end": 360,
+      "candidates": {
+        "fr": "analyser",
+        "es": "analizar sintácticamente",
+        "zh": "解析",
+        "ko": "파싱하다",
+        "ja": "解析する"
+      }
+    },
+    {
+      "index": 52,
+      "word": "input",
+      "start": 361,
+      "end": 366,
+      "candidates": {
+        "fr": "entrée",
+        "es": "entrada",
+        "zh": "输入",
+        "ko": "입력",
+        "ja": "入力"
+      }
+    },
+    {
+      "index": 53,
+      "word": "data",
+      "start": 367,
+      "end": 371,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 54,
+      "word": "to",
+      "start": 372,
+      "end": 374,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 55,
+      "word": "extract",
+      "start": 375,
+      "end": 382,
+      "candidates": {
+        "fr": "extraire",
+        "es": "extraer",
+        "zh": "提取",
+        "ko": "추출하다",
+        "ja": "抽出する"
+      }
+    },
+    {
+      "index": 56,
+      "word": "necessary",
+      "start": 383,
+      "end": 392,
+      "candidates": {
+        "fr": "nécessaire",
+        "es": "necesario",
+        "zh": "必要的",
+        "ko": "필요한",
+        "ja": "必要な"
+      }
+    },
+    {
+      "index": 57,
+      "word": "financial",
+      "start": 393,
+      "end": 402,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 58,
+      "word": "information",
+      "start": 403,
+      "end": 414,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Output",
+      "start": 419,
+      "end": 425,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 60,
+      "word": "sections",
+      "start": 426,
+      "end": 434,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 61,
+      "word": "in",
+      "start": 435,
+      "end": 437,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 62,
+      "word": "markdown",
+      "start": 438,
+      "end": 446,
+      "candidates": {
+        "fr": "Markdown",
+        "es": "Markdown",
+        "zh": "Markdown",
+        "ko": "Markdown",
+        "ja": "Markdown"
+      }
+    },
+    {
+      "index": 63,
+      "word": "format",
+      "start": 447,
+      "end": 453,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 64,
+      "word": "with",
+      "start": 454,
+      "end": 458,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 65,
+      "word": "proper",
+      "start": 459,
+      "end": 465,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "恰当的",
+        "ko": "적절한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 66,
+      "word": "headings",
+      "start": 466,
+      "end": 474,
+      "candidates": {
+        "fr": "titres",
+        "es": "encabezados",
+        "zh": "标题",
+        "ko": "제목",
+        "ja": "見出し"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Cross",
+      "start": 486,
+      "end": 491,
+      "candidates": {
+        "fr": "croisé",
+        "es": "cruzado",
+        "zh": "交叉",
+        "ko": "교차",
+        "ja": "交差"
+      }
+    },
+    {
+      "index": 68,
+      "word": "reference",
+      "start": 492,
+      "end": 501,
+      "candidates": {
+        "fr": "référence",
+        "es": "referencia",
+        "zh": "参考",
+        "ko": "참조",
+        "ja": "参照"
+      }
+    },
+    {
+      "index": 69,
+      "word": "with",
+      "start": 502,
+      "end": 506,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 70,
+      "word": "historical",
+      "start": 507,
+      "end": 517,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 71,
+      "word": "data",
+      "start": 518,
+      "end": 522,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 72,
+      "word": "to",
+      "start": 523,
+      "end": 525,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 73,
+      "word": "provide",
+      "start": 526,
+      "end": 533,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 74,
+      "word": "insights",
+      "start": 534,
+      "end": 542,
+      "candidates": {
+        "fr": "aperçu",
+        "es": "perspectiva",
+        "zh": "洞见",
+        "ko": "통찰",
+        "ja": "洞察"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Avoid",
+      "start": 546,
+      "end": 551,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 76,
+      "word": "discussing",
+      "start": 552,
+      "end": 562,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 77,
+      "word": "financial",
+      "start": 563,
+      "end": 572,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 78,
+      "word": "planning",
+      "start": 573,
+      "end": 581,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 79,
+      "word": "or",
+      "start": 582,
+      "end": 584,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 80,
+      "word": "giving",
+      "start": 585,
+      "end": 591,
+      "candidates": {
+        "fr": "donner",
+        "es": "dar",
+        "zh": "给予",
+        "ko": "주다",
+        "ja": "与える"
+      }
+    },
+    {
+      "index": 81,
+      "word": "investment",
+      "start": 592,
+      "end": 602,
+      "candidates": {
+        "fr": "investissement",
+        "es": "inversión",
+        "zh": "投资",
+        "ko": "투자",
+        "ja": "投資"
+      }
+    },
+    {
+      "index": 82,
+      "word": "advice",
+      "start": 603,
+      "end": 609,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    },
+    {
+      "index": 83,
+      "word": "This",
+      "start": 611,
+      "end": 615,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 84,
+      "word": "assistant",
+      "start": 616,
+      "end": 625,
+      "candidates": {
+        "fr": "assistant",
+        "es": "asistente",
+        "zh": "助手",
+        "ko": "보조자",
+        "ja": "アシスタント"
+      }
+    },
+    {
+      "index": 85,
+      "word": "does",
+      "start": 626,
+      "end": 630,
+      "candidates": {
+        "fr": "fait",
+        "es": "hace",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 86,
+      "word": "not",
+      "start": 631,
+      "end": 634,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 87,
+      "word": "process",
+      "start": 635,
+      "end": 642,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 88,
+      "word": "real",
+      "start": 643,
+      "end": 647,
+      "candidates": {
+        "fr": "réel",
+        "es": "real",
+        "zh": "真实的",
+        "ko": "실제의",
+        "ja": "現実の"
+      }
+    },
+    {
+      "index": 89,
+      "word": "time",
+      "start": 648,
+      "end": 652,
+      "candidates": {
+        "fr": "temps",
+        "es": "tiempo",
+        "zh": "时间",
+        "ko": "시간",
+        "ja": "時間"
+      }
+    },
+    {
+      "index": 90,
+      "word": "market",
+      "start": 653,
+      "end": 659,
+      "candidates": {
+        "fr": "marché",
+        "es": "mercado",
+        "zh": "市场",
+        "ko": "시장",
+        "ja": "市場"
+      }
+    },
+    {
+      "index": 91,
+      "word": "data",
+      "start": 660,
+      "end": 664,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 92,
+      "word": "or",
+      "start": 665,
+      "end": 667,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 93,
+      "word": "offer",
+      "start": 668,
+      "end": 673,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 94,
+      "word": "predictive",
+      "start": 674,
+      "end": 684,
+      "candidates": {
+        "fr": "prédictif",
+        "es": "predictivo",
+        "zh": "预测性的",
+        "ko": "예측의",
+        "ja": "予測の"
+      }
+    },
+    {
+      "index": 95,
+      "word": "financial",
+      "start": 685,
+      "end": 694,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 96,
+      "word": "insights",
+      "start": 695,
+      "end": 703,
+      "candidates": {
+        "fr": "aperçu",
+        "es": "perspectiva",
+        "zh": "洞见",
+        "ko": "통찰",
+        "ja": "洞察"
+      }
+    },
+    {
+      "index": 97,
+      "word": "Direct",
+      "start": 705,
+      "end": 711,
+      "candidates": {
+        "fr": "direct",
+        "es": "directo",
+        "zh": "直接的",
+        "ko": "직접적인",
+        "ja": "直接的な"
+      }
+    },
+    {
+      "index": 98,
+      "word": "users",
+      "start": 712,
+      "end": 717,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 99,
+      "word": "to",
+      "start": 718,
+      "end": 720,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 100,
+      "word": "authorized",
+      "start": 721,
+      "end": 731,
+      "candidates": {
+        "fr": "autorisé",
+        "es": "autorizado",
+        "zh": "授权的",
+        "ko": "승인된",
+        "ja": "認可された"
+      }
+    },
+    {
+      "index": 101,
+      "word": "financial",
+      "start": 732,
+      "end": 741,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 102,
+      "word": "advisors",
+      "start": 742,
+      "end": 750,
+      "candidates": {
+        "fr": "conseiller",
+        "es": "asesor",
+        "zh": "顾问",
+        "ko": "고문",
+        "ja": "助言者"
+      }
+    },
+    {
+      "index": 103,
+      "word": "for",
+      "start": 751,
+      "end": 754,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 104,
+      "word": "personalized",
+      "start": 755,
+      "end": 767,
+      "candidates": {
+        "fr": "personnalisé",
+        "es": "personalizado",
+        "zh": "个性化的",
+        "ko": "개인화된",
+        "ja": "個人向けの"
+      }
+    },
+    {
+      "index": 105,
+      "word": "financial",
+      "start": 768,
+      "end": 777,
+      "candidates": {
+        "fr": "financier",
+        "es": "financiero",
+        "zh": "财务的",
+        "ko": "재무의",
+        "ja": "財務の"
+      }
+    },
+    {
+      "index": 106,
+      "word": "advice",
+      "start": 778,
+      "end": 784,
+      "candidates": {
+        "fr": "conseil",
+        "es": "consejo",
+        "zh": "建议",
+        "ko": "조언",
+        "ja": "助言"
+      }
+    }
+  ]
+}

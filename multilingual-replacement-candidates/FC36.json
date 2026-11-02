@@ -1,0 +1,1033 @@
+{
+  "prompt_id": "FC36",
+  "system_prompt": "### Context\nWelcome to the National Historical Society Archive Assistance System. Your role is to provide accurate and well-sourced historical context to various queries related to national history events.\n\n### Instructions\n1. Use only reliable historical sources.\n2. Present information clearly and concisely.\n3. Avoid any form of bias or speculation.\n4. For topics not within the scope, respond with \"Further research required.\"\n\n### Output Format\n- Date\n- Event Description\n- Source\n\nEnsure your responses help enrich the understanding of national history for students and researchers alike.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Context",
+      "start": 4,
+      "end": 11,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    },
+    {
+      "index": 1,
+      "word": "Welcome",
+      "start": 12,
+      "end": 19,
+      "candidates": {
+        "fr": "bienvenue",
+        "es": "bienvenida",
+        "zh": "欢迎",
+        "ko": "환영",
+        "ja": "歓迎"
+      }
+    },
+    {
+      "index": 2,
+      "word": "to",
+      "start": 20,
+      "end": 22,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 3,
+      "word": "the",
+      "start": 23,
+      "end": 26,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 4,
+      "word": "National",
+      "start": 27,
+      "end": 35,
+      "candidates": {
+        "fr": "national",
+        "es": "nacional",
+        "zh": "国家的",
+        "ko": "국가의",
+        "ja": "国の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "Historical",
+      "start": 36,
+      "end": 46,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Society",
+      "start": 47,
+      "end": 54,
+      "candidates": {
+        "fr": "société",
+        "es": "sociedad",
+        "zh": "社会",
+        "ko": "사회",
+        "ja": "社会"
+      }
+    },
+    {
+      "index": 7,
+      "word": "Archive",
+      "start": 55,
+      "end": 62,
+      "candidates": {
+        "fr": "archive",
+        "es": "archivo",
+        "zh": "归档",
+        "ko": "보관소",
+        "ja": "アーカイブ"
+      }
+    },
+    {
+      "index": 8,
+      "word": "Assistance",
+      "start": 63,
+      "end": 73,
+      "candidates": {
+        "fr": "assistance",
+        "es": "asistencia",
+        "zh": "协助",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 9,
+      "word": "System",
+      "start": 74,
+      "end": 80,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 10,
+      "word": "Your",
+      "start": 82,
+      "end": 86,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 11,
+      "word": "role",
+      "start": 87,
+      "end": 91,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 12,
+      "word": "is",
+      "start": 92,
+      "end": 94,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 13,
+      "word": "to",
+      "start": 95,
+      "end": 97,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 14,
+      "word": "provide",
+      "start": 98,
+      "end": 105,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 15,
+      "word": "accurate",
+      "start": 106,
+      "end": 114,
+      "candidates": {
+        "fr": "exact",
+        "es": "exacto",
+        "zh": "准确的",
+        "ko": "정확한",
+        "ja": "正確な"
+      }
+    },
+    {
+      "index": 16,
+      "word": "and",
+      "start": 115,
+      "end": 118,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 17,
+      "word": "well",
+      "start": 119,
+      "end": 123,
+      "candidates": {
+        "fr": "bien",
+        "es": "bien",
+        "zh": "好",
+        "ko": "잘",
+        "ja": "よく"
+      }
+    },
+    {
+      "index": 18,
+      "word": "sourced",
+      "start": 124,
+      "end": 131,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 19,
+      "word": "historical",
+      "start": 132,
+      "end": 142,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 20,
+      "word": "context",
+      "start": 143,
+      "end": 150,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    },
+    {
+      "index": 21,
+      "word": "to",
+      "start": 151,
+      "end": 153,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 22,
+      "word": "various",
+      "start": 154,
+      "end": 161,
+      "candidates": {
+        "fr": "divers",
+        "es": "varios",
+        "zh": "各种",
+        "ko": "여러 가지",
+        "ja": "さまざまな"
+      }
+    },
+    {
+      "index": 23,
+      "word": "queries",
+      "start": 162,
+      "end": 169,
+      "candidates": {
+        "fr": "requête",
+        "es": "consulta",
+        "zh": "查询",
+        "ko": "질의",
+        "ja": "クエリ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "related",
+      "start": 170,
+      "end": 177,
+      "candidates": {
+        "fr": "relier",
+        "es": "relacionar",
+        "zh": "关联",
+        "ko": "관련짓다",
+        "ja": "関連付ける"
+      }
+    },
+    {
+      "index": 25,
+      "word": "to",
+      "start": 178,
+      "end": 180,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 26,
+      "word": "national",
+      "start": 181,
+      "end": 189,
+      "candidates": {
+        "fr": "national",
+        "es": "nacional",
+        "zh": "国家的",
+        "ko": "국가의",
+        "ja": "国の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "history",
+      "start": 190,
+      "end": 197,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "历史",
+        "ko": "역사",
+        "ja": "歴史"
+      }
+    },
+    {
+      "index": 28,
+      "word": "events",
+      "start": 198,
+      "end": 204,
+      "candidates": {
+        "fr": "événement",
+        "es": "evento",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "出来事"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Instructions",
+      "start": 211,
+      "end": 223,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 30,
+      "word": "Use",
+      "start": 227,
+      "end": 230,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "only",
+      "start": 231,
+      "end": 235,
+      "candidates": {
+        "fr": "seulement",
+        "es": "solo",
+        "zh": "仅",
+        "ko": "오직",
+        "ja": "のみ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "reliable",
+      "start": 236,
+      "end": 244,
+      "candidates": {
+        "fr": "fiable",
+        "es": "fiable",
+        "zh": "可靠的",
+        "ko": "신뢰할 수 있는",
+        "ja": "信頼できる"
+      }
+    },
+    {
+      "index": 33,
+      "word": "historical",
+      "start": 245,
+      "end": 255,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 34,
+      "word": "sources",
+      "start": 256,
+      "end": 263,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 35,
+      "word": "Present",
+      "start": 268,
+      "end": 275,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 36,
+      "word": "information",
+      "start": 276,
+      "end": 287,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 37,
+      "word": "clearly",
+      "start": 288,
+      "end": 295,
+      "candidates": {
+        "fr": "clairement",
+        "es": "claramente",
+        "zh": "清晰地",
+        "ko": "명확하게",
+        "ja": "明確に"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 296,
+      "end": 299,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "concisely",
+      "start": 300,
+      "end": 309,
+      "candidates": {
+        "fr": "de manière concise",
+        "es": "concisamente",
+        "zh": "简洁地",
+        "ko": "간결하게",
+        "ja": "簡潔に"
+      }
+    },
+    {
+      "index": 40,
+      "word": "Avoid",
+      "start": 314,
+      "end": 319,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 41,
+      "word": "any",
+      "start": 320,
+      "end": 323,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 42,
+      "word": "form",
+      "start": 324,
+      "end": 328,
+      "candidates": {
+        "fr": "forme",
+        "es": "forma",
+        "zh": "形式",
+        "ko": "형태",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 43,
+      "word": "of",
+      "start": 329,
+      "end": 331,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "bias",
+      "start": 332,
+      "end": 336,
+      "candidates": {
+        "fr": "biais",
+        "es": "sesgo",
+        "zh": "偏见",
+        "ko": "편향",
+        "ja": "偏り"
+      }
+    },
+    {
+      "index": 45,
+      "word": "or",
+      "start": 337,
+      "end": 339,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 46,
+      "word": "speculation",
+      "start": 340,
+      "end": 351,
+      "candidates": {
+        "fr": "spéculation",
+        "es": "especulación",
+        "zh": "推测",
+        "ko": "추측",
+        "ja": "推測"
+      }
+    },
+    {
+      "index": 47,
+      "word": "For",
+      "start": 356,
+      "end": 359,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 48,
+      "word": "topics",
+      "start": 360,
+      "end": 366,
+      "candidates": {
+        "fr": "sujet",
+        "es": "tema",
+        "zh": "话题",
+        "ko": "주제",
+        "ja": "話題"
+      }
+    },
+    {
+      "index": 49,
+      "word": "not",
+      "start": 367,
+      "end": 370,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 50,
+      "word": "within",
+      "start": 371,
+      "end": 377,
+      "candidates": {
+        "fr": "dans",
+        "es": "dentro de",
+        "zh": "在以内",
+        "ko": "이내에",
+        "ja": "以内に"
+      }
+    },
+    {
+      "index": 51,
+      "word": "the",
+      "start": 378,
+      "end": 381,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 52,
+      "word": "scope",
+      "start": 382,
+      "end": 387,
+      "candidates": {
+        "fr": "portée",
+        "es": "alcance",
+        "zh": "范围",
+        "ko": "범위",
+        "ja": "範囲"
+      }
+    },
+    {
+      "index": 53,
+      "word": "respond",
+      "start": 389,
+      "end": 396,
+      "candidates": {
+        "fr": "répondre",
+        "es": "responder",
+        "zh": "回应",
+        "ko": "응답하다",
+        "ja": "応答する"
+      }
+    },
+    {
+      "index": 54,
+      "word": "with",
+      "start": 397,
+      "end": 401,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Further",
+      "start": 403,
+      "end": 410,
+      "candidates": {
+        "fr": "supplémentaire",
+        "es": "adicional",
+        "zh": "进一步的",
+        "ko": "추가적인",
+        "ja": "さらなる"
+      }
+    },
+    {
+      "index": 56,
+      "word": "research",
+      "start": 411,
+      "end": 419,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 57,
+      "word": "required",
+      "start": 420,
+      "end": 428,
+      "candidates": {
+        "fr": "exiger",
+        "es": "requerir",
+        "zh": "要求",
+        "ko": "요구하다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 58,
+      "word": "Output",
+      "start": 436,
+      "end": 442,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Format",
+      "start": 443,
+      "end": 449,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 60,
+      "word": "Date",
+      "start": 452,
+      "end": 456,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 61,
+      "word": "Event",
+      "start": 459,
+      "end": 464,
+      "candidates": {
+        "fr": "événement",
+        "es": "evento",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "出来事"
+      }
+    },
+    {
+      "index": 62,
+      "word": "Description",
+      "start": 465,
+      "end": 476,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Source",
+      "start": 479,
+      "end": 485,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 64,
+      "word": "Ensure",
+      "start": 487,
+      "end": 493,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 65,
+      "word": "your",
+      "start": 494,
+      "end": 498,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 66,
+      "word": "responses",
+      "start": 499,
+      "end": 508,
+      "candidates": {
+        "fr": "réponse",
+        "es": "respuesta",
+        "zh": "回答",
+        "ko": "응답",
+        "ja": "応答"
+      }
+    },
+    {
+      "index": 67,
+      "word": "help",
+      "start": 509,
+      "end": 513,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 68,
+      "word": "enrich",
+      "start": 514,
+      "end": 520,
+      "candidates": {
+        "fr": "enrichir",
+        "es": "enriquecer",
+        "zh": "丰富",
+        "ko": "풍부하게 하다",
+        "ja": "豊かにする"
+      }
+    },
+    {
+      "index": 69,
+      "word": "the",
+      "start": 521,
+      "end": 524,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 70,
+      "word": "understanding",
+      "start": 525,
+      "end": 538,
+      "candidates": {
+        "fr": "compréhension",
+        "es": "comprensión",
+        "zh": "理解",
+        "ko": "이해",
+        "ja": "理解"
+      }
+    },
+    {
+      "index": 71,
+      "word": "of",
+      "start": 539,
+      "end": 541,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 72,
+      "word": "national",
+      "start": 542,
+      "end": 550,
+      "candidates": {
+        "fr": "national",
+        "es": "nacional",
+        "zh": "国家的",
+        "ko": "국가의",
+        "ja": "国の"
+      }
+    },
+    {
+      "index": 73,
+      "word": "history",
+      "start": 551,
+      "end": 558,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "历史",
+        "ko": "역사",
+        "ja": "歴史"
+      }
+    },
+    {
+      "index": 74,
+      "word": "for",
+      "start": 559,
+      "end": 562,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 75,
+      "word": "students",
+      "start": 563,
+      "end": 571,
+      "candidates": {
+        "fr": "étudiants",
+        "es": "estudiantes",
+        "zh": "学生",
+        "ko": "학생",
+        "ja": "学生"
+      }
+    },
+    {
+      "index": 76,
+      "word": "and",
+      "start": 572,
+      "end": 575,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 77,
+      "word": "researchers",
+      "start": 576,
+      "end": 587,
+      "candidates": {
+        "fr": "chercheurs",
+        "es": "investigadores",
+        "zh": "研究人员",
+        "ko": "연구자",
+        "ja": "研究者"
+      }
+    },
+    {
+      "index": 78,
+      "word": "alike",
+      "start": 588,
+      "end": 593,
+      "candidates": {
+        "fr": "semblable",
+        "es": "semejante",
+        "zh": "相似的",
+        "ko": "비슷한",
+        "ja": "似ている"
+      }
+    }
+  ]
+}

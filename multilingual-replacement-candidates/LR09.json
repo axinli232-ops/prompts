@@ -1,0 +1,812 @@
+{
+  "prompt_id": "LR09",
+  "system_prompt": "Your role is to classify incoming help desk tickets into categories based on their content. Labels include: Hardware Issue, Software Bug, User Error, Feature Request, and Other. Use precise language and ensure each ticket is correctly categorized. If the ticket cannot be classified or lacks sufficient detail, assign it to 'Other'. Do not deviate into ticket resolution or provide any personal opinions.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Your",
+      "start": 0,
+      "end": 4,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 1,
+      "word": "role",
+      "start": 5,
+      "end": 9,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 2,
+      "word": "is",
+      "start": 10,
+      "end": 12,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "to",
+      "start": 13,
+      "end": 15,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "classify",
+      "start": 16,
+      "end": 24,
+      "candidates": {
+        "fr": "classer",
+        "es": "clasificar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 5,
+      "word": "incoming",
+      "start": 25,
+      "end": 33,
+      "candidates": {
+        "fr": "entrant",
+        "es": "entrante",
+        "zh": "传入的",
+        "ko": "들어오는",
+        "ja": "受信する"
+      }
+    },
+    {
+      "index": 6,
+      "word": "help",
+      "start": 34,
+      "end": 38,
+      "candidates": {
+        "fr": "aider",
+        "es": "ayudar",
+        "zh": "帮助",
+        "ko": "돕다",
+        "ja": "助ける"
+      }
+    },
+    {
+      "index": 7,
+      "word": "desk",
+      "start": 39,
+      "end": 43,
+      "candidates": {
+        "fr": "bureau",
+        "es": "escritorio",
+        "zh": "办公桌",
+        "ko": "책상",
+        "ja": "机"
+      }
+    },
+    {
+      "index": 8,
+      "word": "tickets",
+      "start": 44,
+      "end": 51,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 9,
+      "word": "into",
+      "start": 52,
+      "end": 56,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "categories",
+      "start": 57,
+      "end": 67,
+      "candidates": {
+        "fr": "catégorie",
+        "es": "categoría",
+        "zh": "类别",
+        "ko": "범주",
+        "ja": "カテゴリ"
+      }
+    },
+    {
+      "index": 11,
+      "word": "based",
+      "start": 68,
+      "end": 73,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 12,
+      "word": "on",
+      "start": 74,
+      "end": 76,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 13,
+      "word": "their",
+      "start": 77,
+      "end": 82,
+      "candidates": {
+        "fr": "leur",
+        "es": "su",
+        "zh": "他们的",
+        "ko": "그들의",
+        "ja": "彼らの"
+      }
+    },
+    {
+      "index": 14,
+      "word": "content",
+      "start": 83,
+      "end": 90,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Labels",
+      "start": 92,
+      "end": 98,
+      "candidates": {
+        "fr": "étiquette",
+        "es": "etiqueta",
+        "zh": "标签",
+        "ko": "라벨",
+        "ja": "ラベル"
+      }
+    },
+    {
+      "index": 16,
+      "word": "include",
+      "start": 99,
+      "end": 106,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Hardware",
+      "start": 108,
+      "end": 116,
+      "candidates": {
+        "fr": "matériel",
+        "es": "hardware",
+        "zh": "硬件",
+        "ko": "하드웨어",
+        "ja": "ハードウェア"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Issue",
+      "start": 117,
+      "end": 122,
+      "candidates": {
+        "fr": "problème",
+        "es": "problema",
+        "zh": "问题",
+        "ko": "문제",
+        "ja": "問題"
+      }
+    },
+    {
+      "index": 19,
+      "word": "Software",
+      "start": 124,
+      "end": 132,
+      "candidates": {
+        "fr": "logiciel",
+        "es": "software",
+        "zh": "软件",
+        "ko": "소프트웨어",
+        "ja": "ソフトウェア"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Bug",
+      "start": 133,
+      "end": 136,
+      "candidates": {
+        "fr": "bogue",
+        "es": "error",
+        "zh": "程序错误",
+        "ko": "버그",
+        "ja": "バグ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "User",
+      "start": 138,
+      "end": 142,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Error",
+      "start": 143,
+      "end": 148,
+      "candidates": {
+        "fr": "erreur",
+        "es": "error",
+        "zh": "错误",
+        "ko": "오류",
+        "ja": "誤り"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Feature",
+      "start": 150,
+      "end": 157,
+      "candidates": {
+        "fr": "caractéristique",
+        "es": "característica",
+        "zh": "特征",
+        "ko": "특징",
+        "ja": "特徴"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Request",
+      "start": 158,
+      "end": 165,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 25,
+      "word": "and",
+      "start": 167,
+      "end": 170,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Other",
+      "start": 171,
+      "end": 176,
+      "candidates": {
+        "fr": "autre",
+        "es": "otro",
+        "zh": "其他的",
+        "ko": "다른",
+        "ja": "ほかの"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Use",
+      "start": 178,
+      "end": 181,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 28,
+      "word": "precise",
+      "start": 182,
+      "end": 189,
+      "candidates": {
+        "fr": "précis",
+        "es": "preciso",
+        "zh": "精确的",
+        "ko": "정밀한",
+        "ja": "正確な"
+      }
+    },
+    {
+      "index": 29,
+      "word": "language",
+      "start": 190,
+      "end": 198,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 30,
+      "word": "and",
+      "start": 199,
+      "end": 202,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 31,
+      "word": "ensure",
+      "start": 203,
+      "end": 209,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 32,
+      "word": "each",
+      "start": 210,
+      "end": 214,
+      "candidates": {
+        "fr": "chaque",
+        "es": "cada",
+        "zh": "每个",
+        "ko": "각각의",
+        "ja": "各"
+      }
+    },
+    {
+      "index": 33,
+      "word": "ticket",
+      "start": 215,
+      "end": 221,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 34,
+      "word": "is",
+      "start": 222,
+      "end": 224,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 35,
+      "word": "correctly",
+      "start": 225,
+      "end": 234,
+      "candidates": {
+        "fr": "correctement",
+        "es": "correctamente",
+        "zh": "正确地",
+        "ko": "올바르게",
+        "ja": "正しく"
+      }
+    },
+    {
+      "index": 36,
+      "word": "categorized",
+      "start": 235,
+      "end": 246,
+      "candidates": {
+        "fr": "catégoriser",
+        "es": "categorizar",
+        "zh": "分类",
+        "ko": "분류하다",
+        "ja": "分類する"
+      }
+    },
+    {
+      "index": 37,
+      "word": "If",
+      "start": 248,
+      "end": 250,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 38,
+      "word": "the",
+      "start": 251,
+      "end": 254,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 39,
+      "word": "ticket",
+      "start": 255,
+      "end": 261,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 40,
+      "word": "cannot",
+      "start": 262,
+      "end": 268,
+      "candidates": {
+        "fr": "ne pas pouvoir",
+        "es": "no poder",
+        "zh": "不能",
+        "ko": "할 수 없다",
+        "ja": "できない"
+      }
+    },
+    {
+      "index": 41,
+      "word": "be",
+      "start": 269,
+      "end": 271,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 42,
+      "word": "classified",
+      "start": 272,
+      "end": 282,
+      "candidates": {
+        "fr": "classé",
+        "es": "clasificado",
+        "zh": "已分类的",
+        "ko": "분류된",
+        "ja": "分類された"
+      }
+    },
+    {
+      "index": 43,
+      "word": "or",
+      "start": 283,
+      "end": 285,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 44,
+      "word": "lacks",
+      "start": 286,
+      "end": 291,
+      "candidates": {
+        "fr": "manque de",
+        "es": "carece de",
+        "zh": "缺乏",
+        "ko": "부족하다",
+        "ja": "欠いている"
+      }
+    },
+    {
+      "index": 45,
+      "word": "sufficient",
+      "start": 292,
+      "end": 302,
+      "candidates": {
+        "fr": "suffisant",
+        "es": "suficiente",
+        "zh": "足够的",
+        "ko": "충분한",
+        "ja": "十分な"
+      }
+    },
+    {
+      "index": 46,
+      "word": "detail",
+      "start": 303,
+      "end": 309,
+      "candidates": {
+        "fr": "détail",
+        "es": "detalle",
+        "zh": "细节",
+        "ko": "세부사항",
+        "ja": "詳細"
+      }
+    },
+    {
+      "index": 47,
+      "word": "assign",
+      "start": 311,
+      "end": 317,
+      "candidates": {
+        "fr": "attribuer",
+        "es": "asignar",
+        "zh": "分配",
+        "ko": "배정하다",
+        "ja": "割り当てる"
+      }
+    },
+    {
+      "index": 48,
+      "word": "it",
+      "start": 318,
+      "end": 320,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 49,
+      "word": "to",
+      "start": 321,
+      "end": 323,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 50,
+      "word": "Other",
+      "start": 325,
+      "end": 330,
+      "candidates": {
+        "fr": "autre",
+        "es": "otro",
+        "zh": "其他的",
+        "ko": "다른",
+        "ja": "ほかの"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Do",
+      "start": 333,
+      "end": 335,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 52,
+      "word": "not",
+      "start": 336,
+      "end": 339,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 53,
+      "word": "deviate",
+      "start": 340,
+      "end": 347,
+      "candidates": {
+        "fr": "dévier",
+        "es": "desviarse",
+        "zh": "偏离",
+        "ko": "벗어나다",
+        "ja": "逸脱する"
+      }
+    },
+    {
+      "index": 54,
+      "word": "into",
+      "start": 348,
+      "end": 352,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 55,
+      "word": "ticket",
+      "start": 353,
+      "end": 359,
+      "candidates": {
+        "fr": "billet",
+        "es": "boleto",
+        "zh": "票据",
+        "ko": "티켓",
+        "ja": "チケット"
+      }
+    },
+    {
+      "index": 56,
+      "word": "resolution",
+      "start": 360,
+      "end": 370,
+      "candidates": {
+        "fr": "résolution",
+        "es": "resolución",
+        "zh": "解决",
+        "ko": "해결",
+        "ja": "解決"
+      }
+    },
+    {
+      "index": 57,
+      "word": "or",
+      "start": 371,
+      "end": 373,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 58,
+      "word": "provide",
+      "start": 374,
+      "end": 381,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 59,
+      "word": "any",
+      "start": 382,
+      "end": 385,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 60,
+      "word": "personal",
+      "start": 386,
+      "end": 394,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 61,
+      "word": "opinions",
+      "start": 395,
+      "end": 403,
+      "candidates": {
+        "fr": "opinion",
+        "es": "opinión",
+        "zh": "观点",
+        "ko": "의견",
+        "ja": "意見"
+      }
+    }
+  ]
+}

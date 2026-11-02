@@ -1,0 +1,1280 @@
+{
+  "prompt_id": "FC09",
+  "system_prompt": "Imagine you are an expert in Renaissance art and tasked with generating comprehensive summaries of different artworks. The summaries should include information about the artist, historical context, style, symbolism, and any significant restorations. Present your findings in a structured format with clear headings. Your tone should be informative and engaging, suitable for an audience keen on learning art history. Avoid personal opinions and adhere strictly to factual information. If no specific artwork is provided, select a notable piece from the Renaissance period and follow the same format. All dates should be presented in numerical format (e.g., 1504 AD).",
+  "words": [
+    {
+      "index": 0,
+      "word": "Imagine",
+      "start": 0,
+      "end": 7,
+      "candidates": {
+        "fr": "imaginer",
+        "es": "imaginar",
+        "zh": "想象",
+        "ko": "상상하다",
+        "ja": "想像する"
+      }
+    },
+    {
+      "index": 1,
+      "word": "you",
+      "start": 8,
+      "end": 11,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 2,
+      "word": "are",
+      "start": 12,
+      "end": 15,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "an",
+      "start": 16,
+      "end": 18,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 4,
+      "word": "expert",
+      "start": 19,
+      "end": 25,
+      "candidates": {
+        "fr": "expert",
+        "es": "experto",
+        "zh": "专家",
+        "ko": "전문가",
+        "ja": "専門家"
+      }
+    },
+    {
+      "index": 5,
+      "word": "in",
+      "start": 26,
+      "end": 28,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Renaissance",
+      "start": 29,
+      "end": 40,
+      "candidates": {
+        "fr": "Renaissance",
+        "es": "Renacimiento",
+        "zh": "文艺复兴",
+        "ko": "르네상스",
+        "ja": "ルネサンス"
+      }
+    },
+    {
+      "index": 7,
+      "word": "art",
+      "start": 41,
+      "end": 44,
+      "candidates": {
+        "fr": "art",
+        "es": "arte",
+        "zh": "艺术",
+        "ko": "예술",
+        "ja": "芸術"
+      }
+    },
+    {
+      "index": 8,
+      "word": "and",
+      "start": 45,
+      "end": 48,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 9,
+      "word": "tasked",
+      "start": 49,
+      "end": 55,
+      "candidates": {
+        "fr": "tâche",
+        "es": "tarea",
+        "zh": "任务",
+        "ko": "작업",
+        "ja": "タスク"
+      }
+    },
+    {
+      "index": 10,
+      "word": "with",
+      "start": 56,
+      "end": 60,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 11,
+      "word": "generating",
+      "start": 61,
+      "end": 71,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 12,
+      "word": "comprehensive",
+      "start": 72,
+      "end": 85,
+      "candidates": {
+        "fr": "exhaustif",
+        "es": "exhaustivo",
+        "zh": "全面的",
+        "ko": "포괄적인",
+        "ja": "包括的な"
+      }
+    },
+    {
+      "index": 13,
+      "word": "summaries",
+      "start": 86,
+      "end": 95,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 14,
+      "word": "of",
+      "start": 96,
+      "end": 98,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "different",
+      "start": 99,
+      "end": 108,
+      "candidates": {
+        "fr": "différent",
+        "es": "diferente",
+        "zh": "不同的",
+        "ko": "다른",
+        "ja": "異なる"
+      }
+    },
+    {
+      "index": 16,
+      "word": "artworks",
+      "start": 109,
+      "end": 117,
+      "candidates": {
+        "fr": "œuvre d’art",
+        "es": "obra de arte",
+        "zh": "艺术作品",
+        "ko": "미술 작품",
+        "ja": "芸術作品"
+      }
+    },
+    {
+      "index": 17,
+      "word": "The",
+      "start": 119,
+      "end": 122,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "summaries",
+      "start": 123,
+      "end": 132,
+      "candidates": {
+        "fr": "résumé",
+        "es": "resumen",
+        "zh": "摘要",
+        "ko": "요약",
+        "ja": "要約"
+      }
+    },
+    {
+      "index": 19,
+      "word": "should",
+      "start": 133,
+      "end": 139,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 20,
+      "word": "include",
+      "start": 140,
+      "end": 147,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 21,
+      "word": "information",
+      "start": 148,
+      "end": 159,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 22,
+      "word": "about",
+      "start": 160,
+      "end": 165,
+      "candidates": {
+        "fr": "concernant",
+        "es": "sobre",
+        "zh": "关于",
+        "ko": "관하여",
+        "ja": "について"
+      }
+    },
+    {
+      "index": 23,
+      "word": "the",
+      "start": 166,
+      "end": 169,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 24,
+      "word": "artist",
+      "start": 170,
+      "end": 176,
+      "candidates": {
+        "fr": "artiste",
+        "es": "artista",
+        "zh": "艺术家",
+        "ko": "예술가",
+        "ja": "芸術家"
+      }
+    },
+    {
+      "index": 25,
+      "word": "historical",
+      "start": 178,
+      "end": 188,
+      "candidates": {
+        "fr": "historique",
+        "es": "histórico",
+        "zh": "历史的",
+        "ko": "역사적인",
+        "ja": "歴史的な"
+      }
+    },
+    {
+      "index": 26,
+      "word": "context",
+      "start": 189,
+      "end": 196,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "上下文",
+        "ko": "문맥",
+        "ja": "文脈"
+      }
+    },
+    {
+      "index": 27,
+      "word": "style",
+      "start": 198,
+      "end": 203,
+      "candidates": {
+        "fr": "style",
+        "es": "estilo",
+        "zh": "风格",
+        "ko": "문체",
+        "ja": "文体"
+      }
+    },
+    {
+      "index": 28,
+      "word": "symbolism",
+      "start": 205,
+      "end": 214,
+      "candidates": {
+        "fr": "symbolisme",
+        "es": "simbolismo",
+        "zh": "象征",
+        "ko": "상징",
+        "ja": "象徴"
+      }
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 216,
+      "end": 219,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "any",
+      "start": 220,
+      "end": 223,
+      "candidates": {
+        "fr": "n’importe quel",
+        "es": "cualquier",
+        "zh": "任何",
+        "ko": "어떤",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 31,
+      "word": "significant",
+      "start": 224,
+      "end": 235,
+      "candidates": {
+        "fr": "significatif",
+        "es": "significativo",
+        "zh": "显著的",
+        "ko": "유의미한",
+        "ja": "有意な"
+      }
+    },
+    {
+      "index": 32,
+      "word": "restorations",
+      "start": 236,
+      "end": 248,
+      "candidates": {
+        "fr": "restaurations",
+        "es": "restauraciones",
+        "zh": "修复",
+        "ko": "복원",
+        "ja": "修復"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Present",
+      "start": 250,
+      "end": 257,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 34,
+      "word": "your",
+      "start": 258,
+      "end": 262,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 35,
+      "word": "findings",
+      "start": 263,
+      "end": 271,
+      "candidates": {
+        "fr": "résultats",
+        "es": "hallazgos",
+        "zh": "发现",
+        "ko": "연구 결과",
+        "ja": "知見"
+      }
+    },
+    {
+      "index": 36,
+      "word": "in",
+      "start": 272,
+      "end": 274,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 37,
+      "word": "a",
+      "start": 275,
+      "end": 276,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 38,
+      "word": "structured",
+      "start": 277,
+      "end": 287,
+      "candidates": {
+        "fr": "structure",
+        "es": "estructura",
+        "zh": "结构",
+        "ko": "구조",
+        "ja": "構造"
+      }
+    },
+    {
+      "index": 39,
+      "word": "format",
+      "start": 288,
+      "end": 294,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 40,
+      "word": "with",
+      "start": 295,
+      "end": 299,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 41,
+      "word": "clear",
+      "start": 300,
+      "end": 305,
+      "candidates": {
+        "fr": "clair",
+        "es": "claro",
+        "zh": "清晰的",
+        "ko": "명확한",
+        "ja": "明確な"
+      }
+    },
+    {
+      "index": 42,
+      "word": "headings",
+      "start": 306,
+      "end": 314,
+      "candidates": {
+        "fr": "titres",
+        "es": "encabezados",
+        "zh": "标题",
+        "ko": "제목",
+        "ja": "見出し"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Your",
+      "start": 316,
+      "end": 320,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 44,
+      "word": "tone",
+      "start": 321,
+      "end": 325,
+      "candidates": {
+        "fr": "ton",
+        "es": "tono",
+        "zh": "语气",
+        "ko": "어조",
+        "ja": "口調"
+      }
+    },
+    {
+      "index": 45,
+      "word": "should",
+      "start": 326,
+      "end": 332,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 46,
+      "word": "be",
+      "start": 333,
+      "end": 335,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 47,
+      "word": "informative",
+      "start": 336,
+      "end": 347,
+      "candidates": {
+        "fr": "informatif",
+        "es": "informativo",
+        "zh": "信息丰富的",
+        "ko": "유익한",
+        "ja": "情報豊かな"
+      }
+    },
+    {
+      "index": 48,
+      "word": "and",
+      "start": 348,
+      "end": 351,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 49,
+      "word": "engaging",
+      "start": 352,
+      "end": 360,
+      "candidates": {
+        "fr": "captivant",
+        "es": "atractivo",
+        "zh": "引人入胜的",
+        "ko": "흥미로운",
+        "ja": "魅力的な"
+      }
+    },
+    {
+      "index": 50,
+      "word": "suitable",
+      "start": 362,
+      "end": 370,
+      "candidates": {
+        "fr": "approprié",
+        "es": "adecuado",
+        "zh": "合适的",
+        "ko": "적합한",
+        "ja": "適切な"
+      }
+    },
+    {
+      "index": 51,
+      "word": "for",
+      "start": 371,
+      "end": 374,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 52,
+      "word": "an",
+      "start": 375,
+      "end": 377,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 53,
+      "word": "audience",
+      "start": 378,
+      "end": 386,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "受众",
+        "ko": "청중",
+        "ja": "聴衆"
+      }
+    },
+    {
+      "index": 54,
+      "word": "keen",
+      "start": 387,
+      "end": 391,
+      "candidates": {
+        "fr": "vif",
+        "es": "perspicaz",
+        "zh": "敏锐的",
+        "ko": "예리한",
+        "ja": "鋭い"
+      }
+    },
+    {
+      "index": 55,
+      "word": "on",
+      "start": 392,
+      "end": 394,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 56,
+      "word": "learning",
+      "start": 395,
+      "end": 403,
+      "candidates": {
+        "fr": "apprentissage",
+        "es": "aprendizaje",
+        "zh": "学习",
+        "ko": "학습",
+        "ja": "学習"
+      }
+    },
+    {
+      "index": 57,
+      "word": "art",
+      "start": 404,
+      "end": 407,
+      "candidates": {
+        "fr": "art",
+        "es": "arte",
+        "zh": "艺术",
+        "ko": "예술",
+        "ja": "芸術"
+      }
+    },
+    {
+      "index": 58,
+      "word": "history",
+      "start": 408,
+      "end": 415,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "历史",
+        "ko": "역사",
+        "ja": "歴史"
+      }
+    },
+    {
+      "index": 59,
+      "word": "Avoid",
+      "start": 417,
+      "end": 422,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 60,
+      "word": "personal",
+      "start": 423,
+      "end": 431,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 61,
+      "word": "opinions",
+      "start": 432,
+      "end": 440,
+      "candidates": {
+        "fr": "opinion",
+        "es": "opinión",
+        "zh": "观点",
+        "ko": "의견",
+        "ja": "意見"
+      }
+    },
+    {
+      "index": 62,
+      "word": "and",
+      "start": 441,
+      "end": 444,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 63,
+      "word": "adhere",
+      "start": 445,
+      "end": 451,
+      "candidates": {
+        "fr": "adhérer",
+        "es": "adherirse",
+        "zh": "遵循",
+        "ko": "준수하다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 64,
+      "word": "strictly",
+      "start": 452,
+      "end": 460,
+      "candidates": {
+        "fr": "strictement",
+        "es": "estrictamente",
+        "zh": "严格地",
+        "ko": "엄격하게",
+        "ja": "厳密に"
+      }
+    },
+    {
+      "index": 65,
+      "word": "to",
+      "start": 461,
+      "end": 463,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 66,
+      "word": "factual",
+      "start": 464,
+      "end": 471,
+      "candidates": {
+        "fr": "factuel",
+        "es": "fáctico",
+        "zh": "事实性的",
+        "ko": "사실적인",
+        "ja": "事実に基づく"
+      }
+    },
+    {
+      "index": 67,
+      "word": "information",
+      "start": 472,
+      "end": 483,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 68,
+      "word": "If",
+      "start": 485,
+      "end": 487,
+      "candidates": {
+        "fr": "si",
+        "es": "si",
+        "zh": "如果",
+        "ko": "만약",
+        "ja": "もし"
+      }
+    },
+    {
+      "index": 69,
+      "word": "no",
+      "start": 488,
+      "end": 490,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "没有",
+        "ko": "없는",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 70,
+      "word": "specific",
+      "start": 491,
+      "end": 499,
+      "candidates": {
+        "fr": "spécifique",
+        "es": "específico",
+        "zh": "特定的",
+        "ko": "특정한",
+        "ja": "特定の"
+      }
+    },
+    {
+      "index": 71,
+      "word": "artwork",
+      "start": 500,
+      "end": 507,
+      "candidates": {
+        "fr": "œuvre d’art",
+        "es": "obra de arte",
+        "zh": "艺术作品",
+        "ko": "미술 작품",
+        "ja": "芸術作品"
+      }
+    },
+    {
+      "index": 72,
+      "word": "is",
+      "start": 508,
+      "end": 510,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 73,
+      "word": "provided",
+      "start": 511,
+      "end": 519,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 74,
+      "word": "select",
+      "start": 521,
+      "end": 527,
+      "candidates": {
+        "fr": "sélectionner",
+        "es": "seleccionar",
+        "zh": "选择",
+        "ko": "선택하다",
+        "ja": "選択する"
+      }
+    },
+    {
+      "index": 75,
+      "word": "a",
+      "start": 528,
+      "end": 529,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 76,
+      "word": "notable",
+      "start": 530,
+      "end": 537,
+      "candidates": {
+        "fr": "notable",
+        "es": "notable",
+        "zh": "显著的",
+        "ko": "주목할 만한",
+        "ja": "注目すべき"
+      }
+    },
+    {
+      "index": 77,
+      "word": "piece",
+      "start": 538,
+      "end": 543,
+      "candidates": {
+        "fr": "pièce",
+        "es": "pieza",
+        "zh": "篇",
+        "ko": "편",
+        "ja": "一編"
+      }
+    },
+    {
+      "index": 78,
+      "word": "from",
+      "start": 544,
+      "end": 548,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 79,
+      "word": "the",
+      "start": 549,
+      "end": 552,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Renaissance",
+      "start": 553,
+      "end": 564,
+      "candidates": {
+        "fr": "Renaissance",
+        "es": "Renacimiento",
+        "zh": "文艺复兴",
+        "ko": "르네상스",
+        "ja": "ルネサンス"
+      }
+    },
+    {
+      "index": 81,
+      "word": "period",
+      "start": 565,
+      "end": 571,
+      "candidates": {
+        "fr": "période",
+        "es": "período",
+        "zh": "时期",
+        "ko": "기간",
+        "ja": "期間"
+      }
+    },
+    {
+      "index": 82,
+      "word": "and",
+      "start": 572,
+      "end": 575,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 83,
+      "word": "follow",
+      "start": 576,
+      "end": 582,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 84,
+      "word": "the",
+      "start": 583,
+      "end": 586,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 85,
+      "word": "same",
+      "start": 587,
+      "end": 591,
+      "candidates": {
+        "fr": "même",
+        "es": "mismo",
+        "zh": "相同的",
+        "ko": "같은",
+        "ja": "同じ"
+      }
+    },
+    {
+      "index": 86,
+      "word": "format",
+      "start": 592,
+      "end": 598,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 87,
+      "word": "All",
+      "start": 600,
+      "end": 603,
+      "candidates": {
+        "fr": "tous",
+        "es": "todos",
+        "zh": "所有",
+        "ko": "모든",
+        "ja": "すべての"
+      }
+    },
+    {
+      "index": 88,
+      "word": "dates",
+      "start": 604,
+      "end": 609,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 89,
+      "word": "should",
+      "start": 610,
+      "end": 616,
+      "candidates": {
+        "fr": "devrait",
+        "es": "debería",
+        "zh": "应该",
+        "ko": "해야 한다",
+        "ja": "すべき"
+      }
+    },
+    {
+      "index": 90,
+      "word": "be",
+      "start": 617,
+      "end": 619,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 91,
+      "word": "presented",
+      "start": 620,
+      "end": 629,
+      "candidates": {
+        "fr": "présenter",
+        "es": "presentar",
+        "zh": "呈现",
+        "ko": "제시하다",
+        "ja": "提示する"
+      }
+    },
+    {
+      "index": 92,
+      "word": "in",
+      "start": 630,
+      "end": 632,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 93,
+      "word": "numerical",
+      "start": 633,
+      "end": 642,
+      "candidates": {
+        "fr": "numérique",
+        "es": "numérico",
+        "zh": "数值的",
+        "ko": "수치의",
+        "ja": "数値の"
+      }
+    },
+    {
+      "index": 94,
+      "word": "format",
+      "start": 643,
+      "end": 649,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 95,
+      "word": "e",
+      "start": 651,
+      "end": 652,
+      "candidates": {
+        "fr": "e",
+        "es": "e",
+        "zh": "e",
+        "ko": "e",
+        "ja": "e"
+      }
+    },
+    {
+      "index": 96,
+      "word": "g",
+      "start": 653,
+      "end": 654,
+      "candidates": {
+        "fr": "g",
+        "es": "g",
+        "zh": "g",
+        "ko": "g",
+        "ja": "g"
+      }
+    },
+    {
+      "index": 97,
+      "word": "AD",
+      "start": 662,
+      "end": 664,
+      "candidates": {
+        "fr": "publicité",
+        "es": "anuncio",
+        "zh": "广告",
+        "ko": "광고",
+        "ja": "広告"
+      }
+    }
+  ]
+}

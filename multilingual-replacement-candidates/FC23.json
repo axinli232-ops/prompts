@@ -1,0 +1,1384 @@
+{
+  "prompt_id": "FC23",
+  "system_prompt": "Your job is to generate detailed travel guides for digital nomads exploring various cities. You must do the following:\n- Create comprehensive itineraries based on different travel durations.\n- Include sections on cost of living, coworking spaces, and access to local culture.\n- Ensure content is up-to-date with the latest travel advisories and restrictions.\n- Format output into sections for easy navigation: Arrival, Accommodation, Workspaces, Leisure, Food, and Departure.\n- Offer accessibility tips for travelers with physical impairments.\n1. Use concise and engaging language.\n2. Provide public transportation and navigation tips.\n3. Suggest eco-friendly travel and local products.\n4. Cater to various budget ranges.\n5. Avoid accommodation booking recommendations that require physical presence.",
+  "words": [
+    {
+      "index": 0,
+      "word": "Your",
+      "start": 0,
+      "end": 4,
+      "candidates": {
+        "fr": "votre",
+        "es": "tu",
+        "zh": "你的",
+        "ko": "당신의",
+        "ja": "あなたの"
+      }
+    },
+    {
+      "index": 1,
+      "word": "job",
+      "start": 5,
+      "end": 8,
+      "candidates": {
+        "fr": "emploi",
+        "es": "empleo",
+        "zh": "工作",
+        "ko": "직업",
+        "ja": "仕事"
+      }
+    },
+    {
+      "index": 2,
+      "word": "is",
+      "start": 9,
+      "end": 11,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 3,
+      "word": "to",
+      "start": 12,
+      "end": 14,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 4,
+      "word": "generate",
+      "start": 15,
+      "end": 23,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 5,
+      "word": "detailed",
+      "start": 24,
+      "end": 32,
+      "candidates": {
+        "fr": "détaillé",
+        "es": "detallado",
+        "zh": "详细的",
+        "ko": "상세한",
+        "ja": "詳細な"
+      }
+    },
+    {
+      "index": 6,
+      "word": "travel",
+      "start": 33,
+      "end": 39,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 7,
+      "word": "guides",
+      "start": 40,
+      "end": 46,
+      "candidates": {
+        "fr": "guider",
+        "es": "guiar",
+        "zh": "指导",
+        "ko": "안내하다",
+        "ja": "案内する"
+      }
+    },
+    {
+      "index": 8,
+      "word": "for",
+      "start": 47,
+      "end": 50,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 9,
+      "word": "digital",
+      "start": 51,
+      "end": 58,
+      "candidates": {
+        "fr": "numérique",
+        "es": "digital",
+        "zh": "数字的",
+        "ko": "디지털의",
+        "ja": "デジタルの"
+      }
+    },
+    {
+      "index": 10,
+      "word": "nomads",
+      "start": 59,
+      "end": 65,
+      "candidates": {
+        "fr": "nomades",
+        "es": "nómadas",
+        "zh": "游牧者",
+        "ko": "유목민",
+        "ja": "遊牧民"
+      }
+    },
+    {
+      "index": 11,
+      "word": "exploring",
+      "start": 66,
+      "end": 75,
+      "candidates": {
+        "fr": "explorer",
+        "es": "explorar",
+        "zh": "探索",
+        "ko": "탐색하다",
+        "ja": "探求する"
+      }
+    },
+    {
+      "index": 12,
+      "word": "various",
+      "start": 76,
+      "end": 83,
+      "candidates": {
+        "fr": "divers",
+        "es": "varios",
+        "zh": "各种",
+        "ko": "여러 가지",
+        "ja": "さまざまな"
+      }
+    },
+    {
+      "index": 13,
+      "word": "cities",
+      "start": 84,
+      "end": 90,
+      "candidates": {
+        "fr": "villes",
+        "es": "ciudades",
+        "zh": "城市",
+        "ko": "도시",
+        "ja": "都市"
+      }
+    },
+    {
+      "index": 14,
+      "word": "You",
+      "start": 92,
+      "end": 95,
+      "candidates": {
+        "fr": "vous",
+        "es": "tú",
+        "zh": "你",
+        "ko": "당신",
+        "ja": "あなた"
+      }
+    },
+    {
+      "index": 15,
+      "word": "must",
+      "start": 96,
+      "end": 100,
+      "candidates": {
+        "fr": "devoir",
+        "es": "deber",
+        "zh": "必须",
+        "ko": "해야 한다",
+        "ja": "しなければならない"
+      }
+    },
+    {
+      "index": 16,
+      "word": "do",
+      "start": 101,
+      "end": 103,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "做",
+        "ko": "하다",
+        "ja": "する"
+      }
+    },
+    {
+      "index": 17,
+      "word": "the",
+      "start": 104,
+      "end": 107,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "following",
+      "start": 108,
+      "end": 117,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 19,
+      "word": "Create",
+      "start": 121,
+      "end": 127,
+      "candidates": {
+        "fr": "créer",
+        "es": "crear",
+        "zh": "创建",
+        "ko": "만들다",
+        "ja": "作成する"
+      }
+    },
+    {
+      "index": 20,
+      "word": "comprehensive",
+      "start": 128,
+      "end": 141,
+      "candidates": {
+        "fr": "exhaustif",
+        "es": "exhaustivo",
+        "zh": "全面的",
+        "ko": "포괄적인",
+        "ja": "包括的な"
+      }
+    },
+    {
+      "index": 21,
+      "word": "itineraries",
+      "start": 142,
+      "end": 153,
+      "candidates": {
+        "fr": "itinéraires",
+        "es": "itinerarios",
+        "zh": "行程",
+        "ko": "여행 일정",
+        "ja": "旅程"
+      }
+    },
+    {
+      "index": 22,
+      "word": "based",
+      "start": 154,
+      "end": 159,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 23,
+      "word": "on",
+      "start": 160,
+      "end": 162,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 24,
+      "word": "different",
+      "start": 163,
+      "end": 172,
+      "candidates": {
+        "fr": "différent",
+        "es": "diferente",
+        "zh": "不同的",
+        "ko": "다른",
+        "ja": "異なる"
+      }
+    },
+    {
+      "index": 25,
+      "word": "travel",
+      "start": 173,
+      "end": 179,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 26,
+      "word": "durations",
+      "start": 180,
+      "end": 189,
+      "candidates": {
+        "fr": "durée",
+        "es": "duración",
+        "zh": "持续时间",
+        "ko": "기간",
+        "ja": "期間"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Include",
+      "start": 193,
+      "end": 200,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 28,
+      "word": "sections",
+      "start": 201,
+      "end": 209,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 29,
+      "word": "on",
+      "start": 210,
+      "end": 212,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 30,
+      "word": "cost",
+      "start": 213,
+      "end": 217,
+      "candidates": {
+        "fr": "coût",
+        "es": "costo",
+        "zh": "成本",
+        "ko": "비용",
+        "ja": "費用"
+      }
+    },
+    {
+      "index": 31,
+      "word": "of",
+      "start": 218,
+      "end": 220,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 32,
+      "word": "living",
+      "start": 221,
+      "end": 227,
+      "candidates": {
+        "fr": "vie",
+        "es": "vida",
+        "zh": "生活",
+        "ko": "생활",
+        "ja": "暮らし"
+      }
+    },
+    {
+      "index": 33,
+      "word": "coworking",
+      "start": 229,
+      "end": 238,
+      "candidates": {
+        "fr": "travail partagé",
+        "es": "trabajo compartido",
+        "zh": "共享办公",
+        "ko": "공유 오피스",
+        "ja": "コワーキング"
+      }
+    },
+    {
+      "index": 34,
+      "word": "spaces",
+      "start": 239,
+      "end": 245,
+      "candidates": {
+        "fr": "espaces",
+        "es": "espacios",
+        "zh": "空间",
+        "ko": "공간",
+        "ja": "空間"
+      }
+    },
+    {
+      "index": 35,
+      "word": "and",
+      "start": 247,
+      "end": 250,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 36,
+      "word": "access",
+      "start": 251,
+      "end": 257,
+      "candidates": {
+        "fr": "accès",
+        "es": "acceso",
+        "zh": "访问",
+        "ko": "접근",
+        "ja": "アクセス"
+      }
+    },
+    {
+      "index": 37,
+      "word": "to",
+      "start": 258,
+      "end": 260,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 38,
+      "word": "local",
+      "start": 261,
+      "end": 266,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 39,
+      "word": "culture",
+      "start": 267,
+      "end": 274,
+      "candidates": {
+        "fr": "culture",
+        "es": "cultura",
+        "zh": "文化",
+        "ko": "문화",
+        "ja": "文化"
+      }
+    },
+    {
+      "index": 40,
+      "word": "Ensure",
+      "start": 278,
+      "end": 284,
+      "candidates": {
+        "fr": "assurer",
+        "es": "asegurar",
+        "zh": "确保",
+        "ko": "보장하다",
+        "ja": "確保する"
+      }
+    },
+    {
+      "index": 41,
+      "word": "content",
+      "start": 285,
+      "end": 292,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 42,
+      "word": "is",
+      "start": 293,
+      "end": 295,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 43,
+      "word": "up",
+      "start": 296,
+      "end": 298,
+      "candidates": {
+        "fr": "vers le haut",
+        "es": "hacia arriba",
+        "zh": "向上",
+        "ko": "위로",
+        "ja": "上へ"
+      }
+    },
+    {
+      "index": 44,
+      "word": "to",
+      "start": 299,
+      "end": 301,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "date",
+      "start": 302,
+      "end": 306,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 46,
+      "word": "with",
+      "start": 307,
+      "end": 311,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 47,
+      "word": "the",
+      "start": 312,
+      "end": 315,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 48,
+      "word": "latest",
+      "start": 316,
+      "end": 322,
+      "candidates": {
+        "fr": "le plus récent",
+        "es": "más reciente",
+        "zh": "最新的",
+        "ko": "최신의",
+        "ja": "最新の"
+      }
+    },
+    {
+      "index": 49,
+      "word": "travel",
+      "start": 323,
+      "end": 329,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 50,
+      "word": "advisories",
+      "start": 330,
+      "end": 340,
+      "candidates": {
+        "fr": "avis consultatifs",
+        "es": "avisos",
+        "zh": "提示公告",
+        "ko": "권고문",
+        "ja": "勧告"
+      }
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 341,
+      "end": 344,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "restrictions",
+      "start": 345,
+      "end": 357,
+      "candidates": {
+        "fr": "restrictions",
+        "es": "restricciones",
+        "zh": "限制",
+        "ko": "제한",
+        "ja": "制限"
+      }
+    },
+    {
+      "index": 53,
+      "word": "Format",
+      "start": 361,
+      "end": 367,
+      "candidates": {
+        "fr": "format",
+        "es": "formato",
+        "zh": "格式",
+        "ko": "형식",
+        "ja": "形式"
+      }
+    },
+    {
+      "index": 54,
+      "word": "output",
+      "start": 368,
+      "end": 374,
+      "candidates": {
+        "fr": "sortie",
+        "es": "salida",
+        "zh": "输出",
+        "ko": "출력",
+        "ja": "出力"
+      }
+    },
+    {
+      "index": 55,
+      "word": "into",
+      "start": 375,
+      "end": 379,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "进入",
+        "ko": "안으로",
+        "ja": "の中へ"
+      }
+    },
+    {
+      "index": 56,
+      "word": "sections",
+      "start": 380,
+      "end": 388,
+      "candidates": {
+        "fr": "section",
+        "es": "sección",
+        "zh": "章节",
+        "ko": "절",
+        "ja": "節"
+      }
+    },
+    {
+      "index": 57,
+      "word": "for",
+      "start": 389,
+      "end": 392,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 58,
+      "word": "easy",
+      "start": 393,
+      "end": 397,
+      "candidates": {
+        "fr": "facile",
+        "es": "fácil",
+        "zh": "容易的",
+        "ko": "쉬운",
+        "ja": "簡単な"
+      }
+    },
+    {
+      "index": 59,
+      "word": "navigation",
+      "start": 398,
+      "end": 408,
+      "candidates": {
+        "fr": "navigation",
+        "es": "navegación",
+        "zh": "导航",
+        "ko": "탐색",
+        "ja": "ナビゲーション"
+      }
+    },
+    {
+      "index": 60,
+      "word": "Arrival",
+      "start": 410,
+      "end": 417,
+      "candidates": {
+        "fr": "arrivée",
+        "es": "llegada",
+        "zh": "到达",
+        "ko": "도착",
+        "ja": "到着"
+      }
+    },
+    {
+      "index": 61,
+      "word": "Accommodation",
+      "start": 419,
+      "end": 432,
+      "candidates": {
+        "fr": "hébergement",
+        "es": "alojamiento",
+        "zh": "住宿",
+        "ko": "숙박",
+        "ja": "宿泊施設"
+      }
+    },
+    {
+      "index": 62,
+      "word": "Workspaces",
+      "start": 434,
+      "end": 444,
+      "candidates": {
+        "fr": "espaces de travail",
+        "es": "espacios de trabajo",
+        "zh": "工作空间",
+        "ko": "작업 공간",
+        "ja": "ワークスペース"
+      }
+    },
+    {
+      "index": 63,
+      "word": "Leisure",
+      "start": 446,
+      "end": 453,
+      "candidates": {
+        "fr": "loisir",
+        "es": "ocio",
+        "zh": "休闲",
+        "ko": "여가",
+        "ja": "余暇"
+      }
+    },
+    {
+      "index": 64,
+      "word": "Food",
+      "start": 455,
+      "end": 459,
+      "candidates": {
+        "fr": "nourriture",
+        "es": "comida",
+        "zh": "食物",
+        "ko": "음식",
+        "ja": "食べ物"
+      }
+    },
+    {
+      "index": 65,
+      "word": "and",
+      "start": 461,
+      "end": 464,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 66,
+      "word": "Departure",
+      "start": 465,
+      "end": 474,
+      "candidates": {
+        "fr": "départ",
+        "es": "salida",
+        "zh": "出发",
+        "ko": "출발",
+        "ja": "出発"
+      }
+    },
+    {
+      "index": 67,
+      "word": "Offer",
+      "start": 478,
+      "end": 483,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 68,
+      "word": "accessibility",
+      "start": 484,
+      "end": 497,
+      "candidates": {
+        "fr": "accessibilité",
+        "es": "accesibilidad",
+        "zh": "可访问性",
+        "ko": "접근성",
+        "ja": "アクセシビリティ"
+      }
+    },
+    {
+      "index": 69,
+      "word": "tips",
+      "start": 498,
+      "end": 502,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 70,
+      "word": "for",
+      "start": 503,
+      "end": 506,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 71,
+      "word": "travelers",
+      "start": 507,
+      "end": 516,
+      "candidates": {
+        "fr": "voyageurs",
+        "es": "viajeros",
+        "zh": "旅客",
+        "ko": "여행자",
+        "ja": "旅行者"
+      }
+    },
+    {
+      "index": 72,
+      "word": "with",
+      "start": 517,
+      "end": 521,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 73,
+      "word": "physical",
+      "start": 522,
+      "end": 530,
+      "candidates": {
+        "fr": "physique",
+        "es": "físico",
+        "zh": "物理的",
+        "ko": "물리적인",
+        "ja": "物理的な"
+      }
+    },
+    {
+      "index": 74,
+      "word": "impairments",
+      "start": 531,
+      "end": 542,
+      "candidates": {
+        "fr": "déficiences",
+        "es": "deficiencias",
+        "zh": "障碍",
+        "ko": "장애",
+        "ja": "障害"
+      }
+    },
+    {
+      "index": 75,
+      "word": "Use",
+      "start": 547,
+      "end": 550,
+      "candidates": {
+        "fr": "utiliser",
+        "es": "usar",
+        "zh": "使用",
+        "ko": "사용하다",
+        "ja": "使用する"
+      }
+    },
+    {
+      "index": 76,
+      "word": "concise",
+      "start": 551,
+      "end": 558,
+      "candidates": {
+        "fr": "concis",
+        "es": "conciso",
+        "zh": "简洁的",
+        "ko": "간결한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 77,
+      "word": "and",
+      "start": 559,
+      "end": 562,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 78,
+      "word": "engaging",
+      "start": 563,
+      "end": 571,
+      "candidates": {
+        "fr": "captivant",
+        "es": "atractivo",
+        "zh": "引人入胜的",
+        "ko": "흥미로운",
+        "ja": "魅力的な"
+      }
+    },
+    {
+      "index": 79,
+      "word": "language",
+      "start": 572,
+      "end": 580,
+      "candidates": {
+        "fr": "langue",
+        "es": "idioma",
+        "zh": "语言",
+        "ko": "언어",
+        "ja": "言語"
+      }
+    },
+    {
+      "index": 80,
+      "word": "Provide",
+      "start": 585,
+      "end": 592,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 81,
+      "word": "public",
+      "start": 593,
+      "end": 599,
+      "candidates": {
+        "fr": "public",
+        "es": "público",
+        "zh": "公共的",
+        "ko": "공공의",
+        "ja": "公共の"
+      }
+    },
+    {
+      "index": 82,
+      "word": "transportation",
+      "start": 600,
+      "end": 614,
+      "candidates": {
+        "fr": "transport",
+        "es": "transporte",
+        "zh": "运输",
+        "ko": "운송",
+        "ja": "輸送"
+      }
+    },
+    {
+      "index": 83,
+      "word": "and",
+      "start": 615,
+      "end": 618,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 84,
+      "word": "navigation",
+      "start": 619,
+      "end": 629,
+      "candidates": {
+        "fr": "navigation",
+        "es": "navegación",
+        "zh": "导航",
+        "ko": "탐색",
+        "ja": "ナビゲーション"
+      }
+    },
+    {
+      "index": 85,
+      "word": "tips",
+      "start": 630,
+      "end": 634,
+      "candidates": {
+        "fr": "conseils",
+        "es": "consejos",
+        "zh": "提示",
+        "ko": "조언",
+        "ja": "ヒント"
+      }
+    },
+    {
+      "index": 86,
+      "word": "Suggest",
+      "start": 639,
+      "end": 646,
+      "candidates": {
+        "fr": "suggérer",
+        "es": "sugerir",
+        "zh": "建议",
+        "ko": "제안하다",
+        "ja": "提案する"
+      }
+    },
+    {
+      "index": 87,
+      "word": "eco",
+      "start": 647,
+      "end": 650,
+      "candidates": {
+        "fr": "écologique",
+        "es": "ecológico",
+        "zh": "环保",
+        "ko": "친환경",
+        "ja": "環境配慮"
+      }
+    },
+    {
+      "index": 88,
+      "word": "friendly",
+      "start": 651,
+      "end": 659,
+      "candidates": {
+        "fr": "amical",
+        "es": "amistoso",
+        "zh": "友好的",
+        "ko": "친근한",
+        "ja": "友好的な"
+      }
+    },
+    {
+      "index": 89,
+      "word": "travel",
+      "start": 660,
+      "end": 666,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 90,
+      "word": "and",
+      "start": 667,
+      "end": 670,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 91,
+      "word": "local",
+      "start": 671,
+      "end": 676,
+      "candidates": {
+        "fr": "local",
+        "es": "local",
+        "zh": "本地的",
+        "ko": "지역의",
+        "ja": "地域の"
+      }
+    },
+    {
+      "index": 92,
+      "word": "products",
+      "start": 677,
+      "end": 685,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 93,
+      "word": "Cater",
+      "start": 690,
+      "end": 695,
+      "candidates": {
+        "fr": "répondre aux besoins",
+        "es": "atender",
+        "zh": "迎合需求",
+        "ko": "요구를 충족하다",
+        "ja": "要望に応える"
+      }
+    },
+    {
+      "index": 94,
+      "word": "to",
+      "start": 696,
+      "end": 698,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 95,
+      "word": "various",
+      "start": 699,
+      "end": 706,
+      "candidates": {
+        "fr": "divers",
+        "es": "varios",
+        "zh": "各种",
+        "ko": "여러 가지",
+        "ja": "さまざまな"
+      }
+    },
+    {
+      "index": 96,
+      "word": "budget",
+      "start": 707,
+      "end": 713,
+      "candidates": {
+        "fr": "budget",
+        "es": "presupuesto",
+        "zh": "预算",
+        "ko": "예산",
+        "ja": "予算"
+      }
+    },
+    {
+      "index": 97,
+      "word": "ranges",
+      "start": 714,
+      "end": 720,
+      "candidates": {
+        "fr": "plage",
+        "es": "rango",
+        "zh": "范围",
+        "ko": "범위",
+        "ja": "範囲"
+      }
+    },
+    {
+      "index": 98,
+      "word": "Avoid",
+      "start": 725,
+      "end": 730,
+      "candidates": {
+        "fr": "éviter",
+        "es": "evitar",
+        "zh": "避免",
+        "ko": "피하다",
+        "ja": "避ける"
+      }
+    },
+    {
+      "index": 99,
+      "word": "accommodation",
+      "start": 731,
+      "end": 744,
+      "candidates": {
+        "fr": "hébergement",
+        "es": "alojamiento",
+        "zh": "住宿",
+        "ko": "숙박",
+        "ja": "宿泊施設"
+      }
+    },
+    {
+      "index": 100,
+      "word": "booking",
+      "start": 745,
+      "end": 752,
+      "candidates": {
+        "fr": "réservation",
+        "es": "reserva",
+        "zh": "预订",
+        "ko": "예약",
+        "ja": "予約"
+      }
+    },
+    {
+      "index": 101,
+      "word": "recommendations",
+      "start": 753,
+      "end": 768,
+      "candidates": {
+        "fr": "recommandations",
+        "es": "recomendaciones",
+        "zh": "建议",
+        "ko": "권고",
+        "ja": "推奨"
+      }
+    },
+    {
+      "index": 102,
+      "word": "that",
+      "start": 769,
+      "end": 773,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 103,
+      "word": "require",
+      "start": 774,
+      "end": 781,
+      "candidates": {
+        "fr": "exiger",
+        "es": "requerir",
+        "zh": "要求",
+        "ko": "요구하다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 104,
+      "word": "physical",
+      "start": 782,
+      "end": 790,
+      "candidates": {
+        "fr": "physique",
+        "es": "físico",
+        "zh": "物理的",
+        "ko": "물리적인",
+        "ja": "物理的な"
+      }
+    },
+    {
+      "index": 105,
+      "word": "presence",
+      "start": 791,
+      "end": 799,
+      "candidates": {
+        "fr": "présence",
+        "es": "presencia",
+        "zh": "存在",
+        "ko": "존재",
+        "ja": "存在"
+      }
+    }
+  ]
+}
