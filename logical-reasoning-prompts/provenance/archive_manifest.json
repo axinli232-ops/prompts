@@ -1,0 +1,35 @@
+{
+  "systems": 80,
+  "queries_per_system": 150,
+  "pairs": 12000,
+  "systems_unchanged": true,
+  "origin_counts": {
+    "original_dataset": 489,
+    "synthetic_extension": 11511
+  },
+  "actions": {
+    "classification_question_removed_quoted_input_retained": 105,
+    "classification_wrapper_removed": 5542,
+    "unchanged_task_input": 64,
+    "classification_instruction_removed_context_preserved": 5,
+    "trailing_classification_question_removed": 4,
+    "replaced_category_meta_query_without_payload": 42,
+    "replaced_meta_query_without_safely_extractable_input": 126,
+    "replacement_added": 187,
+    "replaced_label_choice_question_without_payload": 6,
+    "replaced_query_without_usable_standalone_input": 12,
+    "classification_instruction_removed_colon_payload_retained": 3,
+    "classification_wrapper_removed;payload_normalized_or_synthetic_aside_revised": 570,
+    "replaced_sentiment_question_without_payload": 1,
+    "classification_instruction_removed_metadata_retained": 140,
+    "unchanged_nonclassification_task": 5100,
+    "classification_instruction_removed": 140,
+    "classification_instruction_removed_required_labels_retained": 140
+  },
+  "removed_or_merged_records": 187,
+  "classification_targets": "All LR prompts and FC01, FC02, FC04, FC05, FC30, FC38",
+  "required_input_context_retained": "FC01 file rules and metadata; FC30 predefined label set. These are task inputs, not classification imperative sentences.",
+  "nonclassification_requests": "Other format-control queries keep meaningful task instructions such as generating stories or drafting letters.",
+  "source_archive": "prompts_80_queries_150_each.zip",
+  "synthetic_relevance_independently_verified": false
+}
