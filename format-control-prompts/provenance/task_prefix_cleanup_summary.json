@@ -1,0 +1,380 @@
+{
+  "source_commit": "1163cf93c36f5b56f8b51e4059470cb2c324b1bb",
+  "reviewed_queries": 6000,
+  "changed_queries": 4969,
+  "policy": "Remove explicit task-request prefixes and convert supplied context to neutral fields; preserve natural substantive questions and supplied payloads.",
+  "preserved": [
+    "system_prompt",
+    "query_id",
+    "split",
+    "split_group",
+    "scenario_family",
+    "raw_user_prompt",
+    "English suffix"
+  ],
+  "structured_payload_check": "all parsed JSON objects/arrays unchanged",
+  "per_prompt": [
+    {
+      "prompt_id": "FC01",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC02",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC03",
+      "reviewed": 150,
+      "changed": 145,
+      "unchanged": 5,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC04",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC05",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [
+        "FC05-Q001"
+      ],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC06",
+      "reviewed": 150,
+      "changed": 147,
+      "unchanged": 3,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC07",
+      "reviewed": 150,
+      "changed": 150,
+      "unchanged": 0,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC08",
+      "reviewed": 150,
+      "changed": 150,
+      "unchanged": 0,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC09",
+      "reviewed": 150,
+      "changed": 147,
+      "unchanged": 3,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC10",
+      "reviewed": 150,
+      "changed": 145,
+      "unchanged": 5,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC11",
+      "reviewed": 150,
+      "changed": 143,
+      "unchanged": 7,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC12",
+      "reviewed": 150,
+      "changed": 143,
+      "unchanged": 7,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC13",
+      "reviewed": 150,
+      "changed": 142,
+      "unchanged": 8,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC14",
+      "reviewed": 150,
+      "changed": 146,
+      "unchanged": 4,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC15",
+      "reviewed": 150,
+      "changed": 147,
+      "unchanged": 3,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC16",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC17",
+      "reviewed": 150,
+      "changed": 144,
+      "unchanged": 6,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC18",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC19",
+      "reviewed": 150,
+      "changed": 142,
+      "unchanged": 8,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC20",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC21",
+      "reviewed": 150,
+      "changed": 146,
+      "unchanged": 4,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC22",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC23",
+      "reviewed": 150,
+      "changed": 142,
+      "unchanged": 8,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC24",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC25",
+      "reviewed": 150,
+      "changed": 149,
+      "unchanged": 1,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC26",
+      "reviewed": 150,
+      "changed": 146,
+      "unchanged": 4,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC27",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC28",
+      "reviewed": 150,
+      "changed": 146,
+      "unchanged": 4,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC29",
+      "reviewed": 150,
+      "changed": 141,
+      "unchanged": 9,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC30",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC31",
+      "reviewed": 150,
+      "changed": 147,
+      "unchanged": 3,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC32",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC33",
+      "reviewed": 150,
+      "changed": 142,
+      "unchanged": 8,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC34",
+      "reviewed": 150,
+      "changed": 147,
+      "unchanged": 3,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC35",
+      "reviewed": 150,
+      "changed": 149,
+      "unchanged": 1,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC36",
+      "reviewed": 150,
+      "changed": 148,
+      "unchanged": 2,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC37",
+      "reviewed": 150,
+      "changed": 146,
+      "unchanged": 4,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC38",
+      "reviewed": 150,
+      "changed": 0,
+      "unchanged": 150,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC39",
+      "reviewed": 150,
+      "changed": 144,
+      "unchanged": 6,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    },
+    {
+      "prompt_id": "FC40",
+      "reviewed": 150,
+      "changed": 149,
+      "unchanged": 1,
+      "unique_after": 150,
+      "preexisting_empty_input_ids": [],
+      "new_empty_inputs": []
+    }
+  ]
+}

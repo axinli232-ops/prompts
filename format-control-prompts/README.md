@@ -36,4 +36,12 @@ The imported `source_text_unchanged` is preserved as `imported_source_text_uncha
 
 The category labels and relevance flags come from the supplied archive, not a new task-quality assessment. The logical-reasoning category includes rule-based classification; it does not imply that every prompt requires complex multistep reasoning. Original dataset queries and synthetic extensions are distinguished by `origin`, with per-category counts in the manifest.
 
-This export does not regenerate, paraphrase or add answers to the queries. It preserves task-relevant context such as FC01 file metadata/rules and FC30 label sets, as documented in the archive. No model-output, utility or independent relevance validation has been run. Consult each prompt's source URL and upstream reuse terms; no blanket license is asserted for third-party text.
+The task-prefix cleanup removes explicit task requests or converts their supplied topic/context into neutral fields; it does not generate new factual payloads or add answers. It preserves task-relevant context such as FC01 file metadata/rules and FC30 label sets, as documented in the archive. No model-output, utility or independent relevance validation has been run. Consult each prompt's source URL and upstream reuse terms; no blanket license is asserted for third-party text.
+
+## Task-prefix cleanup (v1.1.0)
+
+All 6,000 FC user inputs were reviewed. Explicit prefixes such as `Create a timeline`, `Summarize`, and `Draft a formal letter` were removed or converted to neutral input fields such as `Project:`, `Topic:`, and `Recipient organization:`. Substantive natural questions remain; this is not a guarantee that all semantic task clues have disappeared. Necessary input parameters and JSON objects/arrays are preserved, as are query IDs, 100/50 splits and `Answer in English`.
+
+`raw_user_prompt` and files under `provenance/` remain historical references and may contain old task prefixes; the loader sends only the current `user_prompt` as the user message. The original archive README describes the earlier version, before this broader cleanup.
+
+See `provenance/task_prefix_cleanup_summary.json` for counts. FC05-Q001 already had an empty payload before this cleanup and is retained and flagged in the summary; no new empty inputs or per-prompt duplicates were introduced.
