@@ -1,0 +1,29 @@
+{
+  "prompt_id": "PUPA35-31",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Longport Police Department",
+      "start": 50,
+      "end": 76,
+      "category": "entity"
+    },
+    {
+      "text": "Longport",
+      "start": 106,
+      "end": 114,
+      "category": "entity"
+    },
+    {
+      "text": "Absecon Island",
+      "start": 240,
+      "end": 254,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Longport Police Department",
+    "Longport",
+    "Absecon Island"
+  ]
+}

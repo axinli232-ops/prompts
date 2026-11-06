@@ -1,0 +1,791 @@
+{
+  "prompt_id": "PUPA35-36",
+  "system_prompt": "This is my past personal experience:\nThe supplied email opening addresses Sara. It thanks her for returning a call quickly, discussing FRC’s IPAEP, and immediately showing willingness to make reasonable accommodations for the sender’s disabilities. The stated purpose is to reduce access barriers and enable equal access to the program. The sender appreciates her kindness and compassion.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "email",
+      "start": 50,
+      "end": 55,
+      "protected": false,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 9,
+      "word": "opening",
+      "start": 56,
+      "end": 63,
+      "protected": false,
+      "candidates": {
+        "fr": "ouvert",
+        "es": "abierto",
+        "zh": "开放的",
+        "ko": "열린",
+        "ja": "開いた"
+      }
+    },
+    {
+      "index": 10,
+      "word": "addresses",
+      "start": 64,
+      "end": 73,
+      "protected": false,
+      "candidates": {
+        "fr": "s'adresse à",
+        "es": "se dirige a",
+        "zh": "致函",
+        "ko": "수신인을 지칭한다",
+        "ja": "宛てている"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Sara",
+      "start": 74,
+      "end": 78,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "It",
+      "start": 80,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "thanks",
+      "start": 83,
+      "end": 89,
+      "protected": false,
+      "candidates": {
+        "fr": "remercie",
+        "es": "agradece",
+        "zh": "感谢",
+        "ko": "감사한다",
+        "ja": "感謝する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "her",
+      "start": 90,
+      "end": 93,
+      "protected": false,
+      "candidates": {
+        "fr": "sa",
+        "es": "su",
+        "zh": "她的",
+        "ko": "그녀의",
+        "ja": "彼女の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "for",
+      "start": 94,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 16,
+      "word": "returning",
+      "start": 98,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "rappelant",
+        "es": "devolviendo",
+        "zh": "回复",
+        "ko": "회신하는",
+        "ja": "折り返す"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 108,
+      "end": 109,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "call",
+      "start": 110,
+      "end": 114,
+      "protected": false,
+      "candidates": {
+        "fr": "appel",
+        "es": "llamada",
+        "zh": "调用",
+        "ko": "호출",
+        "ja": "呼び出し"
+      }
+    },
+    {
+      "index": 19,
+      "word": "quickly",
+      "start": 115,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "rapidement",
+        "es": "rápidamente",
+        "zh": "迅速地",
+        "ko": "신속히",
+        "ja": "迅速に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "discussing",
+      "start": 124,
+      "end": 134,
+      "protected": false,
+      "candidates": {
+        "fr": "discutant",
+        "es": "discutiendo",
+        "zh": "讨论",
+        "ko": "논의하며",
+        "ja": "議論して"
+      }
+    },
+    {
+      "index": 21,
+      "word": "FRC’s",
+      "start": 135,
+      "end": 140,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "IPAEP",
+      "start": 141,
+      "end": 146,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "and",
+      "start": 148,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 24,
+      "word": "immediately",
+      "start": 152,
+      "end": 163,
+      "protected": false,
+      "candidates": {
+        "fr": "immédiatement",
+        "es": "inmediatamente",
+        "zh": "立即",
+        "ko": "즉시",
+        "ja": "直ちに"
+      }
+    },
+    {
+      "index": 25,
+      "word": "showing",
+      "start": 164,
+      "end": 171,
+      "protected": false,
+      "candidates": {
+        "fr": "montrant",
+        "es": "mostrando",
+        "zh": "表现出",
+        "ko": "보이는",
+        "ja": "示す"
+      }
+    },
+    {
+      "index": 26,
+      "word": "willingness",
+      "start": 172,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "volonté",
+        "es": "disposición",
+        "zh": "意愿",
+        "ko": "의향",
+        "ja": "意欲"
+      }
+    },
+    {
+      "index": 27,
+      "word": "to",
+      "start": 184,
+      "end": 186,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 28,
+      "word": "make",
+      "start": 187,
+      "end": 191,
+      "protected": false,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "制作",
+        "ko": "만들다",
+        "ja": "作る"
+      }
+    },
+    {
+      "index": 29,
+      "word": "reasonable",
+      "start": 192,
+      "end": 202,
+      "protected": false,
+      "candidates": {
+        "fr": "raisonnable",
+        "es": "razonable",
+        "zh": "合理的",
+        "ko": "합리적인",
+        "ja": "合理的な"
+      }
+    },
+    {
+      "index": 30,
+      "word": "accommodations",
+      "start": 203,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "aménagements",
+        "es": "adaptaciones",
+        "zh": "便利安排",
+        "ko": "편의 제공",
+        "ja": "配慮"
+      }
+    },
+    {
+      "index": 31,
+      "word": "for",
+      "start": 218,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 32,
+      "word": "the",
+      "start": 222,
+      "end": 225,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 33,
+      "word": "sender’s",
+      "start": 226,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "de l'expéditeur",
+        "es": "del remitente",
+        "zh": "发件人的",
+        "ko": "발신자의",
+        "ja": "差出人の"
+      }
+    },
+    {
+      "index": 34,
+      "word": "disabilities",
+      "start": 235,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "handicaps",
+        "es": "discapacidades",
+        "zh": "残障",
+        "ko": "장애",
+        "ja": "障害"
+      }
+    },
+    {
+      "index": 35,
+      "word": "The",
+      "start": 249,
+      "end": 252,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 36,
+      "word": "stated",
+      "start": 253,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "indiqué",
+        "es": "declarado",
+        "zh": "所述的",
+        "ko": "명시된",
+        "ja": "記載された"
+      }
+    },
+    {
+      "index": 37,
+      "word": "purpose",
+      "start": 260,
+      "end": 267,
+      "protected": false,
+      "candidates": {
+        "fr": "objectif",
+        "es": "propósito",
+        "zh": "目的",
+        "ko": "목적",
+        "ja": "目的"
+      }
+    },
+    {
+      "index": 38,
+      "word": "is",
+      "start": 268,
+      "end": 270,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 39,
+      "word": "to",
+      "start": 271,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 40,
+      "word": "reduce",
+      "start": 274,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "réduire",
+        "es": "reducir",
+        "zh": "减少",
+        "ko": "줄이다",
+        "ja": "減らす"
+      }
+    },
+    {
+      "index": 41,
+      "word": "access",
+      "start": 281,
+      "end": 287,
+      "protected": false,
+      "candidates": {
+        "fr": "accès",
+        "es": "acceso",
+        "zh": "访问",
+        "ko": "접근",
+        "ja": "アクセス"
+      }
+    },
+    {
+      "index": 42,
+      "word": "barriers",
+      "start": 288,
+      "end": 296,
+      "protected": false,
+      "candidates": {
+        "fr": "obstacles",
+        "es": "barreras",
+        "zh": "障碍",
+        "ko": "장벽들",
+        "ja": "障壁"
+      }
+    },
+    {
+      "index": 43,
+      "word": "and",
+      "start": 297,
+      "end": 300,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 44,
+      "word": "enable",
+      "start": 301,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "permettre",
+        "es": "permitir",
+        "zh": "使能够",
+        "ko": "가능하게 하다",
+        "ja": "可能にする"
+      }
+    },
+    {
+      "index": 45,
+      "word": "equal",
+      "start": 308,
+      "end": 313,
+      "protected": false,
+      "candidates": {
+        "fr": "égal",
+        "es": "igual",
+        "zh": "平等的",
+        "ko": "동등한",
+        "ja": "平等な"
+      }
+    },
+    {
+      "index": 46,
+      "word": "access",
+      "start": 314,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "accès",
+        "es": "acceso",
+        "zh": "访问",
+        "ko": "접근",
+        "ja": "アクセス"
+      }
+    },
+    {
+      "index": 47,
+      "word": "to",
+      "start": 321,
+      "end": 323,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 48,
+      "word": "the",
+      "start": 324,
+      "end": 327,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 49,
+      "word": "program",
+      "start": 328,
+      "end": 335,
+      "protected": false,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 50,
+      "word": "The",
+      "start": 337,
+      "end": 340,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 51,
+      "word": "sender",
+      "start": 341,
+      "end": 347,
+      "protected": false,
+      "candidates": {
+        "fr": "expéditeur",
+        "es": "remitente",
+        "zh": "发件人",
+        "ko": "발신자",
+        "ja": "送信者"
+      }
+    },
+    {
+      "index": 52,
+      "word": "appreciates",
+      "start": 348,
+      "end": 359,
+      "protected": false,
+      "candidates": {
+        "fr": "apprécie",
+        "es": "agradece",
+        "zh": "感激",
+        "ko": "감사한다",
+        "ja": "感謝する"
+      }
+    },
+    {
+      "index": 53,
+      "word": "her",
+      "start": 360,
+      "end": 363,
+      "protected": false,
+      "candidates": {
+        "fr": "sa",
+        "es": "su",
+        "zh": "她的",
+        "ko": "그녀의",
+        "ja": "彼女の"
+      }
+    },
+    {
+      "index": 54,
+      "word": "kindness",
+      "start": 364,
+      "end": 372,
+      "protected": false,
+      "candidates": {
+        "fr": "gentillesse",
+        "es": "amabilidad",
+        "zh": "善意",
+        "ko": "친절",
+        "ja": "親切"
+      }
+    },
+    {
+      "index": 55,
+      "word": "and",
+      "start": 373,
+      "end": 376,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 56,
+      "word": "compassion",
+      "start": 377,
+      "end": 387,
+      "protected": false,
+      "candidates": {
+        "fr": "compassion",
+        "es": "compasión",
+        "zh": "关怀",
+        "ko": "연민",
+        "ja": "思いやり"
+      }
+    }
+  ]
+}

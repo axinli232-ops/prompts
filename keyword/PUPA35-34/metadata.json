@@ -1,0 +1,33 @@
+{
+  "id": "PUPA35-34",
+  "title_zh": "住宅房源固定资料",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 565,
+  "conversation_hash": "0b1c5aab53f3b50fae6b1b58ce8534e2",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "无地址、价格、面积和可售状态，不得新增；房源背景不能验证现实状态。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "where the property’s community is",
+    "the nearby road",
+    "the property type",
+    "the bedroom and bathroom counts",
+    "the covered patio",
+    "the kitchen updates",
+    "the flooring and bedroom storage",
+    "the parking arrangement",
+    "the shared amenity",
+    "the price and exact address not provided"
+  ],
+  "protected_terms": [
+    "Skyview Mesa",
+    "US 60"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

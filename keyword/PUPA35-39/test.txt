@@ -1,0 +1,50 @@
+Build a JSON object with two keys, "first_topic" and "second_topic", recording the available facts about where the requirement was posted and the purpose of my message, respectively. Answer in English.
+I am checking a draft that discusses the recipient of my email and the consideration I request. Give me a checklist of the concrete facts I should verify against the background. Answer in English.
+Write a short passage for a factual briefing covering both where the requirement was posted and my current job title, but leave out my experience length. Answer in English.
+A reader wants to understand the recipient of my email before learning about the purpose of my message. Write three numbered sentences in that order, ending with a sentence about my current job title. Answer in English.
+Prepare a two-paragraph briefing for a colleague: first explain my professional industry, then explain the document I am forwarding. Keep the two subjects clearly separated. Answer in English.
+Build a JSON object with two keys, "first_topic" and "second_topic", recording the available facts about the consideration I request and my current job title, respectively. Answer in English.
+Prepare a two-paragraph briefing for a colleague: first explain where the requirement was posted, then explain the purpose of my message. Keep the two subjects clearly separated. Answer in English.
+Create a comparison table with separate rows for the recipient of my email and the purpose of my message, including the specific recorded identifiers for each. Answer in English.
+In at most 60 words, explain how my employer and where the requirement was posted fit into the overall background, without treating them as interchangeable. Answer in English.
+Build a JSON object with two keys, "first_topic" and "second_topic", recording the available facts about my professional industry and the document I am forwarding, respectively. Answer in English.
+I am checking a draft that discusses my current job title and my professional industry. Give me a checklist of the concrete facts I should verify against the background. Answer in English.
+Give me a bullet list about my professional industry, followed by one plain-language paragraph about the purpose of my message. Do not merge the names or roles associated with them. Answer in English.
+Write a short passage for a factual briefing covering both my professional industry and the purpose of my message, but leave out my current job title. Answer in English.
+A reader wants to understand my current job title before learning about the recipient of my email. Write three numbered sentences in that order, ending with a sentence about the document I am forwarding. Answer in English.
+Prepare a two-paragraph briefing for a colleague: first explain my employer, then explain the recipient of my email. Keep the two subjects clearly separated. Answer in English.
+For a message to a colleague, which facts about the purpose of my message and my employer belong in the message? Provide a short draft and a separate note explaining why my professional industry can be omitted. Answer in English.
+Create a comparison table with separate rows for my current job title and the recipient of my email, including the specific recorded identifiers for each. Answer in English.
+Prepare a handover note for a colleague containing the details of my current job title and where the requirement was posted. Finish with one question about the consideration I request that the recipient could answer from the background. Answer in English.
+Prepare a handover note for a colleague containing the details of my experience length and the consideration I request. Finish with one question about my name that the recipient could answer from the background. Answer in English.
+For a message to a colleague, which facts about the recipient of my email and the consideration I request belong in the message? Provide a short draft and a separate note explaining why my name can be omitted. Answer in English.
+For a message to a colleague, which facts about my current job title and my professional industry belong in the message? Provide a short draft and a separate note explaining why where the requirement was posted can be omitted. Answer in English.
+Prepare a two-paragraph briefing for a colleague: first explain my name, then explain my experience length. Keep the two subjects clearly separated. Answer in English.
+Give me a bullet list about the consideration I request, followed by one plain-language paragraph about my experience length. Do not merge the names or roles associated with them. Answer in English.
+Give me a bullet list about my employer, followed by one plain-language paragraph about the document I am forwarding. Do not merge the names or roles associated with them. Answer in English.
+In at most 60 words, explain how my professional industry and the consideration I request fit into the overall background, without treating them as interchangeable. Answer in English.
+Prepare a handover note for a colleague containing the details of the recipient of my email and my name. Finish with one question about my employer that the recipient could answer from the background. Answer in English.
+Write a short passage for a factual briefing covering both my employer and the document I am forwarding, but leave out the purpose of my message. Answer in English.
+I am checking a draft that discusses the purpose of my message and my employer. Give me a checklist of the concrete facts I should verify against the background. Answer in English.
+For a message to a colleague, which facts about the document I am forwarding and my name belong in the message? Provide a short draft and a separate note explaining why my employer can be omitted. Answer in English.
+Create a comparison table with separate rows for my experience length and the document I am forwarding, including the specific recorded identifiers for each. Answer in English.
+Prepare a handover note for a colleague containing the details of the document I am forwarding and my employer. Finish with one question about my professional industry that the recipient could answer from the background. Answer in English.
+I am checking a draft that discusses the document I am forwarding and my name. Give me a checklist of the concrete facts I should verify against the background. Answer in English.
+Give me a bullet list about where the requirement was posted, followed by one plain-language paragraph about my current job title. Do not merge the names or roles associated with them. Answer in English.
+Write a short passage for a factual briefing covering both the consideration I request and my experience length, but leave out the recipient of my email. Answer in English.
+A reader wants to understand my experience length before learning about the document I am forwarding. Write three numbered sentences in that order, ending with a sentence about the purpose of my message. Answer in English.
+In at most 60 words, explain how my name and my professional industry fit into the overall background, without treating them as interchangeable. Answer in English.
+I am checking a draft that discusses my experience length and where the requirement was posted. Give me a checklist of the concrete facts I should verify against the background. Answer in English.
+In at most 60 words, explain how where the requirement was posted and my name fit into the overall background, without treating them as interchangeable. Answer in English.
+Give me a bullet list about my name, followed by one plain-language paragraph about the recipient of my email. Do not merge the names or roles associated with them. Answer in English.
+Create a comparison table with separate rows for the document I am forwarding and my current job title, including the specific recorded identifiers for each. Answer in English.
+A reader wants to understand the document I am forwarding before learning about my current job title. Write three numbered sentences in that order, ending with a sentence about my experience length. Answer in English.
+In at most 60 words, explain how the consideration I request and my employer fit into the overall background, without treating them as interchangeable. Answer in English.
+A reader wants to understand the purpose of my message before learning about my experience length. Write three numbered sentences in that order, ending with a sentence about the recipient of my email. Answer in English.
+Prepare a two-paragraph briefing for a colleague: first explain the consideration I request, then explain my current job title. Keep the two subjects clearly separated. Answer in English.
+Build a JSON object with two keys, "first_topic" and "second_topic", recording the available facts about my name and my experience length, respectively. Answer in English.
+For a message to a colleague, which facts about my experience length and where the requirement was posted belong in the message? Provide a short draft and a separate note explaining why the consideration I request can be omitted. Answer in English.
+Write a short passage for a factual briefing covering both my name and the recipient of my email, but leave out the document I am forwarding. Answer in English.
+Prepare a handover note for a colleague containing the details of the purpose of my message and my professional industry. Finish with one question about where the requirement was posted that the recipient could answer from the background. Answer in English.
+Create a comparison table with separate rows for the purpose of my message and my experience length, including the specific recorded identifiers for each. Answer in English.
+Build a JSON object with two keys, "first_topic" and "second_topic", recording the available facts about my employer and the recipient of my email, respectively. Answer in English.

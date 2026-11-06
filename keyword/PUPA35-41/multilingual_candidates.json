@@ -1,0 +1,945 @@
+{
+  "prompt_id": "PUPA35-41",
+  "system_prompt": "This is my past personal experience:\nThe supplied article describes ChatGPT as a chatbot from OpenAI based on GPT-3 models. It describes MacGPT, created by Jordi Bruin, as a macOS app that brings access to the Mac menu bar. The app is described as free with optional payment to support the developer. Users log in with OpenAI credentials, click the menu-bar icon to start a conversation, or assign a keyboard shortcut.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "article",
+      "start": 50,
+      "end": 57,
+      "protected": false,
+      "candidates": {
+        "fr": "article",
+        "es": "artículo",
+        "zh": "文章",
+        "ko": "기사",
+        "ja": "記事"
+      }
+    },
+    {
+      "index": 9,
+      "word": "describes",
+      "start": 58,
+      "end": 67,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "ChatGPT",
+      "start": 68,
+      "end": 75,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "as",
+      "start": 76,
+      "end": 78,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 12,
+      "word": "a",
+      "start": 79,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 13,
+      "word": "chatbot",
+      "start": 81,
+      "end": 88,
+      "protected": false,
+      "candidates": {
+        "fr": "agent conversationnel",
+        "es": "bot conversacional",
+        "zh": "聊天机器人",
+        "ko": "챗봇",
+        "ja": "チャットボット"
+      }
+    },
+    {
+      "index": 14,
+      "word": "from",
+      "start": 89,
+      "end": 93,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 15,
+      "word": "OpenAI",
+      "start": 94,
+      "end": 100,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "based",
+      "start": 101,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 17,
+      "word": "on",
+      "start": 107,
+      "end": 109,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "GPT",
+      "start": 110,
+      "end": 113,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "models",
+      "start": 116,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "modèle",
+        "es": "modelo",
+        "zh": "模型",
+        "ko": "모델",
+        "ja": "モデル"
+      }
+    },
+    {
+      "index": 20,
+      "word": "It",
+      "start": 124,
+      "end": 126,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "describes",
+      "start": 127,
+      "end": 136,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "MacGPT",
+      "start": 137,
+      "end": 143,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "created",
+      "start": 145,
+      "end": 152,
+      "protected": false,
+      "candidates": {
+        "fr": "créé",
+        "es": "creado",
+        "zh": "创建的",
+        "ko": "제작된",
+        "ja": "作成された"
+      }
+    },
+    {
+      "index": 24,
+      "word": "by",
+      "start": 153,
+      "end": 155,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Jordi",
+      "start": 156,
+      "end": 161,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Bruin",
+      "start": 162,
+      "end": 167,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "as",
+      "start": 169,
+      "end": 171,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 28,
+      "word": "a",
+      "start": 172,
+      "end": 173,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 29,
+      "word": "macOS",
+      "start": 174,
+      "end": 179,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "app",
+      "start": 180,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "앱",
+        "ja": "アプリ"
+      }
+    },
+    {
+      "index": 31,
+      "word": "that",
+      "start": 184,
+      "end": 188,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 32,
+      "word": "brings",
+      "start": 189,
+      "end": 195,
+      "protected": false,
+      "candidates": {
+        "fr": "apporte",
+        "es": "trae",
+        "zh": "带来",
+        "ko": "가져온다",
+        "ja": "もたらす"
+      }
+    },
+    {
+      "index": 33,
+      "word": "access",
+      "start": 196,
+      "end": 202,
+      "protected": false,
+      "candidates": {
+        "fr": "accès",
+        "es": "acceso",
+        "zh": "访问",
+        "ko": "접근",
+        "ja": "アクセス"
+      }
+    },
+    {
+      "index": 34,
+      "word": "to",
+      "start": 203,
+      "end": 205,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 35,
+      "word": "the",
+      "start": 206,
+      "end": 209,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 36,
+      "word": "Mac",
+      "start": 210,
+      "end": 213,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "menu",
+      "start": 214,
+      "end": 218,
+      "protected": false,
+      "candidates": {
+        "fr": "menu",
+        "es": "menú",
+        "zh": "菜单",
+        "ko": "메뉴",
+        "ja": "メニュー"
+      }
+    },
+    {
+      "index": 38,
+      "word": "bar",
+      "start": 219,
+      "end": 222,
+      "protected": false,
+      "candidates": {
+        "fr": "barre",
+        "es": "barra",
+        "zh": "栏",
+        "ko": "표시줄",
+        "ja": "バー"
+      }
+    },
+    {
+      "index": 39,
+      "word": "The",
+      "start": 224,
+      "end": 227,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "app",
+      "start": 228,
+      "end": 231,
+      "protected": false,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "앱",
+        "ja": "アプリ"
+      }
+    },
+    {
+      "index": 41,
+      "word": "is",
+      "start": 232,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 42,
+      "word": "described",
+      "start": 235,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 43,
+      "word": "as",
+      "start": 245,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 44,
+      "word": "free",
+      "start": 248,
+      "end": 252,
+      "protected": false,
+      "candidates": {
+        "fr": "libre",
+        "es": "libre",
+        "zh": "自由的",
+        "ko": "자유로운",
+        "ja": "自由な"
+      }
+    },
+    {
+      "index": 45,
+      "word": "with",
+      "start": 253,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 46,
+      "word": "optional",
+      "start": 258,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "facultatif",
+        "es": "opcional",
+        "zh": "可选的",
+        "ko": "선택적인",
+        "ja": "任意の"
+      }
+    },
+    {
+      "index": 47,
+      "word": "payment",
+      "start": 267,
+      "end": 274,
+      "protected": false,
+      "candidates": {
+        "fr": "paiement",
+        "es": "pago",
+        "zh": "付款",
+        "ko": "결제",
+        "ja": "支払い"
+      }
+    },
+    {
+      "index": 48,
+      "word": "to",
+      "start": 275,
+      "end": 277,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 49,
+      "word": "support",
+      "start": 278,
+      "end": 285,
+      "protected": false,
+      "candidates": {
+        "fr": "soutien",
+        "es": "apoyo",
+        "zh": "支持",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 50,
+      "word": "the",
+      "start": 286,
+      "end": 289,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 51,
+      "word": "developer",
+      "start": 290,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "développeur",
+        "es": "desarrollador",
+        "zh": "开发者",
+        "ko": "개발자",
+        "ja": "開発者"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Users",
+      "start": 301,
+      "end": 306,
+      "protected": false,
+      "candidates": {
+        "fr": "utilisateur",
+        "es": "usuario",
+        "zh": "用户",
+        "ko": "사용자",
+        "ja": "ユーザー"
+      }
+    },
+    {
+      "index": 53,
+      "word": "log",
+      "start": 307,
+      "end": 310,
+      "protected": false,
+      "candidates": {
+        "fr": "journal",
+        "es": "registro",
+        "zh": "日志",
+        "ko": "로그",
+        "ja": "ログ"
+      }
+    },
+    {
+      "index": 54,
+      "word": "in",
+      "start": 311,
+      "end": 313,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 55,
+      "word": "with",
+      "start": 314,
+      "end": 318,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 56,
+      "word": "OpenAI",
+      "start": 319,
+      "end": 325,
+      "protected": true
+    },
+    {
+      "index": 57,
+      "word": "credentials",
+      "start": 326,
+      "end": 337,
+      "protected": false,
+      "candidates": {
+        "fr": "identifiants",
+        "es": "credenciales",
+        "zh": "凭据",
+        "ko": "인증 정보",
+        "ja": "認証情報"
+      }
+    },
+    {
+      "index": 58,
+      "word": "click",
+      "start": 339,
+      "end": 344,
+      "protected": false,
+      "candidates": {
+        "fr": "cliquer",
+        "es": "hacer clic",
+        "zh": "点击",
+        "ko": "클릭하다",
+        "ja": "クリックする"
+      }
+    },
+    {
+      "index": 59,
+      "word": "the",
+      "start": 345,
+      "end": 348,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 60,
+      "word": "menu-bar",
+      "start": 349,
+      "end": 357,
+      "protected": false,
+      "candidates": {
+        "fr": "barre de menus",
+        "es": "barra de menús",
+        "zh": "菜单栏",
+        "ko": "메뉴 막대",
+        "ja": "メニューバー"
+      }
+    },
+    {
+      "index": 61,
+      "word": "icon",
+      "start": 358,
+      "end": 362,
+      "protected": false,
+      "candidates": {
+        "fr": "icône",
+        "es": "icono",
+        "zh": "图标",
+        "ko": "아이콘",
+        "ja": "アイコン"
+      }
+    },
+    {
+      "index": 62,
+      "word": "to",
+      "start": 363,
+      "end": 365,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 63,
+      "word": "start",
+      "start": 366,
+      "end": 371,
+      "protected": false,
+      "candidates": {
+        "fr": "commencer",
+        "es": "empezar",
+        "zh": "开始",
+        "ko": "시작하다",
+        "ja": "開始する"
+      }
+    },
+    {
+      "index": 64,
+      "word": "a",
+      "start": 372,
+      "end": 373,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 65,
+      "word": "conversation",
+      "start": 374,
+      "end": 386,
+      "protected": false,
+      "candidates": {
+        "fr": "conversation",
+        "es": "conversación",
+        "zh": "对话",
+        "ko": "대화",
+        "ja": "会話"
+      }
+    },
+    {
+      "index": 66,
+      "word": "or",
+      "start": 388,
+      "end": 390,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 67,
+      "word": "assign",
+      "start": 391,
+      "end": 397,
+      "protected": false,
+      "candidates": {
+        "fr": "attribuer",
+        "es": "asignar",
+        "zh": "分配",
+        "ko": "배정하다",
+        "ja": "割り当てる"
+      }
+    },
+    {
+      "index": 68,
+      "word": "a",
+      "start": 398,
+      "end": 399,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 69,
+      "word": "keyboard",
+      "start": 400,
+      "end": 408,
+      "protected": false,
+      "candidates": {
+        "fr": "clavier",
+        "es": "teclado",
+        "zh": "键盘",
+        "ko": "키보드",
+        "ja": "キーボード"
+      }
+    },
+    {
+      "index": 70,
+      "word": "shortcut",
+      "start": 409,
+      "end": 417,
+      "protected": false,
+      "candidates": {
+        "fr": "raccourci",
+        "es": "atajo",
+        "zh": "快捷键",
+        "ko": "단축키",
+        "ja": "ショートカット"
+      }
+    }
+  ]
+}

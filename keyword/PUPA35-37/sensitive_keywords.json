@@ -1,0 +1,29 @@
+{
+  "prompt_id": "PUPA35-37",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "PacD",
+      "start": 88,
+      "end": 92,
+      "category": "entity"
+    },
+    {
+      "text": "Save",
+      "start": 168,
+      "end": 172,
+      "category": "entity"
+    },
+    {
+      "text": "Submit",
+      "start": 202,
+      "end": 208,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "PacD",
+    "Save",
+    "Submit"
+  ]
+}

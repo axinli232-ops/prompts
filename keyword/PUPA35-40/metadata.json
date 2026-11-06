@@ -1,0 +1,30 @@
+{
+  "id": "PUPA35-40",
+  "title_zh": "样板测试与量具配送",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 21,
+  "conversation_hash": "2f0da891b9ef896248b6a997f917e32d",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "focus_topics": [
+    "the message recipients",
+    "the samples mentioned",
+    "the condition for arranging testing",
+    "the timing of testing",
+    "the requested equipment demand",
+    "the requested delivery information",
+    "the equipment to be sent",
+    "the free-equipment allowance",
+    "the unit used for the allowance",
+    "the purpose of requesting delivery details"
+  ],
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "protected_terms": [
+    "Salar",
+    "Waqas"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

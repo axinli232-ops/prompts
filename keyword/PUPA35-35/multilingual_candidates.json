@@ -1,0 +1,420 @@
+{
+  "prompt_id": "PUPA35-35",
+  "system_prompt": "This is my past personal experience:\nFixed employee records (id, first_name, last_name, hire_date, salary, department_id, manager_id): (1,John,Doe,2021-01-01,50000,1,null); (2,Jane,Doe,2021-02-15,60000,1,1); (3,Bob,Smith,2021-03-01,55000,2,1); (4,Sara,Johnson,2021-04-01,65000,2,2); (5,Tom,Williams,2021-05-01,70000,3,2); (6,Emily,Jones,2021-06-01,80000,3,3); (7,Mike,Brown,2021-07-01,75000,4,3); (8,Lisa,Davis,2021-08-01,85000,4,4); (9,David,Wilson,2021-09-01,90000,5,4); (10,Laura,Taylor,2021-10-01,95000,5,5). The table is employees.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Fixed",
+      "start": 37,
+      "end": 42,
+      "protected": false,
+      "candidates": {
+        "fr": "fixe",
+        "es": "fijo",
+        "zh": "固定的",
+        "ko": "고정된",
+        "ja": "固定された"
+      }
+    },
+    {
+      "index": 7,
+      "word": "employee",
+      "start": 43,
+      "end": 51,
+      "protected": false,
+      "candidates": {
+        "fr": "employé",
+        "es": "empleado",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "従業員"
+      }
+    },
+    {
+      "index": 8,
+      "word": "records",
+      "start": 52,
+      "end": 59,
+      "protected": false,
+      "candidates": {
+        "fr": "enregistrements",
+        "es": "registros",
+        "zh": "记录",
+        "ko": "기록들",
+        "ja": "記録"
+      }
+    },
+    {
+      "index": 9,
+      "word": "id",
+      "start": 61,
+      "end": 63,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "first",
+      "start": 65,
+      "end": 70,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "name",
+      "start": 71,
+      "end": 75,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "last",
+      "start": 77,
+      "end": 81,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "name",
+      "start": 82,
+      "end": 86,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "hire",
+      "start": 88,
+      "end": 92,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "date",
+      "start": 93,
+      "end": 97,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "salary",
+      "start": 99,
+      "end": 105,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "department",
+      "start": 107,
+      "end": 117,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "id",
+      "start": 118,
+      "end": 120,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "manager",
+      "start": 122,
+      "end": 129,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "id",
+      "start": 130,
+      "end": 132,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "John",
+      "start": 138,
+      "end": 142,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "Doe",
+      "start": 143,
+      "end": 146,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "null",
+      "start": 166,
+      "end": 170,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "Jane",
+      "start": 176,
+      "end": 180,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Doe",
+      "start": 181,
+      "end": 184,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Bob",
+      "start": 211,
+      "end": 214,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "Smith",
+      "start": 215,
+      "end": 220,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "Sara",
+      "start": 247,
+      "end": 251,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "Johnson",
+      "start": 252,
+      "end": 259,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "Tom",
+      "start": 286,
+      "end": 289,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "Williams",
+      "start": 290,
+      "end": 298,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "Emily",
+      "start": 325,
+      "end": 330,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "Jones",
+      "start": 331,
+      "end": 336,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Mike",
+      "start": 363,
+      "end": 367,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Brown",
+      "start": 368,
+      "end": 373,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "Lisa",
+      "start": 400,
+      "end": 404,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "Davis",
+      "start": 405,
+      "end": 410,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "David",
+      "start": 437,
+      "end": 442,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "Wilson",
+      "start": 443,
+      "end": 449,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "Laura",
+      "start": 477,
+      "end": 482,
+      "protected": true
+    },
+    {
+      "index": 41,
+      "word": "Taylor",
+      "start": 483,
+      "end": 489,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "The",
+      "start": 513,
+      "end": 516,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 43,
+      "word": "table",
+      "start": 517,
+      "end": 522,
+      "protected": false,
+      "candidates": {
+        "fr": "tableau",
+        "es": "tabla",
+        "zh": "表",
+        "ko": "표",
+        "ja": "表"
+      }
+    },
+    {
+      "index": 44,
+      "word": "is",
+      "start": 523,
+      "end": 525,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 45,
+      "word": "employees",
+      "start": 526,
+      "end": 535,
+      "protected": true
+    }
+  ]
+}

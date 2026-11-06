@@ -1,0 +1,2 @@
+This is my past personal experience:
+The supplied article describes ChatGPT as a chatbot from OpenAI based on GPT-3 models. It describes MacGPT, created by Jordi Bruin, as a macOS app that brings access to the Mac menu bar. The app is described as free with optional payment to support the developer. Users log in with OpenAI credentials, click the menu-bar icon to start a conversation, or assign a keyboard shortcut.

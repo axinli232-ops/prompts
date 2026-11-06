@@ -1,0 +1,2 @@
+This is my past personal experience:
+The supplied message concerns a subscription change involving a call to Yoda. The sender expected that call to update the relevant data. Otherwise, some records would show subscription type 24/7 while others would retain SSEDSM2. The sender warns that this discrepancy would break system integrity and make the result depend on which information source is used.

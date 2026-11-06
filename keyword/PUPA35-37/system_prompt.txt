@@ -1,0 +1,2 @@
+This is my past personal experience:
+The supplied procedure submits a completed form to PacD for review and approval. After completing the prior steps, the user clicks Save at the top of the page, then Submit at the top of the page. Missing or incorrect information triggers a validation error. The user makes corrections, saves again and resubmits.

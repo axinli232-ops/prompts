@@ -1,0 +1,50 @@
+{
+  "prompt_id": "PUPA35-39",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Ravikrishnan",
+      "start": 48,
+      "end": 60,
+      "category": "entity"
+    },
+    {
+      "text": "Mechanical manager",
+      "start": 72,
+      "end": 90,
+      "category": "entity"
+    },
+    {
+      "text": "Boom General Contractors",
+      "start": 94,
+      "end": 118,
+      "category": "entity"
+    },
+    {
+      "text": "20",
+      "start": 138,
+      "end": 140,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Ms Sharon",
+      "start": 212,
+      "end": 221,
+      "category": "entity"
+    },
+    {
+      "text": "linkedin",
+      "start": 260,
+      "end": 268,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Ravikrishnan",
+    "Mechanical manager",
+    "Boom General Contractors",
+    "20",
+    "Ms Sharon",
+    "linkedin"
+  ]
+}

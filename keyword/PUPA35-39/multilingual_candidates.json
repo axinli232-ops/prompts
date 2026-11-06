@@ -1,0 +1,721 @@
+{
+  "prompt_id": "PUPA35-39",
+  "system_prompt": "This is my past personal experience:\nMy name is Ravikrishnan. I work as Mechanical manager at Boom General Contractors and have more than 20 years of experience in construction. My supplied email is addressed to Ms Sharon and refers to a requirement posted on linkedin. I am forwarding my resume and asking her to consider it.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "My",
+      "start": 37,
+      "end": 39,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 7,
+      "word": "name",
+      "start": 40,
+      "end": 44,
+      "protected": false,
+      "candidates": {
+        "fr": "nom",
+        "es": "nombre",
+        "zh": "名称",
+        "ko": "이름",
+        "ja": "名前"
+      }
+    },
+    {
+      "index": 8,
+      "word": "is",
+      "start": 45,
+      "end": 47,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Ravikrishnan",
+      "start": 48,
+      "end": 60,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "I",
+      "start": 62,
+      "end": 63,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 11,
+      "word": "work",
+      "start": 64,
+      "end": 68,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 12,
+      "word": "as",
+      "start": 69,
+      "end": 71,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Mechanical",
+      "start": 72,
+      "end": 82,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "manager",
+      "start": 83,
+      "end": 90,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "at",
+      "start": 91,
+      "end": 93,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Boom",
+      "start": 94,
+      "end": 98,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "General",
+      "start": 99,
+      "end": 106,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Contractors",
+      "start": 107,
+      "end": 118,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "and",
+      "start": 119,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 20,
+      "word": "have",
+      "start": 123,
+      "end": 127,
+      "protected": false,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "more",
+      "start": 128,
+      "end": 132,
+      "protected": false,
+      "candidates": {
+        "fr": "plus",
+        "es": "más",
+        "zh": "更多",
+        "ko": "더 많은",
+        "ja": "より多くの"
+      }
+    },
+    {
+      "index": 22,
+      "word": "than",
+      "start": 133,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "比",
+        "ko": "보다",
+        "ja": "より"
+      }
+    },
+    {
+      "index": 23,
+      "word": "years",
+      "start": 141,
+      "end": 146,
+      "protected": false,
+      "candidates": {
+        "fr": "ans",
+        "es": "años",
+        "zh": "年",
+        "ko": "년",
+        "ja": "年"
+      }
+    },
+    {
+      "index": 24,
+      "word": "of",
+      "start": 147,
+      "end": 149,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 25,
+      "word": "experience",
+      "start": 150,
+      "end": 160,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 26,
+      "word": "in",
+      "start": 161,
+      "end": 163,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 27,
+      "word": "construction",
+      "start": 164,
+      "end": 176,
+      "protected": false,
+      "candidates": {
+        "fr": "construction",
+        "es": "construcción",
+        "zh": "建筑施工",
+        "ko": "건설",
+        "ja": "建設"
+      }
+    },
+    {
+      "index": 28,
+      "word": "My",
+      "start": 178,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 29,
+      "word": "supplied",
+      "start": 181,
+      "end": 189,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 30,
+      "word": "email",
+      "start": 190,
+      "end": 195,
+      "protected": false,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 31,
+      "word": "is",
+      "start": 196,
+      "end": 198,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 32,
+      "word": "addressed",
+      "start": 199,
+      "end": 208,
+      "protected": false,
+      "candidates": {
+        "fr": "traiter",
+        "es": "abordar",
+        "zh": "处理",
+        "ko": "다루다",
+        "ja": "対処する"
+      }
+    },
+    {
+      "index": 33,
+      "word": "to",
+      "start": 209,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Ms",
+      "start": 212,
+      "end": 214,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Sharon",
+      "start": 215,
+      "end": 221,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "and",
+      "start": 222,
+      "end": 225,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 37,
+      "word": "refers",
+      "start": 226,
+      "end": 232,
+      "protected": false,
+      "candidates": {
+        "fr": "fait référence",
+        "es": "se refiere",
+        "zh": "提及",
+        "ko": "언급한다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "to",
+      "start": 233,
+      "end": 235,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 39,
+      "word": "a",
+      "start": 236,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 40,
+      "word": "requirement",
+      "start": 238,
+      "end": 249,
+      "protected": false,
+      "candidates": {
+        "fr": "besoin",
+        "es": "requisito",
+        "zh": "需求",
+        "ko": "요구 사항",
+        "ja": "要件"
+      }
+    },
+    {
+      "index": 41,
+      "word": "posted",
+      "start": 250,
+      "end": 256,
+      "protected": false,
+      "candidates": {
+        "fr": "publié",
+        "es": "publicado",
+        "zh": "发布的",
+        "ko": "게시된",
+        "ja": "掲載された"
+      }
+    },
+    {
+      "index": 42,
+      "word": "on",
+      "start": 257,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 43,
+      "word": "linkedin",
+      "start": 260,
+      "end": 268,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "I",
+      "start": 270,
+      "end": 271,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 45,
+      "word": "am",
+      "start": 272,
+      "end": 274,
+      "protected": false,
+      "candidates": {
+        "fr": "suis",
+        "es": "soy",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 46,
+      "word": "forwarding",
+      "start": 275,
+      "end": 285,
+      "protected": false,
+      "candidates": {
+        "fr": "transmettant",
+        "es": "remitiendo",
+        "zh": "转发",
+        "ko": "전달하는",
+        "ja": "送付する"
+      }
+    },
+    {
+      "index": 47,
+      "word": "my",
+      "start": 286,
+      "end": 288,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 48,
+      "word": "resume",
+      "start": 289,
+      "end": 295,
+      "protected": false,
+      "candidates": {
+        "fr": "curriculum vitæ",
+        "es": "currículum",
+        "zh": "简历",
+        "ko": "이력서",
+        "ja": "履歴書"
+      }
+    },
+    {
+      "index": 49,
+      "word": "and",
+      "start": 296,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 50,
+      "word": "asking",
+      "start": 300,
+      "end": 306,
+      "protected": false,
+      "candidates": {
+        "fr": "demandant",
+        "es": "pidiendo",
+        "zh": "请求",
+        "ko": "요청하는",
+        "ja": "依頼する"
+      }
+    },
+    {
+      "index": 51,
+      "word": "her",
+      "start": 307,
+      "end": 310,
+      "protected": false,
+      "candidates": {
+        "fr": "sa",
+        "es": "su",
+        "zh": "她的",
+        "ko": "그녀의",
+        "ja": "彼女の"
+      }
+    },
+    {
+      "index": 52,
+      "word": "to",
+      "start": 311,
+      "end": 313,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 53,
+      "word": "consider",
+      "start": 314,
+      "end": 322,
+      "protected": false,
+      "candidates": {
+        "fr": "considérer",
+        "es": "considerar",
+        "zh": "考虑",
+        "ko": "고려하다",
+        "ja": "考慮する"
+      }
+    },
+    {
+      "index": 54,
+      "word": "it",
+      "start": 323,
+      "end": 325,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    }
+  ]
+}

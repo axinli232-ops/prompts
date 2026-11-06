@@ -1,0 +1,31 @@
+{
+  "id": "PUPA35-36",
+  "title_zh": "无障碍项目沟通",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 3,
+  "conversation_hash": "3c3016b3eeae5650cbcbe2fc50fa27be",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "focus_topics": [
+    "the recipient",
+    "the response to the phone call",
+    "the program discussed",
+    "the organization mentioned",
+    "the requested accommodations",
+    "the reason accommodations matter",
+    "the barriers mentioned",
+    "the goal of program access",
+    "the appreciation expressed",
+    "the tone of the message"
+  ],
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "protected_terms": [
+    "Sara",
+    "FRC",
+    "IPAEP"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

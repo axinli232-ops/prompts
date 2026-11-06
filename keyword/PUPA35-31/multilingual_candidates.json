@@ -1,0 +1,714 @@
+{
+  "prompt_id": "PUPA35-31",
+  "system_prompt": "This is my past personal experience:\nThe supplied Longport Police Department notice says fewer beaches in Longport remain protected after the beach-patrol season. It discourages swimming at unprotected beaches and refers to incidents along Absecon Island. It directs residents and visitors to official social channels for updates; no current live conditions are provided.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "Longport",
+      "start": 50,
+      "end": 58,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "Police",
+      "start": 59,
+      "end": 65,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Department",
+      "start": 66,
+      "end": 76,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "notice",
+      "start": 77,
+      "end": 83,
+      "protected": false,
+      "candidates": {
+        "fr": "avis",
+        "es": "aviso",
+        "zh": "公告",
+        "ko": "공지",
+        "ja": "告知"
+      }
+    },
+    {
+      "index": 12,
+      "word": "says",
+      "start": 84,
+      "end": 88,
+      "protected": false,
+      "candidates": {
+        "fr": "indique",
+        "es": "dice",
+        "zh": "说明",
+        "ko": "말한다",
+        "ja": "述べる"
+      }
+    },
+    {
+      "index": 13,
+      "word": "fewer",
+      "start": 89,
+      "end": 94,
+      "protected": false,
+      "candidates": {
+        "fr": "moins de",
+        "es": "menos",
+        "zh": "更少的",
+        "ko": "더 적은",
+        "ja": "より少ない"
+      }
+    },
+    {
+      "index": 14,
+      "word": "beaches",
+      "start": 95,
+      "end": 102,
+      "protected": false,
+      "candidates": {
+        "fr": "plages",
+        "es": "playas",
+        "zh": "海滩",
+        "ko": "해변들",
+        "ja": "海岸"
+      }
+    },
+    {
+      "index": 15,
+      "word": "in",
+      "start": 103,
+      "end": 105,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Longport",
+      "start": 106,
+      "end": 114,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "remain",
+      "start": 115,
+      "end": 121,
+      "protected": false,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 18,
+      "word": "protected",
+      "start": 122,
+      "end": 131,
+      "protected": false,
+      "candidates": {
+        "fr": "surveillé",
+        "es": "vigilado",
+        "zh": "受保护的",
+        "ko": "보호되는",
+        "ja": "保護された"
+      }
+    },
+    {
+      "index": 19,
+      "word": "after",
+      "start": 132,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "après",
+        "es": "después de",
+        "zh": "之后",
+        "ko": "후에",
+        "ja": "後に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "the",
+      "start": 138,
+      "end": 141,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 21,
+      "word": "beach-patrol",
+      "start": 142,
+      "end": 154,
+      "protected": false,
+      "candidates": {
+        "fr": "patrouille des plages",
+        "es": "patrulla de playas",
+        "zh": "海滩巡逻",
+        "ko": "해변 순찰",
+        "ja": "海岸巡回"
+      }
+    },
+    {
+      "index": 22,
+      "word": "season",
+      "start": 155,
+      "end": 161,
+      "protected": false,
+      "candidates": {
+        "fr": "saison",
+        "es": "temporada",
+        "zh": "季节",
+        "ko": "시즌",
+        "ja": "季節"
+      }
+    },
+    {
+      "index": 23,
+      "word": "It",
+      "start": 163,
+      "end": 165,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "discourages",
+      "start": 166,
+      "end": 177,
+      "protected": false,
+      "candidates": {
+        "fr": "déconseille",
+        "es": "desaconseja",
+        "zh": "劝阻",
+        "ko": "만류한다",
+        "ja": "控えるよう勧める"
+      }
+    },
+    {
+      "index": 25,
+      "word": "swimming",
+      "start": 178,
+      "end": 186,
+      "protected": false,
+      "candidates": {
+        "fr": "baignade",
+        "es": "natación",
+        "zh": "游泳",
+        "ko": "수영",
+        "ja": "水泳"
+      }
+    },
+    {
+      "index": 26,
+      "word": "at",
+      "start": 187,
+      "end": 189,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 27,
+      "word": "unprotected",
+      "start": 190,
+      "end": 201,
+      "protected": false,
+      "candidates": {
+        "fr": "non surveillé",
+        "es": "no vigilado",
+        "zh": "未受保护的",
+        "ko": "보호되지 않는",
+        "ja": "保護されていない"
+      }
+    },
+    {
+      "index": 28,
+      "word": "beaches",
+      "start": 202,
+      "end": 209,
+      "protected": false,
+      "candidates": {
+        "fr": "plages",
+        "es": "playas",
+        "zh": "海滩",
+        "ko": "해변들",
+        "ja": "海岸"
+      }
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 210,
+      "end": 213,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "refers",
+      "start": 214,
+      "end": 220,
+      "protected": false,
+      "candidates": {
+        "fr": "fait référence",
+        "es": "se refiere",
+        "zh": "提及",
+        "ko": "언급한다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "to",
+      "start": 221,
+      "end": 223,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "incidents",
+      "start": 224,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "incident",
+        "es": "incidente",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "事案"
+      }
+    },
+    {
+      "index": 33,
+      "word": "along",
+      "start": 234,
+      "end": 239,
+      "protected": false,
+      "candidates": {
+        "fr": "le long de",
+        "es": "a lo largo de",
+        "zh": "沿着",
+        "ko": "따라",
+        "ja": "に沿って"
+      }
+    },
+    {
+      "index": 34,
+      "word": "Absecon",
+      "start": 240,
+      "end": 247,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Island",
+      "start": 248,
+      "end": 254,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "It",
+      "start": 256,
+      "end": 258,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 37,
+      "word": "directs",
+      "start": 259,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "oriente",
+        "es": "dirige",
+        "zh": "引导",
+        "ko": "안내한다",
+        "ja": "案内する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "residents",
+      "start": 267,
+      "end": 276,
+      "protected": false,
+      "candidates": {
+        "fr": "résidents",
+        "es": "residentes",
+        "zh": "居民",
+        "ko": "주민들",
+        "ja": "住民"
+      }
+    },
+    {
+      "index": 39,
+      "word": "and",
+      "start": 277,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 40,
+      "word": "visitors",
+      "start": 281,
+      "end": 289,
+      "protected": false,
+      "candidates": {
+        "fr": "visiteurs",
+        "es": "visitantes",
+        "zh": "访客",
+        "ko": "방문객들",
+        "ja": "訪問者"
+      }
+    },
+    {
+      "index": 41,
+      "word": "to",
+      "start": 290,
+      "end": 292,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 42,
+      "word": "official",
+      "start": 293,
+      "end": 301,
+      "protected": false,
+      "candidates": {
+        "fr": "officiel",
+        "es": "oficial",
+        "zh": "官方的",
+        "ko": "공식적인",
+        "ja": "公式の"
+      }
+    },
+    {
+      "index": 43,
+      "word": "social",
+      "start": 302,
+      "end": 308,
+      "protected": false,
+      "candidates": {
+        "fr": "social",
+        "es": "social",
+        "zh": "社会的",
+        "ko": "사회의",
+        "ja": "社会的な"
+      }
+    },
+    {
+      "index": 44,
+      "word": "channels",
+      "start": 309,
+      "end": 317,
+      "protected": false,
+      "candidates": {
+        "fr": "canal",
+        "es": "canal",
+        "zh": "渠道",
+        "ko": "채널",
+        "ja": "チャネル"
+      }
+    },
+    {
+      "index": 45,
+      "word": "for",
+      "start": 318,
+      "end": 321,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 46,
+      "word": "updates",
+      "start": 322,
+      "end": 329,
+      "protected": false,
+      "candidates": {
+        "fr": "mises à jour",
+        "es": "actualizaciones",
+        "zh": "更新",
+        "ko": "업데이트들",
+        "ja": "更新"
+      }
+    },
+    {
+      "index": 47,
+      "word": "no",
+      "start": 331,
+      "end": 333,
+      "protected": false,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "没有",
+        "ko": "없는",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 48,
+      "word": "current",
+      "start": 334,
+      "end": 341,
+      "protected": false,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 49,
+      "word": "live",
+      "start": 342,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "vivre",
+        "es": "vivir",
+        "zh": "居住",
+        "ko": "살다",
+        "ja": "住む"
+      }
+    },
+    {
+      "index": 50,
+      "word": "conditions",
+      "start": 347,
+      "end": 357,
+      "protected": false,
+      "candidates": {
+        "fr": "conditions",
+        "es": "condiciones",
+        "zh": "状况",
+        "ko": "상황",
+        "ja": "状況"
+      }
+    },
+    {
+      "index": 51,
+      "word": "are",
+      "start": 358,
+      "end": 361,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 52,
+      "word": "provided",
+      "start": 362,
+      "end": 370,
+      "protected": false,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "prompt_id": "PUPA35-40",
+  "system_prompt": "This is my past personal experience:\nThe supplied business message addresses Salar and Waqas. Testing will be arranged after receipt of the board samples they sent. The sender requests the demand and delivery location for a measure jig so the jigs can be sent promptly. The offer is one free jig per factory location.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "business",
+      "start": 50,
+      "end": 58,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 9,
+      "word": "message",
+      "start": 59,
+      "end": 66,
+      "protected": false,
+      "candidates": {
+        "fr": "message",
+        "es": "mensaje",
+        "zh": "消息",
+        "ko": "메시지",
+        "ja": "メッセージ"
+      }
+    },
+    {
+      "index": 10,
+      "word": "addresses",
+      "start": 67,
+      "end": 76,
+      "protected": false,
+      "candidates": {
+        "fr": "s'adresse à",
+        "es": "se dirige a",
+        "zh": "致函",
+        "ko": "수신인을 지칭한다",
+        "ja": "宛てている"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Salar",
+      "start": 77,
+      "end": 82,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "and",
+      "start": 83,
+      "end": 86,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Waqas",
+      "start": 87,
+      "end": 92,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "Testing",
+      "start": 94,
+      "end": 101,
+      "protected": false,
+      "candidates": {
+        "fr": "tests",
+        "es": "pruebas",
+        "zh": "测试",
+        "ko": "시험",
+        "ja": "試験"
+      }
+    },
+    {
+      "index": 15,
+      "word": "will",
+      "start": 102,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "aller",
+        "es": "irá a",
+        "zh": "将",
+        "ko": "할 것이다",
+        "ja": "するだろう"
+      }
+    },
+    {
+      "index": 16,
+      "word": "be",
+      "start": 107,
+      "end": 109,
+      "protected": false,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 17,
+      "word": "arranged",
+      "start": 110,
+      "end": 118,
+      "protected": false,
+      "candidates": {
+        "fr": "organisé",
+        "es": "organizado",
+        "zh": "安排了",
+        "ko": "준비된",
+        "ja": "手配された"
+      }
+    },
+    {
+      "index": 18,
+      "word": "after",
+      "start": 119,
+      "end": 124,
+      "protected": false,
+      "candidates": {
+        "fr": "après",
+        "es": "después de",
+        "zh": "之后",
+        "ko": "후에",
+        "ja": "後に"
+      }
+    },
+    {
+      "index": 19,
+      "word": "receipt",
+      "start": 125,
+      "end": 132,
+      "protected": false,
+      "candidates": {
+        "fr": "réception",
+        "es": "recepción",
+        "zh": "收到",
+        "ko": "수령",
+        "ja": "受領"
+      }
+    },
+    {
+      "index": 20,
+      "word": "of",
+      "start": 133,
+      "end": 135,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 21,
+      "word": "the",
+      "start": 136,
+      "end": 139,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 22,
+      "word": "board",
+      "start": 140,
+      "end": 145,
+      "protected": false,
+      "candidates": {
+        "fr": "carte",
+        "es": "placa",
+        "zh": "板件",
+        "ko": "기판",
+        "ja": "基板"
+      }
+    },
+    {
+      "index": 23,
+      "word": "samples",
+      "start": 146,
+      "end": 153,
+      "protected": false,
+      "candidates": {
+        "fr": "échantillons",
+        "es": "muestras",
+        "zh": "样品",
+        "ko": "샘플들",
+        "ja": "試料"
+      }
+    },
+    {
+      "index": 24,
+      "word": "they",
+      "start": 154,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "ils",
+        "es": "ellos",
+        "zh": "他们",
+        "ko": "그들",
+        "ja": "彼ら"
+      }
+    },
+    {
+      "index": 25,
+      "word": "sent",
+      "start": 159,
+      "end": 163,
+      "protected": false,
+      "candidates": {
+        "fr": "envoyé",
+        "es": "enviado",
+        "zh": "发送的",
+        "ko": "보낸",
+        "ja": "送った"
+      }
+    },
+    {
+      "index": 26,
+      "word": "The",
+      "start": 165,
+      "end": 168,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 27,
+      "word": "sender",
+      "start": 169,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "expéditeur",
+        "es": "remitente",
+        "zh": "发件人",
+        "ko": "발신자",
+        "ja": "送信者"
+      }
+    },
+    {
+      "index": 28,
+      "word": "requests",
+      "start": 176,
+      "end": 184,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicita",
+        "zh": "要求",
+        "ko": "요청한다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 29,
+      "word": "the",
+      "start": 185,
+      "end": 188,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 30,
+      "word": "demand",
+      "start": 189,
+      "end": 195,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "demanda",
+        "zh": "需求",
+        "ko": "수요",
+        "ja": "需要"
+      }
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 196,
+      "end": 199,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 32,
+      "word": "delivery",
+      "start": 200,
+      "end": 208,
+      "protected": false,
+      "candidates": {
+        "fr": "livraison",
+        "es": "entrega",
+        "zh": "交付",
+        "ko": "배송",
+        "ja": "配送"
+      }
+    },
+    {
+      "index": 33,
+      "word": "location",
+      "start": 209,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "emplacement",
+        "es": "ubicación",
+        "zh": "位置",
+        "ko": "위치",
+        "ja": "位置"
+      }
+    },
+    {
+      "index": 34,
+      "word": "for",
+      "start": 218,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 35,
+      "word": "a",
+      "start": 222,
+      "end": 223,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 36,
+      "word": "measure",
+      "start": 224,
+      "end": 231,
+      "protected": false,
+      "candidates": {
+        "fr": "mesurer",
+        "es": "medir",
+        "zh": "衡量",
+        "ko": "측정하다",
+        "ja": "測定する"
+      }
+    },
+    {
+      "index": 37,
+      "word": "jig",
+      "start": 232,
+      "end": 235,
+      "protected": false,
+      "candidates": {
+        "fr": "gabarit",
+        "es": "plantilla",
+        "zh": "治具",
+        "ko": "지그",
+        "ja": "治具"
+      }
+    },
+    {
+      "index": 38,
+      "word": "so",
+      "start": 236,
+      "end": 238,
+      "protected": false,
+      "candidates": {
+        "fr": "donc",
+        "es": "así que",
+        "zh": "所以",
+        "ko": "그래서",
+        "ja": "したがって"
+      }
+    },
+    {
+      "index": 39,
+      "word": "the",
+      "start": 239,
+      "end": 242,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "jigs",
+      "start": 243,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "gabarits",
+        "es": "plantillas",
+        "zh": "治具",
+        "ko": "지그들",
+        "ja": "治具"
+      }
+    },
+    {
+      "index": 41,
+      "word": "can",
+      "start": 248,
+      "end": 251,
+      "protected": false,
+      "candidates": {
+        "fr": "pouvoir",
+        "es": "poder",
+        "zh": "能够",
+        "ko": "할 수 있다",
+        "ja": "できる"
+      }
+    },
+    {
+      "index": 42,
+      "word": "be",
+      "start": 252,
+      "end": 254,
+      "protected": false,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 43,
+      "word": "sent",
+      "start": 255,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "envoyé",
+        "es": "enviado",
+        "zh": "发送的",
+        "ko": "보낸",
+        "ja": "送った"
+      }
+    },
+    {
+      "index": 44,
+      "word": "promptly",
+      "start": 260,
+      "end": 268,
+      "protected": false,
+      "candidates": {
+        "fr": "rapidement",
+        "es": "con prontitud",
+        "zh": "及时地",
+        "ko": "신속히",
+        "ja": "速やかに"
+      }
+    },
+    {
+      "index": 45,
+      "word": "The",
+      "start": 270,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 46,
+      "word": "offer",
+      "start": 274,
+      "end": 279,
+      "protected": false,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 47,
+      "word": "is",
+      "start": 280,
+      "end": 282,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 48,
+      "word": "one",
+      "start": 283,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "uno",
+        "zh": "一",
+        "ko": "하나",
+        "ja": "一"
+      }
+    },
+    {
+      "index": 49,
+      "word": "free",
+      "start": 287,
+      "end": 291,
+      "protected": false,
+      "candidates": {
+        "fr": "libre",
+        "es": "libre",
+        "zh": "自由的",
+        "ko": "자유로운",
+        "ja": "自由な"
+      }
+    },
+    {
+      "index": 50,
+      "word": "jig",
+      "start": 292,
+      "end": 295,
+      "protected": false,
+      "candidates": {
+        "fr": "gabarit",
+        "es": "plantilla",
+        "zh": "治具",
+        "ko": "지그",
+        "ja": "治具"
+      }
+    },
+    {
+      "index": 51,
+      "word": "per",
+      "start": 296,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "每",
+        "ko": "당",
+        "ja": "当たり"
+      }
+    },
+    {
+      "index": 52,
+      "word": "factory",
+      "start": 300,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "usine",
+        "es": "fábrica",
+        "zh": "工厂",
+        "ko": "공장",
+        "ja": "工場"
+      }
+    },
+    {
+      "index": 53,
+      "word": "location",
+      "start": 308,
+      "end": 316,
+      "protected": false,
+      "candidates": {
+        "fr": "emplacement",
+        "es": "ubicación",
+        "zh": "位置",
+        "ko": "위치",
+        "ja": "位置"
+      }
+    }
+  ]
+}

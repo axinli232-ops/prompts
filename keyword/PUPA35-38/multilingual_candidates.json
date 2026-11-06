@@ -1,0 +1,854 @@
+{
+  "prompt_id": "PUPA35-38",
+  "system_prompt": "This is my past personal experience:\nThe supplied message concerns a subscription change involving a call to Yoda. The sender expected that call to update the relevant data. Otherwise, some records would show subscription type 24/7 while others would retain SSEDSM2. The sender warns that this discrepancy would break system integrity and make the result depend on which information source is used.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "message",
+      "start": 50,
+      "end": 57,
+      "protected": false,
+      "candidates": {
+        "fr": "message",
+        "es": "mensaje",
+        "zh": "消息",
+        "ko": "메시지",
+        "ja": "メッセージ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "concerns",
+      "start": 58,
+      "end": 66,
+      "protected": false,
+      "candidates": {
+        "fr": "préoccupation",
+        "es": "preocupación",
+        "zh": "关切",
+        "ko": "우려",
+        "ja": "懸念"
+      }
+    },
+    {
+      "index": 10,
+      "word": "a",
+      "start": 67,
+      "end": 68,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 11,
+      "word": "subscription",
+      "start": 69,
+      "end": 81,
+      "protected": false,
+      "candidates": {
+        "fr": "abonnement",
+        "es": "suscripción",
+        "zh": "订阅",
+        "ko": "구독",
+        "ja": "サブスクリプション"
+      }
+    },
+    {
+      "index": 12,
+      "word": "change",
+      "start": 82,
+      "end": 88,
+      "protected": false,
+      "candidates": {
+        "fr": "changement",
+        "es": "cambio",
+        "zh": "变更",
+        "ko": "변경",
+        "ja": "変更"
+      }
+    },
+    {
+      "index": 13,
+      "word": "involving",
+      "start": 89,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 14,
+      "word": "a",
+      "start": 99,
+      "end": 100,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 15,
+      "word": "call",
+      "start": 101,
+      "end": 105,
+      "protected": false,
+      "candidates": {
+        "fr": "appel",
+        "es": "llamada",
+        "zh": "调用",
+        "ko": "호출",
+        "ja": "呼び出し"
+      }
+    },
+    {
+      "index": 16,
+      "word": "to",
+      "start": 106,
+      "end": 108,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Yoda",
+      "start": 109,
+      "end": 113,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "The",
+      "start": 115,
+      "end": 118,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 19,
+      "word": "sender",
+      "start": 119,
+      "end": 125,
+      "protected": false,
+      "candidates": {
+        "fr": "expéditeur",
+        "es": "remitente",
+        "zh": "发件人",
+        "ko": "발신자",
+        "ja": "送信者"
+      }
+    },
+    {
+      "index": 20,
+      "word": "expected",
+      "start": 126,
+      "end": 134,
+      "protected": false,
+      "candidates": {
+        "fr": "attendu",
+        "es": "esperado",
+        "zh": "预期的",
+        "ko": "예상되는",
+        "ja": "予想される"
+      }
+    },
+    {
+      "index": 21,
+      "word": "that",
+      "start": 135,
+      "end": 139,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 22,
+      "word": "call",
+      "start": 140,
+      "end": 144,
+      "protected": false,
+      "candidates": {
+        "fr": "appel",
+        "es": "llamada",
+        "zh": "调用",
+        "ko": "호출",
+        "ja": "呼び出し"
+      }
+    },
+    {
+      "index": 23,
+      "word": "to",
+      "start": 145,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "update",
+      "start": 148,
+      "end": 154,
+      "protected": false,
+      "candidates": {
+        "fr": "mise à jour",
+        "es": "actualización",
+        "zh": "更新",
+        "ko": "업데이트",
+        "ja": "更新"
+      }
+    },
+    {
+      "index": 25,
+      "word": "the",
+      "start": 155,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 26,
+      "word": "relevant",
+      "start": 159,
+      "end": 167,
+      "protected": false,
+      "candidates": {
+        "fr": "pertinent",
+        "es": "relevante",
+        "zh": "相关的",
+        "ko": "관련된",
+        "ja": "関連する"
+      }
+    },
+    {
+      "index": 27,
+      "word": "data",
+      "start": 168,
+      "end": 172,
+      "protected": false,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Otherwise",
+      "start": 174,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "sinon",
+        "es": "de lo contrario",
+        "zh": "否则",
+        "ko": "그렇지 않으면",
+        "ja": "そうでなければ"
+      }
+    },
+    {
+      "index": 29,
+      "word": "some",
+      "start": 185,
+      "end": 189,
+      "protected": false,
+      "candidates": {
+        "fr": "certains",
+        "es": "algunos",
+        "zh": "一些",
+        "ko": "일부",
+        "ja": "いくつかの"
+      }
+    },
+    {
+      "index": 30,
+      "word": "records",
+      "start": 190,
+      "end": 197,
+      "protected": false,
+      "candidates": {
+        "fr": "enregistrements",
+        "es": "registros",
+        "zh": "记录",
+        "ko": "기록들",
+        "ja": "記録"
+      }
+    },
+    {
+      "index": 31,
+      "word": "would",
+      "start": 198,
+      "end": 203,
+      "protected": false,
+      "candidates": {
+        "fr": "ferait",
+        "es": "haría",
+        "zh": "将会",
+        "ko": "할 것이다",
+        "ja": "だろう"
+      }
+    },
+    {
+      "index": 32,
+      "word": "show",
+      "start": 204,
+      "end": 208,
+      "protected": false,
+      "candidates": {
+        "fr": "indiquer",
+        "es": "mostrar",
+        "zh": "显示",
+        "ko": "표시하다",
+        "ja": "表示する"
+      }
+    },
+    {
+      "index": 33,
+      "word": "subscription",
+      "start": 209,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "abonnement",
+        "es": "suscripción",
+        "zh": "订阅",
+        "ko": "구독",
+        "ja": "サブスクリプション"
+      }
+    },
+    {
+      "index": 34,
+      "word": "type",
+      "start": 222,
+      "end": 226,
+      "protected": false,
+      "candidates": {
+        "fr": "type",
+        "es": "tipo",
+        "zh": "类型",
+        "ko": "유형",
+        "ja": "型"
+      }
+    },
+    {
+      "index": 35,
+      "word": "while",
+      "start": 232,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "pendant que",
+        "es": "mientras",
+        "zh": "当时",
+        "ko": "동안",
+        "ja": "の間に"
+      }
+    },
+    {
+      "index": 36,
+      "word": "others",
+      "start": 238,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "autre",
+        "es": "otro",
+        "zh": "其他的",
+        "ko": "다른",
+        "ja": "ほかの"
+      }
+    },
+    {
+      "index": 37,
+      "word": "would",
+      "start": 245,
+      "end": 250,
+      "protected": false,
+      "candidates": {
+        "fr": "ferait",
+        "es": "haría",
+        "zh": "将会",
+        "ko": "할 것이다",
+        "ja": "だろう"
+      }
+    },
+    {
+      "index": 38,
+      "word": "retain",
+      "start": 251,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "conserver",
+        "es": "conservar",
+        "zh": "保留",
+        "ko": "유지하다",
+        "ja": "保持する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "SSEDSM",
+      "start": 258,
+      "end": 264,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "The",
+      "start": 267,
+      "end": 270,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 41,
+      "word": "sender",
+      "start": 271,
+      "end": 277,
+      "protected": false,
+      "candidates": {
+        "fr": "expéditeur",
+        "es": "remitente",
+        "zh": "发件人",
+        "ko": "발신자",
+        "ja": "送信者"
+      }
+    },
+    {
+      "index": 42,
+      "word": "warns",
+      "start": 278,
+      "end": 283,
+      "protected": false,
+      "candidates": {
+        "fr": "avertit",
+        "es": "advierte",
+        "zh": "警告",
+        "ko": "경고한다",
+        "ja": "警告する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "that",
+      "start": 284,
+      "end": 288,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 44,
+      "word": "this",
+      "start": 289,
+      "end": 293,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 45,
+      "word": "discrepancy",
+      "start": 294,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "incohérence",
+        "es": "discrepancia",
+        "zh": "不一致",
+        "ko": "불일치",
+        "ja": "不一致"
+      }
+    },
+    {
+      "index": 46,
+      "word": "would",
+      "start": 306,
+      "end": 311,
+      "protected": false,
+      "candidates": {
+        "fr": "ferait",
+        "es": "haría",
+        "zh": "将会",
+        "ko": "할 것이다",
+        "ja": "だろう"
+      }
+    },
+    {
+      "index": 47,
+      "word": "break",
+      "start": 312,
+      "end": 317,
+      "protected": false,
+      "candidates": {
+        "fr": "éliminer",
+        "es": "eliminar",
+        "zh": "消除",
+        "ko": "없애다",
+        "ja": "取り除く"
+      }
+    },
+    {
+      "index": 48,
+      "word": "system",
+      "start": 318,
+      "end": 324,
+      "protected": false,
+      "candidates": {
+        "fr": "système",
+        "es": "sistema",
+        "zh": "系统",
+        "ko": "시스템",
+        "ja": "システム"
+      }
+    },
+    {
+      "index": 49,
+      "word": "integrity",
+      "start": 325,
+      "end": 334,
+      "protected": false,
+      "candidates": {
+        "fr": "intégrité",
+        "es": "integridad",
+        "zh": "完整性",
+        "ko": "무결성",
+        "ja": "整合性"
+      }
+    },
+    {
+      "index": 50,
+      "word": "and",
+      "start": 335,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 51,
+      "word": "make",
+      "start": 339,
+      "end": 343,
+      "protected": false,
+      "candidates": {
+        "fr": "faire",
+        "es": "hacer",
+        "zh": "制作",
+        "ko": "만들다",
+        "ja": "作る"
+      }
+    },
+    {
+      "index": 52,
+      "word": "the",
+      "start": 344,
+      "end": 347,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 53,
+      "word": "result",
+      "start": 348,
+      "end": 354,
+      "protected": false,
+      "candidates": {
+        "fr": "résultat",
+        "es": "resultado",
+        "zh": "结果",
+        "ko": "결과",
+        "ja": "結果"
+      }
+    },
+    {
+      "index": 54,
+      "word": "depend",
+      "start": 355,
+      "end": 361,
+      "protected": false,
+      "candidates": {
+        "fr": "dépendre",
+        "es": "depender",
+        "zh": "取决于",
+        "ko": "의존하다",
+        "ja": "依存する"
+      }
+    },
+    {
+      "index": 55,
+      "word": "on",
+      "start": 362,
+      "end": 364,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 56,
+      "word": "which",
+      "start": 365,
+      "end": 370,
+      "protected": false,
+      "candidates": {
+        "fr": "quel",
+        "es": "cuál",
+        "zh": "哪个",
+        "ko": "어느",
+        "ja": "どの"
+      }
+    },
+    {
+      "index": 57,
+      "word": "information",
+      "start": 371,
+      "end": 382,
+      "protected": false,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 58,
+      "word": "source",
+      "start": 383,
+      "end": 389,
+      "protected": false,
+      "candidates": {
+        "fr": "source",
+        "es": "fuente",
+        "zh": "来源",
+        "ko": "출처",
+        "ja": "出典"
+      }
+    },
+    {
+      "index": 59,
+      "word": "is",
+      "start": 390,
+      "end": 392,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 60,
+      "word": "used",
+      "start": 393,
+      "end": 397,
+      "protected": false,
+      "candidates": {
+        "fr": "utilisé",
+        "es": "usado",
+        "zh": "使用的",
+        "ko": "사용된",
+        "ja": "使用された"
+      }
+    }
+  ]
+}

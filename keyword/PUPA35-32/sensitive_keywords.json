@@ -1,0 +1,36 @@
+{
+  "prompt_id": "PUPA35-32",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Quetta Campus",
+      "start": 81,
+      "end": 94,
+      "category": "entity"
+    },
+    {
+      "text": "69",
+      "start": 107,
+      "end": 109,
+      "category": "fixed_value"
+    },
+    {
+      "text": "IBS",
+      "start": 133,
+      "end": 136,
+      "category": "entity"
+    },
+    {
+      "text": "WhatsApp",
+      "start": 162,
+      "end": 170,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Quetta Campus",
+    "69",
+    "IBS",
+    "WhatsApp"
+  ]
+}

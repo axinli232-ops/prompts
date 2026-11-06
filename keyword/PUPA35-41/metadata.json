@@ -1,0 +1,35 @@
+{
+  "id": "PUPA35-41",
+  "title_zh": "桌面聊天应用介绍",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 17,
+  "conversation_hash": "2c9dd417dd9b5e69152352ec17162741",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "focus_topics": [
+    "the chatbot described",
+    "the chatbot’s organization",
+    "the model family mentioned",
+    "the desktop application",
+    "the application creator",
+    "the operating system",
+    "the menu-bar access",
+    "the stated pricing arrangement",
+    "the sign-in requirement",
+    "the keyboard-shortcut option"
+  ],
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "protected_terms": [
+    "ChatGPT",
+    "OpenAI",
+    "GPT-3",
+    "MacGPT",
+    "Jordi Bruin",
+    "macOS",
+    "Mac"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

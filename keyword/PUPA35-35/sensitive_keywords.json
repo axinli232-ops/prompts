@@ -1,0 +1,343 @@
+{
+  "prompt_id": "PUPA35-35",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "id",
+      "start": 61,
+      "end": 63,
+      "category": "entity"
+    },
+    {
+      "text": "first_name",
+      "start": 65,
+      "end": 75,
+      "category": "entity"
+    },
+    {
+      "text": "last_name",
+      "start": 77,
+      "end": 86,
+      "category": "entity"
+    },
+    {
+      "text": "hire_date",
+      "start": 88,
+      "end": 97,
+      "category": "entity"
+    },
+    {
+      "text": "salary",
+      "start": 99,
+      "end": 105,
+      "category": "entity"
+    },
+    {
+      "text": "department_id",
+      "start": 107,
+      "end": 120,
+      "category": "entity"
+    },
+    {
+      "text": "manager_id",
+      "start": 122,
+      "end": 132,
+      "category": "entity"
+    },
+    {
+      "text": "John",
+      "start": 138,
+      "end": 142,
+      "category": "entity"
+    },
+    {
+      "text": "Doe",
+      "start": 143,
+      "end": 146,
+      "category": "entity"
+    },
+    {
+      "text": "2021-01-01",
+      "start": 147,
+      "end": 157,
+      "category": "fixed_value"
+    },
+    {
+      "text": "null",
+      "start": 166,
+      "end": 170,
+      "category": "entity"
+    },
+    {
+      "text": "Jane",
+      "start": 176,
+      "end": 180,
+      "category": "entity"
+    },
+    {
+      "text": "Doe",
+      "start": 181,
+      "end": 184,
+      "category": "entity"
+    },
+    {
+      "text": "2021-02-15",
+      "start": 185,
+      "end": 195,
+      "category": "fixed_value"
+    },
+    {
+      "text": "60000,1,1",
+      "start": 196,
+      "end": 205,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Bob",
+      "start": 211,
+      "end": 214,
+      "category": "entity"
+    },
+    {
+      "text": "Smith",
+      "start": 215,
+      "end": 220,
+      "category": "entity"
+    },
+    {
+      "text": "2021-03-01",
+      "start": 221,
+      "end": 231,
+      "category": "fixed_value"
+    },
+    {
+      "text": "55000,2,1",
+      "start": 232,
+      "end": 241,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Sara",
+      "start": 247,
+      "end": 251,
+      "category": "entity"
+    },
+    {
+      "text": "Johnson",
+      "start": 252,
+      "end": 259,
+      "category": "entity"
+    },
+    {
+      "text": "2021-04-01",
+      "start": 260,
+      "end": 270,
+      "category": "fixed_value"
+    },
+    {
+      "text": "65000,2,2",
+      "start": 271,
+      "end": 280,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Tom",
+      "start": 286,
+      "end": 289,
+      "category": "entity"
+    },
+    {
+      "text": "Williams",
+      "start": 290,
+      "end": 298,
+      "category": "entity"
+    },
+    {
+      "text": "2021-05-01",
+      "start": 299,
+      "end": 309,
+      "category": "fixed_value"
+    },
+    {
+      "text": "70000,3,2",
+      "start": 310,
+      "end": 319,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Emily",
+      "start": 325,
+      "end": 330,
+      "category": "entity"
+    },
+    {
+      "text": "Jones",
+      "start": 331,
+      "end": 336,
+      "category": "entity"
+    },
+    {
+      "text": "2021-06-01",
+      "start": 337,
+      "end": 347,
+      "category": "fixed_value"
+    },
+    {
+      "text": "80000,3,3",
+      "start": 348,
+      "end": 357,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Mike",
+      "start": 363,
+      "end": 367,
+      "category": "entity"
+    },
+    {
+      "text": "Brown",
+      "start": 368,
+      "end": 373,
+      "category": "entity"
+    },
+    {
+      "text": "2021-07-01",
+      "start": 374,
+      "end": 384,
+      "category": "fixed_value"
+    },
+    {
+      "text": "75000,4,3",
+      "start": 385,
+      "end": 394,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Lisa",
+      "start": 400,
+      "end": 404,
+      "category": "entity"
+    },
+    {
+      "text": "Davis",
+      "start": 405,
+      "end": 410,
+      "category": "entity"
+    },
+    {
+      "text": "2021-08-01",
+      "start": 411,
+      "end": 421,
+      "category": "fixed_value"
+    },
+    {
+      "text": "85000,4,4",
+      "start": 422,
+      "end": 431,
+      "category": "fixed_value"
+    },
+    {
+      "text": "David",
+      "start": 437,
+      "end": 442,
+      "category": "entity"
+    },
+    {
+      "text": "Wilson",
+      "start": 443,
+      "end": 449,
+      "category": "entity"
+    },
+    {
+      "text": "2021-09-01",
+      "start": 450,
+      "end": 460,
+      "category": "fixed_value"
+    },
+    {
+      "text": "90000,5,4",
+      "start": 461,
+      "end": 470,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Laura",
+      "start": 477,
+      "end": 482,
+      "category": "entity"
+    },
+    {
+      "text": "Taylor",
+      "start": 483,
+      "end": 489,
+      "category": "entity"
+    },
+    {
+      "text": "2021-10-01",
+      "start": 490,
+      "end": 500,
+      "category": "fixed_value"
+    },
+    {
+      "text": "95000,5,5",
+      "start": 501,
+      "end": 510,
+      "category": "fixed_value"
+    },
+    {
+      "text": "employees",
+      "start": 526,
+      "end": 535,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "id",
+    "first_name",
+    "last_name",
+    "hire_date",
+    "salary",
+    "department_id",
+    "manager_id",
+    "John",
+    "Doe",
+    "2021-01-01",
+    "null",
+    "Jane",
+    "2021-02-15",
+    "60000,1,1",
+    "Bob",
+    "Smith",
+    "2021-03-01",
+    "55000,2,1",
+    "Sara",
+    "Johnson",
+    "2021-04-01",
+    "65000,2,2",
+    "Tom",
+    "Williams",
+    "2021-05-01",
+    "70000,3,2",
+    "Emily",
+    "Jones",
+    "2021-06-01",
+    "80000,3,3",
+    "Mike",
+    "Brown",
+    "2021-07-01",
+    "75000,4,3",
+    "Lisa",
+    "Davis",
+    "2021-08-01",
+    "85000,4,4",
+    "David",
+    "Wilson",
+    "2021-09-01",
+    "90000,5,4",
+    "Laura",
+    "Taylor",
+    "2021-10-01",
+    "95000,5,5",
+    "employees"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "PUPA35-31",
+  "title_zh": "海滩安全公告背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 4,
+  "conversation_hash": "0bbed90d2531e4d1afe8670dfbfbb46c",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "背景较薄，不建议仅靠150种同义改写；不生成实时开放或海况信息。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who issued the safety notice",
+    "the town addressed in the notice",
+    "the island referenced in connection with incidents",
+    "the end-of-season context",
+    "the reduction in protected beaches",
+    "the recommendation about unprotected beaches",
+    "the intended readers",
+    "the suggested channels for official updates",
+    "the live conditions not supplied",
+    "the distinction between the notice and current beach status"
+  ],
+  "protected_terms": [
+    "Longport Police Department",
+    "Longport",
+    "Absecon Island"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

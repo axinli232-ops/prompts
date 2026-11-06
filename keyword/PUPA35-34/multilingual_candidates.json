@@ -1,0 +1,693 @@
+{
+  "prompt_id": "PUPA35-34",
+  "system_prompt": "This is my past personal experience:\nThe supplied listing describes a three-bedroom, one-bathroom townhouse in Skyview Mesa near US 60. Features include a covered patio, updated kitchen, wood-look tile in common areas, carpeted bedrooms, walk-in closets, an assigned parking space and community pool. No price, area or exact address is supplied.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "listing",
+      "start": 50,
+      "end": 57,
+      "protected": false,
+      "candidates": {
+        "fr": "liste",
+        "es": "listado",
+        "zh": "列表",
+        "ko": "목록화",
+        "ja": "一覧"
+      }
+    },
+    {
+      "index": 9,
+      "word": "describes",
+      "start": 58,
+      "end": 67,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "a",
+      "start": 68,
+      "end": 69,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 11,
+      "word": "three-bedroom",
+      "start": 70,
+      "end": 83,
+      "protected": false,
+      "candidates": {
+        "fr": "trois chambres",
+        "es": "tres dormitorios",
+        "zh": "三间卧室的",
+        "ko": "침실 세 개의",
+        "ja": "寝室三つの"
+      }
+    },
+    {
+      "index": 12,
+      "word": "one-bathroom",
+      "start": 85,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "une salle de bains",
+        "es": "un baño",
+        "zh": "一间浴室的",
+        "ko": "욕실 하나의",
+        "ja": "浴室一つの"
+      }
+    },
+    {
+      "index": 13,
+      "word": "townhouse",
+      "start": 98,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "maison mitoyenne",
+        "es": "casa adosada",
+        "zh": "联排住宅",
+        "ko": "연립주택",
+        "ja": "タウンハウス"
+      }
+    },
+    {
+      "index": 14,
+      "word": "in",
+      "start": 108,
+      "end": 110,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Skyview",
+      "start": 111,
+      "end": 118,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "Mesa",
+      "start": 119,
+      "end": 123,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "near",
+      "start": 124,
+      "end": 128,
+      "protected": false,
+      "candidates": {
+        "fr": "près de",
+        "es": "cerca de",
+        "zh": "靠近",
+        "ko": "근처에",
+        "ja": "近くに"
+      }
+    },
+    {
+      "index": 18,
+      "word": "US",
+      "start": 129,
+      "end": 131,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "Features",
+      "start": 136,
+      "end": 144,
+      "protected": false,
+      "candidates": {
+        "fr": "caractéristique",
+        "es": "característica",
+        "zh": "特征",
+        "ko": "특징",
+        "ja": "特徴"
+      }
+    },
+    {
+      "index": 20,
+      "word": "include",
+      "start": 145,
+      "end": 152,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 21,
+      "word": "a",
+      "start": 153,
+      "end": 154,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 22,
+      "word": "covered",
+      "start": 155,
+      "end": 162,
+      "protected": false,
+      "candidates": {
+        "fr": "couvert",
+        "es": "cubierto",
+        "zh": "有顶的",
+        "ko": "지붕이 있는",
+        "ja": "屋根付きの"
+      }
+    },
+    {
+      "index": 23,
+      "word": "patio",
+      "start": 163,
+      "end": 168,
+      "protected": false,
+      "candidates": {
+        "fr": "terrasse",
+        "es": "patio",
+        "zh": "露台",
+        "ko": "테라스",
+        "ja": "パティオ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "updated",
+      "start": 170,
+      "end": 177,
+      "protected": false,
+      "candidates": {
+        "fr": "mis à jour",
+        "es": "actualizado",
+        "zh": "更新的",
+        "ko": "업데이트된",
+        "ja": "更新された"
+      }
+    },
+    {
+      "index": 25,
+      "word": "kitchen",
+      "start": 178,
+      "end": 185,
+      "protected": false,
+      "candidates": {
+        "fr": "cuisine",
+        "es": "cocina",
+        "zh": "厨房",
+        "ko": "주방",
+        "ja": "台所"
+      }
+    },
+    {
+      "index": 26,
+      "word": "wood-look",
+      "start": 187,
+      "end": 196,
+      "protected": false,
+      "candidates": {
+        "fr": "aspect bois",
+        "es": "aspecto de madera",
+        "zh": "仿木的",
+        "ko": "나뭇결 무늬의",
+        "ja": "木目調の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "tile",
+      "start": 197,
+      "end": 201,
+      "protected": false,
+      "candidates": {
+        "fr": "carrelage",
+        "es": "baldosa",
+        "zh": "瓷砖",
+        "ko": "타일",
+        "ja": "タイル"
+      }
+    },
+    {
+      "index": 28,
+      "word": "in",
+      "start": 202,
+      "end": 204,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 29,
+      "word": "common",
+      "start": 205,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "commun",
+        "es": "común",
+        "zh": "常见的",
+        "ko": "일반적인",
+        "ja": "一般的な"
+      }
+    },
+    {
+      "index": 30,
+      "word": "areas",
+      "start": 212,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "domaines",
+        "es": "áreas",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 31,
+      "word": "carpeted",
+      "start": 219,
+      "end": 227,
+      "protected": false,
+      "candidates": {
+        "fr": "avec moquette",
+        "es": "alfombrado",
+        "zh": "铺地毯的",
+        "ko": "카펫이 깔린",
+        "ja": "カーペット敷きの"
+      }
+    },
+    {
+      "index": 32,
+      "word": "bedrooms",
+      "start": 228,
+      "end": 236,
+      "protected": false,
+      "candidates": {
+        "fr": "chambres",
+        "es": "dormitorios",
+        "zh": "卧室",
+        "ko": "침실들",
+        "ja": "寝室"
+      }
+    },
+    {
+      "index": 33,
+      "word": "walk-in",
+      "start": 238,
+      "end": 245,
+      "protected": false,
+      "candidates": {
+        "fr": "accessible de plain-pied",
+        "es": "transitable",
+        "zh": "步入式的",
+        "ko": "걸어 들어갈 수 있는",
+        "ja": "ウォークインの"
+      }
+    },
+    {
+      "index": 34,
+      "word": "closets",
+      "start": 246,
+      "end": 253,
+      "protected": false,
+      "candidates": {
+        "fr": "placards",
+        "es": "armarios",
+        "zh": "衣柜",
+        "ko": "옷장들",
+        "ja": "クローゼット"
+      }
+    },
+    {
+      "index": 35,
+      "word": "an",
+      "start": 255,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 36,
+      "word": "assigned",
+      "start": 258,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "attribuer",
+        "es": "asignar",
+        "zh": "分配",
+        "ko": "배정하다",
+        "ja": "割り当てる"
+      }
+    },
+    {
+      "index": 37,
+      "word": "parking",
+      "start": 267,
+      "end": 274,
+      "protected": false,
+      "candidates": {
+        "fr": "stationnement",
+        "es": "estacionamiento",
+        "zh": "停车",
+        "ko": "주차",
+        "ja": "駐車"
+      }
+    },
+    {
+      "index": 38,
+      "word": "space",
+      "start": 275,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "espace",
+        "es": "espacio",
+        "zh": "空间",
+        "ko": "공간",
+        "ja": "スペース"
+      }
+    },
+    {
+      "index": 39,
+      "word": "and",
+      "start": 281,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 40,
+      "word": "community",
+      "start": 285,
+      "end": 294,
+      "protected": false,
+      "candidates": {
+        "fr": "communauté",
+        "es": "comunidad",
+        "zh": "社区",
+        "ko": "공동체",
+        "ja": "共同体"
+      }
+    },
+    {
+      "index": 41,
+      "word": "pool",
+      "start": 295,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "piscine",
+        "es": "piscina",
+        "zh": "游泳池",
+        "ko": "수영장",
+        "ja": "プール"
+      }
+    },
+    {
+      "index": 42,
+      "word": "No",
+      "start": 301,
+      "end": 303,
+      "protected": false,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "没有",
+        "ko": "없는",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 43,
+      "word": "price",
+      "start": 304,
+      "end": 309,
+      "protected": false,
+      "candidates": {
+        "fr": "prix",
+        "es": "precio",
+        "zh": "价格",
+        "ko": "가격",
+        "ja": "価格"
+      }
+    },
+    {
+      "index": 44,
+      "word": "area",
+      "start": 311,
+      "end": 315,
+      "protected": false,
+      "candidates": {
+        "fr": "superficie",
+        "es": "área",
+        "zh": "面积",
+        "ko": "면적",
+        "ja": "面積"
+      }
+    },
+    {
+      "index": 45,
+      "word": "or",
+      "start": 316,
+      "end": 318,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 46,
+      "word": "exact",
+      "start": 319,
+      "end": 324,
+      "protected": false,
+      "candidates": {
+        "fr": "exact",
+        "es": "exacto",
+        "zh": "确切的",
+        "ko": "정확한",
+        "ja": "正確な"
+      }
+    },
+    {
+      "index": 47,
+      "word": "address",
+      "start": 325,
+      "end": 332,
+      "protected": false,
+      "candidates": {
+        "fr": "traiter",
+        "es": "abordar",
+        "zh": "处理",
+        "ko": "다루다",
+        "ja": "対処する"
+      }
+    },
+    {
+      "index": 48,
+      "word": "is",
+      "start": 333,
+      "end": 335,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 49,
+      "word": "supplied",
+      "start": 336,
+      "end": 344,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    }
+  ]
+}

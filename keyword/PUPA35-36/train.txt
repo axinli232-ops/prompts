@@ -1,0 +1,100 @@
+Prepare a scannable list covering the requested accommodations. Answer in English.
+How would you describe the recipient in two short sentences? Answer in English.
+Write a brief message to a colleague explaining the program discussed. Answer in English.
+Give me a brief checklist of facts relating to the program discussed. Answer in English.
+Write a brief help-page entry explaining the appreciation expressed. Answer in English.
+Prepare one FAQ question and its answer concerning the goal of program access. Answer in English.
+What does the background say about the tone of the message? Answer in English.
+How should the requested accommodations be presented in a factual briefing? Answer in English.
+Create a compact table identifying the details of the tone of the message. Answer in English.
+Give a plain-language explanation of the recipient. Answer in English.
+Write a brief message to a colleague explaining the goal of program access. Answer in English.
+Describe the program discussed without technical jargon. Answer in English.
+Present the response to the phone call in a table suitable for a quick reference. Answer in English.
+Create a compact table identifying the details of the requested accommodations. Answer in English.
+I am replying to a colleague; draft two sentences about the reason accommodations matter. Answer in English.
+Extract the key details about the barriers mentioned into a short bullet list. Answer in English.
+I need to check the appreciation expressed; what is recorded? Answer in English.
+How would you explain the organization mentioned to a new reader? Answer in English.
+Present the barriers mentioned in a table suitable for a quick reference. Answer in English.
+Make the tone of the message understandable to someone seeing the background for the first time. Answer in English.
+Prepare a short update for a colleague focused on the requested accommodations. Answer in English.
+Prepare one FAQ question and its answer concerning the program discussed. Answer in English.
+Put the details about the goal of program access into a small table. Answer in English.
+Show the information about the appreciation expressed as a two-column fact sheet. Answer in English.
+I am preparing a factual briefing; draft the portion about the program discussed. Answer in English.
+Create two concise bullet points about the reason accommodations matter. Answer in English.
+How should the tone of the message be presented in a factual briefing? Answer in English.
+Which names, dates, locations or values are associated with the recipient? Answer in English.
+Organize the reason accommodations matter into a label-and-value table. Answer in English.
+Create two concise bullet points about the recipient. Answer in English.
+Give me a one-sentence summary of the organization mentioned. Answer in English.
+I need to check the organization mentioned; what is recorded? Answer in English.
+Prepare a caption and a supporting sentence about the program discussed. Answer in English.
+What can you tell me about the response to the phone call from my experience? Answer in English.
+Help me add a concise section about the barriers mentioned to a factual briefing. Answer in English.
+Turn the appreciation expressed into a few presentation notes. Answer in English.
+What exact facts would I need to retain when describing the goal of program access? Answer in English.
+Show the information about the organization mentioned as a two-column fact sheet. Answer in English.
+I am preparing a factual briefing; draft the portion about the goal of program access. Answer in English.
+Prepare a short passage on the recipient for a factual briefing. Answer in English.
+Could you identify the information available about the recipient? Answer in English.
+Write a short heading followed by a factual sentence about the appreciation expressed. Answer in English.
+How could I explain the appreciation expressed in an introductory email to a colleague? Answer in English.
+Help me add a concise section about the response to the phone call to a factual briefing. Answer in English.
+Prepare a short update for a colleague focused on the tone of the message. Answer in English.
+How would you explain the appreciation expressed to a new reader? Answer in English.
+Suggest a descriptive section title and a one-line explanation of the tone of the message. Answer in English.
+Draft a short email paragraph about the response to the phone call for a colleague. Answer in English.
+Prepare a scannable list covering the tone of the message. Answer in English.
+Create a slide title and subtitle covering the recipient. Answer in English.
+Which factual details should appear in a precise account of the tone of the message? Answer in English.
+How would you describe the reason accommodations matter in two short sentences? Answer in English.
+Extract the key details about the response to the phone call into a short bullet list. Answer in English.
+List the concrete identifiers and values relevant to the barriers mentioned. Answer in English.
+Explain the response to the phone call to someone unfamiliar with this background. Answer in English.
+Summarize the tone of the message in no more than 30 words. Answer in English.
+Put the details about the program discussed into a small table. Answer in English.
+Which details are provided about the program discussed? Answer in English.
+Prepare a caption and a supporting sentence about the goal of program access. Answer in English.
+Which details are provided about the goal of program access? Answer in English.
+How could I explain the organization mentioned in an introductory email to a colleague? Answer in English.
+Write the section of a factual briefing that covers the organization mentioned. Answer in English.
+Give me a brief checklist of facts relating to the goal of program access. Answer in English.
+Turn the organization mentioned into a few presentation notes. Answer in English.
+Give a plain-language explanation of the reason accommodations matter. Answer in English.
+Give me a one-sentence summary of the appreciation expressed. Answer in English.
+Create a slide title and subtitle covering the reason accommodations matter. Answer in English.
+I am replying to a colleague; draft two sentences about the recipient. Answer in English.
+Which factual details should appear in a precise account of the requested accommodations? Answer in English.
+Create a short FAQ item about the recipient. Answer in English.
+Create a short FAQ item about the reason accommodations matter. Answer in English.
+Give me a neutral headline and a short description of the response to the phone call. Answer in English.
+Could you identify the information available about the reason accommodations matter? Answer in English.
+Prepare a short passage on the reason accommodations matter for a factual briefing. Answer in English.
+Summarize the requested accommodations in no more than 30 words. Answer in English.
+What does the background say about the requested accommodations? Answer in English.
+I only have space for one line about the goal of program access; what should it say? Answer in English.
+Make the requested accommodations understandable to someone seeing the background for the first time. Answer in English.
+Which names, dates, locations or values are associated with the reason accommodations matter? Answer in English.
+Describe the goal of program access without technical jargon. Answer in English.
+I only have space for one line about the program discussed; what should it say? Answer in English.
+Give me the specific names or other recorded details connected to the appreciation expressed. Answer in English.
+Draft a short email paragraph about the barriers mentioned for a colleague. Answer in English.
+Give me the specific names or other recorded details connected to the organization mentioned. Answer in English.
+Suggest a descriptive section title and a one-line explanation of the requested accommodations. Answer in English.
+Write a question-and-answer entry that explains the requested accommodations. Answer in English.
+Write a short heading followed by a factual sentence about the organization mentioned. Answer in English.
+Write a brief help-page entry explaining the organization mentioned. Answer in English.
+How would you answer a reader asking about the response to the phone call? Answer in English.
+Write a compact overview of the response to the phone call. Answer in English.
+List the concrete identifiers and values relevant to the response to the phone call. Answer in English.
+Give me a neutral headline and a short description of the barriers mentioned. Answer in English.
+What can you tell me about the barriers mentioned from my experience? Answer in English.
+Organize the recipient into a label-and-value table. Answer in English.
+Write a compact overview of the barriers mentioned. Answer in English.
+Write the section of a factual briefing that covers the appreciation expressed. Answer in English.
+What exact facts would I need to retain when describing the program discussed? Answer in English.
+How would you answer a reader asking about the barriers mentioned? Answer in English.
+Explain the barriers mentioned to someone unfamiliar with this background. Answer in English.
+Write a question-and-answer entry that explains the tone of the message. Answer in English.

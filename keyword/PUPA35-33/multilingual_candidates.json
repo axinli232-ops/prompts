@@ -1,0 +1,630 @@
+{
+  "prompt_id": "PUPA35-33",
+  "system_prompt": "This is my past personal experience:\nQuasi Ventures Inc. is described as an AI marketplace for creators. The supplied description mentions IG caption writing, oil-painting generation, tutoring, coding, debugging and story generation. Quasi AI is described as powering the platform, its website, image generation and text creation.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Quasi",
+      "start": 37,
+      "end": 42,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Ventures",
+      "start": 43,
+      "end": 51,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "Inc",
+      "start": 52,
+      "end": 55,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "is",
+      "start": 57,
+      "end": 59,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 10,
+      "word": "described",
+      "start": 60,
+      "end": 69,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 11,
+      "word": "as",
+      "start": 70,
+      "end": 72,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 12,
+      "word": "an",
+      "start": 73,
+      "end": 75,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 13,
+      "word": "AI",
+      "start": 76,
+      "end": 78,
+      "protected": false,
+      "candidates": {
+        "fr": "intelligence artificielle",
+        "es": "inteligencia artificial",
+        "zh": "人工智能",
+        "ko": "인공지능",
+        "ja": "人工知能"
+      }
+    },
+    {
+      "index": 14,
+      "word": "marketplace",
+      "start": 79,
+      "end": 90,
+      "protected": false,
+      "candidates": {
+        "fr": "place de marché",
+        "es": "mercado",
+        "zh": "市场平台",
+        "ko": "마켓플레이스",
+        "ja": "マーケットプレイス"
+      }
+    },
+    {
+      "index": 15,
+      "word": "for",
+      "start": 91,
+      "end": 94,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 16,
+      "word": "creators",
+      "start": 95,
+      "end": 103,
+      "protected": false,
+      "candidates": {
+        "fr": "créateurs",
+        "es": "creadores",
+        "zh": "创作者",
+        "ko": "창작자들",
+        "ja": "クリエイター"
+      }
+    },
+    {
+      "index": 17,
+      "word": "The",
+      "start": 105,
+      "end": 108,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "supplied",
+      "start": 109,
+      "end": 117,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 19,
+      "word": "description",
+      "start": 118,
+      "end": 129,
+      "protected": false,
+      "candidates": {
+        "fr": "description",
+        "es": "descripción",
+        "zh": "描述",
+        "ko": "설명",
+        "ja": "記述"
+      }
+    },
+    {
+      "index": 20,
+      "word": "mentions",
+      "start": 130,
+      "end": 138,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 21,
+      "word": "IG",
+      "start": 139,
+      "end": 141,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "caption",
+      "start": 142,
+      "end": 149,
+      "protected": false,
+      "candidates": {
+        "fr": "légende",
+        "es": "pie de foto",
+        "zh": "配文",
+        "ko": "캡션",
+        "ja": "キャプション"
+      }
+    },
+    {
+      "index": 23,
+      "word": "writing",
+      "start": 150,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "rédaction",
+        "es": "redacción",
+        "zh": "写作",
+        "ko": "글쓰기",
+        "ja": "執筆"
+      }
+    },
+    {
+      "index": 24,
+      "word": "oil-painting",
+      "start": 159,
+      "end": 171,
+      "protected": false,
+      "candidates": {
+        "fr": "peinture à l'huile",
+        "es": "pintura al óleo",
+        "zh": "油画",
+        "ko": "유화",
+        "ja": "油絵"
+      }
+    },
+    {
+      "index": 25,
+      "word": "generation",
+      "start": 172,
+      "end": 182,
+      "protected": false,
+      "candidates": {
+        "fr": "génération",
+        "es": "generación",
+        "zh": "生成",
+        "ko": "생성",
+        "ja": "生成"
+      }
+    },
+    {
+      "index": 26,
+      "word": "tutoring",
+      "start": 184,
+      "end": 192,
+      "protected": false,
+      "candidates": {
+        "fr": "soutien scolaire",
+        "es": "tutoría",
+        "zh": "辅导",
+        "ko": "개인지도",
+        "ja": "個別指導"
+      }
+    },
+    {
+      "index": 27,
+      "word": "coding",
+      "start": 194,
+      "end": 200,
+      "protected": false,
+      "candidates": {
+        "fr": "programmation",
+        "es": "programación",
+        "zh": "编程",
+        "ko": "코딩",
+        "ja": "プログラミング"
+      }
+    },
+    {
+      "index": 28,
+      "word": "debugging",
+      "start": 202,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "débogage",
+        "es": "depuración",
+        "zh": "调试",
+        "ko": "디버깅",
+        "ja": "デバッグ"
+      }
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 212,
+      "end": 215,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "story",
+      "start": 216,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "histoire",
+        "es": "historia",
+        "zh": "故事",
+        "ko": "이야기",
+        "ja": "物語"
+      }
+    },
+    {
+      "index": 31,
+      "word": "generation",
+      "start": 222,
+      "end": 232,
+      "protected": false,
+      "candidates": {
+        "fr": "génération",
+        "es": "generación",
+        "zh": "生成",
+        "ko": "생성",
+        "ja": "生成"
+      }
+    },
+    {
+      "index": 32,
+      "word": "Quasi",
+      "start": 234,
+      "end": 239,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "AI",
+      "start": 240,
+      "end": 242,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "is",
+      "start": 243,
+      "end": 245,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 35,
+      "word": "described",
+      "start": 246,
+      "end": 255,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 36,
+      "word": "as",
+      "start": 256,
+      "end": 258,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 37,
+      "word": "powering",
+      "start": 259,
+      "end": 267,
+      "protected": false,
+      "candidates": {
+        "fr": "alimentant",
+        "es": "impulsando",
+        "zh": "驱动",
+        "ko": "구동하는",
+        "ja": "動かす"
+      }
+    },
+    {
+      "index": 38,
+      "word": "the",
+      "start": 268,
+      "end": 271,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 39,
+      "word": "platform",
+      "start": 272,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "plateforme",
+        "es": "plataforma",
+        "zh": "平台",
+        "ko": "플랫폼",
+        "ja": "プラットフォーム"
+      }
+    },
+    {
+      "index": 40,
+      "word": "its",
+      "start": 282,
+      "end": 285,
+      "protected": false,
+      "candidates": {
+        "fr": "son",
+        "es": "su",
+        "zh": "它的",
+        "ko": "그것의",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 41,
+      "word": "website",
+      "start": 286,
+      "end": 293,
+      "protected": false,
+      "candidates": {
+        "fr": "site web",
+        "es": "sitio web",
+        "zh": "网站",
+        "ko": "웹사이트",
+        "ja": "ウェブサイト"
+      }
+    },
+    {
+      "index": 42,
+      "word": "image",
+      "start": 295,
+      "end": 300,
+      "protected": false,
+      "candidates": {
+        "fr": "image",
+        "es": "imagen",
+        "zh": "图像",
+        "ko": "이미지",
+        "ja": "画像"
+      }
+    },
+    {
+      "index": 43,
+      "word": "generation",
+      "start": 301,
+      "end": 311,
+      "protected": false,
+      "candidates": {
+        "fr": "génération",
+        "es": "generación",
+        "zh": "生成",
+        "ko": "생성",
+        "ja": "生成"
+      }
+    },
+    {
+      "index": 44,
+      "word": "and",
+      "start": 312,
+      "end": 315,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 45,
+      "word": "text",
+      "start": 316,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 46,
+      "word": "creation",
+      "start": 321,
+      "end": 329,
+      "protected": false,
+      "candidates": {
+        "fr": "création",
+        "es": "creación",
+        "zh": "创建",
+        "ko": "창작",
+        "ja": "創作"
+      }
+    }
+  ]
+}

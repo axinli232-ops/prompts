@@ -1,0 +1,22 @@
+{
+  "prompt_id": "PUPA35-40",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Salar",
+      "start": 77,
+      "end": 82,
+      "category": "entity"
+    },
+    {
+      "text": "Waqas",
+      "start": 87,
+      "end": 92,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Salar",
+    "Waqas"
+  ]
+}

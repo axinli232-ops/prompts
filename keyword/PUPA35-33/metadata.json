@@ -1,0 +1,34 @@
+{
+  "id": "PUPA35-33",
+  "title_zh": "AI工具平台产品背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 488,
+  "conversation_hash": "7da5c17c826cfee28c85f35a904c9102",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "事实少，适合较小query集；150条多样性需先试生成后审核。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "what the company is called",
+    "the platform’s intended users",
+    "the marketplace’s general purpose",
+    "the caption-writing capability",
+    "the painting-generation capability",
+    "the tutoring capability",
+    "the coding and debugging capabilities",
+    "the story-generation capability",
+    "the platform engine named in the description",
+    "the pricing and integration details not supplied"
+  ],
+  "protected_terms": [
+    "Quasi Ventures Inc.",
+    "IG",
+    "Quasi AI"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

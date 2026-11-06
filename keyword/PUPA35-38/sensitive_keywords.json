@@ -1,0 +1,29 @@
+{
+  "prompt_id": "PUPA35-38",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Yoda",
+      "start": 109,
+      "end": 113,
+      "category": "entity"
+    },
+    {
+      "text": "24/7",
+      "start": 227,
+      "end": 231,
+      "category": "entity"
+    },
+    {
+      "text": "SSEDSM2",
+      "start": 258,
+      "end": 265,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Yoda",
+    "24/7",
+    "SSEDSM2"
+  ]
+}

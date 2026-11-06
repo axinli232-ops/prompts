@@ -1,0 +1,63 @@
+{
+  "prompt_id": "PUPA35-41",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "ChatGPT",
+      "start": 68,
+      "end": 75,
+      "category": "entity"
+    },
+    {
+      "text": "OpenAI",
+      "start": 94,
+      "end": 100,
+      "category": "entity"
+    },
+    {
+      "text": "GPT-3",
+      "start": 110,
+      "end": 115,
+      "category": "entity"
+    },
+    {
+      "text": "MacGPT",
+      "start": 137,
+      "end": 143,
+      "category": "entity"
+    },
+    {
+      "text": "Jordi Bruin",
+      "start": 156,
+      "end": 167,
+      "category": "entity"
+    },
+    {
+      "text": "macOS",
+      "start": 174,
+      "end": 179,
+      "category": "entity"
+    },
+    {
+      "text": "Mac",
+      "start": 210,
+      "end": 213,
+      "category": "entity"
+    },
+    {
+      "text": "OpenAI",
+      "start": 319,
+      "end": 325,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "ChatGPT",
+    "OpenAI",
+    "GPT-3",
+    "MacGPT",
+    "Jordi Bruin",
+    "macOS",
+    "Mac"
+  ]
+}

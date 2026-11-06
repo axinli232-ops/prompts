@@ -1,17 +1,18 @@
 {
-  "tasks": 29,
-  "train": 2900,
-  "test": 1450,
-  "protected_spans": 254,
-  "replaceable_word_occurrences": 1209,
+  "tasks": 40,
+  "train": 4000,
+  "test": 2000,
+  "protected_spans": 339,
+  "replaceable_word_occurrences": 1721,
   "validation": "passed",
   "model_utility_validation": "not performed",
   "checks": [
-    "29 prompts, 100/50 split each",
+    "40 prompts, 100/50 split each",
     "every query ends Answer in English.",
     "no exact train/test overlap within each task",
     "all non-protected word occurrences have five nonempty candidates",
     "no replacement occurrence overlaps a protected span",
-    "exact source offsets and protected values survive all five replacement renderings"
+    "exact source offsets and protected values survive all five replacement renderings",
+    "all 40 system prompts contain no web URL"
   ]
 }

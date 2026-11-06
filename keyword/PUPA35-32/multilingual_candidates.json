@@ -1,0 +1,560 @@
+{
+  "prompt_id": "PUPA35-32",
+  "system_prompt": "This is my past personal experience:\nThe supplied administrative email addresses Quetta Campus. It reports 69 inquiries generated on IBS, says repeated calls and WhatsApp reminders have not produced follow-up, and requests urgent contact with prospective applicants. It offers assistance with questions.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "administrative",
+      "start": 50,
+      "end": 64,
+      "protected": false,
+      "candidates": {
+        "fr": "administratif",
+        "es": "administrativo",
+        "zh": "行政的",
+        "ko": "행정의",
+        "ja": "事務の"
+      }
+    },
+    {
+      "index": 9,
+      "word": "email",
+      "start": 65,
+      "end": 70,
+      "protected": false,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 10,
+      "word": "addresses",
+      "start": 71,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "s'adresse à",
+        "es": "se dirige a",
+        "zh": "致函",
+        "ko": "수신인을 지칭한다",
+        "ja": "宛てている"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Quetta",
+      "start": 81,
+      "end": 87,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "Campus",
+      "start": 88,
+      "end": 94,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "It",
+      "start": 96,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 14,
+      "word": "reports",
+      "start": 99,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 15,
+      "word": "inquiries",
+      "start": 110,
+      "end": 119,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "consulta",
+        "zh": "询问",
+        "ko": "문의",
+        "ja": "問い合わせ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "generated",
+      "start": 120,
+      "end": 129,
+      "protected": false,
+      "candidates": {
+        "fr": "générer",
+        "es": "generar",
+        "zh": "生成",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 17,
+      "word": "on",
+      "start": 130,
+      "end": 132,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "IBS",
+      "start": 133,
+      "end": 136,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "says",
+      "start": 138,
+      "end": 142,
+      "protected": false,
+      "candidates": {
+        "fr": "indique",
+        "es": "dice",
+        "zh": "说明",
+        "ko": "말한다",
+        "ja": "述べる"
+      }
+    },
+    {
+      "index": 20,
+      "word": "repeated",
+      "start": 143,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "répété",
+        "es": "repetido",
+        "zh": "反复的",
+        "ko": "반복된",
+        "ja": "繰り返された"
+      }
+    },
+    {
+      "index": 21,
+      "word": "calls",
+      "start": 152,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "appels",
+        "es": "llamadas",
+        "zh": "电话",
+        "ko": "전화들",
+        "ja": "電話"
+      }
+    },
+    {
+      "index": 22,
+      "word": "and",
+      "start": 158,
+      "end": 161,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 23,
+      "word": "WhatsApp",
+      "start": 162,
+      "end": 170,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "reminders",
+      "start": 171,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "rappels",
+        "es": "recordatorios",
+        "zh": "提醒",
+        "ko": "알림들",
+        "ja": "通知"
+      }
+    },
+    {
+      "index": 25,
+      "word": "have",
+      "start": 181,
+      "end": 185,
+      "protected": false,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 26,
+      "word": "not",
+      "start": 186,
+      "end": 189,
+      "protected": false,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 27,
+      "word": "produced",
+      "start": 190,
+      "end": 198,
+      "protected": false,
+      "candidates": {
+        "fr": "produit",
+        "es": "producido",
+        "zh": "产生的",
+        "ko": "생성된",
+        "ja": "生じた"
+      }
+    },
+    {
+      "index": 28,
+      "word": "follow-up",
+      "start": 199,
+      "end": 208,
+      "protected": false,
+      "candidates": {
+        "fr": "suivi",
+        "es": "seguimiento",
+        "zh": "跟进",
+        "ko": "후속 조치",
+        "ja": "フォローアップ"
+      }
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 210,
+      "end": 213,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "requests",
+      "start": 214,
+      "end": 222,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicita",
+        "zh": "要求",
+        "ko": "요청한다",
+        "ja": "要求する"
+      }
+    },
+    {
+      "index": 31,
+      "word": "urgent",
+      "start": 223,
+      "end": 229,
+      "protected": false,
+      "candidates": {
+        "fr": "urgent",
+        "es": "urgente",
+        "zh": "紧急的",
+        "ko": "긴급한",
+        "ja": "緊急の"
+      }
+    },
+    {
+      "index": 32,
+      "word": "contact",
+      "start": 230,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "contacter",
+        "es": "contactar",
+        "zh": "联系",
+        "ko": "연락하다",
+        "ja": "連絡する"
+      }
+    },
+    {
+      "index": 33,
+      "word": "with",
+      "start": 238,
+      "end": 242,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 34,
+      "word": "prospective",
+      "start": 243,
+      "end": 254,
+      "protected": false,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "見込みの"
+      }
+    },
+    {
+      "index": 35,
+      "word": "applicants",
+      "start": 255,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "candidats",
+        "es": "solicitantes",
+        "zh": "申请者",
+        "ko": "지원자들",
+        "ja": "応募者"
+      }
+    },
+    {
+      "index": 36,
+      "word": "It",
+      "start": 267,
+      "end": 269,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 37,
+      "word": "offers",
+      "start": 270,
+      "end": 276,
+      "protected": false,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 38,
+      "word": "assistance",
+      "start": 277,
+      "end": 287,
+      "protected": false,
+      "candidates": {
+        "fr": "assistance",
+        "es": "asistencia",
+        "zh": "协助",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 39,
+      "word": "with",
+      "start": 288,
+      "end": 292,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 40,
+      "word": "questions",
+      "start": 293,
+      "end": 302,
+      "protected": false,
+      "candidates": {
+        "fr": "question",
+        "es": "pregunta",
+        "zh": "问题",
+        "ko": "질문",
+        "ja": "質問"
+      }
+    }
+  ]
+}

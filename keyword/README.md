@@ -1,6 +1,6 @@
-# Keyword Utilization — PUPA 29
+# Keyword Utilization — PUPA 40
 
-本目录收录此前 PUPA35 清单前 30 条中除去 PUPA35-12 的 29 条，保留原始编号。每条配 100 条 train / 50 条 test，共 4,350 条 query，均以 `Answer in English.` 结尾。仅使用英文背景前缀 `This is my past personal experience:`；没有新增行为指令。
+本目录共 40 条：此前 29 条，加原清单中 PUPA35-31 至 PUPA35-35 的 5 条，以及新选的 PUPA 派生记录 PUPA35-36 至 PUPA35-41 共 6 条。PUPA35-12 已删除，不再使用；PUPA35 是历史编号前缀，保留以兼容已有实验。全部 system prompt 正文均不含网址。每条配 100 条 train / 50 条 test，共 6,000 条 query，均以 `Answer in English.` 结尾。仅使用英文背景前缀 `This is my past personal experience:`；没有新增行为指令。
 
 ## 来源与构造
 
@@ -56,3 +56,15 @@
 | [PUPA35-28](PUPA35-28/) | 财务数据收集邮件关系 | Calvin；Andy；Jaime；FY22；Erin；Beckey；Factbook |
 | [PUPA35-29](PUPA35-29/) | 市政巴士活动询价 | City of Arlington；Office of Business Diversity；Mrs. Dipert；Fall MWBE Bond Tour；Troy Williams；Arlington |
 | [PUPA35-30](PUPA35-30/) | 慈善冰球活动公告 | November 30, 2023；Longport Police Department；Philadelphia Flyers；Atlantic County Police & Fire；Philadelphia Police Department；Atlantic County；Alec Morelli；6–3；Children’s Hospital of Philadelphia |
+
+| [PUPA35-31](PUPA35-31/) | 海滩安全公告背景 | Longport Police Department；Longport；Absecon Island |
+| [PUPA35-32](PUPA35-32/) | 校区招生线索跟进 | Quetta Campus；69；IBS；WhatsApp |
+| [PUPA35-33](PUPA35-33/) | AI工具平台产品背景 | Quasi Ventures Inc.；IG；Quasi AI |
+| [PUPA35-34](PUPA35-34/) | 住宅房源固定资料 | Skyview Mesa；US 60 |
+| [PUPA35-35](PUPA35-35/) | 员工名册与汇报关系 | id；first_name；last_name；hire_date；salary；department_id；manager_id；John；Doe；2021-01-01；null；Jane；2021-02-15；60000,1,1；Bob；Smith；2021-03-01；55000,2,1；Sara；Johnson；2021-04-01；65000,2,2；Tom；Williams；2021-05-01；70000,3,2；Emily；Jones；2021-06-01；80000,3,3；Mike；Brown；2021-07-01；75000,4,3；Lisa；Davis；2021-08-01；85000,4,4；David；Wilson；2021-09-01；90000,5,4；Laura；Taylor；2021-10-01；95000,5,5；employees |
+| [PUPA35-36](PUPA35-36/) | 无障碍项目沟通 | Sara；FRC；IPAEP |
+| [PUPA35-37](PUPA35-37/) | 表单审核提交流程 | PacD；Save；Submit |
+| [PUPA35-38](PUPA35-38/) | 订阅系统一致性说明 | Yoda；24/7；SSEDSM2 |
+| [PUPA35-39](PUPA35-39/) | 机械经理求职邮件 | Ravikrishnan；Mechanical manager；Boom General Contractors；20；Ms Sharon；linkedin |
+| [PUPA35-40](PUPA35-40/) | 样板测试与量具配送 | Salar；Waqas |
+| [PUPA35-41](PUPA35-41/) | 桌面聊天应用介绍 | ChatGPT；OpenAI；GPT-3；MacGPT；Jordi Bruin；macOS；Mac |

@@ -1,0 +1,22 @@
+{
+  "prompt_id": "PUPA35-34",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Skyview Mesa",
+      "start": 111,
+      "end": 123,
+      "category": "entity"
+    },
+    {
+      "text": "US 60",
+      "start": 129,
+      "end": 134,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Skyview Mesa",
+    "US 60"
+  ]
+}

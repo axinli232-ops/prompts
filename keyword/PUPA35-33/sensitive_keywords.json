@@ -1,0 +1,29 @@
+{
+  "prompt_id": "PUPA35-33",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Quasi Ventures Inc.",
+      "start": 37,
+      "end": 56,
+      "category": "entity"
+    },
+    {
+      "text": "IG",
+      "start": 139,
+      "end": 141,
+      "category": "entity"
+    },
+    {
+      "text": "Quasi AI",
+      "start": 234,
+      "end": 242,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Quasi Ventures Inc.",
+    "IG",
+    "Quasi AI"
+  ]
+}
