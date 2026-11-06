@@ -1,0 +1,43 @@
+{
+  "id": "PUPA35-10",
+  "title_zh": "研究生助教岗位申请",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 636,
+  "conversation_hash": "d2d726a6a36ceea252c1eb7bae752782",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "不要推断 MSU 全称；不得将岗位偏好证书写成申请者已持有。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my admitted study program",
+    "the institution to which I have been admitted",
+    "my intended entry semester",
+    "my previous degree",
+    "my reported language-test results",
+    "my data-analysis skills",
+    "the analytical software I know",
+    "the campus programs associated with the target role",
+    "the recreation facility associated with the role",
+    "the distinction between my qualifications and the employer’s preferred certification"
+  ],
+  "protected_terms": [
+    "MASLA TESOL",
+    "MSU",
+    "2024",
+    "BA",
+    "English Language Translation",
+    "TOEFL",
+    "28",
+    "Excel",
+    "SPSS",
+    "BearFit",
+    "Foster Recreation Center",
+    "CPR/AED/First Aid"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

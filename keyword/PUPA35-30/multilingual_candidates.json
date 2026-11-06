@@ -1,0 +1,595 @@
+{
+  "prompt_id": "PUPA35-30",
+  "system_prompt": "This is my past personal experience:\nThe supplied announcement describes a charity hockey event on November 30, 2023 involving Longport Police Department and Philadelphia Flyers. Atlantic County Police & Fire played Philadelphia Police Department, with the Atlantic County team led by Alec Morelli winning 6–3. Money raised is to be donated to Children’s Hospital of Philadelphia.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "announcement",
+      "start": 50,
+      "end": 62,
+      "protected": false,
+      "candidates": {
+        "fr": "annonce",
+        "es": "anuncio",
+        "zh": "公告",
+        "ko": "공고",
+        "ja": "告知"
+      }
+    },
+    {
+      "index": 9,
+      "word": "describes",
+      "start": 63,
+      "end": 72,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "a",
+      "start": 73,
+      "end": 74,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 11,
+      "word": "charity",
+      "start": 75,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "caritatif",
+        "es": "benéfico",
+        "zh": "慈善",
+        "ko": "자선",
+        "ja": "慈善"
+      }
+    },
+    {
+      "index": 12,
+      "word": "hockey",
+      "start": 83,
+      "end": 89,
+      "protected": false,
+      "candidates": {
+        "fr": "hockey",
+        "es": "hockey",
+        "zh": "曲棍球",
+        "ko": "하키",
+        "ja": "ホッケー"
+      }
+    },
+    {
+      "index": 13,
+      "word": "event",
+      "start": 90,
+      "end": 95,
+      "protected": false,
+      "candidates": {
+        "fr": "événement",
+        "es": "evento",
+        "zh": "事件",
+        "ko": "사건",
+        "ja": "出来事"
+      }
+    },
+    {
+      "index": 14,
+      "word": "on",
+      "start": 96,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 15,
+      "word": "November",
+      "start": 99,
+      "end": 107,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "involving",
+      "start": 117,
+      "end": 126,
+      "protected": false,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Longport",
+      "start": 127,
+      "end": 135,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Police",
+      "start": 136,
+      "end": 142,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "Department",
+      "start": 143,
+      "end": 153,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "and",
+      "start": 154,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Philadelphia",
+      "start": 158,
+      "end": 170,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "Flyers",
+      "start": 171,
+      "end": 177,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "Atlantic",
+      "start": 179,
+      "end": 187,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "County",
+      "start": 188,
+      "end": 194,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Police",
+      "start": 195,
+      "end": 201,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Fire",
+      "start": 204,
+      "end": 208,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "played",
+      "start": 209,
+      "end": 215,
+      "protected": false,
+      "candidates": {
+        "fr": "a affronté",
+        "es": "jugó contra",
+        "zh": "对阵",
+        "ko": "경기한",
+        "ja": "対戦した"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Philadelphia",
+      "start": 216,
+      "end": 228,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "Police",
+      "start": 229,
+      "end": 235,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "Department",
+      "start": 236,
+      "end": 246,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "with",
+      "start": 248,
+      "end": 252,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 32,
+      "word": "the",
+      "start": 253,
+      "end": 256,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Atlantic",
+      "start": 257,
+      "end": 265,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "County",
+      "start": 266,
+      "end": 272,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "team",
+      "start": 273,
+      "end": 277,
+      "protected": false,
+      "candidates": {
+        "fr": "équipe",
+        "es": "equipo",
+        "zh": "团队",
+        "ko": "팀",
+        "ja": "チーム"
+      }
+    },
+    {
+      "index": 36,
+      "word": "led",
+      "start": 278,
+      "end": 281,
+      "protected": false,
+      "candidates": {
+        "fr": "dirigé",
+        "es": "liderado",
+        "zh": "带领的",
+        "ko": "이끈",
+        "ja": "率いた"
+      }
+    },
+    {
+      "index": 37,
+      "word": "by",
+      "start": 282,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 38,
+      "word": "Alec",
+      "start": 285,
+      "end": 289,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "Morelli",
+      "start": 290,
+      "end": 297,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "winning",
+      "start": 298,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "gagnant",
+        "es": "ganando",
+        "zh": "获胜",
+        "ko": "승리하는",
+        "ja": "勝利する"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Money",
+      "start": 311,
+      "end": 316,
+      "protected": false,
+      "candidates": {
+        "fr": "argent",
+        "es": "dinero",
+        "zh": "资金",
+        "ko": "돈",
+        "ja": "資金"
+      }
+    },
+    {
+      "index": 42,
+      "word": "raised",
+      "start": 317,
+      "end": 323,
+      "protected": false,
+      "candidates": {
+        "fr": "élevé",
+        "es": "criado",
+        "zh": "长大",
+        "ko": "자란",
+        "ja": "育った"
+      }
+    },
+    {
+      "index": 43,
+      "word": "is",
+      "start": 324,
+      "end": 326,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 44,
+      "word": "to",
+      "start": 327,
+      "end": 329,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 45,
+      "word": "be",
+      "start": 330,
+      "end": 332,
+      "protected": false,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 46,
+      "word": "donated",
+      "start": 333,
+      "end": 340,
+      "protected": false,
+      "candidates": {
+        "fr": "donné",
+        "es": "donado",
+        "zh": "捐赠的",
+        "ko": "기부된",
+        "ja": "寄付された"
+      }
+    },
+    {
+      "index": 47,
+      "word": "to",
+      "start": 341,
+      "end": 343,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 48,
+      "word": "Children’s",
+      "start": 344,
+      "end": 354,
+      "protected": true
+    },
+    {
+      "index": 49,
+      "word": "Hospital",
+      "start": 355,
+      "end": 363,
+      "protected": true
+    },
+    {
+      "index": 50,
+      "word": "of",
+      "start": 364,
+      "end": 366,
+      "protected": true
+    },
+    {
+      "index": 51,
+      "word": "Philadelphia",
+      "start": 367,
+      "end": 379,
+      "protected": true
+    }
+  ]
+}

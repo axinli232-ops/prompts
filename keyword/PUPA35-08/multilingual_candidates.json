@@ -1,0 +1,693 @@
+{
+  "prompt_id": "PUPA35-08",
+  "system_prompt": "This is my past personal experience:\nI am recommending Anna Remizova for the Science in Industrial and Applied Mathematics master’s program at Université Grenoble Alpes. I examined her in Machine Learning at the Moscow Institute of Physics and Technology in summer 2023 and became her thesis supervisor in autumn 2023. The letter describes strong coursework, preparation and baseline thesis research.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "I",
+      "start": 37,
+      "end": 38,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 7,
+      "word": "am",
+      "start": 39,
+      "end": 41,
+      "protected": false,
+      "candidates": {
+        "fr": "suis",
+        "es": "soy",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 8,
+      "word": "recommending",
+      "start": 42,
+      "end": 54,
+      "protected": false,
+      "candidates": {
+        "fr": "recommandant",
+        "es": "recomendando",
+        "zh": "推荐",
+        "ko": "추천하는",
+        "ja": "推薦する"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Anna",
+      "start": 55,
+      "end": 59,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Remizova",
+      "start": 60,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "for",
+      "start": 69,
+      "end": 72,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 12,
+      "word": "the",
+      "start": 73,
+      "end": 76,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Science",
+      "start": 77,
+      "end": 84,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "in",
+      "start": 85,
+      "end": 87,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "Industrial",
+      "start": 88,
+      "end": 98,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "and",
+      "start": 99,
+      "end": 102,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "Applied",
+      "start": 103,
+      "end": 110,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Mathematics",
+      "start": 111,
+      "end": 122,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "master’s",
+      "start": 123,
+      "end": 131,
+      "protected": false,
+      "candidates": {
+        "fr": "de master",
+        "es": "de maestría",
+        "zh": "硕士的",
+        "ko": "석사의",
+        "ja": "修士の"
+      }
+    },
+    {
+      "index": 20,
+      "word": "program",
+      "start": 132,
+      "end": 139,
+      "protected": false,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 21,
+      "word": "at",
+      "start": 140,
+      "end": 142,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Université",
+      "start": 143,
+      "end": 153,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "Grenoble",
+      "start": 154,
+      "end": 162,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "Alpes",
+      "start": 163,
+      "end": 168,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "I",
+      "start": 170,
+      "end": 171,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 26,
+      "word": "examined",
+      "start": 172,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "évalué",
+        "es": "evaluado",
+        "zh": "考核了",
+        "ko": "평가한",
+        "ja": "試験した"
+      }
+    },
+    {
+      "index": 27,
+      "word": "her",
+      "start": 181,
+      "end": 184,
+      "protected": false,
+      "candidates": {
+        "fr": "sa",
+        "es": "su",
+        "zh": "她的",
+        "ko": "그녀의",
+        "ja": "彼女の"
+      }
+    },
+    {
+      "index": 28,
+      "word": "in",
+      "start": 185,
+      "end": 187,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Machine",
+      "start": 188,
+      "end": 195,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "Learning",
+      "start": 196,
+      "end": 204,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "at",
+      "start": 205,
+      "end": 207,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 32,
+      "word": "the",
+      "start": 208,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Moscow",
+      "start": 212,
+      "end": 218,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Institute",
+      "start": 219,
+      "end": 228,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "of",
+      "start": 229,
+      "end": 231,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "Physics",
+      "start": 232,
+      "end": 239,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 240,
+      "end": 243,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "Technology",
+      "start": 244,
+      "end": 254,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "in",
+      "start": 255,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 40,
+      "word": "summer",
+      "start": 258,
+      "end": 264,
+      "protected": false,
+      "candidates": {
+        "fr": "été",
+        "es": "verano",
+        "zh": "夏季",
+        "ko": "여름",
+        "ja": "夏"
+      }
+    },
+    {
+      "index": 41,
+      "word": "and",
+      "start": 270,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 42,
+      "word": "became",
+      "start": 274,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "est devenu",
+        "es": "se convirtió",
+        "zh": "成为了",
+        "ko": "되었다",
+        "ja": "なった"
+      }
+    },
+    {
+      "index": 43,
+      "word": "her",
+      "start": 281,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "sa",
+        "es": "su",
+        "zh": "她的",
+        "ko": "그녀의",
+        "ja": "彼女の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "thesis",
+      "start": 285,
+      "end": 291,
+      "protected": false,
+      "candidates": {
+        "fr": "thèse",
+        "es": "tesis",
+        "zh": "论文",
+        "ko": "학위논문",
+        "ja": "学位論文"
+      }
+    },
+    {
+      "index": 45,
+      "word": "supervisor",
+      "start": 292,
+      "end": 302,
+      "protected": false,
+      "candidates": {
+        "fr": "directeur",
+        "es": "supervisor",
+        "zh": "导师",
+        "ko": "지도교수",
+        "ja": "指導教員"
+      }
+    },
+    {
+      "index": 46,
+      "word": "in",
+      "start": 303,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 47,
+      "word": "autumn",
+      "start": 306,
+      "end": 312,
+      "protected": false,
+      "candidates": {
+        "fr": "automne",
+        "es": "otoño",
+        "zh": "秋季",
+        "ko": "가을",
+        "ja": "秋"
+      }
+    },
+    {
+      "index": 48,
+      "word": "The",
+      "start": 319,
+      "end": 322,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 49,
+      "word": "letter",
+      "start": 323,
+      "end": 329,
+      "protected": false,
+      "candidates": {
+        "fr": "lettre",
+        "es": "carta",
+        "zh": "信件",
+        "ko": "편지",
+        "ja": "手紙"
+      }
+    },
+    {
+      "index": 50,
+      "word": "describes",
+      "start": 330,
+      "end": 339,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 51,
+      "word": "strong",
+      "start": 340,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "solide",
+        "es": "sólido",
+        "zh": "扎实的",
+        "ko": "탄탄한",
+        "ja": "優れた"
+      }
+    },
+    {
+      "index": 52,
+      "word": "coursework",
+      "start": 347,
+      "end": 357,
+      "protected": false,
+      "candidates": {
+        "fr": "cours",
+        "es": "cursos",
+        "zh": "课程学习",
+        "ko": "교과과정",
+        "ja": "履修内容"
+      }
+    },
+    {
+      "index": 53,
+      "word": "preparation",
+      "start": 359,
+      "end": 370,
+      "protected": false,
+      "candidates": {
+        "fr": "préparation",
+        "es": "preparación",
+        "zh": "准备",
+        "ko": "준비",
+        "ja": "準備"
+      }
+    },
+    {
+      "index": 54,
+      "word": "and",
+      "start": 371,
+      "end": 374,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 55,
+      "word": "baseline",
+      "start": 375,
+      "end": 383,
+      "protected": false,
+      "candidates": {
+        "fr": "de référence",
+        "es": "de referencia",
+        "zh": "基线的",
+        "ko": "기준의",
+        "ja": "基礎的な"
+      }
+    },
+    {
+      "index": 56,
+      "word": "thesis",
+      "start": 384,
+      "end": 390,
+      "protected": false,
+      "candidates": {
+        "fr": "thèse",
+        "es": "tesis",
+        "zh": "论文",
+        "ko": "학위논문",
+        "ja": "学位論文"
+      }
+    },
+    {
+      "index": 57,
+      "word": "research",
+      "start": 391,
+      "end": 399,
+      "protected": false,
+      "candidates": {
+        "fr": "recherche",
+        "es": "investigación",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    }
+  ]
+}

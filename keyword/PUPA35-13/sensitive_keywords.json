@@ -1,0 +1,50 @@
+{
+  "prompt_id": "PUPA35-13",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Msitu Africa Carbon Alliance",
+      "start": 37,
+      "end": 65,
+      "category": "entity"
+    },
+    {
+      "text": "Kenya",
+      "start": 125,
+      "end": 130,
+      "category": "entity"
+    },
+    {
+      "text": "Africa",
+      "start": 132,
+      "end": 138,
+      "category": "entity"
+    },
+    {
+      "text": "API",
+      "start": 189,
+      "end": 192,
+      "category": "entity"
+    },
+    {
+      "text": "ESG",
+      "start": 267,
+      "end": 270,
+      "category": "entity"
+    },
+    {
+      "text": "CSR",
+      "start": 275,
+      "end": 278,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Msitu Africa Carbon Alliance",
+    "Kenya",
+    "Africa",
+    "API",
+    "ESG",
+    "CSR"
+  ]
+}

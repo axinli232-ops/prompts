@@ -1,0 +1,42 @@
+{
+  "id": "PUPA35-23",
+  "title_zh": "医院培训预付款审批",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 163,
+  "conversation_hash": "4f675ebd821a9537b1b2a2f49acb112e",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "A",
+  "limitations_zh": "不推断机构缩写全称；付款请求不等于已获批准。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who receives the approval request",
+    "the organization arranging the workshop",
+    "the workshop’s title",
+    "the workshop provider",
+    "the workshop dates",
+    "the advance-payment amount",
+    "the requested payment deadline",
+    "the quotation-invitation date",
+    "the decision that remains pending",
+    "the difference between requesting approval and having approval"
+  ],
+  "protected_terms": [
+    "Roy",
+    "TKOH/NSD",
+    "Team Alignment Workshop",
+    "Miniu Limited",
+    "14",
+    "28",
+    "January 2024",
+    "$3,500",
+    "8",
+    "20",
+    "November 2023"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,71 @@
+{
+  "prompt_id": "PUPA35-03",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Lost Bubble",
+      "start": 135,
+      "end": 146,
+      "category": "entity"
+    },
+    {
+      "text": "Lost Jewels",
+      "start": 151,
+      "end": 162,
+      "category": "entity"
+    },
+    {
+      "text": "Peak Games",
+      "start": 183,
+      "end": 193,
+      "category": "entity"
+    },
+    {
+      "text": "2012",
+      "start": 197,
+      "end": 201,
+      "category": "fixed_value"
+    },
+    {
+      "text": "2017",
+      "start": 225,
+      "end": 229,
+      "category": "fixed_value"
+    },
+    {
+      "text": "BridgeStone",
+      "start": 282,
+      "end": 293,
+      "category": "entity"
+    },
+    {
+      "text": "Symantec Europe",
+      "start": 298,
+      "end": 313,
+      "category": "entity"
+    },
+    {
+      "text": "King.com",
+      "start": 358,
+      "end": 366,
+      "category": "entity"
+    },
+    {
+      "text": "2011",
+      "start": 370,
+      "end": 374,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Lost Bubble",
+    "Lost Jewels",
+    "Peak Games",
+    "2012",
+    "2017",
+    "BridgeStone",
+    "Symantec Europe",
+    "King.com",
+    "2011"
+  ]
+}

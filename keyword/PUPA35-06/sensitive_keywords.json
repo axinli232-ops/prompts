@@ -1,0 +1,71 @@
+{
+  "prompt_id": "PUPA35-06",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "PC",
+      "start": 73,
+      "end": 75,
+      "category": "entity"
+    },
+    {
+      "text": "PCABS",
+      "start": 77,
+      "end": 82,
+      "category": "entity"
+    },
+    {
+      "text": "PA12",
+      "start": 87,
+      "end": 91,
+      "category": "entity"
+    },
+    {
+      "text": "CATL",
+      "start": 184,
+      "end": 188,
+      "category": "entity"
+    },
+    {
+      "text": "CHN ENERGY",
+      "start": 193,
+      "end": 203,
+      "category": "entity"
+    },
+    {
+      "text": "BYD",
+      "start": 243,
+      "end": 246,
+      "category": "entity"
+    },
+    {
+      "text": "GOTION HIGH-TECH",
+      "start": 248,
+      "end": 264,
+      "category": "entity"
+    },
+    {
+      "text": "Sunwoda Energy",
+      "start": 266,
+      "end": 280,
+      "category": "entity"
+    },
+    {
+      "text": "Envision",
+      "start": 285,
+      "end": 293,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "PC",
+    "PCABS",
+    "PA12",
+    "CATL",
+    "CHN ENERGY",
+    "BYD",
+    "GOTION HIGH-TECH",
+    "Sunwoda Energy",
+    "Envision"
+  ]
+}

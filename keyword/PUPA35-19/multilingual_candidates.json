@@ -1,0 +1,651 @@
+{
+  "prompt_id": "PUPA35-19",
+  "system_prompt": "This is my past personal experience:\nAirbus PROTECT / Airbus Protect SAS seeks a propulsion-system airworthiness engineer. Duties include Airbus in-service engine-event analysis, investigation reports, supplier coordination and potentially CS-25 certification and safety studies. The supplied requirements include aerospace engineering, at least two years of experience, advanced English and strong French.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Airbus",
+      "start": 37,
+      "end": 43,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "PROTECT",
+      "start": 44,
+      "end": 51,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "Airbus",
+      "start": 54,
+      "end": 60,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "Protect",
+      "start": 61,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "SAS",
+      "start": 69,
+      "end": 72,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "seeks",
+      "start": 73,
+      "end": 78,
+      "protected": false,
+      "candidates": {
+        "fr": "recherche",
+        "es": "busca",
+        "zh": "寻求",
+        "ko": "찾는다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 12,
+      "word": "a",
+      "start": 79,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 13,
+      "word": "propulsion-system",
+      "start": 81,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "système de propulsion",
+        "es": "sistema de propulsión",
+        "zh": "推进系统",
+        "ko": "추진 시스템",
+        "ja": "推進系統"
+      }
+    },
+    {
+      "index": 14,
+      "word": "airworthiness",
+      "start": 99,
+      "end": 112,
+      "protected": false,
+      "candidates": {
+        "fr": "navigabilité",
+        "es": "aeronavegabilidad",
+        "zh": "适航性",
+        "ko": "감항성",
+        "ja": "耐空性"
+      }
+    },
+    {
+      "index": 15,
+      "word": "engineer",
+      "start": 113,
+      "end": 121,
+      "protected": false,
+      "candidates": {
+        "fr": "ingénieur",
+        "es": "ingeniero",
+        "zh": "工程师",
+        "ko": "엔지니어",
+        "ja": "技術者"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Duties",
+      "start": 123,
+      "end": 129,
+      "protected": false,
+      "candidates": {
+        "fr": "responsabilités",
+        "es": "responsabilidades",
+        "zh": "职责",
+        "ko": "업무",
+        "ja": "職務"
+      }
+    },
+    {
+      "index": 17,
+      "word": "include",
+      "start": 130,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Airbus",
+      "start": 138,
+      "end": 144,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "in-service",
+      "start": 145,
+      "end": 155,
+      "protected": false,
+      "candidates": {
+        "fr": "en service",
+        "es": "en servicio",
+        "zh": "在役的",
+        "ko": "운용 중인",
+        "ja": "運用中の"
+      }
+    },
+    {
+      "index": 20,
+      "word": "engine-event",
+      "start": 156,
+      "end": 168,
+      "protected": false,
+      "candidates": {
+        "fr": "événement moteur",
+        "es": "evento del motor",
+        "zh": "发动机事件",
+        "ko": "엔진 사건",
+        "ja": "エンジン事象"
+      }
+    },
+    {
+      "index": 21,
+      "word": "analysis",
+      "start": 169,
+      "end": 177,
+      "protected": false,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 22,
+      "word": "investigation",
+      "start": 179,
+      "end": 192,
+      "protected": false,
+      "candidates": {
+        "fr": "enquête",
+        "es": "investigación",
+        "zh": "调查",
+        "ko": "조사",
+        "ja": "調査"
+      }
+    },
+    {
+      "index": 23,
+      "word": "reports",
+      "start": 193,
+      "end": 200,
+      "protected": false,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 24,
+      "word": "supplier",
+      "start": 202,
+      "end": 210,
+      "protected": false,
+      "candidates": {
+        "fr": "fournisseur",
+        "es": "proveedor",
+        "zh": "供应商",
+        "ko": "공급업체",
+        "ja": "供給者"
+      }
+    },
+    {
+      "index": 25,
+      "word": "coordination",
+      "start": 211,
+      "end": 223,
+      "protected": false,
+      "candidates": {
+        "fr": "coordination",
+        "es": "coordinación",
+        "zh": "协调",
+        "ko": "조정",
+        "ja": "調整"
+      }
+    },
+    {
+      "index": 26,
+      "word": "and",
+      "start": 224,
+      "end": 227,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 27,
+      "word": "potentially",
+      "start": 228,
+      "end": 239,
+      "protected": false,
+      "candidates": {
+        "fr": "potentiellement",
+        "es": "potencialmente",
+        "zh": "可能地",
+        "ko": "잠재적으로",
+        "ja": "可能性として"
+      }
+    },
+    {
+      "index": 28,
+      "word": "CS",
+      "start": 240,
+      "end": 242,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "certification",
+      "start": 246,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "certification",
+        "es": "certificación",
+        "zh": "认证",
+        "ko": "자격증",
+        "ja": "資格認定"
+      }
+    },
+    {
+      "index": 30,
+      "word": "and",
+      "start": 260,
+      "end": 263,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 31,
+      "word": "safety",
+      "start": 264,
+      "end": 270,
+      "protected": false,
+      "candidates": {
+        "fr": "sécurité",
+        "es": "seguridad",
+        "zh": "安全",
+        "ko": "안전",
+        "ja": "安全"
+      }
+    },
+    {
+      "index": 32,
+      "word": "studies",
+      "start": 271,
+      "end": 278,
+      "protected": false,
+      "candidates": {
+        "fr": "étude",
+        "es": "estudio",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 33,
+      "word": "The",
+      "start": 280,
+      "end": 283,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 34,
+      "word": "supplied",
+      "start": 284,
+      "end": 292,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 35,
+      "word": "requirements",
+      "start": 293,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "exigences",
+        "es": "requisitos",
+        "zh": "要求",
+        "ko": "요구사항",
+        "ja": "要件"
+      }
+    },
+    {
+      "index": 36,
+      "word": "include",
+      "start": 306,
+      "end": 313,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 37,
+      "word": "aerospace",
+      "start": 314,
+      "end": 323,
+      "protected": false,
+      "candidates": {
+        "fr": "aérospatial",
+        "es": "aeroespacial",
+        "zh": "航空航天",
+        "ko": "항공우주",
+        "ja": "航空宇宙"
+      }
+    },
+    {
+      "index": 38,
+      "word": "engineering",
+      "start": 324,
+      "end": 335,
+      "protected": false,
+      "candidates": {
+        "fr": "ingénierie",
+        "es": "ingeniería",
+        "zh": "工程",
+        "ko": "공학",
+        "ja": "工学"
+      }
+    },
+    {
+      "index": 39,
+      "word": "at",
+      "start": 337,
+      "end": 339,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 40,
+      "word": "least",
+      "start": 340,
+      "end": 345,
+      "protected": false,
+      "candidates": {
+        "fr": "le moins",
+        "es": "lo menos",
+        "zh": "最少",
+        "ko": "최소",
+        "ja": "最少"
+      }
+    },
+    {
+      "index": 41,
+      "word": "two",
+      "start": 346,
+      "end": 349,
+      "protected": false,
+      "candidates": {
+        "fr": "deux",
+        "es": "dos",
+        "zh": "二",
+        "ko": "둘",
+        "ja": "二"
+      }
+    },
+    {
+      "index": 42,
+      "word": "years",
+      "start": 350,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "ans",
+        "es": "años",
+        "zh": "年",
+        "ko": "년",
+        "ja": "年"
+      }
+    },
+    {
+      "index": 43,
+      "word": "of",
+      "start": 356,
+      "end": 358,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "experience",
+      "start": 359,
+      "end": 369,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 45,
+      "word": "advanced",
+      "start": 371,
+      "end": 379,
+      "protected": false,
+      "candidates": {
+        "fr": "avancé",
+        "es": "avanzado",
+        "zh": "先进的",
+        "ko": "고급의",
+        "ja": "高度な"
+      }
+    },
+    {
+      "index": 46,
+      "word": "English",
+      "start": 380,
+      "end": 387,
+      "protected": true
+    },
+    {
+      "index": 47,
+      "word": "and",
+      "start": 388,
+      "end": 391,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 48,
+      "word": "strong",
+      "start": 392,
+      "end": 398,
+      "protected": false,
+      "candidates": {
+        "fr": "solide",
+        "es": "sólido",
+        "zh": "扎实的",
+        "ko": "탄탄한",
+        "ja": "優れた"
+      }
+    },
+    {
+      "index": 49,
+      "word": "French",
+      "start": 399,
+      "end": 405,
+      "protected": true
+    }
+  ]
+}

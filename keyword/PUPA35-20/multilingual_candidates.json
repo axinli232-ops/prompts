@@ -1,0 +1,623 @@
+{
+  "prompt_id": "PUPA35-20",
+  "system_prompt": "This is my past personal experience:\nWizz Air lists a Predictive/Repetitive Maintenance Engineer role based in BUD. Responsibilities include monitoring recurring defects, predictors, KPIs and Engine/APU instructions from ADEM, PW and Honeywell. Requirements mention Part-66 licensing, A320FAM training, Part-145/Part-M knowledge, English and five years of relevant experience.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Wizz",
+      "start": 37,
+      "end": 41,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Air",
+      "start": 42,
+      "end": 45,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "lists",
+      "start": 46,
+      "end": 51,
+      "protected": false,
+      "candidates": {
+        "fr": "énumère",
+        "es": "enumera",
+        "zh": "列出",
+        "ko": "나열한다",
+        "ja": "列挙する"
+      }
+    },
+    {
+      "index": 9,
+      "word": "a",
+      "start": 52,
+      "end": 53,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 10,
+      "word": "Predictive",
+      "start": 54,
+      "end": 64,
+      "protected": false,
+      "candidates": {
+        "fr": "prédictif",
+        "es": "predictivo",
+        "zh": "预测性的",
+        "ko": "예측의",
+        "ja": "予測の"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Repetitive",
+      "start": 65,
+      "end": 75,
+      "protected": false,
+      "candidates": {
+        "fr": "répétitif",
+        "es": "repetitivo",
+        "zh": "重复的",
+        "ko": "반복적인",
+        "ja": "反復的な"
+      }
+    },
+    {
+      "index": 12,
+      "word": "Maintenance",
+      "start": 76,
+      "end": 87,
+      "protected": false,
+      "candidates": {
+        "fr": "maintenance",
+        "es": "mantenimiento",
+        "zh": "维护",
+        "ko": "유지보수",
+        "ja": "保守"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Engineer",
+      "start": 88,
+      "end": 96,
+      "protected": false,
+      "candidates": {
+        "fr": "ingénieur",
+        "es": "ingeniero",
+        "zh": "工程师",
+        "ko": "엔지니어",
+        "ja": "技術者"
+      }
+    },
+    {
+      "index": 14,
+      "word": "role",
+      "start": 97,
+      "end": 101,
+      "protected": false,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 15,
+      "word": "based",
+      "start": 102,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "base",
+        "es": "base",
+        "zh": "基础",
+        "ko": "기반",
+        "ja": "基盤"
+      }
+    },
+    {
+      "index": 16,
+      "word": "in",
+      "start": 108,
+      "end": 110,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 17,
+      "word": "BUD",
+      "start": 111,
+      "end": 114,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Responsibilities",
+      "start": 116,
+      "end": 132,
+      "protected": false,
+      "candidates": {
+        "fr": "responsabilité",
+        "es": "responsabilidad",
+        "zh": "责任",
+        "ko": "책임",
+        "ja": "責任"
+      }
+    },
+    {
+      "index": 19,
+      "word": "include",
+      "start": 133,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 20,
+      "word": "monitoring",
+      "start": 141,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "surveillance",
+        "es": "seguimiento",
+        "zh": "监测",
+        "ko": "모니터링",
+        "ja": "監視"
+      }
+    },
+    {
+      "index": 21,
+      "word": "recurring",
+      "start": 152,
+      "end": 161,
+      "protected": false,
+      "candidates": {
+        "fr": "récurrent",
+        "es": "recurrente",
+        "zh": "反复出现的",
+        "ko": "반복되는",
+        "ja": "再発する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "defects",
+      "start": 162,
+      "end": 169,
+      "protected": false,
+      "candidates": {
+        "fr": "défauts",
+        "es": "defectos",
+        "zh": "缺陷",
+        "ko": "결함들",
+        "ja": "不具合"
+      }
+    },
+    {
+      "index": 23,
+      "word": "predictors",
+      "start": 171,
+      "end": 181,
+      "protected": false,
+      "candidates": {
+        "fr": "prédicteurs",
+        "es": "predictores",
+        "zh": "预测指标",
+        "ko": "예측 지표들",
+        "ja": "予測指標"
+      }
+    },
+    {
+      "index": 24,
+      "word": "KPIs",
+      "start": 183,
+      "end": 187,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "and",
+      "start": 188,
+      "end": 191,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Engine",
+      "start": 192,
+      "end": 198,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "APU",
+      "start": 199,
+      "end": 202,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "instructions",
+      "start": 203,
+      "end": 215,
+      "protected": false,
+      "candidates": {
+        "fr": "instructions",
+        "es": "instrucciones",
+        "zh": "指令",
+        "ko": "지시사항",
+        "ja": "指示"
+      }
+    },
+    {
+      "index": 29,
+      "word": "from",
+      "start": 216,
+      "end": 220,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 30,
+      "word": "ADEM",
+      "start": 221,
+      "end": 225,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "PW",
+      "start": 227,
+      "end": 229,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "and",
+      "start": 230,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Honeywell",
+      "start": 234,
+      "end": 243,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Requirements",
+      "start": 245,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "exigences",
+        "es": "requisitos",
+        "zh": "要求",
+        "ko": "요구사항",
+        "ja": "要件"
+      }
+    },
+    {
+      "index": 35,
+      "word": "mention",
+      "start": 258,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 36,
+      "word": "Part",
+      "start": 266,
+      "end": 270,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "licensing",
+      "start": 274,
+      "end": 283,
+      "protected": false,
+      "candidates": {
+        "fr": "délivrance de licence",
+        "es": "licencias",
+        "zh": "执照认证",
+        "ko": "면허 취득",
+        "ja": "免許取得"
+      }
+    },
+    {
+      "index": 38,
+      "word": "A",
+      "start": 285,
+      "end": 286,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "FAM",
+      "start": 289,
+      "end": 292,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "training",
+      "start": 293,
+      "end": 301,
+      "protected": false,
+      "candidates": {
+        "fr": "formation",
+        "es": "formación",
+        "zh": "培训",
+        "ko": "교육",
+        "ja": "研修"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Part",
+      "start": 303,
+      "end": 307,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "Part-M",
+      "start": 312,
+      "end": 318,
+      "protected": true
+    },
+    {
+      "index": 43,
+      "word": "knowledge",
+      "start": 319,
+      "end": 328,
+      "protected": false,
+      "candidates": {
+        "fr": "connaissances",
+        "es": "conocimiento",
+        "zh": "知识",
+        "ko": "지식",
+        "ja": "知識"
+      }
+    },
+    {
+      "index": 44,
+      "word": "English",
+      "start": 330,
+      "end": 337,
+      "protected": true
+    },
+    {
+      "index": 45,
+      "word": "and",
+      "start": 338,
+      "end": 341,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 46,
+      "word": "five",
+      "start": 342,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "cinq",
+        "es": "cinco",
+        "zh": "五",
+        "ko": "다섯",
+        "ja": "五"
+      }
+    },
+    {
+      "index": 47,
+      "word": "years",
+      "start": 347,
+      "end": 352,
+      "protected": false,
+      "candidates": {
+        "fr": "ans",
+        "es": "años",
+        "zh": "年",
+        "ko": "년",
+        "ja": "年"
+      }
+    },
+    {
+      "index": 48,
+      "word": "of",
+      "start": 353,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 49,
+      "word": "relevant",
+      "start": 356,
+      "end": 364,
+      "protected": false,
+      "candidates": {
+        "fr": "pertinent",
+        "es": "relevante",
+        "zh": "相关的",
+        "ko": "관련된",
+        "ja": "関連する"
+      }
+    },
+    {
+      "index": 50,
+      "word": "experience",
+      "start": 365,
+      "end": 375,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    }
+  ]
+}

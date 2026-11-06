@@ -1,0 +1,37 @@
+{
+  "id": "PUPA35-29",
+  "title_zh": "市政巴士活动询价",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 211,
+  "conversation_hash": "67937e27040ac8bb3aa3a38a6e92da09",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "B",
+  "limitations_zh": "无确切日期、人数或预算；只能问询，不编报价或预订状态。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who receives the tour inquiry",
+    "who handled the preliminary discussions",
+    "the office on whose behalf the message is sent",
+    "the activity being organized",
+    "the city to be toured",
+    "the type of vehicle requested",
+    "the pricing information requested",
+    "the availability information requested",
+    "the exact dates that are not supplied",
+    "the passenger count and budget that are not supplied"
+  ],
+  "protected_terms": [
+    "City of Arlington",
+    "Office of Business Diversity",
+    "Mrs. Dipert",
+    "Fall MWBE Bond Tour",
+    "Troy Williams",
+    "Arlington"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,707 @@
+{
+  "prompt_id": "PUPA35-22",
+  "system_prompt": "This is my past personal experience:\nTunisair Express seeks an approved MRO for an ATR72-600 work package. The supplied RFQ permits email or registered/express-mail submission, specifies an anonymous sealed outer envelope and the notation DO NOT OPEN, A/C ATR72-600 Consultation, sets receipt by midnight on 12 October 2023, a 120-day validity period and a non-public opening.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Tunisair",
+      "start": 37,
+      "end": 45,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Express",
+      "start": 46,
+      "end": 53,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "seeks",
+      "start": 54,
+      "end": 59,
+      "protected": false,
+      "candidates": {
+        "fr": "recherche",
+        "es": "busca",
+        "zh": "寻求",
+        "ko": "찾는다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 9,
+      "word": "an",
+      "start": 60,
+      "end": 62,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 10,
+      "word": "approved",
+      "start": 63,
+      "end": 71,
+      "protected": false,
+      "candidates": {
+        "fr": "agréé",
+        "es": "aprobado",
+        "zh": "获批准的",
+        "ko": "승인된",
+        "ja": "承認された"
+      }
+    },
+    {
+      "index": 11,
+      "word": "MRO",
+      "start": 72,
+      "end": 75,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "for",
+      "start": 76,
+      "end": 79,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 13,
+      "word": "an",
+      "start": 80,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 14,
+      "word": "ATR",
+      "start": 83,
+      "end": 86,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "work",
+      "start": 93,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 16,
+      "word": "package",
+      "start": 98,
+      "end": 105,
+      "protected": false,
+      "candidates": {
+        "fr": "lot",
+        "es": "paquete",
+        "zh": "工作包",
+        "ko": "작업 묶음",
+        "ja": "作業一式"
+      }
+    },
+    {
+      "index": 17,
+      "word": "The",
+      "start": 107,
+      "end": 110,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "supplied",
+      "start": 111,
+      "end": 119,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 19,
+      "word": "RFQ",
+      "start": 120,
+      "end": 123,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "permits",
+      "start": 124,
+      "end": 131,
+      "protected": false,
+      "candidates": {
+        "fr": "autorise",
+        "es": "permite",
+        "zh": "允许",
+        "ko": "허용한다",
+        "ja": "許可する"
+      }
+    },
+    {
+      "index": 21,
+      "word": "email",
+      "start": 132,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "courriel",
+        "es": "correo electrónico",
+        "zh": "电子邮件",
+        "ko": "이메일",
+        "ja": "電子メール"
+      }
+    },
+    {
+      "index": 22,
+      "word": "or",
+      "start": 138,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 23,
+      "word": "registered",
+      "start": 141,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "recommandé",
+        "es": "certificado",
+        "zh": "挂号的",
+        "ko": "등기의",
+        "ja": "書留の"
+      }
+    },
+    {
+      "index": 24,
+      "word": "express-mail",
+      "start": 152,
+      "end": 164,
+      "protected": false,
+      "candidates": {
+        "fr": "courrier express",
+        "es": "correo urgente",
+        "zh": "快递邮件",
+        "ko": "속달 우편",
+        "ja": "速達郵便"
+      }
+    },
+    {
+      "index": 25,
+      "word": "submission",
+      "start": 165,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "soumission",
+        "es": "envío",
+        "zh": "提交",
+        "ko": "제출",
+        "ja": "提出"
+      }
+    },
+    {
+      "index": 26,
+      "word": "specifies",
+      "start": 177,
+      "end": 186,
+      "protected": false,
+      "candidates": {
+        "fr": "précise",
+        "es": "especifica",
+        "zh": "明确规定",
+        "ko": "명시한다",
+        "ja": "指定する"
+      }
+    },
+    {
+      "index": 27,
+      "word": "an",
+      "start": 187,
+      "end": 189,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 28,
+      "word": "anonymous",
+      "start": 190,
+      "end": 199,
+      "protected": false,
+      "candidates": {
+        "fr": "anonyme",
+        "es": "anónimo",
+        "zh": "匿名的",
+        "ko": "익명의",
+        "ja": "匿名の"
+      }
+    },
+    {
+      "index": 29,
+      "word": "sealed",
+      "start": 200,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "scellé",
+        "es": "sellado",
+        "zh": "密封的",
+        "ko": "봉인된",
+        "ja": "封印された"
+      }
+    },
+    {
+      "index": 30,
+      "word": "outer",
+      "start": 207,
+      "end": 212,
+      "protected": false,
+      "candidates": {
+        "fr": "extérieur",
+        "es": "exterior",
+        "zh": "外层的",
+        "ko": "외부의",
+        "ja": "外側の"
+      }
+    },
+    {
+      "index": 31,
+      "word": "envelope",
+      "start": 213,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "enveloppe",
+        "es": "sobre",
+        "zh": "信封",
+        "ko": "봉투",
+        "ja": "封筒"
+      }
+    },
+    {
+      "index": 32,
+      "word": "and",
+      "start": 222,
+      "end": 225,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 33,
+      "word": "the",
+      "start": 226,
+      "end": 229,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 34,
+      "word": "notation",
+      "start": 230,
+      "end": 238,
+      "protected": false,
+      "candidates": {
+        "fr": "mention",
+        "es": "anotación",
+        "zh": "标注",
+        "ko": "표기",
+        "ja": "表記"
+      }
+    },
+    {
+      "index": 35,
+      "word": "DO",
+      "start": 239,
+      "end": 241,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "NOT",
+      "start": 242,
+      "end": 245,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "OPEN",
+      "start": 246,
+      "end": 250,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "A",
+      "start": 252,
+      "end": 253,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "C",
+      "start": 254,
+      "end": 255,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "ATR",
+      "start": 256,
+      "end": 259,
+      "protected": true
+    },
+    {
+      "index": 41,
+      "word": "Consultation",
+      "start": 266,
+      "end": 278,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "sets",
+      "start": 280,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "fixe",
+        "es": "establece",
+        "zh": "设定",
+        "ko": "정한다",
+        "ja": "設定する"
+      }
+    },
+    {
+      "index": 43,
+      "word": "receipt",
+      "start": 285,
+      "end": 292,
+      "protected": false,
+      "candidates": {
+        "fr": "réception",
+        "es": "recepción",
+        "zh": "收到",
+        "ko": "수령",
+        "ja": "受領"
+      }
+    },
+    {
+      "index": 44,
+      "word": "by",
+      "start": 293,
+      "end": 295,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 45,
+      "word": "midnight",
+      "start": 296,
+      "end": 304,
+      "protected": false,
+      "candidates": {
+        "fr": "minuit",
+        "es": "medianoche",
+        "zh": "午夜",
+        "ko": "자정",
+        "ja": "深夜零時"
+      }
+    },
+    {
+      "index": 46,
+      "word": "on",
+      "start": 305,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 47,
+      "word": "October",
+      "start": 311,
+      "end": 318,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "a",
+      "start": 325,
+      "end": 326,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 49,
+      "word": "day",
+      "start": 331,
+      "end": 334,
+      "protected": false,
+      "candidates": {
+        "fr": "jour",
+        "es": "día",
+        "zh": "天",
+        "ko": "일",
+        "ja": "日"
+      }
+    },
+    {
+      "index": 50,
+      "word": "validity",
+      "start": 335,
+      "end": 343,
+      "protected": false,
+      "candidates": {
+        "fr": "validité",
+        "es": "validez",
+        "zh": "有效性",
+        "ko": "유효성",
+        "ja": "有効性"
+      }
+    },
+    {
+      "index": 51,
+      "word": "period",
+      "start": 344,
+      "end": 350,
+      "protected": false,
+      "candidates": {
+        "fr": "période",
+        "es": "período",
+        "zh": "时期",
+        "ko": "기간",
+        "ja": "期間"
+      }
+    },
+    {
+      "index": 52,
+      "word": "and",
+      "start": 351,
+      "end": 354,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 53,
+      "word": "a",
+      "start": 355,
+      "end": 356,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 54,
+      "word": "non-public",
+      "start": 357,
+      "end": 367,
+      "protected": false,
+      "candidates": {
+        "fr": "non public",
+        "es": "no público",
+        "zh": "非公开的",
+        "ko": "비공개의",
+        "ja": "非公開の"
+      }
+    },
+    {
+      "index": 55,
+      "word": "opening",
+      "start": 368,
+      "end": 375,
+      "protected": false,
+      "candidates": {
+        "fr": "ouvert",
+        "es": "abierto",
+        "zh": "开放的",
+        "ko": "열린",
+        "ja": "開いた"
+      }
+    }
+  ]
+}

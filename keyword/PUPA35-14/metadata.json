@@ -1,0 +1,41 @@
+{
+  "id": "PUPA35-14",
+  "title_zh": "多业务软件公司介绍",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 122,
+  "conversation_hash": "c1dca35d56b793ccd4b2e293e4841cbe",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "A",
+  "limitations_zh": "原文 STAFFIN SOFTWARE 等为别名；不将客户系统名称写成可调用的本地工具。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "what the software company is called",
+    "the business sectors it supports",
+    "the named businesses used in developing its systems",
+    "the number of active staff mentioned",
+    "the accounting-software integrations",
+    "the support-office location",
+    "the customer country mentioned",
+    "the relationship between freight and rental operations",
+    "the relationship between nursing and security operations",
+    "the difference between business names and software-integration names"
+  ],
+  "protected_terms": [
+    "STAFFIN SOFTWARES VICTORIA",
+    "Jay's Freight",
+    "Life Disability and Nursing Care",
+    "Jay's Rentals",
+    "Forefront Securities",
+    "400",
+    "MYOB",
+    "QuickBooks",
+    "India",
+    "Australian"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

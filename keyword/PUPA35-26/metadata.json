@@ -1,0 +1,39 @@
+{
+  "id": "PUPA35-26",
+  "title_zh": "旅行顾问赠卡活动规则",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 321,
+  "conversation_hash": "64a6380d9eca0ab74a3631f76ee07780",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "背景较单一，150条必须包含资格判断等不同输入；不能只做活动文案改写。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who is organizing the promotion",
+    "the organizer’s business affiliation",
+    "the smaller gift-card prize",
+    "eligibility for the smaller drawing",
+    "the larger gift-card prize",
+    "eligibility for the larger drawing",
+    "the entry deadline",
+    "whether completed travel counts",
+    "when winners will be announced",
+    "the platform’s stated involvement"
+  ],
+  "protected_terms": [
+    "JJ Martinez",
+    "Key To The World",
+    "$25",
+    "Facebook",
+    "22",
+    "9",
+    "$50",
+    "Thanksgiving"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

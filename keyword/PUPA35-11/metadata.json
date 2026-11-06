@@ -1,0 +1,42 @@
+{
+  "id": "PUPA35-11",
+  "title_zh": "医疗转录与编辑人员完整履历",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 232,
+  "conversation_hash": "6a73c86f77bff1011f38be65b7360975",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "A",
+  "limitations_zh": "不补姓名和联系方式；时间及公司拼写依原文。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my professional field and experience length",
+    "my most recent employer",
+    "the dates of my most recent role",
+    "the city associated with my recent work",
+    "my second-most-recent employer",
+    "the dates of my second-most-recent role",
+    "my earlier quality-analysis employer",
+    "my diploma subject",
+    "the institution awarding my diploma",
+    "the date of my diploma"
+  ],
+  "protected_terms": [
+    "15",
+    "V Transcriptions LLC",
+    "Chennai",
+    "November 2020",
+    "September 2023",
+    "S10 Healthcare Solutions Ltd",
+    "June 2012",
+    "October 2020",
+    "C-Bay Systems India Private Limited",
+    "Mohamed Sathak Polytechnic College",
+    "September 1999"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,91 @@
+{
+  "prompt_id": "PUPA35-24",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Neil Agius",
+      "start": 74,
+      "end": 84,
+      "category": "entity"
+    },
+    {
+      "text": "100 Mile Swim",
+      "start": 95,
+      "end": 108,
+      "category": "entity"
+    },
+    {
+      "text": "2023",
+      "start": 119,
+      "end": 123,
+      "category": "fixed_value"
+    },
+    {
+      "text": "160",
+      "start": 139,
+      "end": 142,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Mallorca",
+      "start": 151,
+      "end": 159,
+      "category": "entity"
+    },
+    {
+      "text": "Ibiza",
+      "start": 175,
+      "end": 180,
+      "category": "entity"
+    },
+    {
+      "text": "Ibiza",
+      "start": 192,
+      "end": 197,
+      "category": "entity"
+    },
+    {
+      "text": "Mallorca Preservation Foundation",
+      "start": 246,
+      "end": 278,
+      "category": "entity"
+    },
+    {
+      "text": "Wave of Change Malta",
+      "start": 280,
+      "end": 300,
+      "category": "entity"
+    },
+    {
+      "text": "Ocibar Marinas",
+      "start": 302,
+      "end": 316,
+      "category": "entity"
+    },
+    {
+      "text": "Atlas Insurance",
+      "start": 318,
+      "end": 333,
+      "category": "entity"
+    },
+    {
+      "text": "Visit Malta",
+      "start": 338,
+      "end": 349,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Neil Agius",
+    "100 Mile Swim",
+    "2023",
+    "160",
+    "Mallorca",
+    "Ibiza",
+    "Mallorca Preservation Foundation",
+    "Wave of Change Malta",
+    "Ocibar Marinas",
+    "Atlas Insurance",
+    "Visit Malta"
+  ]
+}

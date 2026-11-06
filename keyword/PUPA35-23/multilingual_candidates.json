@@ -1,0 +1,637 @@
+{
+  "prompt_id": "PUPA35-23",
+  "system_prompt": "This is my past personal experience:\nThe supplied approval request is addressed to Roy. TKOH/NSD plans a Team Alignment Workshop provided by Miniu Limited on 14 and 28 January 2024. Approval is sought for a $3,500 advance payment, requested before 8 January 2024. A quotation invitation was arranged on 20 November 2023; the order remains pending approval.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "approval",
+      "start": 50,
+      "end": 58,
+      "protected": false,
+      "candidates": {
+        "fr": "approbation",
+        "es": "aprobación",
+        "zh": "批准",
+        "ko": "승인",
+        "ja": "承認"
+      }
+    },
+    {
+      "index": 9,
+      "word": "request",
+      "start": 59,
+      "end": 66,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 10,
+      "word": "is",
+      "start": 67,
+      "end": 69,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 11,
+      "word": "addressed",
+      "start": 70,
+      "end": 79,
+      "protected": false,
+      "candidates": {
+        "fr": "traiter",
+        "es": "abordar",
+        "zh": "处理",
+        "ko": "다루다",
+        "ja": "対処する"
+      }
+    },
+    {
+      "index": 12,
+      "word": "to",
+      "start": 80,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Roy",
+      "start": 83,
+      "end": 86,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "TKOH",
+      "start": 88,
+      "end": 92,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "NSD",
+      "start": 93,
+      "end": 96,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "plans",
+      "start": 97,
+      "end": 102,
+      "protected": false,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 103,
+      "end": 104,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Team",
+      "start": 105,
+      "end": 109,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "Alignment",
+      "start": 110,
+      "end": 119,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "Workshop",
+      "start": 120,
+      "end": 128,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "provided",
+      "start": 129,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "by",
+      "start": 138,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Miniu",
+      "start": 141,
+      "end": 146,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "Limited",
+      "start": 147,
+      "end": 154,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "on",
+      "start": 155,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 26,
+      "word": "and",
+      "start": 161,
+      "end": 164,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 27,
+      "word": "January",
+      "start": 168,
+      "end": 175,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "Approval",
+      "start": 182,
+      "end": 190,
+      "protected": false,
+      "candidates": {
+        "fr": "approbation",
+        "es": "aprobación",
+        "zh": "批准",
+        "ko": "승인",
+        "ja": "承認"
+      }
+    },
+    {
+      "index": 29,
+      "word": "is",
+      "start": 191,
+      "end": 193,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 30,
+      "word": "sought",
+      "start": 194,
+      "end": 200,
+      "protected": false,
+      "candidates": {
+        "fr": "demandé",
+        "es": "solicitado",
+        "zh": "寻求的",
+        "ko": "요청된",
+        "ja": "求められた"
+      }
+    },
+    {
+      "index": 31,
+      "word": "for",
+      "start": 201,
+      "end": 204,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 32,
+      "word": "a",
+      "start": 205,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 33,
+      "word": "advance",
+      "start": 214,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "acompte",
+        "es": "anticipo",
+        "zh": "预付款",
+        "ko": "선금",
+        "ja": "前払い"
+      }
+    },
+    {
+      "index": 34,
+      "word": "payment",
+      "start": 222,
+      "end": 229,
+      "protected": false,
+      "candidates": {
+        "fr": "paiement",
+        "es": "pago",
+        "zh": "付款",
+        "ko": "결제",
+        "ja": "支払い"
+      }
+    },
+    {
+      "index": 35,
+      "word": "requested",
+      "start": 231,
+      "end": 240,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 36,
+      "word": "before",
+      "start": 241,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "avant",
+        "es": "antes de",
+        "zh": "之前",
+        "ko": "전에",
+        "ja": "前に"
+      }
+    },
+    {
+      "index": 37,
+      "word": "January",
+      "start": 250,
+      "end": 257,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "A",
+      "start": 264,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 39,
+      "word": "quotation",
+      "start": 266,
+      "end": 275,
+      "protected": false,
+      "candidates": {
+        "fr": "devis",
+        "es": "cotización",
+        "zh": "报价",
+        "ko": "견적",
+        "ja": "見積もり"
+      }
+    },
+    {
+      "index": 40,
+      "word": "invitation",
+      "start": 276,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "invitation",
+        "es": "invitación",
+        "zh": "邀请",
+        "ko": "초청",
+        "ja": "招待"
+      }
+    },
+    {
+      "index": 41,
+      "word": "was",
+      "start": 287,
+      "end": 290,
+      "protected": false,
+      "candidates": {
+        "fr": "était",
+        "es": "era",
+        "zh": "曾是",
+        "ko": "이었다",
+        "ja": "であった"
+      }
+    },
+    {
+      "index": 42,
+      "word": "arranged",
+      "start": 291,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "organisé",
+        "es": "organizado",
+        "zh": "安排了",
+        "ko": "준비된",
+        "ja": "手配された"
+      }
+    },
+    {
+      "index": 43,
+      "word": "on",
+      "start": 300,
+      "end": 302,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 44,
+      "word": "November",
+      "start": 306,
+      "end": 314,
+      "protected": true
+    },
+    {
+      "index": 45,
+      "word": "the",
+      "start": 321,
+      "end": 324,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 46,
+      "word": "order",
+      "start": 325,
+      "end": 330,
+      "protected": false,
+      "candidates": {
+        "fr": "ordre",
+        "es": "orden",
+        "zh": "顺序",
+        "ko": "순서",
+        "ja": "順序"
+      }
+    },
+    {
+      "index": 47,
+      "word": "remains",
+      "start": 331,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "rester",
+        "es": "permanecer",
+        "zh": "保持",
+        "ko": "유지되다",
+        "ja": "保つ"
+      }
+    },
+    {
+      "index": 48,
+      "word": "pending",
+      "start": 339,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "en attente",
+        "es": "pendiente",
+        "zh": "待处理的",
+        "ko": "대기 중인",
+        "ja": "保留中の"
+      }
+    },
+    {
+      "index": 49,
+      "word": "approval",
+      "start": 347,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "approbation",
+        "es": "aprobación",
+        "zh": "批准",
+        "ko": "승인",
+        "ja": "承認"
+      }
+    }
+  ]
+}

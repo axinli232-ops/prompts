@@ -1,0 +1,43 @@
+{
+  "id": "PUPA35-05",
+  "title_zh": "数据科学家求职背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 231,
+  "conversation_hash": "cb286630d45994e0d3cf8eccecf8ee23",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "保留 Banglore 原拼写；不把原文教育字段中的异常自动修成新事实。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my name",
+    "my current employer",
+    "my current position",
+    "when my current role started",
+    "the location listed for my profile",
+    "the location listed for my current work",
+    "my internship",
+    "my analyst experience",
+    "my educational institution",
+    "my technical interests"
+  ],
+  "protected_terms": [
+    "Tejas Khandwekar",
+    "ExxonMobil",
+    "June 2022",
+    "Nagpur",
+    "Maharashtra",
+    "India",
+    "Banglore",
+    "2021",
+    "CAE",
+    "Simulation Lab",
+    "Visvesvaraya National Institute of Technology",
+    "CFD"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

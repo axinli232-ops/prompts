@@ -1,0 +1,64 @@
+{
+  "prompt_id": "PUPA35-17",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "CommBank",
+      "start": 50,
+      "end": 58,
+      "category": "entity"
+    },
+    {
+      "text": "Microsoft",
+      "start": 139,
+      "end": 148,
+      "category": "entity"
+    },
+    {
+      "text": "NameCheck",
+      "start": 194,
+      "end": 203,
+      "category": "entity"
+    },
+    {
+      "text": "Bendigo Bank",
+      "start": 221,
+      "end": 233,
+      "category": "entity"
+    },
+    {
+      "text": "Satori",
+      "start": 238,
+      "end": 244,
+      "category": "entity"
+    },
+    {
+      "text": "AWS",
+      "start": 253,
+      "end": 256,
+      "category": "entity"
+    },
+    {
+      "text": "CloudUp for Her",
+      "start": 257,
+      "end": 272,
+      "category": "entity"
+    },
+    {
+      "text": "1,200",
+      "start": 286,
+      "end": 291,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "CommBank",
+    "Microsoft",
+    "NameCheck",
+    "Bendigo Bank",
+    "Satori",
+    "AWS",
+    "CloudUp for Her",
+    "1,200"
+  ]
+}

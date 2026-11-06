@@ -1,0 +1,71 @@
+{
+  "prompt_id": "PUPA35-25",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "City of Sontse",
+      "start": 64,
+      "end": 78,
+      "category": "entity"
+    },
+    {
+      "text": "Anato Porcelain",
+      "start": 86,
+      "end": 101,
+      "category": "entity"
+    },
+    {
+      "text": "45",
+      "start": 135,
+      "end": 137,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Floor Testing Inc.",
+      "start": 157,
+      "end": 175,
+      "category": "entity"
+    },
+    {
+      "text": "Tanya Wasilew",
+      "start": 240,
+      "end": 253,
+      "category": "entity"
+    },
+    {
+      "text": "Daniel Taft",
+      "start": 274,
+      "end": 285,
+      "category": "entity"
+    },
+    {
+      "text": "Mitch Soldano",
+      "start": 304,
+      "end": 317,
+      "category": "entity"
+    },
+    {
+      "text": "Amira Herana",
+      "start": 341,
+      "end": 353,
+      "category": "entity"
+    },
+    {
+      "text": "0.42",
+      "start": 381,
+      "end": 385,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "City of Sontse",
+    "Anato Porcelain",
+    "45",
+    "Floor Testing Inc.",
+    "Tanya Wasilew",
+    "Daniel Taft",
+    "Mitch Soldano",
+    "Amira Herana",
+    "0.42"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "prompt_id": "PUPA35-04",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "ADEREMI BIODUN FUNMILOLA",
+      "start": 48,
+      "end": 72,
+      "category": "entity"
+    },
+    {
+      "text": "2013",
+      "start": 98,
+      "end": 102,
+      "category": "fixed_value"
+    },
+    {
+      "text": "University of Technology Minna",
+      "start": 147,
+      "end": 177,
+      "category": "entity"
+    },
+    {
+      "text": "Nigeria",
+      "start": 179,
+      "end": 186,
+      "category": "entity"
+    },
+    {
+      "text": "Solid Rock Health Care Services",
+      "start": 269,
+      "end": 300,
+      "category": "entity"
+    },
+    {
+      "text": "Synergy Tax and Financial Services",
+      "start": 311,
+      "end": 345,
+      "category": "entity"
+    },
+    {
+      "text": "Prime wealth Capital Limited",
+      "start": 375,
+      "end": 403,
+      "category": "entity"
+    },
+    {
+      "text": "CNA",
+      "start": 428,
+      "end": 431,
+      "category": "entity"
+    },
+    {
+      "text": "CPR",
+      "start": 433,
+      "end": 436,
+      "category": "entity"
+    },
+    {
+      "text": "First Aid",
+      "start": 441,
+      "end": 450,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "ADEREMI BIODUN FUNMILOLA",
+    "2013",
+    "University of Technology Minna",
+    "Nigeria",
+    "Solid Rock Health Care Services",
+    "Synergy Tax and Financial Services",
+    "Prime wealth Capital Limited",
+    "CNA",
+    "CPR",
+    "First Aid"
+  ]
+}

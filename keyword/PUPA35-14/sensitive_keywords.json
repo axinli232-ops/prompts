@@ -1,0 +1,78 @@
+{
+  "prompt_id": "PUPA35-14",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "STAFFIN SOFTWARES VICTORIA",
+      "start": 37,
+      "end": 63,
+      "category": "entity"
+    },
+    {
+      "text": "Jay's Freight",
+      "start": 158,
+      "end": 171,
+      "category": "entity"
+    },
+    {
+      "text": "Life Disability and Nursing Care",
+      "start": 173,
+      "end": 205,
+      "category": "entity"
+    },
+    {
+      "text": "Jay's Rentals",
+      "start": 207,
+      "end": 220,
+      "category": "entity"
+    },
+    {
+      "text": "Forefront Securities",
+      "start": 225,
+      "end": 245,
+      "category": "entity"
+    },
+    {
+      "text": "400",
+      "start": 268,
+      "end": 271,
+      "category": "fixed_value"
+    },
+    {
+      "text": "MYOB",
+      "start": 304,
+      "end": 308,
+      "category": "entity"
+    },
+    {
+      "text": "QuickBooks",
+      "start": 313,
+      "end": 323,
+      "category": "entity"
+    },
+    {
+      "text": "India",
+      "start": 338,
+      "end": 343,
+      "category": "entity"
+    },
+    {
+      "text": "Australian",
+      "start": 360,
+      "end": 370,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "STAFFIN SOFTWARES VICTORIA",
+    "Jay's Freight",
+    "Life Disability and Nursing Care",
+    "Jay's Rentals",
+    "Forefront Securities",
+    "400",
+    "MYOB",
+    "QuickBooks",
+    "India",
+    "Australian"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "prompt_id": "PUPA35-21",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Safran Aerosystems Services",
+      "start": 37,
+      "end": 64,
+      "category": "entity"
+    },
+    {
+      "text": "Dubai",
+      "start": 111,
+      "end": 116,
+      "category": "entity"
+    },
+    {
+      "text": "United Arab Emirates",
+      "start": 118,
+      "end": 138,
+      "category": "entity"
+    },
+    {
+      "text": "Middle East",
+      "start": 166,
+      "end": 177,
+      "category": "entity"
+    },
+    {
+      "text": "English",
+      "start": 421,
+      "end": 428,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Safran Aerosystems Services",
+    "Dubai",
+    "United Arab Emirates",
+    "Middle East",
+    "English"
+  ]
+}

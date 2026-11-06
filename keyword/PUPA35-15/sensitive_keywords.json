@@ -1,0 +1,99 @@
+{
+  "prompt_id": "PUPA35-15",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Paul Giles",
+      "start": 37,
+      "end": 47,
+      "category": "entity"
+    },
+    {
+      "text": "The Vintage Team at Compass",
+      "start": 52,
+      "end": 79,
+      "category": "entity"
+    },
+    {
+      "text": "2002",
+      "start": 131,
+      "end": 135,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Florida",
+      "start": 178,
+      "end": 185,
+      "category": "entity"
+    },
+    {
+      "text": "Conway",
+      "start": 197,
+      "end": 203,
+      "category": "entity"
+    },
+    {
+      "text": "Orlando",
+      "start": 205,
+      "end": 212,
+      "category": "entity"
+    },
+    {
+      "text": "Maitland",
+      "start": 214,
+      "end": 222,
+      "category": "entity"
+    },
+    {
+      "text": "Winter Park",
+      "start": 224,
+      "end": 235,
+      "category": "entity"
+    },
+    {
+      "text": "Windermere",
+      "start": 237,
+      "end": 247,
+      "category": "entity"
+    },
+    {
+      "text": "Altamonte Springs",
+      "start": 249,
+      "end": 266,
+      "category": "entity"
+    },
+    {
+      "text": "Delaney Park",
+      "start": 268,
+      "end": 280,
+      "category": "entity"
+    },
+    {
+      "text": "Lake Nona Region",
+      "start": 282,
+      "end": 298,
+      "category": "entity"
+    },
+    {
+      "text": "Lancaster Park",
+      "start": 303,
+      "end": 317,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Paul Giles",
+    "The Vintage Team at Compass",
+    "2002",
+    "Florida",
+    "Conway",
+    "Orlando",
+    "Maitland",
+    "Winter Park",
+    "Windermere",
+    "Altamonte Springs",
+    "Delaney Park",
+    "Lake Nona Region",
+    "Lancaster Park"
+  ]
+}

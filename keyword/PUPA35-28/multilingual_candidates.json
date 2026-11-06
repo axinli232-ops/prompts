@@ -1,0 +1,770 @@
+{
+  "prompt_id": "PUPA35-28",
+  "system_prompt": "This is my past personal experience:\nCalvin writes to Andy and Jaime requesting FY22 Revenue and Gross Margin by job family, for analysis requested by Erin and Beckey. Jaime mentioned Factbook access. Rough assumptions are acceptable where data are difficult to obtain. The request asks for information over the next few days; the referenced screenshot is not provided.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Calvin",
+      "start": 37,
+      "end": 43,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "writes",
+      "start": 44,
+      "end": 50,
+      "protected": false,
+      "candidates": {
+        "fr": "écrit",
+        "es": "escribe",
+        "zh": "写信",
+        "ko": "쓴다",
+        "ja": "書く"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 51,
+      "end": 53,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Andy",
+      "start": 54,
+      "end": 58,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "and",
+      "start": 59,
+      "end": 62,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Jaime",
+      "start": 63,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "requesting",
+      "start": 69,
+      "end": 79,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 13,
+      "word": "FY",
+      "start": 80,
+      "end": 82,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "Revenue",
+      "start": 85,
+      "end": 92,
+      "protected": false,
+      "candidates": {
+        "fr": "chiffre d’affaires",
+        "es": "ingresos",
+        "zh": "营收",
+        "ko": "매출",
+        "ja": "売上"
+      }
+    },
+    {
+      "index": 15,
+      "word": "and",
+      "start": 93,
+      "end": 96,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Gross",
+      "start": 97,
+      "end": 102,
+      "protected": false,
+      "candidates": {
+        "fr": "brut",
+        "es": "bruto",
+        "zh": "总的",
+        "ko": "총",
+        "ja": "総"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Margin",
+      "start": 103,
+      "end": 109,
+      "protected": false,
+      "candidates": {
+        "fr": "marge",
+        "es": "margen",
+        "zh": "利润率",
+        "ko": "마진",
+        "ja": "利益率"
+      }
+    },
+    {
+      "index": 18,
+      "word": "by",
+      "start": 110,
+      "end": 112,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 19,
+      "word": "job",
+      "start": 113,
+      "end": 116,
+      "protected": false,
+      "candidates": {
+        "fr": "emploi",
+        "es": "empleo",
+        "zh": "工作",
+        "ko": "직업",
+        "ja": "仕事"
+      }
+    },
+    {
+      "index": 20,
+      "word": "family",
+      "start": 117,
+      "end": 123,
+      "protected": false,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 21,
+      "word": "for",
+      "start": 125,
+      "end": 128,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 22,
+      "word": "analysis",
+      "start": 129,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 23,
+      "word": "requested",
+      "start": 138,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 24,
+      "word": "by",
+      "start": 148,
+      "end": 150,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 25,
+      "word": "Erin",
+      "start": 151,
+      "end": 155,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "and",
+      "start": 156,
+      "end": 159,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Beckey",
+      "start": 160,
+      "end": 166,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "Jaime",
+      "start": 168,
+      "end": 173,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "mentioned",
+      "start": 174,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "Factbook",
+      "start": 184,
+      "end": 192,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "access",
+      "start": 193,
+      "end": 199,
+      "protected": false,
+      "candidates": {
+        "fr": "accès",
+        "es": "acceso",
+        "zh": "访问",
+        "ko": "접근",
+        "ja": "アクセス"
+      }
+    },
+    {
+      "index": 32,
+      "word": "Rough",
+      "start": 201,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "approximatif",
+        "es": "aproximado",
+        "zh": "粗略的",
+        "ko": "대략적인",
+        "ja": "概算の"
+      }
+    },
+    {
+      "index": 33,
+      "word": "assumptions",
+      "start": 207,
+      "end": 218,
+      "protected": false,
+      "candidates": {
+        "fr": "hypothèses",
+        "es": "suposiciones",
+        "zh": "假设",
+        "ko": "가정",
+        "ja": "仮定"
+      }
+    },
+    {
+      "index": 34,
+      "word": "are",
+      "start": 219,
+      "end": 222,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 35,
+      "word": "acceptable",
+      "start": 223,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "acceptable",
+        "es": "aceptable",
+        "zh": "可接受的",
+        "ko": "허용되는",
+        "ja": "許容される"
+      }
+    },
+    {
+      "index": 36,
+      "word": "where",
+      "start": 234,
+      "end": 239,
+      "protected": false,
+      "candidates": {
+        "fr": "où",
+        "es": "dónde",
+        "zh": "哪里",
+        "ko": "어디",
+        "ja": "どこ"
+      }
+    },
+    {
+      "index": 37,
+      "word": "data",
+      "start": 240,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 38,
+      "word": "are",
+      "start": 245,
+      "end": 248,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 39,
+      "word": "difficult",
+      "start": 249,
+      "end": 258,
+      "protected": false,
+      "candidates": {
+        "fr": "difficile",
+        "es": "difícil",
+        "zh": "困难的",
+        "ko": "어려운",
+        "ja": "難しい"
+      }
+    },
+    {
+      "index": 40,
+      "word": "to",
+      "start": 259,
+      "end": 261,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 41,
+      "word": "obtain",
+      "start": 262,
+      "end": 268,
+      "protected": false,
+      "candidates": {
+        "fr": "obtenir",
+        "es": "obtener",
+        "zh": "获得",
+        "ko": "얻다",
+        "ja": "得る"
+      }
+    },
+    {
+      "index": 42,
+      "word": "The",
+      "start": 270,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 43,
+      "word": "request",
+      "start": 274,
+      "end": 281,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 44,
+      "word": "asks",
+      "start": 282,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "pide",
+        "zh": "询问",
+        "ko": "묻는다",
+        "ja": "尋ねる"
+      }
+    },
+    {
+      "index": 45,
+      "word": "for",
+      "start": 287,
+      "end": 290,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 46,
+      "word": "information",
+      "start": 291,
+      "end": 302,
+      "protected": false,
+      "candidates": {
+        "fr": "information",
+        "es": "información",
+        "zh": "信息",
+        "ko": "정보",
+        "ja": "情報"
+      }
+    },
+    {
+      "index": 47,
+      "word": "over",
+      "start": 303,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "au-dessus de",
+        "es": "sobre",
+        "zh": "超过",
+        "ko": "넘어",
+        "ja": "を超えて"
+      }
+    },
+    {
+      "index": 48,
+      "word": "the",
+      "start": 308,
+      "end": 311,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 49,
+      "word": "next",
+      "start": 312,
+      "end": 316,
+      "protected": false,
+      "candidates": {
+        "fr": "prochain",
+        "es": "próximo",
+        "zh": "接下来的",
+        "ko": "다음",
+        "ja": "次の"
+      }
+    },
+    {
+      "index": 50,
+      "word": "few",
+      "start": 317,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "quelques",
+        "es": "pocos",
+        "zh": "少数",
+        "ko": "몇",
+        "ja": "数日分の"
+      }
+    },
+    {
+      "index": 51,
+      "word": "days",
+      "start": 321,
+      "end": 325,
+      "protected": false,
+      "candidates": {
+        "fr": "jours",
+        "es": "días",
+        "zh": "天",
+        "ko": "날들",
+        "ja": "日々"
+      }
+    },
+    {
+      "index": 52,
+      "word": "the",
+      "start": 327,
+      "end": 330,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 53,
+      "word": "referenced",
+      "start": 331,
+      "end": 341,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionné",
+        "es": "referenciado",
+        "zh": "提及的",
+        "ko": "참조된",
+        "ja": "参照された"
+      }
+    },
+    {
+      "index": 54,
+      "word": "screenshot",
+      "start": 342,
+      "end": 352,
+      "protected": false,
+      "candidates": {
+        "fr": "capture d'écran",
+        "es": "captura de pantalla",
+        "zh": "截图",
+        "ko": "화면 캡처",
+        "ja": "スクリーンショット"
+      }
+    },
+    {
+      "index": 55,
+      "word": "is",
+      "start": 353,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 56,
+      "word": "not",
+      "start": 356,
+      "end": 359,
+      "protected": false,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 57,
+      "word": "provided",
+      "start": 360,
+      "end": 368,
+      "protected": false,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    }
+  ]
+}

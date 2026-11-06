@@ -1,0 +1,40 @@
+{
+  "id": "PUPA35-30",
+  "title_zh": "慈善冰球活动公告",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 141,
+  "conversation_hash": "4be535598e8436bd80f2544903aee0e9",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "只保留活动业务事实，不扩写原稿的家庭悲剧背景；单次活动需多种请求输入。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who issued the event announcement",
+    "the professional sports organization involved",
+    "the event date",
+    "the two public-service teams",
+    "the person leading the winning team",
+    "the winning score",
+    "the donation beneficiary",
+    "the stated destination of the funds",
+    "the organizations to thank",
+    "the donation amount that is not specified"
+  ],
+  "protected_terms": [
+    "November 30, 2023",
+    "Longport Police Department",
+    "Philadelphia Flyers",
+    "Atlantic County Police & Fire",
+    "Philadelphia Police Department",
+    "Atlantic County",
+    "Alec Morelli",
+    "6–3",
+    "Children’s Hospital of Philadelphia"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,714 @@
+{
+  "prompt_id": "PUPA35-18",
+  "system_prompt": "This is my past personal experience:\nIn the supplied performance-plan scenario, Aly joined Amazon's VF team as city manager for West Cairo in July 2022. Duties cover on-ground operations, inventory, staff performance and labor management across sites. The requested development areas are timely communication, operational presence, staff training, data tracking, labor planning and prioritization.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "In",
+      "start": 37,
+      "end": 39,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 7,
+      "word": "the",
+      "start": 40,
+      "end": 43,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 8,
+      "word": "supplied",
+      "start": 44,
+      "end": 52,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 9,
+      "word": "performance-plan",
+      "start": 53,
+      "end": 69,
+      "protected": false,
+      "candidates": {
+        "fr": "plan de performance",
+        "es": "plan de desempeño",
+        "zh": "绩效计划",
+        "ko": "성과 계획",
+        "ja": "業績計画"
+      }
+    },
+    {
+      "index": 10,
+      "word": "scenario",
+      "start": 70,
+      "end": 78,
+      "protected": false,
+      "candidates": {
+        "fr": "scénario",
+        "es": "escenario",
+        "zh": "情境",
+        "ko": "시나리오",
+        "ja": "シナリオ"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Aly",
+      "start": 80,
+      "end": 83,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "joined",
+      "start": 84,
+      "end": 90,
+      "protected": false,
+      "candidates": {
+        "fr": "a rejoint",
+        "es": "se incorporó",
+        "zh": "加入了",
+        "ko": "합류한",
+        "ja": "入社した"
+      }
+    },
+    {
+      "index": 13,
+      "word": "Amazon's",
+      "start": 91,
+      "end": 99,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "VF",
+      "start": 100,
+      "end": 102,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "team",
+      "start": 103,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "équipe",
+        "es": "equipo",
+        "zh": "团队",
+        "ko": "팀",
+        "ja": "チーム"
+      }
+    },
+    {
+      "index": 16,
+      "word": "as",
+      "start": 108,
+      "end": 110,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 17,
+      "word": "city",
+      "start": 111,
+      "end": 115,
+      "protected": false,
+      "candidates": {
+        "fr": "ville",
+        "es": "ciudad",
+        "zh": "城市",
+        "ko": "도시",
+        "ja": "都市"
+      }
+    },
+    {
+      "index": 18,
+      "word": "manager",
+      "start": 116,
+      "end": 123,
+      "protected": false,
+      "candidates": {
+        "fr": "responsable",
+        "es": "gerente",
+        "zh": "经理",
+        "ko": "관리자",
+        "ja": "責任者"
+      }
+    },
+    {
+      "index": 19,
+      "word": "for",
+      "start": 124,
+      "end": 127,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 20,
+      "word": "West",
+      "start": 128,
+      "end": 132,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "Cairo",
+      "start": 133,
+      "end": 138,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "in",
+      "start": 139,
+      "end": 141,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 23,
+      "word": "July",
+      "start": 142,
+      "end": 146,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "Duties",
+      "start": 153,
+      "end": 159,
+      "protected": false,
+      "candidates": {
+        "fr": "responsabilités",
+        "es": "responsabilidades",
+        "zh": "职责",
+        "ko": "업무",
+        "ja": "職務"
+      }
+    },
+    {
+      "index": 25,
+      "word": "cover",
+      "start": 160,
+      "end": 165,
+      "protected": false,
+      "candidates": {
+        "fr": "couvrir",
+        "es": "cubrir",
+        "zh": "涵盖",
+        "ko": "다루다",
+        "ja": "網羅する"
+      }
+    },
+    {
+      "index": 26,
+      "word": "on-ground",
+      "start": 166,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "sur le terrain",
+        "es": "sobre el terreno",
+        "zh": "现场的",
+        "ko": "현장의",
+        "ja": "現場の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "operations",
+      "start": 176,
+      "end": 186,
+      "protected": false,
+      "candidates": {
+        "fr": "opérations",
+        "es": "operaciones",
+        "zh": "操作",
+        "ko": "운영",
+        "ja": "操作"
+      }
+    },
+    {
+      "index": 28,
+      "word": "inventory",
+      "start": 188,
+      "end": 197,
+      "protected": false,
+      "candidates": {
+        "fr": "stocks",
+        "es": "inventario",
+        "zh": "库存",
+        "ko": "재고",
+        "ja": "在庫"
+      }
+    },
+    {
+      "index": 29,
+      "word": "staff",
+      "start": 199,
+      "end": 204,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "職員"
+      }
+    },
+    {
+      "index": 30,
+      "word": "performance",
+      "start": 205,
+      "end": 216,
+      "protected": false,
+      "candidates": {
+        "fr": "performance",
+        "es": "rendimiento",
+        "zh": "性能",
+        "ko": "성능",
+        "ja": "性能"
+      }
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 217,
+      "end": 220,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 32,
+      "word": "labor",
+      "start": 221,
+      "end": 226,
+      "protected": false,
+      "candidates": {
+        "fr": "main-d'œuvre",
+        "es": "mano de obra",
+        "zh": "劳动力",
+        "ko": "노동력",
+        "ja": "労働力"
+      }
+    },
+    {
+      "index": 33,
+      "word": "management",
+      "start": 227,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "gestion",
+        "es": "gestión",
+        "zh": "管理",
+        "ko": "관리",
+        "ja": "管理"
+      }
+    },
+    {
+      "index": 34,
+      "word": "across",
+      "start": 238,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "à travers",
+        "es": "a través de",
+        "zh": "跨越",
+        "ko": "가로질러",
+        "ja": "横断して"
+      }
+    },
+    {
+      "index": 35,
+      "word": "sites",
+      "start": 245,
+      "end": 250,
+      "protected": false,
+      "candidates": {
+        "fr": "sites",
+        "es": "centros",
+        "zh": "场所",
+        "ko": "현장들",
+        "ja": "拠点"
+      }
+    },
+    {
+      "index": 36,
+      "word": "The",
+      "start": 252,
+      "end": 255,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 37,
+      "word": "requested",
+      "start": 256,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "solicitud",
+        "zh": "请求",
+        "ko": "요청",
+        "ja": "依頼"
+      }
+    },
+    {
+      "index": 38,
+      "word": "development",
+      "start": 266,
+      "end": 277,
+      "protected": false,
+      "candidates": {
+        "fr": "développement",
+        "es": "desarrollo",
+        "zh": "发展",
+        "ko": "개발",
+        "ja": "開発"
+      }
+    },
+    {
+      "index": 39,
+      "word": "areas",
+      "start": 278,
+      "end": 283,
+      "protected": false,
+      "candidates": {
+        "fr": "domaines",
+        "es": "áreas",
+        "zh": "领域",
+        "ko": "분야",
+        "ja": "分野"
+      }
+    },
+    {
+      "index": 40,
+      "word": "are",
+      "start": 284,
+      "end": 287,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 41,
+      "word": "timely",
+      "start": 288,
+      "end": 294,
+      "protected": false,
+      "candidates": {
+        "fr": "en temps opportun",
+        "es": "oportuno",
+        "zh": "及时的",
+        "ko": "적시의",
+        "ja": "適時の"
+      }
+    },
+    {
+      "index": 42,
+      "word": "communication",
+      "start": 295,
+      "end": 308,
+      "protected": false,
+      "candidates": {
+        "fr": "communication",
+        "es": "comunicación",
+        "zh": "沟通",
+        "ko": "소통",
+        "ja": "コミュニケーション"
+      }
+    },
+    {
+      "index": 43,
+      "word": "operational",
+      "start": 310,
+      "end": 321,
+      "protected": false,
+      "candidates": {
+        "fr": "opérationnel",
+        "es": "operativo",
+        "zh": "运营的",
+        "ko": "운영상의",
+        "ja": "運用上の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "presence",
+      "start": 322,
+      "end": 330,
+      "protected": false,
+      "candidates": {
+        "fr": "présence",
+        "es": "presencia",
+        "zh": "存在",
+        "ko": "존재",
+        "ja": "存在"
+      }
+    },
+    {
+      "index": 45,
+      "word": "staff",
+      "start": 332,
+      "end": 337,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "職員"
+      }
+    },
+    {
+      "index": 46,
+      "word": "training",
+      "start": 338,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "formation",
+        "es": "formación",
+        "zh": "培训",
+        "ko": "교육",
+        "ja": "研修"
+      }
+    },
+    {
+      "index": 47,
+      "word": "data",
+      "start": 348,
+      "end": 352,
+      "protected": false,
+      "candidates": {
+        "fr": "données",
+        "es": "datos",
+        "zh": "数据",
+        "ko": "데이터",
+        "ja": "データ"
+      }
+    },
+    {
+      "index": 48,
+      "word": "tracking",
+      "start": 353,
+      "end": 361,
+      "protected": false,
+      "candidates": {
+        "fr": "suivi",
+        "es": "seguimiento",
+        "zh": "跟踪",
+        "ko": "추적",
+        "ja": "追跡"
+      }
+    },
+    {
+      "index": 49,
+      "word": "labor",
+      "start": 363,
+      "end": 368,
+      "protected": false,
+      "candidates": {
+        "fr": "main-d'œuvre",
+        "es": "mano de obra",
+        "zh": "劳动力",
+        "ko": "노동력",
+        "ja": "労働力"
+      }
+    },
+    {
+      "index": 50,
+      "word": "planning",
+      "start": 369,
+      "end": 377,
+      "protected": false,
+      "candidates": {
+        "fr": "plan",
+        "es": "plan",
+        "zh": "计划",
+        "ko": "계획",
+        "ja": "計画"
+      }
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 378,
+      "end": 381,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "prioritization",
+      "start": 382,
+      "end": 396,
+      "protected": false,
+      "candidates": {
+        "fr": "priorisation",
+        "es": "priorización",
+        "zh": "优先级安排",
+        "ko": "우선순위 설정",
+        "ja": "優先順位付け"
+      }
+    }
+  ]
+}

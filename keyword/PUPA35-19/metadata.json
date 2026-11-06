@@ -1,0 +1,37 @@
+{
+  "id": "PUPA35-19",
+  "title_zh": "航空适航工程师职位背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 56,
+  "conversation_hash": "931b849f7db53f73d54e415ad6eb0b72",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "只知道岗位要求，不知道用户真实经验；应由query提供候选人材料。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the recruiting company is",
+    "the engineering specialization of the role",
+    "the aircraft fleet mentioned",
+    "the engine-event analysis duties",
+    "the investigation-report duties",
+    "the supplier-coordination duties",
+    "the certification work mentioned",
+    "the safety-study work mentioned",
+    "the experience requirement",
+    "the language requirements"
+  ],
+  "protected_terms": [
+    "Airbus PROTECT",
+    "Airbus Protect SAS",
+    "Airbus",
+    "CS-25",
+    "English",
+    "French"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

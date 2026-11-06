@@ -1,0 +1,749 @@
+{
+  "prompt_id": "PUPA35-01",
+  "system_prompt": "This is my past personal experience:\nI live in Saudi Arabia. My current employer is Napco National Company, where I have been Senior Compliance Officer since June 2022. Earlier roles include accounts payable and HR at that company and Customer Service Coordinator at Aljoumaih automotive Company. My education includes a 2022 MBA at Saudi Electronic University-Dammam and 2015 business studies at Arab Open university-Dammam.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "I",
+      "start": 37,
+      "end": 38,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 7,
+      "word": "live",
+      "start": 39,
+      "end": 43,
+      "protected": false,
+      "candidates": {
+        "fr": "vivre",
+        "es": "vivir",
+        "zh": "居住",
+        "ko": "살다",
+        "ja": "住む"
+      }
+    },
+    {
+      "index": 8,
+      "word": "in",
+      "start": 44,
+      "end": 46,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Saudi",
+      "start": 47,
+      "end": 52,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Arabia",
+      "start": 53,
+      "end": 59,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "My",
+      "start": 61,
+      "end": 63,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 12,
+      "word": "current",
+      "start": 64,
+      "end": 71,
+      "protected": false,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 13,
+      "word": "employer",
+      "start": 72,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "employeur",
+        "es": "empleador",
+        "zh": "雇主",
+        "ko": "고용주",
+        "ja": "雇用主"
+      }
+    },
+    {
+      "index": 14,
+      "word": "is",
+      "start": 81,
+      "end": 83,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 15,
+      "word": "Napco",
+      "start": 84,
+      "end": 89,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "National",
+      "start": 90,
+      "end": 98,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "Company",
+      "start": 99,
+      "end": 106,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "where",
+      "start": 108,
+      "end": 113,
+      "protected": false,
+      "candidates": {
+        "fr": "où",
+        "es": "dónde",
+        "zh": "哪里",
+        "ko": "어디",
+        "ja": "どこ"
+      }
+    },
+    {
+      "index": 19,
+      "word": "I",
+      "start": 114,
+      "end": 115,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 20,
+      "word": "have",
+      "start": 116,
+      "end": 120,
+      "protected": false,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "been",
+      "start": 121,
+      "end": 125,
+      "protected": false,
+      "candidates": {
+        "fr": "été",
+        "es": "sido",
+        "zh": "曾经",
+        "ko": "있었던",
+        "ja": "であった"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Senior",
+      "start": 126,
+      "end": 132,
+      "protected": false,
+      "candidates": {
+        "fr": "supérieur",
+        "es": "sénior",
+        "zh": "高级",
+        "ko": "수석",
+        "ja": "上級"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Compliance",
+      "start": 133,
+      "end": 143,
+      "protected": false,
+      "candidates": {
+        "fr": "conformité",
+        "es": "cumplimiento",
+        "zh": "合规",
+        "ko": "준수",
+        "ja": "遵守"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Officer",
+      "start": 144,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "agent",
+        "es": "oficial",
+        "zh": "专员",
+        "ko": "담당자",
+        "ja": "担当官"
+      }
+    },
+    {
+      "index": 25,
+      "word": "since",
+      "start": 152,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "depuis",
+        "es": "desde",
+        "zh": "自从",
+        "ko": "이후",
+        "ja": "以来"
+      }
+    },
+    {
+      "index": 26,
+      "word": "June",
+      "start": 158,
+      "end": 162,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "Earlier",
+      "start": 169,
+      "end": 176,
+      "protected": false,
+      "candidates": {
+        "fr": "antérieur",
+        "es": "anterior",
+        "zh": "早先的",
+        "ko": "이전의",
+        "ja": "以前の"
+      }
+    },
+    {
+      "index": 28,
+      "word": "roles",
+      "start": 177,
+      "end": 182,
+      "protected": false,
+      "candidates": {
+        "fr": "rôles",
+        "es": "funciones",
+        "zh": "职位",
+        "ko": "역할들",
+        "ja": "役職"
+      }
+    },
+    {
+      "index": 29,
+      "word": "include",
+      "start": 183,
+      "end": 190,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 30,
+      "word": "accounts",
+      "start": 191,
+      "end": 199,
+      "protected": false,
+      "candidates": {
+        "fr": "compte",
+        "es": "cuenta",
+        "zh": "账户",
+        "ko": "계정",
+        "ja": "アカウント"
+      }
+    },
+    {
+      "index": 31,
+      "word": "payable",
+      "start": 200,
+      "end": 207,
+      "protected": false,
+      "candidates": {
+        "fr": "à payer",
+        "es": "por pagar",
+        "zh": "应付的",
+        "ko": "지급할",
+        "ja": "支払うべき"
+      }
+    },
+    {
+      "index": 32,
+      "word": "and",
+      "start": 208,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 33,
+      "word": "HR",
+      "start": 212,
+      "end": 214,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "at",
+      "start": 215,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 35,
+      "word": "that",
+      "start": 218,
+      "end": 222,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 36,
+      "word": "company",
+      "start": 223,
+      "end": 230,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "empresa",
+        "zh": "公司",
+        "ko": "회사",
+        "ja": "会社"
+      }
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 231,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 38,
+      "word": "Customer",
+      "start": 235,
+      "end": 243,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 39,
+      "word": "Service",
+      "start": 244,
+      "end": 251,
+      "protected": false,
+      "candidates": {
+        "fr": "service",
+        "es": "servicio",
+        "zh": "服务",
+        "ko": "서비스",
+        "ja": "サービス"
+      }
+    },
+    {
+      "index": 40,
+      "word": "Coordinator",
+      "start": 252,
+      "end": 263,
+      "protected": false,
+      "candidates": {
+        "fr": "coordinateur",
+        "es": "coordinador",
+        "zh": "协调员",
+        "ko": "조정자",
+        "ja": "調整担当者"
+      }
+    },
+    {
+      "index": 41,
+      "word": "at",
+      "start": 264,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 42,
+      "word": "Aljoumaih",
+      "start": 267,
+      "end": 276,
+      "protected": true
+    },
+    {
+      "index": 43,
+      "word": "automotive",
+      "start": 277,
+      "end": 287,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "Company",
+      "start": 288,
+      "end": 295,
+      "protected": true
+    },
+    {
+      "index": 45,
+      "word": "My",
+      "start": 297,
+      "end": 299,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 46,
+      "word": "education",
+      "start": 300,
+      "end": 309,
+      "protected": false,
+      "candidates": {
+        "fr": "éducation",
+        "es": "educación",
+        "zh": "教育",
+        "ko": "교육",
+        "ja": "教育"
+      }
+    },
+    {
+      "index": 47,
+      "word": "includes",
+      "start": 310,
+      "end": 318,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 48,
+      "word": "a",
+      "start": 319,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 49,
+      "word": "MBA",
+      "start": 326,
+      "end": 329,
+      "protected": true
+    },
+    {
+      "index": 50,
+      "word": "at",
+      "start": 330,
+      "end": 332,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Saudi",
+      "start": 333,
+      "end": 338,
+      "protected": true
+    },
+    {
+      "index": 52,
+      "word": "Electronic",
+      "start": 339,
+      "end": 349,
+      "protected": true
+    },
+    {
+      "index": 53,
+      "word": "University-Dammam",
+      "start": 350,
+      "end": 367,
+      "protected": true
+    },
+    {
+      "index": 54,
+      "word": "and",
+      "start": 368,
+      "end": 371,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 55,
+      "word": "business",
+      "start": 377,
+      "end": 385,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 56,
+      "word": "studies",
+      "start": 386,
+      "end": 393,
+      "protected": false,
+      "candidates": {
+        "fr": "étude",
+        "es": "estudio",
+        "zh": "研究",
+        "ko": "연구",
+        "ja": "研究"
+      }
+    },
+    {
+      "index": 57,
+      "word": "at",
+      "start": 394,
+      "end": 396,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 58,
+      "word": "Arab",
+      "start": 397,
+      "end": 401,
+      "protected": true
+    },
+    {
+      "index": 59,
+      "word": "Open",
+      "start": 402,
+      "end": 406,
+      "protected": true
+    },
+    {
+      "index": 60,
+      "word": "university-Dammam",
+      "start": 407,
+      "end": 424,
+      "protected": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "prompt_id": "PUPA35-20",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Wizz Air",
+      "start": 37,
+      "end": 45,
+      "category": "entity"
+    },
+    {
+      "text": "BUD",
+      "start": 111,
+      "end": 114,
+      "category": "entity"
+    },
+    {
+      "text": "KPIs",
+      "start": 183,
+      "end": 187,
+      "category": "entity"
+    },
+    {
+      "text": "Engine/APU",
+      "start": 192,
+      "end": 202,
+      "category": "entity"
+    },
+    {
+      "text": "ADEM",
+      "start": 221,
+      "end": 225,
+      "category": "entity"
+    },
+    {
+      "text": "PW",
+      "start": 227,
+      "end": 229,
+      "category": "entity"
+    },
+    {
+      "text": "Honeywell",
+      "start": 234,
+      "end": 243,
+      "category": "entity"
+    },
+    {
+      "text": "Part-66",
+      "start": 266,
+      "end": 273,
+      "category": "entity"
+    },
+    {
+      "text": "A320FAM",
+      "start": 285,
+      "end": 292,
+      "category": "entity"
+    },
+    {
+      "text": "Part-145/Part-M",
+      "start": 303,
+      "end": 318,
+      "category": "entity"
+    },
+    {
+      "text": "English",
+      "start": 330,
+      "end": 337,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Wizz Air",
+    "BUD",
+    "KPIs",
+    "Engine/APU",
+    "ADEM",
+    "PW",
+    "Honeywell",
+    "Part-66",
+    "A320FAM",
+    "Part-145/Part-M",
+    "English"
+  ]
+}

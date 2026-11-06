@@ -1,0 +1,43 @@
+{
+  "prompt_id": "PUPA35-18",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Aly",
+      "start": 80,
+      "end": 83,
+      "category": "entity"
+    },
+    {
+      "text": "Amazon",
+      "start": 91,
+      "end": 97,
+      "category": "entity"
+    },
+    {
+      "text": "VF",
+      "start": 100,
+      "end": 102,
+      "category": "entity"
+    },
+    {
+      "text": "West Cairo",
+      "start": 128,
+      "end": 138,
+      "category": "entity"
+    },
+    {
+      "text": "July 2022",
+      "start": 142,
+      "end": 151,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Aly",
+    "Amazon",
+    "VF",
+    "West Cairo",
+    "July 2022"
+  ]
+}

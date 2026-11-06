@@ -1,0 +1,588 @@
+{
+  "prompt_id": "PUPA35-24",
+  "system_prompt": "This is my past personal experience:\nThe supplied press release describes Neil Agius's planned 100 Mile Swim in summer 2023: approximately 160 km from Mallorca around western Ibiza to eastern Ibiza, raising ocean-conservation awareness. It names Mallorca Preservation Foundation, Wave of Change Malta, Ocibar Marinas, Atlas Insurance and Visit Malta as supporters or sponsors.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "press",
+      "start": 50,
+      "end": 55,
+      "protected": false,
+      "candidates": {
+        "fr": "presse",
+        "es": "prensa",
+        "zh": "新闻",
+        "ko": "언론",
+        "ja": "報道"
+      }
+    },
+    {
+      "index": 9,
+      "word": "release",
+      "start": 56,
+      "end": 63,
+      "protected": false,
+      "candidates": {
+        "fr": "communiqué",
+        "es": "comunicado",
+        "zh": "发布稿",
+        "ko": "발표문",
+        "ja": "発表文"
+      }
+    },
+    {
+      "index": 10,
+      "word": "describes",
+      "start": 64,
+      "end": 73,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Neil",
+      "start": 74,
+      "end": 78,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "Agius's",
+      "start": 79,
+      "end": 86,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "planned",
+      "start": 87,
+      "end": 94,
+      "protected": false,
+      "candidates": {
+        "fr": "prévu",
+        "es": "previsto",
+        "zh": "计划的",
+        "ko": "계획된",
+        "ja": "計画された"
+      }
+    },
+    {
+      "index": 14,
+      "word": "Mile",
+      "start": 99,
+      "end": 103,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "Swim",
+      "start": 104,
+      "end": 108,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "in",
+      "start": 109,
+      "end": 111,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 17,
+      "word": "summer",
+      "start": 112,
+      "end": 118,
+      "protected": false,
+      "candidates": {
+        "fr": "été",
+        "es": "verano",
+        "zh": "夏季",
+        "ko": "여름",
+        "ja": "夏"
+      }
+    },
+    {
+      "index": 18,
+      "word": "approximately",
+      "start": 125,
+      "end": 138,
+      "protected": false,
+      "candidates": {
+        "fr": "environ",
+        "es": "aproximadamente",
+        "zh": "大约",
+        "ko": "약",
+        "ja": "約"
+      }
+    },
+    {
+      "index": 19,
+      "word": "km",
+      "start": 143,
+      "end": 145,
+      "protected": false,
+      "candidates": {
+        "fr": "kilomètres",
+        "es": "kilómetros",
+        "zh": "千米",
+        "ko": "킬로미터",
+        "ja": "キロメートル"
+      }
+    },
+    {
+      "index": 20,
+      "word": "from",
+      "start": 146,
+      "end": 150,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Mallorca",
+      "start": 151,
+      "end": 159,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "around",
+      "start": 160,
+      "end": 166,
+      "protected": false,
+      "candidates": {
+        "fr": "autour de",
+        "es": "alrededor de",
+        "zh": "环绕",
+        "ko": "주변을",
+        "ja": "周囲を"
+      }
+    },
+    {
+      "index": 23,
+      "word": "western",
+      "start": 167,
+      "end": 174,
+      "protected": false,
+      "candidates": {
+        "fr": "occidental",
+        "es": "occidental",
+        "zh": "西部的",
+        "ko": "서부의",
+        "ja": "西部の"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Ibiza",
+      "start": 175,
+      "end": 180,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "to",
+      "start": 181,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 26,
+      "word": "eastern",
+      "start": 184,
+      "end": 191,
+      "protected": false,
+      "candidates": {
+        "fr": "oriental",
+        "es": "oriental",
+        "zh": "东部的",
+        "ko": "동부의",
+        "ja": "東部の"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Ibiza",
+      "start": 192,
+      "end": 197,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "raising",
+      "start": 199,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "sensibilisant",
+        "es": "promoviendo",
+        "zh": "提升",
+        "ko": "높이는",
+        "ja": "高める"
+      }
+    },
+    {
+      "index": 29,
+      "word": "ocean-conservation",
+      "start": 207,
+      "end": 225,
+      "protected": false,
+      "candidates": {
+        "fr": "conservation des océans",
+        "es": "conservación oceánica",
+        "zh": "海洋保护",
+        "ko": "해양 보전",
+        "ja": "海洋保全"
+      }
+    },
+    {
+      "index": 30,
+      "word": "awareness",
+      "start": 226,
+      "end": 235,
+      "protected": false,
+      "candidates": {
+        "fr": "sensibilisation",
+        "es": "conciencia",
+        "zh": "意识",
+        "ko": "인식",
+        "ja": "意識"
+      }
+    },
+    {
+      "index": 31,
+      "word": "It",
+      "start": 237,
+      "end": 239,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "names",
+      "start": 240,
+      "end": 245,
+      "protected": false,
+      "candidates": {
+        "fr": "nom",
+        "es": "nombre",
+        "zh": "名称",
+        "ko": "이름",
+        "ja": "名前"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Mallorca",
+      "start": 246,
+      "end": 254,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Preservation",
+      "start": 255,
+      "end": 267,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Foundation",
+      "start": 268,
+      "end": 278,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "Wave",
+      "start": 280,
+      "end": 284,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "of",
+      "start": 285,
+      "end": 287,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "Change",
+      "start": 288,
+      "end": 294,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "Malta",
+      "start": 295,
+      "end": 300,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "Ocibar",
+      "start": 302,
+      "end": 308,
+      "protected": true
+    },
+    {
+      "index": 41,
+      "word": "Marinas",
+      "start": 309,
+      "end": 316,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "Atlas",
+      "start": 318,
+      "end": 323,
+      "protected": true
+    },
+    {
+      "index": 43,
+      "word": "Insurance",
+      "start": 324,
+      "end": 333,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "and",
+      "start": 334,
+      "end": 337,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 45,
+      "word": "Visit",
+      "start": 338,
+      "end": 343,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "Malta",
+      "start": 344,
+      "end": 349,
+      "protected": true
+    },
+    {
+      "index": 47,
+      "word": "as",
+      "start": 350,
+      "end": 352,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 48,
+      "word": "supporters",
+      "start": 353,
+      "end": 363,
+      "protected": false,
+      "candidates": {
+        "fr": "soutiens",
+        "es": "partidarios",
+        "zh": "支持者",
+        "ko": "지지자들",
+        "ja": "支援者"
+      }
+    },
+    {
+      "index": 49,
+      "word": "or",
+      "start": 364,
+      "end": 366,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 50,
+      "word": "sponsors",
+      "start": 367,
+      "end": 375,
+      "protected": false,
+      "candidates": {
+        "fr": "commanditaires",
+        "es": "patrocinadores",
+        "zh": "赞助商",
+        "ko": "후원자들",
+        "ja": "スポンサー"
+      }
+    }
+  ]
+}

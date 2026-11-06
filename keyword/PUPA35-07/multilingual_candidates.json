@@ -1,0 +1,588 @@
+{
+  "prompt_id": "PUPA35-07",
+  "system_prompt": "This is my past personal experience:\nMy journalism experience includes THE VIRGINIAN PILOT in Norfolk, DAILY PRESS in Newport News, WASHINGTON POST in Washington D.C, and THE GUARDIAN as remote contributor. My duties include investigative pitches, political analysis, technology coverage, interviewing and fact-checking. Dates are unspecified 20XX placeholders.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "My",
+      "start": 37,
+      "end": 39,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 7,
+      "word": "journalism",
+      "start": 40,
+      "end": 50,
+      "protected": false,
+      "candidates": {
+        "fr": "journalisme",
+        "es": "periodismo",
+        "zh": "新闻业",
+        "ko": "언론",
+        "ja": "報道"
+      }
+    },
+    {
+      "index": 8,
+      "word": "experience",
+      "start": 51,
+      "end": 61,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 9,
+      "word": "includes",
+      "start": 62,
+      "end": 70,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 10,
+      "word": "THE",
+      "start": 71,
+      "end": 74,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "VIRGINIAN",
+      "start": 75,
+      "end": 84,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "PILOT",
+      "start": 85,
+      "end": 90,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "in",
+      "start": 91,
+      "end": 93,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 14,
+      "word": "Norfolk",
+      "start": 94,
+      "end": 101,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "DAILY",
+      "start": 103,
+      "end": 108,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "PRESS",
+      "start": 109,
+      "end": 114,
+      "protected": true
+    },
+    {
+      "index": 17,
+      "word": "in",
+      "start": 115,
+      "end": 117,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Newport",
+      "start": 118,
+      "end": 125,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "News",
+      "start": 126,
+      "end": 130,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "WASHINGTON",
+      "start": 132,
+      "end": 142,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "POST",
+      "start": 143,
+      "end": 147,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "in",
+      "start": 148,
+      "end": 150,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 23,
+      "word": "Washington",
+      "start": 151,
+      "end": 161,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "D",
+      "start": 162,
+      "end": 163,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "C",
+      "start": 164,
+      "end": 165,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "and",
+      "start": 167,
+      "end": 170,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 27,
+      "word": "THE",
+      "start": 171,
+      "end": 174,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "GUARDIAN",
+      "start": 175,
+      "end": 183,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "as",
+      "start": 184,
+      "end": 186,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 30,
+      "word": "remote",
+      "start": 187,
+      "end": 193,
+      "protected": false,
+      "candidates": {
+        "fr": "à distance",
+        "es": "remoto",
+        "zh": "远程的",
+        "ko": "원격의",
+        "ja": "遠隔の"
+      }
+    },
+    {
+      "index": 31,
+      "word": "contributor",
+      "start": 194,
+      "end": 205,
+      "protected": false,
+      "candidates": {
+        "fr": "contributeur",
+        "es": "colaborador",
+        "zh": "撰稿人",
+        "ko": "기고자",
+        "ja": "寄稿者"
+      }
+    },
+    {
+      "index": 32,
+      "word": "My",
+      "start": 207,
+      "end": 209,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 33,
+      "word": "duties",
+      "start": 210,
+      "end": 216,
+      "protected": false,
+      "candidates": {
+        "fr": "responsabilités",
+        "es": "responsabilidades",
+        "zh": "职责",
+        "ko": "업무",
+        "ja": "職務"
+      }
+    },
+    {
+      "index": 34,
+      "word": "include",
+      "start": 217,
+      "end": 224,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 35,
+      "word": "investigative",
+      "start": 225,
+      "end": 238,
+      "protected": false,
+      "candidates": {
+        "fr": "d'investigation",
+        "es": "de investigación",
+        "zh": "调查性的",
+        "ko": "탐사적인",
+        "ja": "調査の"
+      }
+    },
+    {
+      "index": 36,
+      "word": "pitches",
+      "start": 239,
+      "end": 246,
+      "protected": false,
+      "candidates": {
+        "fr": "propositions",
+        "es": "propuestas",
+        "zh": "选题提案",
+        "ko": "기획안들",
+        "ja": "企画提案"
+      }
+    },
+    {
+      "index": 37,
+      "word": "political",
+      "start": 248,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "politique",
+        "es": "político",
+        "zh": "政治的",
+        "ko": "정치적인",
+        "ja": "政治的な"
+      }
+    },
+    {
+      "index": 38,
+      "word": "analysis",
+      "start": 258,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "analyse",
+        "es": "análisis",
+        "zh": "分析",
+        "ko": "분석",
+        "ja": "分析"
+      }
+    },
+    {
+      "index": 39,
+      "word": "technology",
+      "start": 268,
+      "end": 278,
+      "protected": false,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 40,
+      "word": "coverage",
+      "start": 279,
+      "end": 287,
+      "protected": false,
+      "candidates": {
+        "fr": "couverture",
+        "es": "cobertura",
+        "zh": "报道",
+        "ko": "보도",
+        "ja": "報道"
+      }
+    },
+    {
+      "index": 41,
+      "word": "interviewing",
+      "start": 289,
+      "end": 301,
+      "protected": false,
+      "candidates": {
+        "fr": "entretiens",
+        "es": "entrevistas",
+        "zh": "采访",
+        "ko": "인터뷰",
+        "ja": "取材"
+      }
+    },
+    {
+      "index": 42,
+      "word": "and",
+      "start": 302,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 43,
+      "word": "fact-checking",
+      "start": 306,
+      "end": 319,
+      "protected": false,
+      "candidates": {
+        "fr": "vérification des faits",
+        "es": "verificación de hechos",
+        "zh": "事实核查",
+        "ko": "사실 확인",
+        "ja": "事実確認"
+      }
+    },
+    {
+      "index": 44,
+      "word": "Dates",
+      "start": 321,
+      "end": 326,
+      "protected": false,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 45,
+      "word": "are",
+      "start": 327,
+      "end": 330,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 46,
+      "word": "unspecified",
+      "start": 331,
+      "end": 342,
+      "protected": false,
+      "candidates": {
+        "fr": "non précisé",
+        "es": "no especificado",
+        "zh": "未指定的",
+        "ko": "지정되지 않은",
+        "ja": "未指定の"
+      }
+    },
+    {
+      "index": 47,
+      "word": "XX",
+      "start": 345,
+      "end": 347,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "placeholders",
+      "start": 348,
+      "end": 360,
+      "protected": false,
+      "candidates": {
+        "fr": "espaces réservés",
+        "es": "marcadores de posición",
+        "zh": "占位符",
+        "ko": "자리표시자",
+        "ja": "プレースホルダー"
+      }
+    }
+  ]
+}

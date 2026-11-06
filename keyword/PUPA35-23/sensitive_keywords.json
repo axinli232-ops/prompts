@@ -1,0 +1,91 @@
+{
+  "prompt_id": "PUPA35-23",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Roy",
+      "start": 83,
+      "end": 86,
+      "category": "entity"
+    },
+    {
+      "text": "TKOH/NSD",
+      "start": 88,
+      "end": 96,
+      "category": "entity"
+    },
+    {
+      "text": "Team Alignment Workshop",
+      "start": 105,
+      "end": 128,
+      "category": "entity"
+    },
+    {
+      "text": "Miniu Limited",
+      "start": 141,
+      "end": 154,
+      "category": "entity"
+    },
+    {
+      "text": "14",
+      "start": 158,
+      "end": 160,
+      "category": "fixed_value"
+    },
+    {
+      "text": "28",
+      "start": 165,
+      "end": 167,
+      "category": "fixed_value"
+    },
+    {
+      "text": "January 2024",
+      "start": 168,
+      "end": 180,
+      "category": "fixed_value"
+    },
+    {
+      "text": "$3,500",
+      "start": 207,
+      "end": 213,
+      "category": "fixed_value"
+    },
+    {
+      "text": "8",
+      "start": 248,
+      "end": 249,
+      "category": "fixed_value"
+    },
+    {
+      "text": "January 2024",
+      "start": 250,
+      "end": 262,
+      "category": "fixed_value"
+    },
+    {
+      "text": "20",
+      "start": 303,
+      "end": 305,
+      "category": "fixed_value"
+    },
+    {
+      "text": "November 2023",
+      "start": 306,
+      "end": 319,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Roy",
+    "TKOH/NSD",
+    "Team Alignment Workshop",
+    "Miniu Limited",
+    "14",
+    "28",
+    "January 2024",
+    "$3,500",
+    "8",
+    "20",
+    "November 2023"
+  ]
+}

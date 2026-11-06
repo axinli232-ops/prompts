@@ -1,0 +1,637 @@
+{
+  "prompt_id": "PUPA35-16",
+  "system_prompt": "This is my past personal experience:\nToboggan Brewing Company is described as a microbrewery established in 2014 on Richmond Street in London, Ontario, with a brew pub, restaurant and retail outlet. It produces small batches, flagship beers and seasonal offerings. Its project seeks inventory-management practices, benchmarks, KPIs and ERP options.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Toboggan",
+      "start": 37,
+      "end": 45,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Brewing",
+      "start": 46,
+      "end": 53,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "Company",
+      "start": 54,
+      "end": 61,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "is",
+      "start": 62,
+      "end": 64,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 10,
+      "word": "described",
+      "start": 65,
+      "end": 74,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 11,
+      "word": "as",
+      "start": 75,
+      "end": 77,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 12,
+      "word": "a",
+      "start": 78,
+      "end": 79,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 13,
+      "word": "microbrewery",
+      "start": 80,
+      "end": 92,
+      "protected": false,
+      "candidates": {
+        "fr": "microbrasserie",
+        "es": "microcervecería",
+        "zh": "小型酿酒厂",
+        "ko": "소규모 양조장",
+        "ja": "小規模醸造所"
+      }
+    },
+    {
+      "index": 14,
+      "word": "established",
+      "start": 93,
+      "end": 104,
+      "protected": false,
+      "candidates": {
+        "fr": "établi",
+        "es": "establecido",
+        "zh": "既定的",
+        "ko": "확립된",
+        "ja": "確立された"
+      }
+    },
+    {
+      "index": 15,
+      "word": "in",
+      "start": 105,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 16,
+      "word": "on",
+      "start": 113,
+      "end": 115,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Richmond",
+      "start": 116,
+      "end": 124,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Street",
+      "start": 125,
+      "end": 131,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "in",
+      "start": 132,
+      "end": 134,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "London",
+      "start": 135,
+      "end": 141,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "Ontario",
+      "start": 143,
+      "end": 150,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "with",
+      "start": 152,
+      "end": 156,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 23,
+      "word": "a",
+      "start": 157,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 24,
+      "word": "brew",
+      "start": 159,
+      "end": 163,
+      "protected": false,
+      "candidates": {
+        "fr": "brassage",
+        "es": "elaboración de cerveza",
+        "zh": "酿酒",
+        "ko": "양조",
+        "ja": "醸造"
+      }
+    },
+    {
+      "index": 25,
+      "word": "pub",
+      "start": 164,
+      "end": 167,
+      "protected": false,
+      "candidates": {
+        "fr": "pub",
+        "es": "taberna",
+        "zh": "酒馆",
+        "ko": "선술집",
+        "ja": "パブ"
+      }
+    },
+    {
+      "index": 26,
+      "word": "restaurant",
+      "start": 169,
+      "end": 179,
+      "protected": false,
+      "candidates": {
+        "fr": "restaurant",
+        "es": "restaurante",
+        "zh": "餐厅",
+        "ko": "식당",
+        "ja": "レストラン"
+      }
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 180,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "retail",
+      "start": 184,
+      "end": 190,
+      "protected": false,
+      "candidates": {
+        "fr": "vente au détail",
+        "es": "venta minorista",
+        "zh": "零售",
+        "ko": "소매",
+        "ja": "小売"
+      }
+    },
+    {
+      "index": 29,
+      "word": "outlet",
+      "start": 191,
+      "end": 197,
+      "protected": false,
+      "candidates": {
+        "fr": "point de vente",
+        "es": "punto de venta",
+        "zh": "门店",
+        "ko": "매장",
+        "ja": "販売店"
+      }
+    },
+    {
+      "index": 30,
+      "word": "It",
+      "start": 199,
+      "end": 201,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 31,
+      "word": "produces",
+      "start": 202,
+      "end": 210,
+      "protected": false,
+      "candidates": {
+        "fr": "produit",
+        "es": "produce",
+        "zh": "产生",
+        "ko": "생성하다",
+        "ja": "生成する"
+      }
+    },
+    {
+      "index": 32,
+      "word": "small",
+      "start": 211,
+      "end": 216,
+      "protected": false,
+      "candidates": {
+        "fr": "petit",
+        "es": "pequeño",
+        "zh": "小的",
+        "ko": "작은",
+        "ja": "小さい"
+      }
+    },
+    {
+      "index": 33,
+      "word": "batches",
+      "start": 217,
+      "end": 224,
+      "protected": false,
+      "candidates": {
+        "fr": "lots",
+        "es": "lotes",
+        "zh": "批次",
+        "ko": "생산분들",
+        "ja": "製造ロット"
+      }
+    },
+    {
+      "index": 34,
+      "word": "flagship",
+      "start": 226,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "phare",
+        "es": "emblemático",
+        "zh": "旗舰的",
+        "ko": "대표적인",
+        "ja": "主力の"
+      }
+    },
+    {
+      "index": 35,
+      "word": "beers",
+      "start": 235,
+      "end": 240,
+      "protected": false,
+      "candidates": {
+        "fr": "bières",
+        "es": "cervezas",
+        "zh": "啤酒",
+        "ko": "맥주들",
+        "ja": "ビール"
+      }
+    },
+    {
+      "index": 36,
+      "word": "and",
+      "start": 241,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 37,
+      "word": "seasonal",
+      "start": 245,
+      "end": 253,
+      "protected": false,
+      "candidates": {
+        "fr": "saisonnier",
+        "es": "estacional",
+        "zh": "季节性的",
+        "ko": "계절의",
+        "ja": "季節の"
+      }
+    },
+    {
+      "index": 38,
+      "word": "offerings",
+      "start": 254,
+      "end": 263,
+      "protected": false,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "Its",
+      "start": 265,
+      "end": 268,
+      "protected": false,
+      "candidates": {
+        "fr": "son",
+        "es": "su",
+        "zh": "它的",
+        "ko": "그것의",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "project",
+      "start": 269,
+      "end": 276,
+      "protected": false,
+      "candidates": {
+        "fr": "projet",
+        "es": "proyecto",
+        "zh": "项目",
+        "ko": "프로젝트",
+        "ja": "プロジェクト"
+      }
+    },
+    {
+      "index": 41,
+      "word": "seeks",
+      "start": 277,
+      "end": 282,
+      "protected": false,
+      "candidates": {
+        "fr": "recherche",
+        "es": "busca",
+        "zh": "寻求",
+        "ko": "찾는다",
+        "ja": "求める"
+      }
+    },
+    {
+      "index": 42,
+      "word": "inventory-management",
+      "start": 283,
+      "end": 303,
+      "protected": false,
+      "candidates": {
+        "fr": "gestion des stocks",
+        "es": "gestión de inventario",
+        "zh": "库存管理",
+        "ko": "재고 관리",
+        "ja": "在庫管理"
+      }
+    },
+    {
+      "index": 43,
+      "word": "practices",
+      "start": 304,
+      "end": 313,
+      "protected": false,
+      "candidates": {
+        "fr": "pratiques",
+        "es": "prácticas",
+        "zh": "实践",
+        "ko": "관행",
+        "ja": "実践"
+      }
+    },
+    {
+      "index": 44,
+      "word": "benchmarks",
+      "start": 315,
+      "end": 325,
+      "protected": false,
+      "candidates": {
+        "fr": "références",
+        "es": "puntos de referencia",
+        "zh": "基准",
+        "ko": "벤치마크",
+        "ja": "基準"
+      }
+    },
+    {
+      "index": 45,
+      "word": "KPIs",
+      "start": 327,
+      "end": 331,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "and",
+      "start": 332,
+      "end": 335,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 47,
+      "word": "ERP",
+      "start": 336,
+      "end": 339,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "options",
+      "start": 340,
+      "end": 347,
+      "protected": false,
+      "candidates": {
+        "fr": "options",
+        "es": "opciones",
+        "zh": "选项",
+        "ko": "선택지",
+        "ja": "選択肢"
+      }
+    }
+  ]
+}

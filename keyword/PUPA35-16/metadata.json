@@ -1,0 +1,37 @@
+{
+  "id": "PUPA35-16",
+  "title_zh": "微型酿酒厂与ERP需求",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 99,
+  "conversation_hash": "76e03cbcc8488c07e3d1233d111358cb",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "A",
+  "limitations_zh": "是课程项目材料；ERP建议与现有事实必须区分，不杜撰实际库存和预算。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "what the brewery is called",
+    "when the brewery was established",
+    "the street where it is located",
+    "the city and province where it is located",
+    "the outlets operating alongside the brewery",
+    "its production scale",
+    "its regular and seasonal products",
+    "its inventory-management project",
+    "the benchmarks and performance measures it wants to review",
+    "the ERP options it wants to explore"
+  ],
+  "protected_terms": [
+    "Toboggan Brewing Company",
+    "2014",
+    "Richmond Street",
+    "London, Ontario",
+    "KPIs",
+    "ERP"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

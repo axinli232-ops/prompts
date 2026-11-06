@@ -1,0 +1,658 @@
+{
+  "prompt_id": "PUPA35-29",
+  "system_prompt": "This is my past personal experience:\nThe City of Arlington's Office of Business Diversity follows up with Mrs. Dipert about a Fall MWBE Bond Tour. Preliminary conversations involved Troy Williams. The message asks for coach-bus rental price estimates and fall availability for a tour of Arlington; exact dates, passenger counts and prices are unspecified.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "City",
+      "start": 41,
+      "end": 45,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "of",
+      "start": 46,
+      "end": 48,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "Arlington's",
+      "start": 49,
+      "end": 60,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Office",
+      "start": 61,
+      "end": 67,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "of",
+      "start": 68,
+      "end": 70,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "Business",
+      "start": 71,
+      "end": 79,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "Diversity",
+      "start": 80,
+      "end": 89,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "follows",
+      "start": 90,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "suivre",
+        "es": "seguir",
+        "zh": "遵循",
+        "ko": "따르다",
+        "ja": "従う"
+      }
+    },
+    {
+      "index": 15,
+      "word": "up",
+      "start": 98,
+      "end": 100,
+      "protected": false,
+      "candidates": {
+        "fr": "vers le haut",
+        "es": "hacia arriba",
+        "zh": "向上",
+        "ko": "위로",
+        "ja": "上へ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "with",
+      "start": 101,
+      "end": 105,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 17,
+      "word": "Mrs",
+      "start": 106,
+      "end": 109,
+      "protected": true
+    },
+    {
+      "index": 18,
+      "word": "Dipert",
+      "start": 111,
+      "end": 117,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "about",
+      "start": 118,
+      "end": 123,
+      "protected": false,
+      "candidates": {
+        "fr": "concernant",
+        "es": "sobre",
+        "zh": "关于",
+        "ko": "관하여",
+        "ja": "について"
+      }
+    },
+    {
+      "index": 20,
+      "word": "a",
+      "start": 124,
+      "end": 125,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Fall",
+      "start": 126,
+      "end": 130,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "MWBE",
+      "start": 131,
+      "end": 135,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "Bond",
+      "start": 136,
+      "end": 140,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "Tour",
+      "start": 141,
+      "end": 145,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Preliminary",
+      "start": 147,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "préliminaire",
+        "es": "preliminar",
+        "zh": "初步的",
+        "ko": "예비의",
+        "ja": "予備的な"
+      }
+    },
+    {
+      "index": 26,
+      "word": "conversations",
+      "start": 159,
+      "end": 172,
+      "protected": false,
+      "candidates": {
+        "fr": "conversations",
+        "es": "conversaciones",
+        "zh": "对话",
+        "ko": "대화",
+        "ja": "会話"
+      }
+    },
+    {
+      "index": 27,
+      "word": "involved",
+      "start": 173,
+      "end": 181,
+      "protected": false,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Troy",
+      "start": 182,
+      "end": 186,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "Williams",
+      "start": 187,
+      "end": 195,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "The",
+      "start": 197,
+      "end": 200,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 31,
+      "word": "message",
+      "start": 201,
+      "end": 208,
+      "protected": false,
+      "candidates": {
+        "fr": "message",
+        "es": "mensaje",
+        "zh": "消息",
+        "ko": "메시지",
+        "ja": "メッセージ"
+      }
+    },
+    {
+      "index": 32,
+      "word": "asks",
+      "start": 209,
+      "end": 213,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "pide",
+        "zh": "询问",
+        "ko": "묻는다",
+        "ja": "尋ねる"
+      }
+    },
+    {
+      "index": 33,
+      "word": "for",
+      "start": 214,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 34,
+      "word": "coach-bus",
+      "start": 218,
+      "end": 227,
+      "protected": false,
+      "candidates": {
+        "fr": "autocar",
+        "es": "autobús",
+        "zh": "旅游大巴",
+        "ko": "관광버스",
+        "ja": "貸切バス"
+      }
+    },
+    {
+      "index": 35,
+      "word": "rental",
+      "start": 228,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "location",
+        "es": "alquiler",
+        "zh": "租赁",
+        "ko": "임대",
+        "ja": "賃貸"
+      }
+    },
+    {
+      "index": 36,
+      "word": "price",
+      "start": 235,
+      "end": 240,
+      "protected": false,
+      "candidates": {
+        "fr": "prix",
+        "es": "precio",
+        "zh": "价格",
+        "ko": "가격",
+        "ja": "価格"
+      }
+    },
+    {
+      "index": 37,
+      "word": "estimates",
+      "start": 241,
+      "end": 250,
+      "protected": false,
+      "candidates": {
+        "fr": "estimations",
+        "es": "estimaciones",
+        "zh": "估算",
+        "ko": "견적들",
+        "ja": "見積もり"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 251,
+      "end": 254,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "fall",
+      "start": 255,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "automne",
+        "es": "otoño",
+        "zh": "秋季",
+        "ko": "가을",
+        "ja": "秋"
+      }
+    },
+    {
+      "index": 40,
+      "word": "availability",
+      "start": 260,
+      "end": 272,
+      "protected": false,
+      "candidates": {
+        "fr": "disponibilité",
+        "es": "disponibilidad",
+        "zh": "可用性",
+        "ko": "가용성",
+        "ja": "可用性"
+      }
+    },
+    {
+      "index": 41,
+      "word": "for",
+      "start": 273,
+      "end": 276,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 42,
+      "word": "a",
+      "start": 277,
+      "end": 278,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 43,
+      "word": "tour",
+      "start": 279,
+      "end": 283,
+      "protected": false,
+      "candidates": {
+        "fr": "visite",
+        "es": "gira",
+        "zh": "参观",
+        "ko": "견학",
+        "ja": "見学"
+      }
+    },
+    {
+      "index": 44,
+      "word": "of",
+      "start": 284,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 45,
+      "word": "Arlington",
+      "start": 287,
+      "end": 296,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "exact",
+      "start": 298,
+      "end": 303,
+      "protected": false,
+      "candidates": {
+        "fr": "exact",
+        "es": "exacto",
+        "zh": "确切的",
+        "ko": "정확한",
+        "ja": "正確な"
+      }
+    },
+    {
+      "index": 47,
+      "word": "dates",
+      "start": 304,
+      "end": 309,
+      "protected": false,
+      "candidates": {
+        "fr": "date",
+        "es": "fecha",
+        "zh": "日期",
+        "ko": "날짜",
+        "ja": "日付"
+      }
+    },
+    {
+      "index": 48,
+      "word": "passenger",
+      "start": 311,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "passager",
+        "es": "pasajero",
+        "zh": "乘客",
+        "ko": "승객",
+        "ja": "乗客"
+      }
+    },
+    {
+      "index": 49,
+      "word": "counts",
+      "start": 321,
+      "end": 327,
+      "protected": false,
+      "candidates": {
+        "fr": "nombres",
+        "es": "cantidades",
+        "zh": "数量",
+        "ko": "수량",
+        "ja": "人数"
+      }
+    },
+    {
+      "index": 50,
+      "word": "and",
+      "start": 328,
+      "end": 331,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 51,
+      "word": "prices",
+      "start": 332,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "prix",
+        "es": "precios",
+        "zh": "价格",
+        "ko": "가격들",
+        "ja": "価格"
+      }
+    },
+    {
+      "index": 52,
+      "word": "are",
+      "start": 339,
+      "end": 342,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 53,
+      "word": "unspecified",
+      "start": 343,
+      "end": 354,
+      "protected": false,
+      "candidates": {
+        "fr": "non précisé",
+        "es": "no especificado",
+        "zh": "未指定的",
+        "ko": "지정되지 않은",
+        "ja": "未指定の"
+      }
+    }
+  ]
+}

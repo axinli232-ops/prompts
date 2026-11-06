@@ -1,0 +1,43 @@
+{
+  "prompt_id": "PUPA35-27",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Danielle",
+      "start": 37,
+      "end": 45,
+      "category": "entity"
+    },
+    {
+      "text": "Morris Marketing Group",
+      "start": 51,
+      "end": 73,
+      "category": "entity"
+    },
+    {
+      "text": "WWD",
+      "start": 139,
+      "end": 142,
+      "category": "entity"
+    },
+    {
+      "text": "Fashionista",
+      "start": 181,
+      "end": 192,
+      "category": "entity"
+    },
+    {
+      "text": "Men's Journal",
+      "start": 197,
+      "end": 210,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Danielle",
+    "Morris Marketing Group",
+    "WWD",
+    "Fashionista",
+    "Men's Journal"
+  ]
+}

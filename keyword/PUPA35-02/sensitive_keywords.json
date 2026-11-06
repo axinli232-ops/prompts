@@ -1,0 +1,71 @@
+{
+  "prompt_id": "PUPA35-02",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Tehran",
+      "start": 62,
+      "end": 68,
+      "category": "entity"
+    },
+    {
+      "text": "Iran",
+      "start": 70,
+      "end": 74,
+      "category": "entity"
+    },
+    {
+      "text": "Sina Dental Clinic",
+      "start": 99,
+      "end": 117,
+      "category": "entity"
+    },
+    {
+      "text": "Arca Science institute",
+      "start": 184,
+      "end": 206,
+      "category": "entity"
+    },
+    {
+      "text": "2021",
+      "start": 262,
+      "end": 266,
+      "category": "fixed_value"
+    },
+    {
+      "text": "2022",
+      "start": 271,
+      "end": 275,
+      "category": "fixed_value"
+    },
+    {
+      "text": "2024",
+      "start": 313,
+      "end": 317,
+      "category": "fixed_value"
+    },
+    {
+      "text": "MSc",
+      "start": 318,
+      "end": 321,
+      "category": "entity"
+    },
+    {
+      "text": "University of Alberta",
+      "start": 345,
+      "end": 366,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Tehran",
+    "Iran",
+    "Sina Dental Clinic",
+    "Arca Science institute",
+    "2021",
+    "2022",
+    "2024",
+    "MSc",
+    "University of Alberta"
+  ]
+}

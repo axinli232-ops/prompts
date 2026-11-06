@@ -1,0 +1,37 @@
+{
+  "id": "PUPA35-13",
+  "title_zh": "碳减排平台企业背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 353,
+  "conversation_hash": "1c75be7f9bca7438e2addd6b3237127c",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "收入模式为待设计事项；不能把新设计的收费标准当成原始背景事实。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "what the organization is called",
+    "where the organization is headquartered",
+    "its stated organizational type",
+    "the nature-based activities it supports",
+    "the purpose of its API",
+    "the corporate participants in its process",
+    "the farming participants in its process",
+    "the training and guidance it offers",
+    "the role of corporate contributions",
+    "the potential farmer revenue described"
+  ],
+  "protected_terms": [
+    "Msitu Africa Carbon Alliance",
+    "Kenya",
+    "Africa",
+    "API",
+    "ESG",
+    "CSR"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,50 @@
+{
+  "prompt_id": "PUPA35-19",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Airbus PROTECT",
+      "start": 37,
+      "end": 51,
+      "category": "entity"
+    },
+    {
+      "text": "Airbus Protect SAS",
+      "start": 54,
+      "end": 72,
+      "category": "entity"
+    },
+    {
+      "text": "Airbus",
+      "start": 138,
+      "end": 144,
+      "category": "entity"
+    },
+    {
+      "text": "CS-25",
+      "start": 240,
+      "end": 245,
+      "category": "entity"
+    },
+    {
+      "text": "English",
+      "start": 380,
+      "end": 387,
+      "category": "entity"
+    },
+    {
+      "text": "French",
+      "start": 399,
+      "end": 405,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Airbus PROTECT",
+    "Airbus Protect SAS",
+    "Airbus",
+    "CS-25",
+    "English",
+    "French"
+  ]
+}

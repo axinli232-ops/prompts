@@ -1,0 +1,728 @@
+{
+  "prompt_id": "PUPA35-02",
+  "system_prompt": "This is my past personal experience:\nI was born and raised in Tehran, Iran. I work as a dentist at Sina Dental Clinic and completed clinical epidemiology and biostatistics training at Arca Science institute. I attended oral health and epidemiology congresses in 2021 and 2022. My stated application target is the 2024 MSc in Epidemiology at the University of Alberta.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "I",
+      "start": 37,
+      "end": 38,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 7,
+      "word": "was",
+      "start": 39,
+      "end": 42,
+      "protected": false,
+      "candidates": {
+        "fr": "était",
+        "es": "era",
+        "zh": "曾是",
+        "ko": "이었다",
+        "ja": "であった"
+      }
+    },
+    {
+      "index": 8,
+      "word": "born",
+      "start": 43,
+      "end": 47,
+      "protected": false,
+      "candidates": {
+        "fr": "né",
+        "es": "nacido",
+        "zh": "出生",
+        "ko": "태어난",
+        "ja": "生まれた"
+      }
+    },
+    {
+      "index": 9,
+      "word": "and",
+      "start": 48,
+      "end": 51,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 10,
+      "word": "raised",
+      "start": 52,
+      "end": 58,
+      "protected": false,
+      "candidates": {
+        "fr": "élevé",
+        "es": "criado",
+        "zh": "长大",
+        "ko": "자란",
+        "ja": "育った"
+      }
+    },
+    {
+      "index": 11,
+      "word": "in",
+      "start": 59,
+      "end": 61,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 12,
+      "word": "Tehran",
+      "start": 62,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "Iran",
+      "start": 70,
+      "end": 74,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "I",
+      "start": 76,
+      "end": 77,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 15,
+      "word": "work",
+      "start": 78,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 16,
+      "word": "as",
+      "start": 83,
+      "end": 85,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 86,
+      "end": 87,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "dentist",
+      "start": 88,
+      "end": 95,
+      "protected": false,
+      "candidates": {
+        "fr": "dentiste",
+        "es": "dentista",
+        "zh": "牙医",
+        "ko": "치과의사",
+        "ja": "歯科医"
+      }
+    },
+    {
+      "index": 19,
+      "word": "at",
+      "start": 96,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Sina",
+      "start": 99,
+      "end": 103,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "Dental",
+      "start": 104,
+      "end": 110,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "Clinic",
+      "start": 111,
+      "end": 117,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "and",
+      "start": 118,
+      "end": 121,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 24,
+      "word": "completed",
+      "start": 122,
+      "end": 131,
+      "protected": false,
+      "candidates": {
+        "fr": "achevé",
+        "es": "completado",
+        "zh": "完成了",
+        "ko": "완료한",
+        "ja": "修了した"
+      }
+    },
+    {
+      "index": 25,
+      "word": "clinical",
+      "start": 132,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "clinique",
+        "es": "clínico",
+        "zh": "临床的",
+        "ko": "임상의",
+        "ja": "臨床の"
+      }
+    },
+    {
+      "index": 26,
+      "word": "epidemiology",
+      "start": 141,
+      "end": 153,
+      "protected": false,
+      "candidates": {
+        "fr": "épidémiologie",
+        "es": "epidemiología",
+        "zh": "流行病学",
+        "ko": "역학",
+        "ja": "疫学"
+      }
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 154,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "biostatistics",
+      "start": 158,
+      "end": 171,
+      "protected": false,
+      "candidates": {
+        "fr": "biostatistique",
+        "es": "bioestadística",
+        "zh": "生物统计学",
+        "ko": "생물통계학",
+        "ja": "生物統計学"
+      }
+    },
+    {
+      "index": 29,
+      "word": "training",
+      "start": 172,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "formation",
+        "es": "formación",
+        "zh": "培训",
+        "ko": "교육",
+        "ja": "研修"
+      }
+    },
+    {
+      "index": 30,
+      "word": "at",
+      "start": 181,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 31,
+      "word": "Arca",
+      "start": 184,
+      "end": 188,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "Science",
+      "start": 189,
+      "end": 196,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "institute",
+      "start": 197,
+      "end": 206,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "I",
+      "start": 208,
+      "end": 209,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 35,
+      "word": "attended",
+      "start": 210,
+      "end": 218,
+      "protected": false,
+      "candidates": {
+        "fr": "assisté à",
+        "es": "asistió a",
+        "zh": "参加了",
+        "ko": "참석한",
+        "ja": "参加した"
+      }
+    },
+    {
+      "index": 36,
+      "word": "oral",
+      "start": 219,
+      "end": 223,
+      "protected": false,
+      "candidates": {
+        "fr": "buccal",
+        "es": "bucal",
+        "zh": "口腔的",
+        "ko": "구강의",
+        "ja": "口腔の"
+      }
+    },
+    {
+      "index": 37,
+      "word": "health",
+      "start": 224,
+      "end": 230,
+      "protected": false,
+      "candidates": {
+        "fr": "santé",
+        "es": "salud",
+        "zh": "健康",
+        "ko": "건강",
+        "ja": "健康"
+      }
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 231,
+      "end": 234,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "epidemiology",
+      "start": 235,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "épidémiologie",
+        "es": "epidemiología",
+        "zh": "流行病学",
+        "ko": "역학",
+        "ja": "疫学"
+      }
+    },
+    {
+      "index": 40,
+      "word": "congresses",
+      "start": 248,
+      "end": 258,
+      "protected": false,
+      "candidates": {
+        "fr": "congrès",
+        "es": "congresos",
+        "zh": "大会",
+        "ko": "학술대회들",
+        "ja": "学会"
+      }
+    },
+    {
+      "index": 41,
+      "word": "in",
+      "start": 259,
+      "end": 261,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 42,
+      "word": "and",
+      "start": 267,
+      "end": 270,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 43,
+      "word": "My",
+      "start": 277,
+      "end": 279,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 44,
+      "word": "stated",
+      "start": 280,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "indiqué",
+        "es": "declarado",
+        "zh": "所述的",
+        "ko": "명시된",
+        "ja": "記載された"
+      }
+    },
+    {
+      "index": 45,
+      "word": "application",
+      "start": 287,
+      "end": 298,
+      "protected": false,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "응용",
+        "ja": "応用"
+      }
+    },
+    {
+      "index": 46,
+      "word": "target",
+      "start": 299,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    },
+    {
+      "index": 47,
+      "word": "is",
+      "start": 306,
+      "end": 308,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 48,
+      "word": "the",
+      "start": 309,
+      "end": 312,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 49,
+      "word": "MSc",
+      "start": 318,
+      "end": 321,
+      "protected": true
+    },
+    {
+      "index": 50,
+      "word": "in",
+      "start": 322,
+      "end": 324,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 51,
+      "word": "Epidemiology",
+      "start": 325,
+      "end": 337,
+      "protected": false,
+      "candidates": {
+        "fr": "épidémiologie",
+        "es": "epidemiología",
+        "zh": "流行病学",
+        "ko": "역학",
+        "ja": "疫学"
+      }
+    },
+    {
+      "index": 52,
+      "word": "at",
+      "start": 338,
+      "end": 340,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 53,
+      "word": "the",
+      "start": 341,
+      "end": 344,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 54,
+      "word": "University",
+      "start": 345,
+      "end": 355,
+      "protected": true
+    },
+    {
+      "index": 55,
+      "word": "of",
+      "start": 356,
+      "end": 358,
+      "protected": true
+    },
+    {
+      "index": 56,
+      "word": "Alberta",
+      "start": 359,
+      "end": 366,
+      "protected": true
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "prompt_id": "PUPA35-10",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "MASLA TESOL",
+      "start": 65,
+      "end": 76,
+      "category": "entity"
+    },
+    {
+      "text": "MSU",
+      "start": 88,
+      "end": 91,
+      "category": "entity"
+    },
+    {
+      "text": "2024",
+      "start": 101,
+      "end": 105,
+      "category": "fixed_value"
+    },
+    {
+      "text": "BA",
+      "start": 116,
+      "end": 118,
+      "category": "entity"
+    },
+    {
+      "text": "English Language Translation",
+      "start": 122,
+      "end": 150,
+      "category": "entity"
+    },
+    {
+      "text": "TOEFL",
+      "start": 162,
+      "end": 167,
+      "category": "entity"
+    },
+    {
+      "text": "28",
+      "start": 199,
+      "end": 201,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Excel",
+      "start": 236,
+      "end": 241,
+      "category": "entity"
+    },
+    {
+      "text": "SPSS",
+      "start": 246,
+      "end": 250,
+      "category": "entity"
+    },
+    {
+      "text": "BearFit",
+      "start": 319,
+      "end": 326,
+      "category": "entity"
+    },
+    {
+      "text": "Foster Recreation Center",
+      "start": 340,
+      "end": 364,
+      "category": "entity"
+    },
+    {
+      "text": "CPR/AED/First Aid",
+      "start": 377,
+      "end": 394,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "MASLA TESOL",
+    "MSU",
+    "2024",
+    "BA",
+    "English Language Translation",
+    "TOEFL",
+    "28",
+    "Excel",
+    "SPSS",
+    "BearFit",
+    "Foster Recreation Center",
+    "CPR/AED/First Aid"
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "prompt_id": "PUPA35-04",
+  "system_prompt": "This is my past personal experience:\nMy name is ADEREMI BIODUN FUNMILOLA. My education includes a 2013 Bachelor of Technology in Remote Sensing at University of Technology Minna, Nigeria. My work experience includes office management, HR and nursing-assistant roles at Solid Rock Health Care Services, sales at Synergy Tax and Financial Services, and operations/reception at Prime wealth Capital Limited. Certifications include CNA, CPR and First Aid.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "My",
+      "start": 37,
+      "end": 39,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 7,
+      "word": "name",
+      "start": 40,
+      "end": 44,
+      "protected": false,
+      "candidates": {
+        "fr": "nom",
+        "es": "nombre",
+        "zh": "名称",
+        "ko": "이름",
+        "ja": "名前"
+      }
+    },
+    {
+      "index": 8,
+      "word": "is",
+      "start": 45,
+      "end": 47,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 9,
+      "word": "ADEREMI",
+      "start": 48,
+      "end": 55,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "BIODUN",
+      "start": 56,
+      "end": 62,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "FUNMILOLA",
+      "start": 63,
+      "end": 72,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "My",
+      "start": 74,
+      "end": 76,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 13,
+      "word": "education",
+      "start": 77,
+      "end": 86,
+      "protected": false,
+      "candidates": {
+        "fr": "éducation",
+        "es": "educación",
+        "zh": "教育",
+        "ko": "교육",
+        "ja": "教育"
+      }
+    },
+    {
+      "index": 14,
+      "word": "includes",
+      "start": 87,
+      "end": 95,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 15,
+      "word": "a",
+      "start": 96,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 16,
+      "word": "Bachelor",
+      "start": 103,
+      "end": 111,
+      "protected": false,
+      "candidates": {
+        "fr": "licence",
+        "es": "licenciatura",
+        "zh": "学士",
+        "ko": "학사",
+        "ja": "学士"
+      }
+    },
+    {
+      "index": 17,
+      "word": "of",
+      "start": 112,
+      "end": 114,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Technology",
+      "start": 115,
+      "end": 125,
+      "protected": false,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 19,
+      "word": "in",
+      "start": 126,
+      "end": 128,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Remote",
+      "start": 129,
+      "end": 135,
+      "protected": false,
+      "candidates": {
+        "fr": "à distance",
+        "es": "remoto",
+        "zh": "远程的",
+        "ko": "원격의",
+        "ja": "遠隔の"
+      }
+    },
+    {
+      "index": 21,
+      "word": "Sensing",
+      "start": 136,
+      "end": 143,
+      "protected": false,
+      "candidates": {
+        "fr": "détection",
+        "es": "detección",
+        "zh": "感知",
+        "ko": "감지",
+        "ja": "センシング"
+      }
+    },
+    {
+      "index": 22,
+      "word": "at",
+      "start": 144,
+      "end": 146,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 23,
+      "word": "University",
+      "start": 147,
+      "end": 157,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "of",
+      "start": 158,
+      "end": 160,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Technology",
+      "start": 161,
+      "end": 171,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Minna",
+      "start": 172,
+      "end": 177,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "Nigeria",
+      "start": 179,
+      "end": 186,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "My",
+      "start": 188,
+      "end": 190,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 29,
+      "word": "work",
+      "start": 191,
+      "end": 195,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 30,
+      "word": "experience",
+      "start": 196,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 31,
+      "word": "includes",
+      "start": 207,
+      "end": 215,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 32,
+      "word": "office",
+      "start": 216,
+      "end": 222,
+      "protected": false,
+      "candidates": {
+        "fr": "bureau",
+        "es": "oficina",
+        "zh": "办公室",
+        "ko": "사무실",
+        "ja": "事務所"
+      }
+    },
+    {
+      "index": 33,
+      "word": "management",
+      "start": 223,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "gestion",
+        "es": "gestión",
+        "zh": "管理",
+        "ko": "관리",
+        "ja": "管理"
+      }
+    },
+    {
+      "index": 34,
+      "word": "HR",
+      "start": 235,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "ressources humaines",
+        "es": "recursos humanos",
+        "zh": "人力资源",
+        "ko": "인사",
+        "ja": "人事"
+      }
+    },
+    {
+      "index": 35,
+      "word": "and",
+      "start": 238,
+      "end": 241,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 36,
+      "word": "nursing-assistant",
+      "start": 242,
+      "end": 259,
+      "protected": false,
+      "candidates": {
+        "fr": "aide-soignant",
+        "es": "auxiliar de enfermería",
+        "zh": "护理助理",
+        "ko": "간호보조",
+        "ja": "看護補助"
+      }
+    },
+    {
+      "index": 37,
+      "word": "roles",
+      "start": 260,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "rôles",
+        "es": "funciones",
+        "zh": "职位",
+        "ko": "역할들",
+        "ja": "役職"
+      }
+    },
+    {
+      "index": 38,
+      "word": "at",
+      "start": 266,
+      "end": 268,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 39,
+      "word": "Solid",
+      "start": 269,
+      "end": 274,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "Rock",
+      "start": 275,
+      "end": 279,
+      "protected": true
+    },
+    {
+      "index": 41,
+      "word": "Health",
+      "start": 280,
+      "end": 286,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "Care",
+      "start": 287,
+      "end": 291,
+      "protected": true
+    },
+    {
+      "index": 43,
+      "word": "Services",
+      "start": 292,
+      "end": 300,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "sales",
+      "start": 302,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "ventes",
+        "es": "ventas",
+        "zh": "销售",
+        "ko": "판매",
+        "ja": "販売"
+      }
+    },
+    {
+      "index": 45,
+      "word": "at",
+      "start": 308,
+      "end": 310,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 46,
+      "word": "Synergy",
+      "start": 311,
+      "end": 318,
+      "protected": true
+    },
+    {
+      "index": 47,
+      "word": "Tax",
+      "start": 319,
+      "end": 322,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "and",
+      "start": 323,
+      "end": 326,
+      "protected": true
+    },
+    {
+      "index": 49,
+      "word": "Financial",
+      "start": 327,
+      "end": 336,
+      "protected": true
+    },
+    {
+      "index": 50,
+      "word": "Services",
+      "start": 337,
+      "end": 345,
+      "protected": true
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 347,
+      "end": 350,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "operations",
+      "start": 351,
+      "end": 361,
+      "protected": false,
+      "candidates": {
+        "fr": "opérations",
+        "es": "operaciones",
+        "zh": "操作",
+        "ko": "운영",
+        "ja": "操作"
+      }
+    },
+    {
+      "index": 53,
+      "word": "reception",
+      "start": 362,
+      "end": 371,
+      "protected": false,
+      "candidates": {
+        "fr": "accueil",
+        "es": "recepción",
+        "zh": "接待",
+        "ko": "접수",
+        "ja": "受付"
+      }
+    },
+    {
+      "index": 54,
+      "word": "at",
+      "start": 372,
+      "end": 374,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Prime",
+      "start": 375,
+      "end": 380,
+      "protected": true
+    },
+    {
+      "index": 56,
+      "word": "wealth",
+      "start": 381,
+      "end": 387,
+      "protected": true
+    },
+    {
+      "index": 57,
+      "word": "Capital",
+      "start": 388,
+      "end": 395,
+      "protected": true
+    },
+    {
+      "index": 58,
+      "word": "Limited",
+      "start": 396,
+      "end": 403,
+      "protected": true
+    },
+    {
+      "index": 59,
+      "word": "Certifications",
+      "start": 405,
+      "end": 419,
+      "protected": false,
+      "candidates": {
+        "fr": "certifications",
+        "es": "certificaciones",
+        "zh": "认证",
+        "ko": "자격증들",
+        "ja": "資格認定"
+      }
+    },
+    {
+      "index": 60,
+      "word": "include",
+      "start": 420,
+      "end": 427,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 61,
+      "word": "CNA",
+      "start": 428,
+      "end": 431,
+      "protected": true
+    },
+    {
+      "index": 62,
+      "word": "CPR",
+      "start": 433,
+      "end": 436,
+      "protected": true
+    },
+    {
+      "index": 63,
+      "word": "and",
+      "start": 437,
+      "end": 440,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 64,
+      "word": "First",
+      "start": 441,
+      "end": 446,
+      "protected": true
+    },
+    {
+      "index": 65,
+      "word": "Aid",
+      "start": 447,
+      "end": 450,
+      "protected": true
+    }
+  ]
+}

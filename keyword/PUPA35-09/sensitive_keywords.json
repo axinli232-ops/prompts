@@ -1,0 +1,57 @@
+{
+  "prompt_id": "PUPA35-09",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Kendrick",
+      "start": 59,
+      "end": 67,
+      "category": "entity"
+    },
+    {
+      "text": "Hinduja Global Solutions",
+      "start": 170,
+      "end": 194,
+      "category": "entity"
+    },
+    {
+      "text": "Alliance Global",
+      "start": 196,
+      "end": 211,
+      "category": "entity"
+    },
+    {
+      "text": "Outdoorsy",
+      "start": 216,
+      "end": 225,
+      "category": "entity"
+    },
+    {
+      "text": "Salesforce",
+      "start": 241,
+      "end": 251,
+      "category": "entity"
+    },
+    {
+      "text": "Zendesk",
+      "start": 256,
+      "end": 263,
+      "category": "entity"
+    },
+    {
+      "text": "80%",
+      "start": 285,
+      "end": 288,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Kendrick",
+    "Hinduja Global Solutions",
+    "Alliance Global",
+    "Outdoorsy",
+    "Salesforce",
+    "Zendesk",
+    "80%"
+  ]
+}

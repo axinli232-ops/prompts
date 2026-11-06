@@ -1,0 +1,36 @@
+{
+  "id": "PUPA35-21",
+  "title_zh": "航空客户支持经理职位背景",
+  "source_subset": "TNB",
+  "source_csv": "PUPA_TNB.csv",
+  "source_row_one_based_excluding_header": 162,
+  "conversation_hash": "29a4d368d2b74b0a013ca7f8ead07d8f",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_TNB.csv",
+  "grade": "A",
+  "limitations_zh": "岗位要求 Master Degree 与后段 Engineer or equivalent 保留原有差异；不替用户编资历。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the recruiting company is",
+    "the job title",
+    "the office city and country",
+    "the customer region covered",
+    "the reporting line",
+    "the customer-relationship duties",
+    "the escalation duties",
+    "the contract-management and reporting duties",
+    "the cash-collection and satisfaction duties",
+    "the experience and language requirements"
+  ],
+  "protected_terms": [
+    "Safran Aerosystems Services",
+    "Dubai",
+    "United Arab Emirates",
+    "Middle East",
+    "English"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

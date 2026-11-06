@@ -1,0 +1,805 @@
+{
+  "prompt_id": "PUPA35-26",
+  "system_prompt": "This is my past personal experience:\nJJ Martinez with Key To The World announces two gift-card drawings. The $25 drawing is for followers or likes of the business Facebook page by November 22 at 9 PM; the $50 drawing is for clients who have booked a trip or trip feature by that deadline, including completed travel. Winners are announced Thanksgiving morning. Facebook is not involved.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "JJ",
+      "start": 37,
+      "end": 39,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Martinez",
+      "start": 40,
+      "end": 48,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "with",
+      "start": 49,
+      "end": 53,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 9,
+      "word": "Key",
+      "start": 54,
+      "end": 57,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "To",
+      "start": 58,
+      "end": 60,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "The",
+      "start": 61,
+      "end": 64,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "World",
+      "start": 65,
+      "end": 70,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "announces",
+      "start": 71,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "annonce",
+        "es": "anuncia",
+        "zh": "宣布",
+        "ko": "발표한다",
+        "ja": "発表する"
+      }
+    },
+    {
+      "index": 14,
+      "word": "two",
+      "start": 81,
+      "end": 84,
+      "protected": false,
+      "candidates": {
+        "fr": "deux",
+        "es": "dos",
+        "zh": "二",
+        "ko": "둘",
+        "ja": "二"
+      }
+    },
+    {
+      "index": 15,
+      "word": "gift-card",
+      "start": 85,
+      "end": 94,
+      "protected": false,
+      "candidates": {
+        "fr": "carte-cadeau",
+        "es": "tarjeta de regalo",
+        "zh": "礼品卡",
+        "ko": "기프트 카드",
+        "ja": "ギフトカード"
+      }
+    },
+    {
+      "index": 16,
+      "word": "drawings",
+      "start": 95,
+      "end": 103,
+      "protected": false,
+      "candidates": {
+        "fr": "tirages au sort",
+        "es": "sorteos",
+        "zh": "抽奖",
+        "ko": "추첨들",
+        "ja": "抽選"
+      }
+    },
+    {
+      "index": 17,
+      "word": "The",
+      "start": 105,
+      "end": 108,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 18,
+      "word": "drawing",
+      "start": 113,
+      "end": 120,
+      "protected": false,
+      "candidates": {
+        "fr": "tirage au sort",
+        "es": "sorteo",
+        "zh": "抽奖",
+        "ko": "추첨",
+        "ja": "抽選"
+      }
+    },
+    {
+      "index": 19,
+      "word": "is",
+      "start": 121,
+      "end": 123,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 20,
+      "word": "for",
+      "start": 124,
+      "end": 127,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 21,
+      "word": "followers",
+      "start": 128,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "abonnés",
+        "es": "seguidores",
+        "zh": "关注者",
+        "ko": "팔로워들",
+        "ja": "フォロワー"
+      }
+    },
+    {
+      "index": 22,
+      "word": "or",
+      "start": 138,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 23,
+      "word": "likes",
+      "start": 141,
+      "end": 146,
+      "protected": false,
+      "candidates": {
+        "fr": "mentions j'aime",
+        "es": "me gusta",
+        "zh": "点赞",
+        "ko": "좋아요",
+        "ja": "いいね"
+      }
+    },
+    {
+      "index": 24,
+      "word": "of",
+      "start": 147,
+      "end": 149,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 25,
+      "word": "the",
+      "start": 150,
+      "end": 153,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 26,
+      "word": "business",
+      "start": 154,
+      "end": 162,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Facebook",
+      "start": 163,
+      "end": 171,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "page",
+      "start": 172,
+      "end": 176,
+      "protected": false,
+      "candidates": {
+        "fr": "page",
+        "es": "página",
+        "zh": "页面",
+        "ko": "페이지",
+        "ja": "ページ"
+      }
+    },
+    {
+      "index": 29,
+      "word": "by",
+      "start": 177,
+      "end": 179,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 30,
+      "word": "November",
+      "start": 180,
+      "end": 188,
+      "protected": false,
+      "candidates": {
+        "fr": "novembre",
+        "es": "noviembre",
+        "zh": "十一月",
+        "ko": "십일월",
+        "ja": "十一月"
+      }
+    },
+    {
+      "index": 31,
+      "word": "at",
+      "start": 192,
+      "end": 194,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 32,
+      "word": "PM",
+      "start": 197,
+      "end": 199,
+      "protected": false,
+      "candidates": {
+        "fr": "de l'après-midi",
+        "es": "de la tarde",
+        "zh": "下午",
+        "ko": "오후",
+        "ja": "午後"
+      }
+    },
+    {
+      "index": 33,
+      "word": "the",
+      "start": 201,
+      "end": 204,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 34,
+      "word": "drawing",
+      "start": 209,
+      "end": 216,
+      "protected": false,
+      "candidates": {
+        "fr": "tirage au sort",
+        "es": "sorteo",
+        "zh": "抽奖",
+        "ko": "추첨",
+        "ja": "抽選"
+      }
+    },
+    {
+      "index": 35,
+      "word": "is",
+      "start": 217,
+      "end": 219,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 36,
+      "word": "for",
+      "start": 220,
+      "end": 223,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 37,
+      "word": "clients",
+      "start": 224,
+      "end": 231,
+      "protected": false,
+      "candidates": {
+        "fr": "clients",
+        "es": "clientes",
+        "zh": "客户",
+        "ko": "고객들",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 38,
+      "word": "who",
+      "start": 232,
+      "end": 235,
+      "protected": false,
+      "candidates": {
+        "fr": "qui",
+        "es": "quién",
+        "zh": "谁",
+        "ko": "누구",
+        "ja": "誰"
+      }
+    },
+    {
+      "index": 39,
+      "word": "have",
+      "start": 236,
+      "end": 240,
+      "protected": false,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 40,
+      "word": "booked",
+      "start": 241,
+      "end": 247,
+      "protected": false,
+      "candidates": {
+        "fr": "réservé",
+        "es": "reservado",
+        "zh": "已预订的",
+        "ko": "예약한",
+        "ja": "予約した"
+      }
+    },
+    {
+      "index": 41,
+      "word": "a",
+      "start": 248,
+      "end": 249,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 42,
+      "word": "trip",
+      "start": 250,
+      "end": 254,
+      "protected": false,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 43,
+      "word": "or",
+      "start": 255,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "ou",
+        "es": "o",
+        "zh": "或者",
+        "ko": "또는",
+        "ja": "または"
+      }
+    },
+    {
+      "index": 44,
+      "word": "trip",
+      "start": 258,
+      "end": 262,
+      "protected": false,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 45,
+      "word": "feature",
+      "start": 263,
+      "end": 270,
+      "protected": false,
+      "candidates": {
+        "fr": "caractéristique",
+        "es": "característica",
+        "zh": "特征",
+        "ko": "특징",
+        "ja": "特徴"
+      }
+    },
+    {
+      "index": 46,
+      "word": "by",
+      "start": 271,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "par",
+        "es": "por",
+        "zh": "通过",
+        "ko": "통해",
+        "ja": "によって"
+      }
+    },
+    {
+      "index": 47,
+      "word": "that",
+      "start": 274,
+      "end": 278,
+      "protected": false,
+      "candidates": {
+        "fr": "que",
+        "es": "que",
+        "zh": "那个",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 48,
+      "word": "deadline",
+      "start": 279,
+      "end": 287,
+      "protected": false,
+      "candidates": {
+        "fr": "date limite",
+        "es": "fecha límite",
+        "zh": "截止时间",
+        "ko": "마감",
+        "ja": "締め切り"
+      }
+    },
+    {
+      "index": 49,
+      "word": "including",
+      "start": 289,
+      "end": 298,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 50,
+      "word": "completed",
+      "start": 299,
+      "end": 308,
+      "protected": false,
+      "candidates": {
+        "fr": "achevé",
+        "es": "completado",
+        "zh": "完成了",
+        "ko": "완료한",
+        "ja": "修了した"
+      }
+    },
+    {
+      "index": 51,
+      "word": "travel",
+      "start": 309,
+      "end": 315,
+      "protected": false,
+      "candidates": {
+        "fr": "voyage",
+        "es": "viaje",
+        "zh": "旅行",
+        "ko": "여행",
+        "ja": "旅行"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Winners",
+      "start": 317,
+      "end": 324,
+      "protected": false,
+      "candidates": {
+        "fr": "gagnants",
+        "es": "ganadores",
+        "zh": "获奖者",
+        "ko": "당첨자들",
+        "ja": "当選者"
+      }
+    },
+    {
+      "index": 53,
+      "word": "are",
+      "start": 325,
+      "end": 328,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 54,
+      "word": "announced",
+      "start": 329,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "annoncé",
+        "es": "anunciado",
+        "zh": "公布的",
+        "ko": "발표된",
+        "ja": "発表された"
+      }
+    },
+    {
+      "index": 55,
+      "word": "Thanksgiving",
+      "start": 339,
+      "end": 351,
+      "protected": true
+    },
+    {
+      "index": 56,
+      "word": "morning",
+      "start": 352,
+      "end": 359,
+      "protected": false,
+      "candidates": {
+        "fr": "matin",
+        "es": "mañana",
+        "zh": "早晨",
+        "ko": "아침",
+        "ja": "朝"
+      }
+    },
+    {
+      "index": 57,
+      "word": "Facebook",
+      "start": 361,
+      "end": 369,
+      "protected": true
+    },
+    {
+      "index": 58,
+      "word": "is",
+      "start": 370,
+      "end": 372,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 59,
+      "word": "not",
+      "start": 373,
+      "end": 376,
+      "protected": false,
+      "candidates": {
+        "fr": "ne pas",
+        "es": "no",
+        "zh": "不",
+        "ko": "않다",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 60,
+      "word": "involved",
+      "start": 377,
+      "end": 385,
+      "protected": false,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    }
+  ]
+}

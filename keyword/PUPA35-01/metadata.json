@@ -1,0 +1,41 @@
+{
+  "id": "PUPA35-01",
+  "title_zh": "合规与财务人员简历",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 1,
+  "conversation_hash": "cc11b53c391f5b2c080838cc1b9edfb9",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "姓名及联系方式已匿名化；不补写身份，不沿用原请求中编造成就的要求。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "where I live",
+    "my current employer",
+    "my current job title",
+    "when my current role began",
+    "my earlier work within my current company",
+    "the employer preceding my current company",
+    "the role I held at my previous employer",
+    "my master’s education",
+    "my earlier business education",
+    "the sequence of my work and education"
+  ],
+  "protected_terms": [
+    "Saudi Arabia",
+    "Napco National Company",
+    "June 2022",
+    "HR",
+    "Aljoumaih automotive Company",
+    "2022",
+    "MBA",
+    "Saudi Electronic University-Dammam",
+    "2015",
+    "Arab Open university-Dammam"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

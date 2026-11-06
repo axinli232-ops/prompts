@@ -1,0 +1,41 @@
+{
+  "id": "PUPA35-04",
+  "title_zh": "医疗机构行政与人力履历",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 201,
+  "conversation_hash": "4243bddf7f404b89b7315538d928a4d2",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "同一雇主存在 Health Care / Healthcare 两种原文写法；标记为别名，不能误判成两个雇主。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my name",
+    "my university education",
+    "my graduation year and field",
+    "my office-management work",
+    "my human-resources work",
+    "my nursing-assistant work",
+    "my sales experience",
+    "my operations and reception experience",
+    "the certifications listed",
+    "the employers associated with my different roles"
+  ],
+  "protected_terms": [
+    "ADEREMI BIODUN FUNMILOLA",
+    "2013",
+    "University of Technology Minna",
+    "Nigeria",
+    "Solid Rock Health Care Services",
+    "Synergy Tax and Financial Services",
+    "Prime wealth Capital Limited",
+    "CNA",
+    "CPR",
+    "First Aid"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

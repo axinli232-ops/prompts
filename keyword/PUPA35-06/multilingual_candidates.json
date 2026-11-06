@@ -1,0 +1,686 @@
+{
+  "prompt_id": "PUPA35-06",
+  "system_prompt": "This is my past personal experience:\nMy engineering-plastics role covers PC, PCABS and PA12 applications for electric vehicles and energy storage. My current service customers include CATL and CHN ENERGY. Partnerships are being developed with BYD, GOTION HIGH-TECH, Sunwoda Energy and Envision. My duties include strategy, technical/product teams, customer relationships and agent channels.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "My",
+      "start": 37,
+      "end": 39,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 7,
+      "word": "engineering-plastics",
+      "start": 40,
+      "end": 60,
+      "protected": false,
+      "candidates": {
+        "fr": "plastiques techniques",
+        "es": "plásticos de ingeniería",
+        "zh": "工程塑料",
+        "ko": "엔지니어링 플라스틱",
+        "ja": "エンジニアリングプラスチック"
+      }
+    },
+    {
+      "index": 8,
+      "word": "role",
+      "start": 61,
+      "end": 65,
+      "protected": false,
+      "candidates": {
+        "fr": "rôle",
+        "es": "rol",
+        "zh": "角色",
+        "ko": "역할",
+        "ja": "役割"
+      }
+    },
+    {
+      "index": 9,
+      "word": "covers",
+      "start": 66,
+      "end": 72,
+      "protected": false,
+      "candidates": {
+        "fr": "couvre",
+        "es": "abarca",
+        "zh": "涵盖",
+        "ko": "포괄한다",
+        "ja": "扱う"
+      }
+    },
+    {
+      "index": 10,
+      "word": "PC",
+      "start": 73,
+      "end": 75,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "PCABS",
+      "start": 77,
+      "end": 82,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "and",
+      "start": 83,
+      "end": 86,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 13,
+      "word": "PA",
+      "start": 87,
+      "end": 89,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "applications",
+      "start": 92,
+      "end": 104,
+      "protected": false,
+      "candidates": {
+        "fr": "application",
+        "es": "aplicación",
+        "zh": "应用",
+        "ko": "응용",
+        "ja": "応用"
+      }
+    },
+    {
+      "index": 15,
+      "word": "for",
+      "start": 105,
+      "end": 108,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 16,
+      "word": "electric",
+      "start": 109,
+      "end": 117,
+      "protected": false,
+      "candidates": {
+        "fr": "électrique",
+        "es": "eléctrico",
+        "zh": "电动的",
+        "ko": "전기의",
+        "ja": "電動の"
+      }
+    },
+    {
+      "index": 17,
+      "word": "vehicles",
+      "start": 118,
+      "end": 126,
+      "protected": false,
+      "candidates": {
+        "fr": "véhicules",
+        "es": "vehículos",
+        "zh": "车辆",
+        "ko": "차량들",
+        "ja": "車両"
+      }
+    },
+    {
+      "index": 18,
+      "word": "and",
+      "start": 127,
+      "end": 130,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 19,
+      "word": "energy",
+      "start": 131,
+      "end": 137,
+      "protected": false,
+      "candidates": {
+        "fr": "énergie",
+        "es": "energía",
+        "zh": "能源",
+        "ko": "에너지",
+        "ja": "エネルギー"
+      }
+    },
+    {
+      "index": 20,
+      "word": "storage",
+      "start": 138,
+      "end": 145,
+      "protected": false,
+      "candidates": {
+        "fr": "stockage",
+        "es": "almacenamiento",
+        "zh": "存储",
+        "ko": "저장",
+        "ja": "記憶域"
+      }
+    },
+    {
+      "index": 21,
+      "word": "My",
+      "start": 147,
+      "end": 149,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 22,
+      "word": "current",
+      "start": 150,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "actuel",
+        "es": "actual",
+        "zh": "当前的",
+        "ko": "현재의",
+        "ja": "現在の"
+      }
+    },
+    {
+      "index": 23,
+      "word": "service",
+      "start": 158,
+      "end": 165,
+      "protected": false,
+      "candidates": {
+        "fr": "service",
+        "es": "servicio",
+        "zh": "服务",
+        "ko": "서비스",
+        "ja": "サービス"
+      }
+    },
+    {
+      "index": 24,
+      "word": "customers",
+      "start": 166,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 25,
+      "word": "include",
+      "start": 176,
+      "end": 183,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 26,
+      "word": "CATL",
+      "start": 184,
+      "end": 188,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 189,
+      "end": 192,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 28,
+      "word": "CHN",
+      "start": 193,
+      "end": 196,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "ENERGY",
+      "start": 197,
+      "end": 203,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "Partnerships",
+      "start": 205,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "partenariats",
+        "es": "asociaciones",
+        "zh": "合作关系",
+        "ko": "협력 관계",
+        "ja": "提携"
+      }
+    },
+    {
+      "index": 31,
+      "word": "are",
+      "start": 218,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 32,
+      "word": "being",
+      "start": 222,
+      "end": 227,
+      "protected": false,
+      "candidates": {
+        "fr": "en cours de",
+        "es": "siendo",
+        "zh": "正在",
+        "ko": "되고 있는",
+        "ja": "されている"
+      }
+    },
+    {
+      "index": 33,
+      "word": "developed",
+      "start": 228,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "développé",
+        "es": "desarrollado",
+        "zh": "开发的",
+        "ko": "개발된",
+        "ja": "開発された"
+      }
+    },
+    {
+      "index": 34,
+      "word": "with",
+      "start": 238,
+      "end": 242,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 35,
+      "word": "BYD",
+      "start": 243,
+      "end": 246,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "GOTION",
+      "start": 248,
+      "end": 254,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "HIGH-TECH",
+      "start": 255,
+      "end": 264,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "Sunwoda",
+      "start": 266,
+      "end": 273,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "Energy",
+      "start": 274,
+      "end": 280,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 281,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Envision",
+      "start": 285,
+      "end": 293,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "My",
+      "start": 295,
+      "end": 297,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 43,
+      "word": "duties",
+      "start": 298,
+      "end": 304,
+      "protected": false,
+      "candidates": {
+        "fr": "responsabilités",
+        "es": "responsabilidades",
+        "zh": "职责",
+        "ko": "업무",
+        "ja": "職務"
+      }
+    },
+    {
+      "index": 44,
+      "word": "include",
+      "start": 305,
+      "end": 312,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 45,
+      "word": "strategy",
+      "start": 313,
+      "end": 321,
+      "protected": false,
+      "candidates": {
+        "fr": "stratégie",
+        "es": "estrategia",
+        "zh": "策略",
+        "ko": "전략",
+        "ja": "戦略"
+      }
+    },
+    {
+      "index": 46,
+      "word": "technical",
+      "start": 323,
+      "end": 332,
+      "protected": false,
+      "candidates": {
+        "fr": "technique",
+        "es": "técnico",
+        "zh": "技术的",
+        "ko": "기술적인",
+        "ja": "技術的な"
+      }
+    },
+    {
+      "index": 47,
+      "word": "product",
+      "start": 333,
+      "end": 340,
+      "protected": false,
+      "candidates": {
+        "fr": "produit",
+        "es": "producto",
+        "zh": "产品",
+        "ko": "제품",
+        "ja": "製品"
+      }
+    },
+    {
+      "index": 48,
+      "word": "teams",
+      "start": 341,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "équipe",
+        "es": "equipo",
+        "zh": "团队",
+        "ko": "팀",
+        "ja": "チーム"
+      }
+    },
+    {
+      "index": 49,
+      "word": "customer",
+      "start": 348,
+      "end": 356,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 50,
+      "word": "relationships",
+      "start": 357,
+      "end": 370,
+      "protected": false,
+      "candidates": {
+        "fr": "relations",
+        "es": "relaciones",
+        "zh": "关系",
+        "ko": "관계",
+        "ja": "関係"
+      }
+    },
+    {
+      "index": 51,
+      "word": "and",
+      "start": 371,
+      "end": 374,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 52,
+      "word": "agent",
+      "start": 375,
+      "end": 380,
+      "protected": false,
+      "candidates": {
+        "fr": "agent",
+        "es": "agente",
+        "zh": "代理",
+        "ko": "대리인",
+        "ja": "代理人"
+      }
+    },
+    {
+      "index": 53,
+      "word": "channels",
+      "start": 381,
+      "end": 389,
+      "protected": false,
+      "candidates": {
+        "fr": "canal",
+        "es": "canal",
+        "zh": "渠道",
+        "ko": "채널",
+        "ja": "チャネル"
+      }
+    }
+  ]
+}

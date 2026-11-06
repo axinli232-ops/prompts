@@ -1,0 +1,623 @@
+{
+  "prompt_id": "PUPA35-15",
+  "system_prompt": "This is my past personal experience:\nPaul Giles and The Vintage Team at Compass are described as a real-estate team established in 2002. They serve buyers and sellers in central Florida, including Conway, Orlando, Maitland, Winter Park, Windermere, Altamonte Springs, Delaney Park, Lake Nona Region and Lancaster Park. The supplied text covers residential and commercial clients.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Paul",
+      "start": 37,
+      "end": 41,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Giles",
+      "start": 42,
+      "end": 47,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "and",
+      "start": 48,
+      "end": 51,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 9,
+      "word": "The",
+      "start": 52,
+      "end": 55,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Vintage",
+      "start": 56,
+      "end": 63,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "Team",
+      "start": 64,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "at",
+      "start": 69,
+      "end": 71,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "Compass",
+      "start": 72,
+      "end": 79,
+      "protected": true
+    },
+    {
+      "index": 14,
+      "word": "are",
+      "start": 80,
+      "end": 83,
+      "protected": false,
+      "candidates": {
+        "fr": "êtes",
+        "es": "son",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 15,
+      "word": "described",
+      "start": 84,
+      "end": 93,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 16,
+      "word": "as",
+      "start": 94,
+      "end": 96,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 97,
+      "end": 98,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "real-estate",
+      "start": 99,
+      "end": 110,
+      "protected": false,
+      "candidates": {
+        "fr": "immobilier",
+        "es": "inmobiliario",
+        "zh": "房地产",
+        "ko": "부동산",
+        "ja": "不動産"
+      }
+    },
+    {
+      "index": 19,
+      "word": "team",
+      "start": 111,
+      "end": 115,
+      "protected": false,
+      "candidates": {
+        "fr": "équipe",
+        "es": "equipo",
+        "zh": "团队",
+        "ko": "팀",
+        "ja": "チーム"
+      }
+    },
+    {
+      "index": 20,
+      "word": "established",
+      "start": 116,
+      "end": 127,
+      "protected": false,
+      "candidates": {
+        "fr": "établi",
+        "es": "establecido",
+        "zh": "既定的",
+        "ko": "확립된",
+        "ja": "確立された"
+      }
+    },
+    {
+      "index": 21,
+      "word": "in",
+      "start": 128,
+      "end": 130,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 22,
+      "word": "They",
+      "start": 137,
+      "end": 141,
+      "protected": false,
+      "candidates": {
+        "fr": "ils",
+        "es": "ellos",
+        "zh": "他们",
+        "ko": "그들",
+        "ja": "彼ら"
+      }
+    },
+    {
+      "index": 23,
+      "word": "serve",
+      "start": 142,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "servir",
+        "es": "servir",
+        "zh": "服务",
+        "ko": "서비스하다",
+        "ja": "奉仕する"
+      }
+    },
+    {
+      "index": 24,
+      "word": "buyers",
+      "start": 148,
+      "end": 154,
+      "protected": false,
+      "candidates": {
+        "fr": "acheteurs",
+        "es": "compradores",
+        "zh": "买方",
+        "ko": "구매자들",
+        "ja": "買い手"
+      }
+    },
+    {
+      "index": 25,
+      "word": "and",
+      "start": 155,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 26,
+      "word": "sellers",
+      "start": 159,
+      "end": 166,
+      "protected": false,
+      "candidates": {
+        "fr": "vendeurs",
+        "es": "vendedores",
+        "zh": "卖方",
+        "ko": "판매자들",
+        "ja": "売り手"
+      }
+    },
+    {
+      "index": 27,
+      "word": "in",
+      "start": 167,
+      "end": 169,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 28,
+      "word": "central",
+      "start": 170,
+      "end": 177,
+      "protected": false,
+      "candidates": {
+        "fr": "central",
+        "es": "central",
+        "zh": "核心的",
+        "ko": "핵심적인",
+        "ja": "中心的な"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Florida",
+      "start": 178,
+      "end": 185,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "including",
+      "start": 187,
+      "end": 196,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 31,
+      "word": "Conway",
+      "start": 197,
+      "end": 203,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "Orlando",
+      "start": 205,
+      "end": 212,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "Maitland",
+      "start": 214,
+      "end": 222,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Winter",
+      "start": 224,
+      "end": 230,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Park",
+      "start": 231,
+      "end": 235,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "Windermere",
+      "start": 237,
+      "end": 247,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "Altamonte",
+      "start": 249,
+      "end": 258,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "Springs",
+      "start": 259,
+      "end": 266,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "Delaney",
+      "start": 268,
+      "end": 275,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "Park",
+      "start": 276,
+      "end": 280,
+      "protected": true
+    },
+    {
+      "index": 41,
+      "word": "Lake",
+      "start": 282,
+      "end": 286,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "Nona",
+      "start": 287,
+      "end": 291,
+      "protected": true
+    },
+    {
+      "index": 43,
+      "word": "Region",
+      "start": 292,
+      "end": 298,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "and",
+      "start": 299,
+      "end": 302,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 45,
+      "word": "Lancaster",
+      "start": 303,
+      "end": 312,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "Park",
+      "start": 313,
+      "end": 317,
+      "protected": true
+    },
+    {
+      "index": 47,
+      "word": "The",
+      "start": 319,
+      "end": 322,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 48,
+      "word": "supplied",
+      "start": 323,
+      "end": 331,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 49,
+      "word": "text",
+      "start": 332,
+      "end": 336,
+      "protected": false,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 50,
+      "word": "covers",
+      "start": 337,
+      "end": 343,
+      "protected": false,
+      "candidates": {
+        "fr": "couvre",
+        "es": "abarca",
+        "zh": "涵盖",
+        "ko": "포괄한다",
+        "ja": "扱う"
+      }
+    },
+    {
+      "index": 51,
+      "word": "residential",
+      "start": 344,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "résidentiel",
+        "es": "residencial",
+        "zh": "住宅的",
+        "ko": "주거용",
+        "ja": "住宅の"
+      }
+    },
+    {
+      "index": 52,
+      "word": "and",
+      "start": 356,
+      "end": 359,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 53,
+      "word": "commercial",
+      "start": 360,
+      "end": 370,
+      "protected": false,
+      "candidates": {
+        "fr": "commercial",
+        "es": "comercial",
+        "zh": "商业的",
+        "ko": "상업용",
+        "ja": "商業の"
+      }
+    },
+    {
+      "index": 54,
+      "word": "clients",
+      "start": 371,
+      "end": 378,
+      "protected": false,
+      "candidates": {
+        "fr": "clients",
+        "es": "clientes",
+        "zh": "客户",
+        "ko": "고객들",
+        "ja": "顧客"
+      }
+    }
+  ]
+}

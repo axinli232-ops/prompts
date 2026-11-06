@@ -27,3 +27,7 @@ python examples/read_dataset.py --prompt-id short_01 --split train --limit 2
 ## 多语替换候选
 
 [逐条prompt的五语单词候选](multilingual-replacement-candidates/) 包含80份独立JSON文件（LR01–LR40、FC01–FC40）；每份按原文顺序逐词列出法语、西班牙语、中文、韩语、日语五个候选，直接写在对应单词下面，无需共享词典。
+
+## Keyword Utilization
+
+[keyword/](keyword/) 收录 PUPA 派生的 30 条英文个人背景提示词，每条配 100 条 train 和 50 条 test query，并含敏感/固定关键词标注及仅针对非敏感词的五语逐词替换候选。

@@ -1,0 +1,39 @@
+{
+  "id": "PUPA35-22",
+  "title_zh": "航空维修招标通知",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 51,
+  "conversation_hash": "47632a8e2c9ab1f693345e49b0a2423c",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "原始邮箱粘连标点需人工核对，保留匿名邮箱；日期属于历史快照。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who issued the maintenance request",
+    "the aircraft model involved",
+    "the kind of provider being sought",
+    "the permitted submission channels",
+    "the outer-envelope requirements",
+    "the required envelope notation",
+    "the receipt deadline",
+    "the tender-validity period",
+    "whether the opening session is public",
+    "the difference between submission instructions and contract award"
+  ],
+  "protected_terms": [
+    "Tunisair Express",
+    "MRO",
+    "ATR72-600",
+    "RFQ",
+    "DO NOT OPEN, A/C ATR72-600 Consultation",
+    "12",
+    "October 2023",
+    "120"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

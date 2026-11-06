@@ -1,0 +1,42 @@
+{
+  "id": "PUPA35-20",
+  "title_zh": "航空预测维修工程师职位背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 252,
+  "conversation_hash": "e10975358239cd24c0b8d4af27a3756e",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "不要擅自展开 BUD、ADEM、PW；不自动认定用户持有执照。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the recruiting airline is",
+    "the office-location code",
+    "the type of maintenance role",
+    "the recurring-defect monitoring duties",
+    "the predictive-monitoring duties",
+    "the fleet-performance measures",
+    "the organizations providing engine instructions",
+    "the licensing requirement",
+    "the aircraft-training requirement",
+    "the regulatory knowledge and experience requirements"
+  ],
+  "protected_terms": [
+    "Wizz Air",
+    "BUD",
+    "KPIs",
+    "Engine/APU",
+    "ADEM",
+    "PW",
+    "Honeywell",
+    "Part-66",
+    "A320FAM",
+    "Part-145/Part-M",
+    "English"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

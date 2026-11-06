@@ -1,0 +1,602 @@
+{
+  "prompt_id": "PUPA35-14",
+  "system_prompt": "This is my past personal experience:\nSTAFFIN SOFTWARES VICTORIA describes software developed for freight, nursing, rentals and security businesses, including Jay's Freight, Life Disability and Nursing Care, Jay's Rentals and Forefront Securities. The account mentions 400 active staff, integrations with MYOB and QuickBooks, an office in India and support for Australian businesses.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "STAFFIN",
+      "start": 37,
+      "end": 44,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "SOFTWARES",
+      "start": 45,
+      "end": 54,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "VICTORIA",
+      "start": 55,
+      "end": 63,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "describes",
+      "start": 64,
+      "end": 73,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 10,
+      "word": "software",
+      "start": 74,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "logiciel",
+        "es": "software",
+        "zh": "软件",
+        "ko": "소프트웨어",
+        "ja": "ソフトウェア"
+      }
+    },
+    {
+      "index": 11,
+      "word": "developed",
+      "start": 83,
+      "end": 92,
+      "protected": false,
+      "candidates": {
+        "fr": "développé",
+        "es": "desarrollado",
+        "zh": "开发的",
+        "ko": "개발된",
+        "ja": "開発された"
+      }
+    },
+    {
+      "index": 12,
+      "word": "for",
+      "start": 93,
+      "end": 96,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 13,
+      "word": "freight",
+      "start": 97,
+      "end": 104,
+      "protected": false,
+      "candidates": {
+        "fr": "fret",
+        "es": "carga",
+        "zh": "货运",
+        "ko": "화물",
+        "ja": "貨物"
+      }
+    },
+    {
+      "index": 14,
+      "word": "nursing",
+      "start": 106,
+      "end": 113,
+      "protected": false,
+      "candidates": {
+        "fr": "soins infirmiers",
+        "es": "enfermería",
+        "zh": "护理",
+        "ko": "간호",
+        "ja": "看護"
+      }
+    },
+    {
+      "index": 15,
+      "word": "rentals",
+      "start": 115,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "locations",
+        "es": "alquileres",
+        "zh": "租赁",
+        "ko": "임대",
+        "ja": "賃貸"
+      }
+    },
+    {
+      "index": 16,
+      "word": "and",
+      "start": 123,
+      "end": 126,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 17,
+      "word": "security",
+      "start": 127,
+      "end": 135,
+      "protected": false,
+      "candidates": {
+        "fr": "sécurité",
+        "es": "seguridad",
+        "zh": "安全",
+        "ko": "보안",
+        "ja": "セキュリティ"
+      }
+    },
+    {
+      "index": 18,
+      "word": "businesses",
+      "start": 136,
+      "end": 146,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprises",
+        "es": "empresas",
+        "zh": "企业",
+        "ko": "기업들",
+        "ja": "企業"
+      }
+    },
+    {
+      "index": 19,
+      "word": "including",
+      "start": 148,
+      "end": 157,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Jay's",
+      "start": 158,
+      "end": 163,
+      "protected": true
+    },
+    {
+      "index": 21,
+      "word": "Freight",
+      "start": 164,
+      "end": 171,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "Life",
+      "start": 173,
+      "end": 177,
+      "protected": true
+    },
+    {
+      "index": 23,
+      "word": "Disability",
+      "start": 178,
+      "end": 188,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "and",
+      "start": 189,
+      "end": 192,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Nursing",
+      "start": 193,
+      "end": 200,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Care",
+      "start": 201,
+      "end": 205,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "Jay's",
+      "start": 207,
+      "end": 212,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "Rentals",
+      "start": 213,
+      "end": 220,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 221,
+      "end": 224,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "Forefront",
+      "start": 225,
+      "end": 234,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "Securities",
+      "start": 235,
+      "end": 245,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "The",
+      "start": 247,
+      "end": 250,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 33,
+      "word": "account",
+      "start": 251,
+      "end": 258,
+      "protected": false,
+      "candidates": {
+        "fr": "compte",
+        "es": "cuenta",
+        "zh": "账户",
+        "ko": "계정",
+        "ja": "アカウント"
+      }
+    },
+    {
+      "index": 34,
+      "word": "mentions",
+      "start": 259,
+      "end": 267,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 35,
+      "word": "active",
+      "start": 272,
+      "end": 278,
+      "protected": false,
+      "candidates": {
+        "fr": "actif",
+        "es": "activo",
+        "zh": "活跃的",
+        "ko": "활동 중인",
+        "ja": "稼働中の"
+      }
+    },
+    {
+      "index": 36,
+      "word": "staff",
+      "start": 279,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "職員"
+      }
+    },
+    {
+      "index": 37,
+      "word": "integrations",
+      "start": 286,
+      "end": 298,
+      "protected": false,
+      "candidates": {
+        "fr": "intégrations",
+        "es": "integraciones",
+        "zh": "集成",
+        "ko": "통합들",
+        "ja": "連携"
+      }
+    },
+    {
+      "index": 38,
+      "word": "with",
+      "start": 299,
+      "end": 303,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 39,
+      "word": "MYOB",
+      "start": 304,
+      "end": 308,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "and",
+      "start": 309,
+      "end": 312,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 41,
+      "word": "QuickBooks",
+      "start": 313,
+      "end": 323,
+      "protected": true
+    },
+    {
+      "index": 42,
+      "word": "an",
+      "start": 325,
+      "end": 327,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 43,
+      "word": "office",
+      "start": 328,
+      "end": 334,
+      "protected": false,
+      "candidates": {
+        "fr": "bureau",
+        "es": "oficina",
+        "zh": "办公室",
+        "ko": "사무실",
+        "ja": "事務所"
+      }
+    },
+    {
+      "index": 44,
+      "word": "in",
+      "start": 335,
+      "end": 337,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 45,
+      "word": "India",
+      "start": 338,
+      "end": 343,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "and",
+      "start": 344,
+      "end": 347,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 47,
+      "word": "support",
+      "start": 348,
+      "end": 355,
+      "protected": false,
+      "candidates": {
+        "fr": "soutien",
+        "es": "apoyo",
+        "zh": "支持",
+        "ko": "지원",
+        "ja": "支援"
+      }
+    },
+    {
+      "index": 48,
+      "word": "for",
+      "start": 356,
+      "end": 359,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 49,
+      "word": "Australian",
+      "start": 360,
+      "end": 370,
+      "protected": true
+    },
+    {
+      "index": 50,
+      "word": "businesses",
+      "start": 371,
+      "end": 381,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprises",
+        "es": "empresas",
+        "zh": "企业",
+        "ko": "기업들",
+        "ja": "企業"
+      }
+    }
+  ]
+}

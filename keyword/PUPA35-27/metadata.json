@@ -1,0 +1,36 @@
+{
+  "id": "PUPA35-27",
+  "title_zh": "公关合作邀约背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 265,
+  "conversation_hash": "4621ef51d8580696e434e319368f2fc2",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "需要扩展受众、渠道等请求维度；不得把未达成合作写成已发布。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who is sending the invitation",
+    "the sender’s organization",
+    "the publication being approached for a feature",
+    "the publications cited as prior work",
+    "the proposed sponsorship arrangement",
+    "the exclusivity of the content",
+    "the proposed client mention",
+    "the requested pricing information",
+    "the condition attached to immediate payment",
+    "whether an agreement is already established"
+  ],
+  "protected_terms": [
+    "Danielle",
+    "Morris Marketing Group",
+    "WWD",
+    "Fashionista",
+    "Men's Journal"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

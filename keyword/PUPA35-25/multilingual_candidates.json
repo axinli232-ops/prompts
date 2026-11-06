@@ -1,0 +1,798 @@
+{
+  "prompt_id": "PUPA35-25",
+  "system_prompt": "This is my past personal experience:\nThe supplied case concerns City of Sontse versus Anato Porcelain over slip resistance of tiles in 45 community centers. Floor Testing Inc. is the independent tester. The memorandum is addressed to judge Tanya Wasilew and copied to clerk Daniel Taft, defense attorney Mitch Soldano and plaintiff attorney Amira Herana. The supplied threshold is 0.42; no measured test sample is provided.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "case",
+      "start": 50,
+      "end": 54,
+      "protected": false,
+      "candidates": {
+        "fr": "cas",
+        "es": "caso",
+        "zh": "情况",
+        "ko": "경우",
+        "ja": "場合"
+      }
+    },
+    {
+      "index": 9,
+      "word": "concerns",
+      "start": 55,
+      "end": 63,
+      "protected": false,
+      "candidates": {
+        "fr": "préoccupation",
+        "es": "preocupación",
+        "zh": "关切",
+        "ko": "우려",
+        "ja": "懸念"
+      }
+    },
+    {
+      "index": 10,
+      "word": "City",
+      "start": 64,
+      "end": 68,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "of",
+      "start": 69,
+      "end": 71,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "Sontse",
+      "start": 72,
+      "end": 78,
+      "protected": true
+    },
+    {
+      "index": 13,
+      "word": "versus",
+      "start": 79,
+      "end": 85,
+      "protected": false,
+      "candidates": {
+        "fr": "contre",
+        "es": "contra",
+        "zh": "对抗",
+        "ko": "대",
+        "ja": "対"
+      }
+    },
+    {
+      "index": 14,
+      "word": "Anato",
+      "start": 86,
+      "end": 91,
+      "protected": true
+    },
+    {
+      "index": 15,
+      "word": "Porcelain",
+      "start": 92,
+      "end": 101,
+      "protected": true
+    },
+    {
+      "index": 16,
+      "word": "over",
+      "start": 102,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "au-dessus de",
+        "es": "sobre",
+        "zh": "超过",
+        "ko": "넘어",
+        "ja": "を超えて"
+      }
+    },
+    {
+      "index": 17,
+      "word": "slip",
+      "start": 107,
+      "end": 111,
+      "protected": false,
+      "candidates": {
+        "fr": "glissement",
+        "es": "deslizamiento",
+        "zh": "滑动",
+        "ko": "미끄럼",
+        "ja": "滑り"
+      }
+    },
+    {
+      "index": 18,
+      "word": "resistance",
+      "start": 112,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "résistance",
+        "es": "resistencia",
+        "zh": "阻力",
+        "ko": "저항",
+        "ja": "抵抗"
+      }
+    },
+    {
+      "index": 19,
+      "word": "of",
+      "start": 123,
+      "end": 125,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 20,
+      "word": "tiles",
+      "start": 126,
+      "end": 131,
+      "protected": false,
+      "candidates": {
+        "fr": "carreaux",
+        "es": "baldosas",
+        "zh": "瓷砖",
+        "ko": "타일들",
+        "ja": "タイル"
+      }
+    },
+    {
+      "index": 21,
+      "word": "in",
+      "start": 132,
+      "end": 134,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 22,
+      "word": "community",
+      "start": 138,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "communauté",
+        "es": "comunidad",
+        "zh": "社区",
+        "ko": "공동체",
+        "ja": "共同体"
+      }
+    },
+    {
+      "index": 23,
+      "word": "centers",
+      "start": 148,
+      "end": 155,
+      "protected": false,
+      "candidates": {
+        "fr": "centres",
+        "es": "centros",
+        "zh": "中心",
+        "ko": "센터들",
+        "ja": "センター"
+      }
+    },
+    {
+      "index": 24,
+      "word": "Floor",
+      "start": 157,
+      "end": 162,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Testing",
+      "start": 163,
+      "end": 170,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "Inc",
+      "start": 171,
+      "end": 174,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "is",
+      "start": 176,
+      "end": 178,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 28,
+      "word": "the",
+      "start": 179,
+      "end": 182,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 29,
+      "word": "independent",
+      "start": 183,
+      "end": 194,
+      "protected": false,
+      "candidates": {
+        "fr": "indépendant",
+        "es": "independiente",
+        "zh": "独立的",
+        "ko": "독립적인",
+        "ja": "独立した"
+      }
+    },
+    {
+      "index": 30,
+      "word": "tester",
+      "start": 195,
+      "end": 201,
+      "protected": false,
+      "candidates": {
+        "fr": "testeur",
+        "es": "evaluador",
+        "zh": "测试方",
+        "ko": "시험자",
+        "ja": "試験者"
+      }
+    },
+    {
+      "index": 31,
+      "word": "The",
+      "start": 203,
+      "end": 206,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 32,
+      "word": "memorandum",
+      "start": 207,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "note",
+        "es": "memorando",
+        "zh": "备忘录",
+        "ko": "각서",
+        "ja": "覚書"
+      }
+    },
+    {
+      "index": 33,
+      "word": "is",
+      "start": 218,
+      "end": 220,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 34,
+      "word": "addressed",
+      "start": 221,
+      "end": 230,
+      "protected": false,
+      "candidates": {
+        "fr": "traiter",
+        "es": "abordar",
+        "zh": "处理",
+        "ko": "다루다",
+        "ja": "対処する"
+      }
+    },
+    {
+      "index": 35,
+      "word": "to",
+      "start": 231,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 36,
+      "word": "judge",
+      "start": 234,
+      "end": 239,
+      "protected": false,
+      "candidates": {
+        "fr": "juge",
+        "es": "juez",
+        "zh": "法官",
+        "ko": "판사",
+        "ja": "裁判官"
+      }
+    },
+    {
+      "index": 37,
+      "word": "Tanya",
+      "start": 240,
+      "end": 245,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "Wasilew",
+      "start": 246,
+      "end": 253,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "and",
+      "start": 254,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 40,
+      "word": "copied",
+      "start": 258,
+      "end": 264,
+      "protected": false,
+      "candidates": {
+        "fr": "en copie",
+        "es": "con copia",
+        "zh": "抄送",
+        "ko": "참조된",
+        "ja": "写しを送った"
+      }
+    },
+    {
+      "index": 41,
+      "word": "to",
+      "start": 265,
+      "end": 267,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 42,
+      "word": "clerk",
+      "start": 268,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "greffier",
+        "es": "secretario judicial",
+        "zh": "书记员",
+        "ko": "서기",
+        "ja": "書記官"
+      }
+    },
+    {
+      "index": 43,
+      "word": "Daniel",
+      "start": 274,
+      "end": 280,
+      "protected": true
+    },
+    {
+      "index": 44,
+      "word": "Taft",
+      "start": 281,
+      "end": 285,
+      "protected": true
+    },
+    {
+      "index": 45,
+      "word": "defense",
+      "start": 287,
+      "end": 294,
+      "protected": false,
+      "candidates": {
+        "fr": "défense",
+        "es": "defensa",
+        "zh": "辩方",
+        "ko": "피고측",
+        "ja": "被告側"
+      }
+    },
+    {
+      "index": 46,
+      "word": "attorney",
+      "start": 295,
+      "end": 303,
+      "protected": false,
+      "candidates": {
+        "fr": "avocat",
+        "es": "abogado",
+        "zh": "律师",
+        "ko": "변호사",
+        "ja": "弁護士"
+      }
+    },
+    {
+      "index": 47,
+      "word": "Mitch",
+      "start": 304,
+      "end": 309,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "Soldano",
+      "start": 310,
+      "end": 317,
+      "protected": true
+    },
+    {
+      "index": 49,
+      "word": "and",
+      "start": 318,
+      "end": 321,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 50,
+      "word": "plaintiff",
+      "start": 322,
+      "end": 331,
+      "protected": false,
+      "candidates": {
+        "fr": "demandeur",
+        "es": "demandante",
+        "zh": "原告",
+        "ko": "원고",
+        "ja": "原告"
+      }
+    },
+    {
+      "index": 51,
+      "word": "attorney",
+      "start": 332,
+      "end": 340,
+      "protected": false,
+      "candidates": {
+        "fr": "avocat",
+        "es": "abogado",
+        "zh": "律师",
+        "ko": "변호사",
+        "ja": "弁護士"
+      }
+    },
+    {
+      "index": 52,
+      "word": "Amira",
+      "start": 341,
+      "end": 346,
+      "protected": true
+    },
+    {
+      "index": 53,
+      "word": "Herana",
+      "start": 347,
+      "end": 353,
+      "protected": true
+    },
+    {
+      "index": 54,
+      "word": "The",
+      "start": 355,
+      "end": 358,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 55,
+      "word": "supplied",
+      "start": 359,
+      "end": 367,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 56,
+      "word": "threshold",
+      "start": 368,
+      "end": 377,
+      "protected": false,
+      "candidates": {
+        "fr": "seuil",
+        "es": "umbral",
+        "zh": "阈值",
+        "ko": "임계값",
+        "ja": "閾値"
+      }
+    },
+    {
+      "index": 57,
+      "word": "is",
+      "start": 378,
+      "end": 380,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 58,
+      "word": "no",
+      "start": 387,
+      "end": 389,
+      "protected": false,
+      "candidates": {
+        "fr": "non",
+        "es": "no",
+        "zh": "没有",
+        "ko": "없는",
+        "ja": "ない"
+      }
+    },
+    {
+      "index": 59,
+      "word": "measured",
+      "start": 390,
+      "end": 398,
+      "protected": false,
+      "candidates": {
+        "fr": "mesurer",
+        "es": "medir",
+        "zh": "衡量",
+        "ko": "측정하다",
+        "ja": "測定する"
+      }
+    },
+    {
+      "index": 60,
+      "word": "test",
+      "start": 399,
+      "end": 403,
+      "protected": false,
+      "candidates": {
+        "fr": "test",
+        "es": "prueba",
+        "zh": "测试",
+        "ko": "시험",
+        "ja": "試験"
+      }
+    },
+    {
+      "index": 61,
+      "word": "sample",
+      "start": 404,
+      "end": 410,
+      "protected": false,
+      "candidates": {
+        "fr": "échantillon",
+        "es": "muestra",
+        "zh": "样本",
+        "ko": "표본",
+        "ja": "試料"
+      }
+    },
+    {
+      "index": 62,
+      "word": "is",
+      "start": 411,
+      "end": 413,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 63,
+      "word": "provided",
+      "start": 414,
+      "end": 422,
+      "protected": false,
+      "candidates": {
+        "fr": "fournir",
+        "es": "proporcionar",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    }
+  ]
+}

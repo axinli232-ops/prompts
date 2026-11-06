@@ -1,0 +1,64 @@
+{
+  "prompt_id": "PUPA35-07",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "THE VIRGINIAN PILOT",
+      "start": 71,
+      "end": 90,
+      "category": "entity"
+    },
+    {
+      "text": "Norfolk",
+      "start": 94,
+      "end": 101,
+      "category": "entity"
+    },
+    {
+      "text": "DAILY PRESS",
+      "start": 103,
+      "end": 114,
+      "category": "entity"
+    },
+    {
+      "text": "Newport News",
+      "start": 118,
+      "end": 130,
+      "category": "entity"
+    },
+    {
+      "text": "WASHINGTON POST",
+      "start": 132,
+      "end": 147,
+      "category": "entity"
+    },
+    {
+      "text": "Washington D.C",
+      "start": 151,
+      "end": 165,
+      "category": "entity"
+    },
+    {
+      "text": "THE GUARDIAN",
+      "start": 171,
+      "end": 183,
+      "category": "entity"
+    },
+    {
+      "text": "20XX",
+      "start": 343,
+      "end": 347,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "THE VIRGINIAN PILOT",
+    "Norfolk",
+    "DAILY PRESS",
+    "Newport News",
+    "WASHINGTON POST",
+    "Washington D.C",
+    "THE GUARDIAN",
+    "20XX"
+  ]
+}

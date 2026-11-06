@@ -1,0 +1,42 @@
+{
+  "id": "PUPA35-24",
+  "title_zh": "长距离游泳环保活动资料",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 424,
+  "conversation_hash": "df852cd88bd6e79311dfac1425ca7986",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "原稿星期与日期可能不一致，不自行纠正；按活动计划写，不能写成已经成功完成。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the swim announcement concerns",
+    "the planned event name",
+    "the approximate swim distance",
+    "the starting island",
+    "the route and finishing island",
+    "the planned period of the attempt",
+    "the ocean-conservation purpose",
+    "the supporting foundation",
+    "the other supporting organizations",
+    "the difference between an announced attempt and a completed achievement"
+  ],
+  "protected_terms": [
+    "Neil Agius",
+    "100 Mile Swim",
+    "2023",
+    "160",
+    "Mallorca",
+    "Ibiza",
+    "Mallorca Preservation Foundation",
+    "Wave of Change Malta",
+    "Ocibar Marinas",
+    "Atlas Insurance",
+    "Visit Malta"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

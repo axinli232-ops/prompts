@@ -1,0 +1,50 @@
+{
+  "prompt_id": "PUPA35-16",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Toboggan Brewing Company",
+      "start": 37,
+      "end": 61,
+      "category": "entity"
+    },
+    {
+      "text": "2014",
+      "start": 108,
+      "end": 112,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Richmond Street",
+      "start": 116,
+      "end": 131,
+      "category": "entity"
+    },
+    {
+      "text": "London, Ontario",
+      "start": 135,
+      "end": 150,
+      "category": "entity"
+    },
+    {
+      "text": "KPIs",
+      "start": 327,
+      "end": 331,
+      "category": "entity"
+    },
+    {
+      "text": "ERP",
+      "start": 336,
+      "end": 339,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Toboggan Brewing Company",
+    "2014",
+    "Richmond Street",
+    "London, Ontario",
+    "KPIs",
+    "ERP"
+  ]
+}

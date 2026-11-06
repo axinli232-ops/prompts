@@ -1,0 +1,17 @@
+{
+  "tasks": 30,
+  "train": 3000,
+  "test": 1500,
+  "protected_spans": 264,
+  "replaceable_word_occurrences": 1264,
+  "validation": "passed",
+  "model_utility_validation": "not performed",
+  "checks": [
+    "30 prompts, 100/50 split each",
+    "every query ends Answer in English.",
+    "no exact train/test overlap within each task",
+    "all non-protected word occurrences have five nonempty candidates",
+    "no replacement occurrence overlaps a protected span",
+    "exact source offsets and protected values survive all five replacement renderings"
+  ]
+}

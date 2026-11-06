@@ -1,0 +1,686 @@
+{
+  "prompt_id": "PUPA35-27",
+  "system_prompt": "This is my past personal experience:\nDanielle from Morris Marketing Group is approaching a publication for a sponsored business feature on WWD. The message mentions prior work with Fashionista and Men's Journal, exclusive content and a brief client mention. It asks for rates and offers immediate payment once a price is agreed.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Danielle",
+      "start": 37,
+      "end": 45,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "from",
+      "start": 46,
+      "end": 50,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 8,
+      "word": "Morris",
+      "start": 51,
+      "end": 57,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "Marketing",
+      "start": 58,
+      "end": 67,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "Group",
+      "start": 68,
+      "end": 73,
+      "protected": true
+    },
+    {
+      "index": 11,
+      "word": "is",
+      "start": 74,
+      "end": 76,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 12,
+      "word": "approaching",
+      "start": 77,
+      "end": 88,
+      "protected": false,
+      "candidates": {
+        "fr": "contactant",
+        "es": "contactando",
+        "zh": "接洽",
+        "ko": "접촉하는",
+        "ja": "働きかける"
+      }
+    },
+    {
+      "index": 13,
+      "word": "a",
+      "start": 89,
+      "end": 90,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 14,
+      "word": "publication",
+      "start": 91,
+      "end": 102,
+      "protected": false,
+      "candidates": {
+        "fr": "publication",
+        "es": "publicación",
+        "zh": "出版物",
+        "ko": "간행물",
+        "ja": "出版物"
+      }
+    },
+    {
+      "index": 15,
+      "word": "for",
+      "start": 103,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 16,
+      "word": "a",
+      "start": 107,
+      "end": 108,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 17,
+      "word": "sponsored",
+      "start": 109,
+      "end": 118,
+      "protected": false,
+      "candidates": {
+        "fr": "parrainé",
+        "es": "patrocinado",
+        "zh": "赞助的",
+        "ko": "후원된",
+        "ja": "スポンサー付きの"
+      }
+    },
+    {
+      "index": 18,
+      "word": "business",
+      "start": 119,
+      "end": 127,
+      "protected": false,
+      "candidates": {
+        "fr": "entreprise",
+        "es": "negocio",
+        "zh": "业务",
+        "ko": "비즈니스",
+        "ja": "業務"
+      }
+    },
+    {
+      "index": 19,
+      "word": "feature",
+      "start": 128,
+      "end": 135,
+      "protected": false,
+      "candidates": {
+        "fr": "caractéristique",
+        "es": "característica",
+        "zh": "特征",
+        "ko": "특징",
+        "ja": "特徴"
+      }
+    },
+    {
+      "index": 20,
+      "word": "on",
+      "start": 136,
+      "end": 138,
+      "protected": false,
+      "candidates": {
+        "fr": "sur",
+        "es": "sobre",
+        "zh": "在上面",
+        "ko": "위에",
+        "ja": "の上に"
+      }
+    },
+    {
+      "index": 21,
+      "word": "WWD",
+      "start": 139,
+      "end": 142,
+      "protected": true
+    },
+    {
+      "index": 22,
+      "word": "The",
+      "start": 144,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 23,
+      "word": "message",
+      "start": 148,
+      "end": 155,
+      "protected": false,
+      "candidates": {
+        "fr": "message",
+        "es": "mensaje",
+        "zh": "消息",
+        "ko": "메시지",
+        "ja": "メッセージ"
+      }
+    },
+    {
+      "index": 24,
+      "word": "mentions",
+      "start": 156,
+      "end": 164,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 25,
+      "word": "prior",
+      "start": 165,
+      "end": 170,
+      "protected": false,
+      "candidates": {
+        "fr": "antérieur",
+        "es": "previo",
+        "zh": "先前的",
+        "ko": "이전의",
+        "ja": "以前の"
+      }
+    },
+    {
+      "index": 26,
+      "word": "work",
+      "start": 171,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 27,
+      "word": "with",
+      "start": 176,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Fashionista",
+      "start": 181,
+      "end": 192,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "and",
+      "start": 193,
+      "end": 196,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 30,
+      "word": "Men's",
+      "start": 197,
+      "end": 202,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "Journal",
+      "start": 203,
+      "end": 210,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "exclusive",
+      "start": 212,
+      "end": 221,
+      "protected": false,
+      "candidates": {
+        "fr": "exclusif",
+        "es": "exclusivo",
+        "zh": "独家的",
+        "ko": "독점적인",
+        "ja": "独占的な"
+      }
+    },
+    {
+      "index": 33,
+      "word": "content",
+      "start": 222,
+      "end": 229,
+      "protected": false,
+      "candidates": {
+        "fr": "contenu",
+        "es": "contenido",
+        "zh": "内容",
+        "ko": "내용",
+        "ja": "内容"
+      }
+    },
+    {
+      "index": 34,
+      "word": "and",
+      "start": 230,
+      "end": 233,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 35,
+      "word": "a",
+      "start": 234,
+      "end": 235,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 36,
+      "word": "brief",
+      "start": 236,
+      "end": 241,
+      "protected": false,
+      "candidates": {
+        "fr": "bref",
+        "es": "breve",
+        "zh": "简短的",
+        "ko": "간단한",
+        "ja": "簡潔な"
+      }
+    },
+    {
+      "index": 37,
+      "word": "client",
+      "start": 242,
+      "end": 248,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 38,
+      "word": "mention",
+      "start": 249,
+      "end": 256,
+      "protected": false,
+      "candidates": {
+        "fr": "mentionner",
+        "es": "mencionar",
+        "zh": "提及",
+        "ko": "언급하다",
+        "ja": "言及する"
+      }
+    },
+    {
+      "index": 39,
+      "word": "It",
+      "start": 258,
+      "end": 260,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 40,
+      "word": "asks",
+      "start": 261,
+      "end": 265,
+      "protected": false,
+      "candidates": {
+        "fr": "demande",
+        "es": "pide",
+        "zh": "询问",
+        "ko": "묻는다",
+        "ja": "尋ねる"
+      }
+    },
+    {
+      "index": 41,
+      "word": "for",
+      "start": 266,
+      "end": 269,
+      "protected": false,
+      "candidates": {
+        "fr": "pour",
+        "es": "para",
+        "zh": "为了",
+        "ko": "위해",
+        "ja": "のために"
+      }
+    },
+    {
+      "index": 42,
+      "word": "rates",
+      "start": 270,
+      "end": 275,
+      "protected": false,
+      "candidates": {
+        "fr": "tarifs",
+        "es": "tarifas",
+        "zh": "费率",
+        "ko": "요금",
+        "ja": "料金"
+      }
+    },
+    {
+      "index": 43,
+      "word": "and",
+      "start": 276,
+      "end": 279,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 44,
+      "word": "offers",
+      "start": 280,
+      "end": 286,
+      "protected": false,
+      "candidates": {
+        "fr": "offrir",
+        "es": "ofrecer",
+        "zh": "提供",
+        "ko": "제공하다",
+        "ja": "提供する"
+      }
+    },
+    {
+      "index": 45,
+      "word": "immediate",
+      "start": 287,
+      "end": 296,
+      "protected": false,
+      "candidates": {
+        "fr": "immédiat",
+        "es": "inmediato",
+        "zh": "立即的",
+        "ko": "즉각적인",
+        "ja": "即時の"
+      }
+    },
+    {
+      "index": 46,
+      "word": "payment",
+      "start": 297,
+      "end": 304,
+      "protected": false,
+      "candidates": {
+        "fr": "paiement",
+        "es": "pago",
+        "zh": "付款",
+        "ko": "결제",
+        "ja": "支払い"
+      }
+    },
+    {
+      "index": 47,
+      "word": "once",
+      "start": 305,
+      "end": 309,
+      "protected": false,
+      "candidates": {
+        "fr": "une fois",
+        "es": "una vez",
+        "zh": "一旦",
+        "ko": "일단",
+        "ja": "いったん"
+      }
+    },
+    {
+      "index": 48,
+      "word": "a",
+      "start": 310,
+      "end": 311,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 49,
+      "word": "price",
+      "start": 312,
+      "end": 317,
+      "protected": false,
+      "candidates": {
+        "fr": "prix",
+        "es": "precio",
+        "zh": "价格",
+        "ko": "가격",
+        "ja": "価格"
+      }
+    },
+    {
+      "index": 50,
+      "word": "is",
+      "start": 318,
+      "end": 320,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 51,
+      "word": "agreed",
+      "start": 321,
+      "end": 327,
+      "protected": false,
+      "candidates": {
+        "fr": "convenu",
+        "es": "acordado",
+        "zh": "商定的",
+        "ko": "합의된",
+        "ja": "合意された"
+      }
+    }
+  ]
+}

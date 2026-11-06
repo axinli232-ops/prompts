@@ -1,0 +1,38 @@
+{
+  "id": "PUPA35-09",
+  "title_zh": "客户服务与销售职业介绍",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 593,
+  "conversation_hash": "bce412404cebd7ba10200a4cdd5c70ca",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "完整姓名为匿名占位符；Kendrick 只是原文偏好称呼。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "what I prefer to be called",
+    "the duration of my customer-service background",
+    "the company where my career began",
+    "my later employers",
+    "my healthcare customer-service experience",
+    "my remote-support experience",
+    "my sales and process-improvement experience",
+    "the customer-service software I have used",
+    "the satisfaction result reported",
+    "my personal interests"
+  ],
+  "protected_terms": [
+    "Kendrick",
+    "Hinduja Global Solutions",
+    "Alliance Global",
+    "Outdoorsy",
+    "Salesforce",
+    "Zendesk",
+    "80%"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

@@ -1,0 +1,693 @@
+{
+  "prompt_id": "PUPA35-13",
+  "system_prompt": "This is my past personal experience:\nMsitu Africa Carbon Alliance is described as a for-profit organization headquartered in Kenya, Africa. It supports carbon farming and tree planting. An API connects corporate contributions with carbon-offset projects and supports ESG and CSR processes. Farmers receive training and guidance, with potential revenue from sequestered carbon credits.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "Msitu",
+      "start": 37,
+      "end": 42,
+      "protected": true
+    },
+    {
+      "index": 7,
+      "word": "Africa",
+      "start": 43,
+      "end": 49,
+      "protected": true
+    },
+    {
+      "index": 8,
+      "word": "Carbon",
+      "start": 50,
+      "end": 56,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "Alliance",
+      "start": 57,
+      "end": 65,
+      "protected": true
+    },
+    {
+      "index": 10,
+      "word": "is",
+      "start": 66,
+      "end": 68,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 11,
+      "word": "described",
+      "start": 69,
+      "end": 78,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "descrito",
+        "zh": "被描述的",
+        "ko": "설명된",
+        "ja": "記述された"
+      }
+    },
+    {
+      "index": 12,
+      "word": "as",
+      "start": 79,
+      "end": 81,
+      "protected": false,
+      "candidates": {
+        "fr": "comme",
+        "es": "como",
+        "zh": "作为",
+        "ko": "로서",
+        "ja": "として"
+      }
+    },
+    {
+      "index": 13,
+      "word": "a",
+      "start": 82,
+      "end": 83,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 14,
+      "word": "for-profit",
+      "start": 84,
+      "end": 94,
+      "protected": false,
+      "candidates": {
+        "fr": "à but lucratif",
+        "es": "con fines de lucro",
+        "zh": "营利性的",
+        "ko": "영리 목적의",
+        "ja": "営利の"
+      }
+    },
+    {
+      "index": 15,
+      "word": "organization",
+      "start": 95,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "organisation",
+        "es": "organización",
+        "zh": "组织",
+        "ko": "조직",
+        "ja": "組織"
+      }
+    },
+    {
+      "index": 16,
+      "word": "headquartered",
+      "start": 108,
+      "end": 121,
+      "protected": false,
+      "candidates": {
+        "fr": "ayant son siège",
+        "es": "con sede",
+        "zh": "总部设在",
+        "ko": "본사를 둔",
+        "ja": "本社を置く"
+      }
+    },
+    {
+      "index": 17,
+      "word": "in",
+      "start": 122,
+      "end": 124,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Kenya",
+      "start": 125,
+      "end": 130,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "Africa",
+      "start": 132,
+      "end": 138,
+      "protected": true
+    },
+    {
+      "index": 20,
+      "word": "It",
+      "start": 140,
+      "end": 142,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 21,
+      "word": "supports",
+      "start": 143,
+      "end": 151,
+      "protected": false,
+      "candidates": {
+        "fr": "soutient",
+        "es": "apoya",
+        "zh": "支持",
+        "ko": "지원한다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 22,
+      "word": "carbon",
+      "start": 152,
+      "end": 158,
+      "protected": false,
+      "candidates": {
+        "fr": "carbone",
+        "es": "carbono",
+        "zh": "碳",
+        "ko": "탄소",
+        "ja": "炭素"
+      }
+    },
+    {
+      "index": 23,
+      "word": "farming",
+      "start": 159,
+      "end": 166,
+      "protected": false,
+      "candidates": {
+        "fr": "agriculture",
+        "es": "agricultura",
+        "zh": "农业",
+        "ko": "농업",
+        "ja": "農業"
+      }
+    },
+    {
+      "index": 24,
+      "word": "and",
+      "start": 167,
+      "end": 170,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 25,
+      "word": "tree",
+      "start": 171,
+      "end": 175,
+      "protected": false,
+      "candidates": {
+        "fr": "arbre",
+        "es": "árbol",
+        "zh": "树木",
+        "ko": "나무",
+        "ja": "樹木"
+      }
+    },
+    {
+      "index": 26,
+      "word": "planting",
+      "start": 176,
+      "end": 184,
+      "protected": false,
+      "candidates": {
+        "fr": "plantation",
+        "es": "plantación",
+        "zh": "种植",
+        "ko": "심기",
+        "ja": "植栽"
+      }
+    },
+    {
+      "index": 27,
+      "word": "An",
+      "start": 186,
+      "end": 188,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 28,
+      "word": "API",
+      "start": 189,
+      "end": 192,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "connects",
+      "start": 193,
+      "end": 201,
+      "protected": false,
+      "candidates": {
+        "fr": "relie",
+        "es": "conecta",
+        "zh": "连接",
+        "ko": "연결한다",
+        "ja": "接続する"
+      }
+    },
+    {
+      "index": 30,
+      "word": "corporate",
+      "start": 202,
+      "end": 211,
+      "protected": false,
+      "candidates": {
+        "fr": "d’entreprise",
+        "es": "corporativo",
+        "zh": "企业的",
+        "ko": "기업의",
+        "ja": "企業の"
+      }
+    },
+    {
+      "index": 31,
+      "word": "contributions",
+      "start": 212,
+      "end": 225,
+      "protected": false,
+      "candidates": {
+        "fr": "contributions",
+        "es": "contribuciones",
+        "zh": "捐助",
+        "ko": "기여금",
+        "ja": "拠出"
+      }
+    },
+    {
+      "index": 32,
+      "word": "with",
+      "start": 226,
+      "end": 230,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 33,
+      "word": "carbon-offset",
+      "start": 231,
+      "end": 244,
+      "protected": false,
+      "candidates": {
+        "fr": "compensation carbone",
+        "es": "compensación de carbono",
+        "zh": "碳抵消",
+        "ko": "탄소 상쇄",
+        "ja": "カーボンオフセット"
+      }
+    },
+    {
+      "index": 34,
+      "word": "projects",
+      "start": 245,
+      "end": 253,
+      "protected": false,
+      "candidates": {
+        "fr": "projet",
+        "es": "proyecto",
+        "zh": "项目",
+        "ko": "프로젝트",
+        "ja": "プロジェクト"
+      }
+    },
+    {
+      "index": 35,
+      "word": "and",
+      "start": 254,
+      "end": 257,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 36,
+      "word": "supports",
+      "start": 258,
+      "end": 266,
+      "protected": false,
+      "candidates": {
+        "fr": "soutient",
+        "es": "apoya",
+        "zh": "支持",
+        "ko": "지원한다",
+        "ja": "支援する"
+      }
+    },
+    {
+      "index": 37,
+      "word": "ESG",
+      "start": 267,
+      "end": 270,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 271,
+      "end": 274,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 39,
+      "word": "CSR",
+      "start": 275,
+      "end": 278,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "processes",
+      "start": 279,
+      "end": 288,
+      "protected": false,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 41,
+      "word": "Farmers",
+      "start": 290,
+      "end": 297,
+      "protected": false,
+      "candidates": {
+        "fr": "agriculteurs",
+        "es": "agricultores",
+        "zh": "农民",
+        "ko": "농민들",
+        "ja": "農家"
+      }
+    },
+    {
+      "index": 42,
+      "word": "receive",
+      "start": 298,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "recevoir",
+        "es": "recibir",
+        "zh": "接收",
+        "ko": "받다",
+        "ja": "受け取る"
+      }
+    },
+    {
+      "index": 43,
+      "word": "training",
+      "start": 306,
+      "end": 314,
+      "protected": false,
+      "candidates": {
+        "fr": "formation",
+        "es": "formación",
+        "zh": "培训",
+        "ko": "교육",
+        "ja": "研修"
+      }
+    },
+    {
+      "index": 44,
+      "word": "and",
+      "start": 315,
+      "end": 318,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 45,
+      "word": "guidance",
+      "start": 319,
+      "end": 327,
+      "protected": false,
+      "candidates": {
+        "fr": "conseils",
+        "es": "orientación",
+        "zh": "指导",
+        "ko": "지도",
+        "ja": "指導"
+      }
+    },
+    {
+      "index": 46,
+      "word": "with",
+      "start": 329,
+      "end": 333,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 47,
+      "word": "potential",
+      "start": 334,
+      "end": 343,
+      "protected": false,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "潜在的な"
+      }
+    },
+    {
+      "index": 48,
+      "word": "revenue",
+      "start": 344,
+      "end": 351,
+      "protected": false,
+      "candidates": {
+        "fr": "chiffre d’affaires",
+        "es": "ingresos",
+        "zh": "营收",
+        "ko": "매출",
+        "ja": "売上"
+      }
+    },
+    {
+      "index": 49,
+      "word": "from",
+      "start": 352,
+      "end": 356,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 50,
+      "word": "sequestered",
+      "start": 357,
+      "end": 368,
+      "protected": false,
+      "candidates": {
+        "fr": "séquestré",
+        "es": "secuestrado",
+        "zh": "封存的",
+        "ko": "격리된",
+        "ja": "固定された"
+      }
+    },
+    {
+      "index": 51,
+      "word": "carbon",
+      "start": 369,
+      "end": 375,
+      "protected": false,
+      "candidates": {
+        "fr": "carbone",
+        "es": "carbono",
+        "zh": "碳",
+        "ko": "탄소",
+        "ja": "炭素"
+      }
+    },
+    {
+      "index": 52,
+      "word": "credits",
+      "start": 376,
+      "end": 383,
+      "protected": false,
+      "candidates": {
+        "fr": "crédits",
+        "es": "créditos",
+        "zh": "信用额度",
+        "ko": "크레딧",
+        "ja": "クレジット"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "prompt_id": "PUPA35-11",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "15",
+      "start": 49,
+      "end": 51,
+      "category": "fixed_value"
+    },
+    {
+      "text": "V Transcriptions LLC",
+      "start": 151,
+      "end": 171,
+      "category": "entity"
+    },
+    {
+      "text": "Chennai",
+      "start": 175,
+      "end": 182,
+      "category": "entity"
+    },
+    {
+      "text": "November 2020",
+      "start": 184,
+      "end": 197,
+      "category": "fixed_value"
+    },
+    {
+      "text": "September 2023",
+      "start": 198,
+      "end": 212,
+      "category": "fixed_value"
+    },
+    {
+      "text": "S10 Healthcare Solutions Ltd",
+      "start": 218,
+      "end": 246,
+      "category": "entity"
+    },
+    {
+      "text": "Chennai",
+      "start": 250,
+      "end": 257,
+      "category": "entity"
+    },
+    {
+      "text": "June 2012",
+      "start": 259,
+      "end": 268,
+      "category": "fixed_value"
+    },
+    {
+      "text": "October 2020",
+      "start": 269,
+      "end": 281,
+      "category": "fixed_value"
+    },
+    {
+      "text": "C-Bay Systems India Private Limited",
+      "start": 308,
+      "end": 343,
+      "category": "entity"
+    },
+    {
+      "text": "Mohamed Sathak Polytechnic College",
+      "start": 405,
+      "end": 439,
+      "category": "entity"
+    },
+    {
+      "text": "September 1999",
+      "start": 443,
+      "end": 457,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "15",
+    "V Transcriptions LLC",
+    "Chennai",
+    "November 2020",
+    "September 2023",
+    "S10 Healthcare Solutions Ltd",
+    "June 2012",
+    "October 2020",
+    "C-Bay Systems India Private Limited",
+    "Mohamed Sathak Polytechnic College",
+    "September 1999"
+  ]
+}

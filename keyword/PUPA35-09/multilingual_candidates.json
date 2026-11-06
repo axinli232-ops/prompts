@@ -1,0 +1,679 @@
+{
+  "prompt_id": "PUPA35-09",
+  "system_prompt": "This is my past personal experience:\nI prefer to be called Kendrick. My background describes five years in customer service, sales and process improvement, with roles at Hinduja Global Solutions, Alliance Global and Outdoorsy. Tools include Salesforce and Zendesk. The text reports an 80% satisfaction rating and interests in football and family activities.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "I",
+      "start": 37,
+      "end": 38,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 7,
+      "word": "prefer",
+      "start": 39,
+      "end": 45,
+      "protected": false,
+      "candidates": {
+        "fr": "préfère",
+        "es": "prefiero",
+        "zh": "偏好",
+        "ko": "선호한다",
+        "ja": "好む"
+      }
+    },
+    {
+      "index": 8,
+      "word": "to",
+      "start": 46,
+      "end": 48,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "a",
+        "zh": "向",
+        "ko": "에게",
+        "ja": "へ"
+      }
+    },
+    {
+      "index": 9,
+      "word": "be",
+      "start": 49,
+      "end": 51,
+      "protected": false,
+      "candidates": {
+        "fr": "être",
+        "es": "ser",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 10,
+      "word": "called",
+      "start": 52,
+      "end": 58,
+      "protected": false,
+      "candidates": {
+        "fr": "appelé",
+        "es": "llamado",
+        "zh": "称为",
+        "ko": "불리는",
+        "ja": "と呼ばれる"
+      }
+    },
+    {
+      "index": 11,
+      "word": "Kendrick",
+      "start": 59,
+      "end": 67,
+      "protected": true
+    },
+    {
+      "index": 12,
+      "word": "My",
+      "start": 69,
+      "end": 71,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 13,
+      "word": "background",
+      "start": 72,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "contexte",
+        "es": "contexto",
+        "zh": "背景",
+        "ko": "배경",
+        "ja": "背景"
+      }
+    },
+    {
+      "index": 14,
+      "word": "describes",
+      "start": 83,
+      "end": 92,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 15,
+      "word": "five",
+      "start": 93,
+      "end": 97,
+      "protected": false,
+      "candidates": {
+        "fr": "cinq",
+        "es": "cinco",
+        "zh": "五",
+        "ko": "다섯",
+        "ja": "五"
+      }
+    },
+    {
+      "index": 16,
+      "word": "years",
+      "start": 98,
+      "end": 103,
+      "protected": false,
+      "candidates": {
+        "fr": "ans",
+        "es": "años",
+        "zh": "年",
+        "ko": "년",
+        "ja": "年"
+      }
+    },
+    {
+      "index": 17,
+      "word": "in",
+      "start": 104,
+      "end": 106,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 18,
+      "word": "customer",
+      "start": 107,
+      "end": 115,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 19,
+      "word": "service",
+      "start": 116,
+      "end": 123,
+      "protected": false,
+      "candidates": {
+        "fr": "service",
+        "es": "servicio",
+        "zh": "服务",
+        "ko": "서비스",
+        "ja": "サービス"
+      }
+    },
+    {
+      "index": 20,
+      "word": "sales",
+      "start": 125,
+      "end": 130,
+      "protected": false,
+      "candidates": {
+        "fr": "ventes",
+        "es": "ventas",
+        "zh": "销售",
+        "ko": "판매",
+        "ja": "販売"
+      }
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 131,
+      "end": 134,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 22,
+      "word": "process",
+      "start": 135,
+      "end": 142,
+      "protected": false,
+      "candidates": {
+        "fr": "processus",
+        "es": "proceso",
+        "zh": "过程",
+        "ko": "과정",
+        "ja": "過程"
+      }
+    },
+    {
+      "index": 23,
+      "word": "improvement",
+      "start": 143,
+      "end": 154,
+      "protected": false,
+      "candidates": {
+        "fr": "amélioration",
+        "es": "mejora",
+        "zh": "改进",
+        "ko": "개선",
+        "ja": "改善"
+      }
+    },
+    {
+      "index": 24,
+      "word": "with",
+      "start": 156,
+      "end": 160,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 25,
+      "word": "roles",
+      "start": 161,
+      "end": 166,
+      "protected": false,
+      "candidates": {
+        "fr": "rôles",
+        "es": "funciones",
+        "zh": "职位",
+        "ko": "역할들",
+        "ja": "役職"
+      }
+    },
+    {
+      "index": 26,
+      "word": "at",
+      "start": 167,
+      "end": 169,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 27,
+      "word": "Hinduja",
+      "start": 170,
+      "end": 177,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "Global",
+      "start": 178,
+      "end": 184,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "Solutions",
+      "start": 185,
+      "end": 194,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "Alliance",
+      "start": 196,
+      "end": 204,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "Global",
+      "start": 205,
+      "end": 211,
+      "protected": true
+    },
+    {
+      "index": 32,
+      "word": "and",
+      "start": 212,
+      "end": 215,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 33,
+      "word": "Outdoorsy",
+      "start": 216,
+      "end": 225,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Tools",
+      "start": 227,
+      "end": 232,
+      "protected": false,
+      "candidates": {
+        "fr": "outil",
+        "es": "herramienta",
+        "zh": "工具",
+        "ko": "도구",
+        "ja": "ツール"
+      }
+    },
+    {
+      "index": 35,
+      "word": "include",
+      "start": 233,
+      "end": 240,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 36,
+      "word": "Salesforce",
+      "start": 241,
+      "end": 251,
+      "protected": true
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 252,
+      "end": 255,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 38,
+      "word": "Zendesk",
+      "start": 256,
+      "end": 263,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "The",
+      "start": 265,
+      "end": 268,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "text",
+      "start": 269,
+      "end": 273,
+      "protected": false,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 41,
+      "word": "reports",
+      "start": 274,
+      "end": 281,
+      "protected": false,
+      "candidates": {
+        "fr": "rapport",
+        "es": "informe",
+        "zh": "报告",
+        "ko": "보고서",
+        "ja": "報告書"
+      }
+    },
+    {
+      "index": 42,
+      "word": "an",
+      "start": 282,
+      "end": 284,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 43,
+      "word": "satisfaction",
+      "start": 289,
+      "end": 301,
+      "protected": false,
+      "candidates": {
+        "fr": "satisfaction",
+        "es": "satisfacción",
+        "zh": "满意",
+        "ko": "만족",
+        "ja": "満足"
+      }
+    },
+    {
+      "index": 44,
+      "word": "rating",
+      "start": 302,
+      "end": 308,
+      "protected": false,
+      "candidates": {
+        "fr": "évaluation",
+        "es": "calificación",
+        "zh": "评分",
+        "ko": "평가",
+        "ja": "評価"
+      }
+    },
+    {
+      "index": 45,
+      "word": "and",
+      "start": 309,
+      "end": 312,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 46,
+      "word": "interests",
+      "start": 313,
+      "end": 322,
+      "protected": false,
+      "candidates": {
+        "fr": "intérêts",
+        "es": "intereses",
+        "zh": "兴趣",
+        "ko": "관심사",
+        "ja": "関心"
+      }
+    },
+    {
+      "index": 47,
+      "word": "in",
+      "start": 323,
+      "end": 325,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 48,
+      "word": "football",
+      "start": 326,
+      "end": 334,
+      "protected": false,
+      "candidates": {
+        "fr": "football",
+        "es": "fútbol",
+        "zh": "足球",
+        "ko": "축구",
+        "ja": "サッカー"
+      }
+    },
+    {
+      "index": 49,
+      "word": "and",
+      "start": 335,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 50,
+      "word": "family",
+      "start": 339,
+      "end": 345,
+      "protected": false,
+      "candidates": {
+        "fr": "famille",
+        "es": "familia",
+        "zh": "家庭",
+        "ko": "가족",
+        "ja": "家族"
+      }
+    },
+    {
+      "index": 51,
+      "word": "activities",
+      "start": 346,
+      "end": 356,
+      "protected": false,
+      "candidates": {
+        "fr": "activités",
+        "es": "actividades",
+        "zh": "活动",
+        "ko": "활동",
+        "ja": "活動"
+      }
+    }
+  ]
+}

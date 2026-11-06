@@ -1,0 +1,50 @@
+{
+  "prompt_id": "PUPA35-29",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "City of Arlington",
+      "start": 41,
+      "end": 58,
+      "category": "entity"
+    },
+    {
+      "text": "Office of Business Diversity",
+      "start": 61,
+      "end": 89,
+      "category": "entity"
+    },
+    {
+      "text": "Mrs. Dipert",
+      "start": 106,
+      "end": 117,
+      "category": "entity"
+    },
+    {
+      "text": "Fall MWBE Bond Tour",
+      "start": 126,
+      "end": 145,
+      "category": "entity"
+    },
+    {
+      "text": "Troy Williams",
+      "start": 182,
+      "end": 195,
+      "category": "entity"
+    },
+    {
+      "text": "Arlington",
+      "start": 287,
+      "end": 296,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "City of Arlington",
+    "Office of Business Diversity",
+    "Mrs. Dipert",
+    "Fall MWBE Bond Tour",
+    "Troy Williams",
+    "Arlington"
+  ]
+}

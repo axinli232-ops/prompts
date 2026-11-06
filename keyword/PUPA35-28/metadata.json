@@ -1,0 +1,38 @@
+{
+  "id": "PUPA35-28",
+  "title_zh": "财务数据收集邮件关系",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 277,
+  "conversation_hash": "86b3272c16b2b7e10712e3004c4a3e8d",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "B",
+  "limitations_zh": "信息量中等；不能编造15个job family名单和实际财务数值。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who sends the data request",
+    "who is asked to collect the figures",
+    "who requested the analysis",
+    "the financial period involved",
+    "the requested revenue measure",
+    "the requested margin measure",
+    "the grouping requested for the figures",
+    "the access resource mentioned",
+    "the acceptable use of rough assumptions",
+    "the referenced material that is not provided"
+  ],
+  "protected_terms": [
+    "Calvin",
+    "Andy",
+    "Jaime",
+    "FY22",
+    "Erin",
+    "Beckey",
+    "Factbook"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

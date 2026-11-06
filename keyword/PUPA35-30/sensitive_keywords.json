@@ -1,0 +1,71 @@
+{
+  "prompt_id": "PUPA35-30",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "November 30, 2023",
+      "start": 99,
+      "end": 116,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Longport Police Department",
+      "start": 127,
+      "end": 153,
+      "category": "entity"
+    },
+    {
+      "text": "Philadelphia Flyers",
+      "start": 158,
+      "end": 177,
+      "category": "entity"
+    },
+    {
+      "text": "Atlantic County Police & Fire",
+      "start": 179,
+      "end": 208,
+      "category": "entity"
+    },
+    {
+      "text": "Philadelphia Police Department",
+      "start": 216,
+      "end": 246,
+      "category": "entity"
+    },
+    {
+      "text": "Atlantic County",
+      "start": 257,
+      "end": 272,
+      "category": "entity"
+    },
+    {
+      "text": "Alec Morelli",
+      "start": 285,
+      "end": 297,
+      "category": "entity"
+    },
+    {
+      "text": "6–3",
+      "start": 306,
+      "end": 309,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Children’s Hospital of Philadelphia",
+      "start": 344,
+      "end": 379,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "November 30, 2023",
+    "Longport Police Department",
+    "Philadelphia Flyers",
+    "Atlantic County Police & Fire",
+    "Philadelphia Police Department",
+    "Atlantic County",
+    "Alec Morelli",
+    "6–3",
+    "Children’s Hospital of Philadelphia"
+  ]
+}

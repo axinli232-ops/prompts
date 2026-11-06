@@ -1,0 +1,721 @@
+{
+  "prompt_id": "PUPA35-11",
+  "system_prompt": "This is my past personal experience:\nI have over 15 years of experience in medical transcription. My recent roles include Medical Scribe and Editor at V Transcriptions LLC in Chennai, November 2020–September 2023, and S10 Healthcare Solutions Ltd in Chennai, June 2012–October 2020. My earlier work includes C-Bay Systems India Private Limited. My education includes a mechanical-engineering diploma from Mohamed Sathak Polytechnic College in September 1999.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "I",
+      "start": 37,
+      "end": 38,
+      "protected": false,
+      "candidates": {
+        "fr": "je",
+        "es": "yo",
+        "zh": "我",
+        "ko": "나",
+        "ja": "私"
+      }
+    },
+    {
+      "index": 7,
+      "word": "have",
+      "start": 39,
+      "end": 43,
+      "protected": false,
+      "candidates": {
+        "fr": "avoir",
+        "es": "tener",
+        "zh": "有",
+        "ko": "가지다",
+        "ja": "持つ"
+      }
+    },
+    {
+      "index": 8,
+      "word": "over",
+      "start": 44,
+      "end": 48,
+      "protected": false,
+      "candidates": {
+        "fr": "au-dessus de",
+        "es": "sobre",
+        "zh": "超过",
+        "ko": "넘어",
+        "ja": "を超えて"
+      }
+    },
+    {
+      "index": 9,
+      "word": "years",
+      "start": 52,
+      "end": 57,
+      "protected": false,
+      "candidates": {
+        "fr": "ans",
+        "es": "años",
+        "zh": "年",
+        "ko": "년",
+        "ja": "年"
+      }
+    },
+    {
+      "index": 10,
+      "word": "of",
+      "start": 58,
+      "end": 60,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "的",
+        "ko": "의",
+        "ja": "の"
+      }
+    },
+    {
+      "index": 11,
+      "word": "experience",
+      "start": 61,
+      "end": 71,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 12,
+      "word": "in",
+      "start": 72,
+      "end": 74,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 13,
+      "word": "medical",
+      "start": 75,
+      "end": 82,
+      "protected": false,
+      "candidates": {
+        "fr": "médical",
+        "es": "médico",
+        "zh": "医疗的",
+        "ko": "의료의",
+        "ja": "医療の"
+      }
+    },
+    {
+      "index": 14,
+      "word": "transcription",
+      "start": 83,
+      "end": 96,
+      "protected": false,
+      "candidates": {
+        "fr": "transcription",
+        "es": "transcripción",
+        "zh": "转录",
+        "ko": "전사",
+        "ja": "文字起こし"
+      }
+    },
+    {
+      "index": 15,
+      "word": "My",
+      "start": 98,
+      "end": 100,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 16,
+      "word": "recent",
+      "start": 101,
+      "end": 107,
+      "protected": false,
+      "candidates": {
+        "fr": "récent",
+        "es": "reciente",
+        "zh": "最近的",
+        "ko": "최근의",
+        "ja": "最近の"
+      }
+    },
+    {
+      "index": 17,
+      "word": "roles",
+      "start": 108,
+      "end": 113,
+      "protected": false,
+      "candidates": {
+        "fr": "rôles",
+        "es": "funciones",
+        "zh": "职位",
+        "ko": "역할들",
+        "ja": "役職"
+      }
+    },
+    {
+      "index": 18,
+      "word": "include",
+      "start": 114,
+      "end": 121,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 19,
+      "word": "Medical",
+      "start": 122,
+      "end": 129,
+      "protected": false,
+      "candidates": {
+        "fr": "médical",
+        "es": "médico",
+        "zh": "医疗的",
+        "ko": "의료의",
+        "ja": "医療の"
+      }
+    },
+    {
+      "index": 20,
+      "word": "Scribe",
+      "start": 130,
+      "end": 136,
+      "protected": false,
+      "candidates": {
+        "fr": "scribe",
+        "es": "escribiente",
+        "zh": "记录员",
+        "ko": "기록원",
+        "ja": "記録係"
+      }
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 137,
+      "end": 140,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 22,
+      "word": "Editor",
+      "start": 141,
+      "end": 147,
+      "protected": false,
+      "candidates": {
+        "fr": "éditeur",
+        "es": "editor",
+        "zh": "编辑",
+        "ko": "편집자",
+        "ja": "編集者"
+      }
+    },
+    {
+      "index": 23,
+      "word": "at",
+      "start": 148,
+      "end": 150,
+      "protected": false,
+      "candidates": {
+        "fr": "à",
+        "es": "en",
+        "zh": "在",
+        "ko": "에서",
+        "ja": "で"
+      }
+    },
+    {
+      "index": 24,
+      "word": "V",
+      "start": 151,
+      "end": 152,
+      "protected": true
+    },
+    {
+      "index": 25,
+      "word": "Transcriptions",
+      "start": 153,
+      "end": 167,
+      "protected": true
+    },
+    {
+      "index": 26,
+      "word": "LLC",
+      "start": 168,
+      "end": 171,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "in",
+      "start": 172,
+      "end": 174,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 28,
+      "word": "Chennai",
+      "start": 175,
+      "end": 182,
+      "protected": true
+    },
+    {
+      "index": 29,
+      "word": "November",
+      "start": 184,
+      "end": 192,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "September",
+      "start": 198,
+      "end": 207,
+      "protected": true
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 214,
+      "end": 217,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 32,
+      "word": "S",
+      "start": 218,
+      "end": 219,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "Healthcare",
+      "start": 222,
+      "end": 232,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "Solutions",
+      "start": 233,
+      "end": 242,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Ltd",
+      "start": 243,
+      "end": 246,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "in",
+      "start": 247,
+      "end": 249,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 37,
+      "word": "Chennai",
+      "start": 250,
+      "end": 257,
+      "protected": true
+    },
+    {
+      "index": 38,
+      "word": "June",
+      "start": 259,
+      "end": 263,
+      "protected": true
+    },
+    {
+      "index": 39,
+      "word": "October",
+      "start": 269,
+      "end": 276,
+      "protected": true
+    },
+    {
+      "index": 40,
+      "word": "My",
+      "start": 283,
+      "end": 285,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 41,
+      "word": "earlier",
+      "start": 286,
+      "end": 293,
+      "protected": false,
+      "candidates": {
+        "fr": "antérieur",
+        "es": "anterior",
+        "zh": "早先的",
+        "ko": "이전의",
+        "ja": "以前の"
+      }
+    },
+    {
+      "index": 42,
+      "word": "work",
+      "start": 294,
+      "end": 298,
+      "protected": false,
+      "candidates": {
+        "fr": "travail",
+        "es": "trabajo",
+        "zh": "工作",
+        "ko": "작업",
+        "ja": "作業"
+      }
+    },
+    {
+      "index": 43,
+      "word": "includes",
+      "start": 299,
+      "end": 307,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 44,
+      "word": "C-Bay",
+      "start": 308,
+      "end": 313,
+      "protected": true
+    },
+    {
+      "index": 45,
+      "word": "Systems",
+      "start": 314,
+      "end": 321,
+      "protected": true
+    },
+    {
+      "index": 46,
+      "word": "India",
+      "start": 322,
+      "end": 327,
+      "protected": true
+    },
+    {
+      "index": 47,
+      "word": "Private",
+      "start": 328,
+      "end": 335,
+      "protected": true
+    },
+    {
+      "index": 48,
+      "word": "Limited",
+      "start": 336,
+      "end": 343,
+      "protected": true
+    },
+    {
+      "index": 49,
+      "word": "My",
+      "start": 345,
+      "end": 347,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 50,
+      "word": "education",
+      "start": 348,
+      "end": 357,
+      "protected": false,
+      "candidates": {
+        "fr": "éducation",
+        "es": "educación",
+        "zh": "教育",
+        "ko": "교육",
+        "ja": "教育"
+      }
+    },
+    {
+      "index": 51,
+      "word": "includes",
+      "start": 358,
+      "end": 366,
+      "protected": false,
+      "candidates": {
+        "fr": "inclure",
+        "es": "incluir",
+        "zh": "包括",
+        "ko": "포함하다",
+        "ja": "含める"
+      }
+    },
+    {
+      "index": 52,
+      "word": "a",
+      "start": 367,
+      "end": 368,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 53,
+      "word": "mechanical-engineering",
+      "start": 369,
+      "end": 391,
+      "protected": false,
+      "candidates": {
+        "fr": "génie mécanique",
+        "es": "ingeniería mecánica",
+        "zh": "机械工程",
+        "ko": "기계공학",
+        "ja": "機械工学"
+      }
+    },
+    {
+      "index": 54,
+      "word": "diploma",
+      "start": 392,
+      "end": 399,
+      "protected": false,
+      "candidates": {
+        "fr": "diplôme",
+        "es": "diploma",
+        "zh": "文凭",
+        "ko": "졸업장",
+        "ja": "卒業証書"
+      }
+    },
+    {
+      "index": 55,
+      "word": "from",
+      "start": 400,
+      "end": 404,
+      "protected": false,
+      "candidates": {
+        "fr": "de",
+        "es": "de",
+        "zh": "从",
+        "ko": "부터",
+        "ja": "から"
+      }
+    },
+    {
+      "index": 56,
+      "word": "Mohamed",
+      "start": 405,
+      "end": 412,
+      "protected": true
+    },
+    {
+      "index": 57,
+      "word": "Sathak",
+      "start": 413,
+      "end": 419,
+      "protected": true
+    },
+    {
+      "index": 58,
+      "word": "Polytechnic",
+      "start": 420,
+      "end": 431,
+      "protected": true
+    },
+    {
+      "index": 59,
+      "word": "College",
+      "start": 432,
+      "end": 439,
+      "protected": true
+    },
+    {
+      "index": 60,
+      "word": "in",
+      "start": 440,
+      "end": 442,
+      "protected": false,
+      "candidates": {
+        "fr": "dans",
+        "es": "en",
+        "zh": "在",
+        "ko": "안에",
+        "ja": "に"
+      }
+    },
+    {
+      "index": 61,
+      "word": "September",
+      "start": 443,
+      "end": 452,
+      "protected": true
+    }
+  ]
+}

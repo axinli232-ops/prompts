@@ -1,0 +1,78 @@
+{
+  "prompt_id": "PUPA35-01",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Saudi Arabia",
+      "start": 47,
+      "end": 59,
+      "category": "entity"
+    },
+    {
+      "text": "Napco National Company",
+      "start": 84,
+      "end": 106,
+      "category": "entity"
+    },
+    {
+      "text": "June 2022",
+      "start": 158,
+      "end": 167,
+      "category": "fixed_value"
+    },
+    {
+      "text": "HR",
+      "start": 212,
+      "end": 214,
+      "category": "entity"
+    },
+    {
+      "text": "Aljoumaih automotive Company",
+      "start": 267,
+      "end": 295,
+      "category": "entity"
+    },
+    {
+      "text": "2022",
+      "start": 321,
+      "end": 325,
+      "category": "fixed_value"
+    },
+    {
+      "text": "MBA",
+      "start": 326,
+      "end": 329,
+      "category": "entity"
+    },
+    {
+      "text": "Saudi Electronic University-Dammam",
+      "start": 333,
+      "end": 367,
+      "category": "entity"
+    },
+    {
+      "text": "2015",
+      "start": 372,
+      "end": 376,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Arab Open university-Dammam",
+      "start": 397,
+      "end": 424,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Saudi Arabia",
+    "Napco National Company",
+    "June 2022",
+    "HR",
+    "Aljoumaih automotive Company",
+    "2022",
+    "MBA",
+    "Saudi Electronic University-Dammam",
+    "2015",
+    "Arab Open university-Dammam"
+  ]
+}

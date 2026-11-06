@@ -1,0 +1,64 @@
+{
+  "prompt_id": "PUPA35-22",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Tunisair Express",
+      "start": 37,
+      "end": 53,
+      "category": "entity"
+    },
+    {
+      "text": "MRO",
+      "start": 72,
+      "end": 75,
+      "category": "entity"
+    },
+    {
+      "text": "ATR72-600",
+      "start": 83,
+      "end": 92,
+      "category": "entity"
+    },
+    {
+      "text": "RFQ",
+      "start": 120,
+      "end": 123,
+      "category": "entity"
+    },
+    {
+      "text": "DO NOT OPEN, A/C ATR72-600 Consultation",
+      "start": 239,
+      "end": 278,
+      "category": "entity"
+    },
+    {
+      "text": "12",
+      "start": 308,
+      "end": 310,
+      "category": "fixed_value"
+    },
+    {
+      "text": "October 2023",
+      "start": 311,
+      "end": 323,
+      "category": "fixed_value"
+    },
+    {
+      "text": "120",
+      "start": 327,
+      "end": 330,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Tunisair Express",
+    "MRO",
+    "ATR72-600",
+    "RFQ",
+    "DO NOT OPEN, A/C ATR72-600 Consultation",
+    "12",
+    "October 2023",
+    "120"
+  ]
+}

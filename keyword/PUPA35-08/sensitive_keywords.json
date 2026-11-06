@@ -1,0 +1,56 @@
+{
+  "prompt_id": "PUPA35-08",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Anna Remizova",
+      "start": 55,
+      "end": 68,
+      "category": "entity"
+    },
+    {
+      "text": "Science in Industrial and Applied Mathematics",
+      "start": 77,
+      "end": 122,
+      "category": "entity"
+    },
+    {
+      "text": "Université Grenoble Alpes",
+      "start": 143,
+      "end": 168,
+      "category": "entity"
+    },
+    {
+      "text": "Machine Learning",
+      "start": 188,
+      "end": 204,
+      "category": "entity"
+    },
+    {
+      "text": "Moscow Institute of Physics and Technology",
+      "start": 212,
+      "end": 254,
+      "category": "entity"
+    },
+    {
+      "text": "2023",
+      "start": 265,
+      "end": 269,
+      "category": "fixed_value"
+    },
+    {
+      "text": "2023",
+      "start": 313,
+      "end": 317,
+      "category": "fixed_value"
+    }
+  ],
+  "unique_protected_terms": [
+    "Anna Remizova",
+    "Science in Industrial and Applied Mathematics",
+    "Université Grenoble Alpes",
+    "Machine Learning",
+    "Moscow Institute of Physics and Technology",
+    "2023"
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "prompt_id": "PUPA35-17",
+  "system_prompt": "This is my past personal experience:\nThe supplied CommBank technology newsletter targets prospective technology candidates. It describes a Microsoft generative-AI and cybersecurity partnership; NameCheck pilots involving Bendigo Bank and Satori; and an AWS CloudUp for Her program with 1,200 registrations. The text distinguishes customer, safety, skills, employee and engineering initiatives.",
+  "languages": [
+    "fr",
+    "es",
+    "zh",
+    "ko",
+    "ja"
+  ],
+  "offset_unit": "Unicode code points; end exclusive",
+  "words": [
+    {
+      "index": 0,
+      "word": "This",
+      "start": 0,
+      "end": 4,
+      "protected": false,
+      "candidates": {
+        "fr": "ce",
+        "es": "este",
+        "zh": "这个",
+        "ko": "이것",
+        "ja": "この"
+      }
+    },
+    {
+      "index": 1,
+      "word": "is",
+      "start": 5,
+      "end": 7,
+      "protected": false,
+      "candidates": {
+        "fr": "est",
+        "es": "es",
+        "zh": "是",
+        "ko": "이다",
+        "ja": "である"
+      }
+    },
+    {
+      "index": 2,
+      "word": "my",
+      "start": 8,
+      "end": 10,
+      "protected": false,
+      "candidates": {
+        "fr": "mon",
+        "es": "mi",
+        "zh": "我的",
+        "ko": "나의",
+        "ja": "私の"
+      }
+    },
+    {
+      "index": 3,
+      "word": "past",
+      "start": 11,
+      "end": 15,
+      "protected": false,
+      "candidates": {
+        "fr": "passé",
+        "es": "pasado",
+        "zh": "过去",
+        "ko": "과거",
+        "ja": "過去"
+      }
+    },
+    {
+      "index": 4,
+      "word": "personal",
+      "start": 16,
+      "end": 24,
+      "protected": false,
+      "candidates": {
+        "fr": "personnel",
+        "es": "personal",
+        "zh": "个人的",
+        "ko": "개인의",
+        "ja": "個人の"
+      }
+    },
+    {
+      "index": 5,
+      "word": "experience",
+      "start": 25,
+      "end": 35,
+      "protected": false,
+      "candidates": {
+        "fr": "expérience",
+        "es": "experiencia",
+        "zh": "经验",
+        "ko": "경험",
+        "ja": "経験"
+      }
+    },
+    {
+      "index": 6,
+      "word": "The",
+      "start": 37,
+      "end": 40,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 7,
+      "word": "supplied",
+      "start": 41,
+      "end": 49,
+      "protected": false,
+      "candidates": {
+        "fr": "fourni",
+        "es": "proporcionado",
+        "zh": "提供的",
+        "ko": "제공된",
+        "ja": "提供された"
+      }
+    },
+    {
+      "index": 8,
+      "word": "CommBank",
+      "start": 50,
+      "end": 58,
+      "protected": true
+    },
+    {
+      "index": 9,
+      "word": "technology",
+      "start": 59,
+      "end": 69,
+      "protected": false,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 10,
+      "word": "newsletter",
+      "start": 70,
+      "end": 80,
+      "protected": false,
+      "candidates": {
+        "fr": "lettre d'information",
+        "es": "boletín",
+        "zh": "通讯",
+        "ko": "소식지",
+        "ja": "ニュースレター"
+      }
+    },
+    {
+      "index": 11,
+      "word": "targets",
+      "start": 81,
+      "end": 88,
+      "protected": false,
+      "candidates": {
+        "fr": "cible",
+        "es": "objetivo",
+        "zh": "目标",
+        "ko": "대상",
+        "ja": "対象"
+      }
+    },
+    {
+      "index": 12,
+      "word": "prospective",
+      "start": 89,
+      "end": 100,
+      "protected": false,
+      "candidates": {
+        "fr": "potentiel",
+        "es": "potencial",
+        "zh": "潜在的",
+        "ko": "잠재적인",
+        "ja": "見込みの"
+      }
+    },
+    {
+      "index": 13,
+      "word": "technology",
+      "start": 101,
+      "end": 111,
+      "protected": false,
+      "candidates": {
+        "fr": "technologie",
+        "es": "tecnología",
+        "zh": "技术",
+        "ko": "기술",
+        "ja": "技術"
+      }
+    },
+    {
+      "index": 14,
+      "word": "candidates",
+      "start": 112,
+      "end": 122,
+      "protected": false,
+      "candidates": {
+        "fr": "candidats",
+        "es": "candidatos",
+        "zh": "候选人",
+        "ko": "후보자들",
+        "ja": "候補者"
+      }
+    },
+    {
+      "index": 15,
+      "word": "It",
+      "start": 124,
+      "end": 126,
+      "protected": false,
+      "candidates": {
+        "fr": "il",
+        "es": "ello",
+        "zh": "它",
+        "ko": "그것",
+        "ja": "それ"
+      }
+    },
+    {
+      "index": 16,
+      "word": "describes",
+      "start": 127,
+      "end": 136,
+      "protected": false,
+      "candidates": {
+        "fr": "décrit",
+        "es": "describe",
+        "zh": "描述",
+        "ko": "설명한다",
+        "ja": "記述する"
+      }
+    },
+    {
+      "index": 17,
+      "word": "a",
+      "start": 137,
+      "end": 138,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 18,
+      "word": "Microsoft",
+      "start": 139,
+      "end": 148,
+      "protected": true
+    },
+    {
+      "index": 19,
+      "word": "generative-AI",
+      "start": 149,
+      "end": 162,
+      "protected": false,
+      "candidates": {
+        "fr": "IA générative",
+        "es": "IA generativa",
+        "zh": "生成式人工智能",
+        "ko": "생성형 인공지능",
+        "ja": "生成AI"
+      }
+    },
+    {
+      "index": 20,
+      "word": "and",
+      "start": 163,
+      "end": 166,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 21,
+      "word": "cybersecurity",
+      "start": 167,
+      "end": 180,
+      "protected": false,
+      "candidates": {
+        "fr": "cybersécurité",
+        "es": "ciberseguridad",
+        "zh": "网络安全",
+        "ko": "사이버 보안",
+        "ja": "サイバーセキュリティ"
+      }
+    },
+    {
+      "index": 22,
+      "word": "partnership",
+      "start": 181,
+      "end": 192,
+      "protected": false,
+      "candidates": {
+        "fr": "partenariat",
+        "es": "colaboración",
+        "zh": "合作关系",
+        "ko": "협력",
+        "ja": "提携"
+      }
+    },
+    {
+      "index": 23,
+      "word": "NameCheck",
+      "start": 194,
+      "end": 203,
+      "protected": true
+    },
+    {
+      "index": 24,
+      "word": "pilots",
+      "start": 204,
+      "end": 210,
+      "protected": false,
+      "candidates": {
+        "fr": "projets pilotes",
+        "es": "proyectos piloto",
+        "zh": "试点",
+        "ko": "시범 사업들",
+        "ja": "試験運用"
+      }
+    },
+    {
+      "index": 25,
+      "word": "involving",
+      "start": 211,
+      "end": 220,
+      "protected": false,
+      "candidates": {
+        "fr": "impliquer",
+        "es": "involucrar",
+        "zh": "涉及",
+        "ko": "포함하다",
+        "ja": "関わる"
+      }
+    },
+    {
+      "index": 26,
+      "word": "Bendigo",
+      "start": 221,
+      "end": 228,
+      "protected": true
+    },
+    {
+      "index": 27,
+      "word": "Bank",
+      "start": 229,
+      "end": 233,
+      "protected": true
+    },
+    {
+      "index": 28,
+      "word": "and",
+      "start": 234,
+      "end": 237,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 29,
+      "word": "Satori",
+      "start": 238,
+      "end": 244,
+      "protected": true
+    },
+    {
+      "index": 30,
+      "word": "and",
+      "start": 246,
+      "end": 249,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 31,
+      "word": "an",
+      "start": 250,
+      "end": 252,
+      "protected": false,
+      "candidates": {
+        "fr": "un",
+        "es": "un",
+        "zh": "一个",
+        "ko": "하나의",
+        "ja": "ある"
+      }
+    },
+    {
+      "index": 32,
+      "word": "AWS",
+      "start": 253,
+      "end": 256,
+      "protected": true
+    },
+    {
+      "index": 33,
+      "word": "CloudUp",
+      "start": 257,
+      "end": 264,
+      "protected": true
+    },
+    {
+      "index": 34,
+      "word": "for",
+      "start": 265,
+      "end": 268,
+      "protected": true
+    },
+    {
+      "index": 35,
+      "word": "Her",
+      "start": 269,
+      "end": 272,
+      "protected": true
+    },
+    {
+      "index": 36,
+      "word": "program",
+      "start": 273,
+      "end": 280,
+      "protected": false,
+      "candidates": {
+        "fr": "programme",
+        "es": "programa",
+        "zh": "程序",
+        "ko": "프로그램",
+        "ja": "プログラム"
+      }
+    },
+    {
+      "index": 37,
+      "word": "with",
+      "start": 281,
+      "end": 285,
+      "protected": false,
+      "candidates": {
+        "fr": "avec",
+        "es": "con",
+        "zh": "与",
+        "ko": "함께",
+        "ja": "と"
+      }
+    },
+    {
+      "index": 38,
+      "word": "registrations",
+      "start": 292,
+      "end": 305,
+      "protected": false,
+      "candidates": {
+        "fr": "inscriptions",
+        "es": "inscripciones",
+        "zh": "报名",
+        "ko": "등록",
+        "ja": "登録"
+      }
+    },
+    {
+      "index": 39,
+      "word": "The",
+      "start": 307,
+      "end": 310,
+      "protected": false,
+      "candidates": {
+        "fr": "le",
+        "es": "el",
+        "zh": "该",
+        "ko": "그",
+        "ja": "その"
+      }
+    },
+    {
+      "index": 40,
+      "word": "text",
+      "start": 311,
+      "end": 315,
+      "protected": false,
+      "candidates": {
+        "fr": "texte",
+        "es": "texto",
+        "zh": "文本",
+        "ko": "텍스트",
+        "ja": "テキスト"
+      }
+    },
+    {
+      "index": 41,
+      "word": "distinguishes",
+      "start": 316,
+      "end": 329,
+      "protected": false,
+      "candidates": {
+        "fr": "distingue",
+        "es": "distingue",
+        "zh": "区分",
+        "ko": "구분한다",
+        "ja": "区別する"
+      }
+    },
+    {
+      "index": 42,
+      "word": "customer",
+      "start": 330,
+      "end": 338,
+      "protected": false,
+      "candidates": {
+        "fr": "client",
+        "es": "cliente",
+        "zh": "客户",
+        "ko": "고객",
+        "ja": "顧客"
+      }
+    },
+    {
+      "index": 43,
+      "word": "safety",
+      "start": 340,
+      "end": 346,
+      "protected": false,
+      "candidates": {
+        "fr": "sécurité",
+        "es": "seguridad",
+        "zh": "安全",
+        "ko": "안전",
+        "ja": "安全"
+      }
+    },
+    {
+      "index": 44,
+      "word": "skills",
+      "start": 348,
+      "end": 354,
+      "protected": false,
+      "candidates": {
+        "fr": "compétences",
+        "es": "habilidades",
+        "zh": "技能",
+        "ko": "기술",
+        "ja": "技能"
+      }
+    },
+    {
+      "index": 45,
+      "word": "employee",
+      "start": 356,
+      "end": 364,
+      "protected": false,
+      "candidates": {
+        "fr": "employé",
+        "es": "empleado",
+        "zh": "员工",
+        "ko": "직원",
+        "ja": "従業員"
+      }
+    },
+    {
+      "index": 46,
+      "word": "and",
+      "start": 365,
+      "end": 368,
+      "protected": false,
+      "candidates": {
+        "fr": "et",
+        "es": "y",
+        "zh": "和",
+        "ko": "그리고",
+        "ja": "および"
+      }
+    },
+    {
+      "index": 47,
+      "word": "engineering",
+      "start": 369,
+      "end": 380,
+      "protected": false,
+      "candidates": {
+        "fr": "ingénierie",
+        "es": "ingeniería",
+        "zh": "工程",
+        "ko": "공학",
+        "ja": "工学"
+      }
+    },
+    {
+      "index": 48,
+      "word": "initiatives",
+      "start": 381,
+      "end": 392,
+      "protected": false,
+      "candidates": {
+        "fr": "initiatives",
+        "es": "iniciativas",
+        "zh": "举措",
+        "ko": "계획",
+        "ja": "取り組み"
+      }
+    }
+  ]
+}

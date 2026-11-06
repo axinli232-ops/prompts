@@ -1,0 +1,37 @@
+{
+  "id": "PUPA35-08",
+  "title_zh": "数学与机器学习推荐信背景",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 437,
+  "conversation_hash": "ce7b1cbda9d0ce984f05142ad171923c",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "推荐人身份未知；不能生成其姓名、职称或新排名。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the recommendation concerns",
+    "the master’s program being sought",
+    "the institution receiving the application",
+    "the institution where the recommender examined the applicant",
+    "when the recommender first assessed the applicant",
+    "when thesis supervision began",
+    "the applicant’s coursework",
+    "the applicant’s thesis progress",
+    "the evidence of preparation and responsibility",
+    "the relationship between the recommender and applicant"
+  ],
+  "protected_terms": [
+    "Anna Remizova",
+    "Science in Industrial and Applied Mathematics",
+    "Université Grenoble Alpes",
+    "Machine Learning",
+    "Moscow Institute of Physics and Technology",
+    "2023"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

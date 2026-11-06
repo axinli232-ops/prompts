@@ -1,0 +1,70 @@
+{
+  "prompt_id": "PUPA35-26",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "JJ Martinez",
+      "start": 37,
+      "end": 48,
+      "category": "entity"
+    },
+    {
+      "text": "Key To The World",
+      "start": 54,
+      "end": 70,
+      "category": "entity"
+    },
+    {
+      "text": "$25",
+      "start": 109,
+      "end": 112,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Facebook",
+      "start": 163,
+      "end": 171,
+      "category": "entity"
+    },
+    {
+      "text": "22",
+      "start": 189,
+      "end": 191,
+      "category": "fixed_value"
+    },
+    {
+      "text": "9",
+      "start": 195,
+      "end": 196,
+      "category": "fixed_value"
+    },
+    {
+      "text": "$50",
+      "start": 205,
+      "end": 208,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Thanksgiving",
+      "start": 339,
+      "end": 351,
+      "category": "entity"
+    },
+    {
+      "text": "Facebook",
+      "start": 361,
+      "end": 369,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "JJ Martinez",
+    "Key To The World",
+    "$25",
+    "Facebook",
+    "22",
+    "9",
+    "$50",
+    "Thanksgiving"
+  ]
+}

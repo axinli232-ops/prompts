@@ -1,0 +1,40 @@
+{
+  "id": "PUPA35-06",
+  "title_zh": "工程塑料业务客户与合作关系",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 236,
+  "conversation_hash": "c75ce67f992599ff3718c88e1bfbaf87",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "不得把正在开发的伙伴写成已签约客户。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my engineering-plastics application areas",
+    "the materials mentioned in my work",
+    "my current service customers",
+    "the organizations with which partnerships are being developed",
+    "my strategic-planning duties",
+    "my technical-team responsibilities",
+    "my product-development responsibilities",
+    "my customer-relationship responsibilities",
+    "my agent-channel responsibilities",
+    "the difference between established customers and prospective partners"
+  ],
+  "protected_terms": [
+    "PC",
+    "PCABS",
+    "PA12",
+    "CATL",
+    "CHN ENERGY",
+    "BYD",
+    "GOTION HIGH-TECH",
+    "Sunwoda Energy",
+    "Envision"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

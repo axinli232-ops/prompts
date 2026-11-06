@@ -1,0 +1,39 @@
+{
+  "id": "PUPA35-17",
+  "title_zh": "银行科技招聘通讯",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 325,
+  "conversation_hash": "10155fbf36fe13bb83cab4901317775e",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "以给定通讯快照为准；不能当作当前最新业务事实。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "who the newsletter is intended for",
+    "the organization issuing the newsletter",
+    "the generative-AI partnership",
+    "the cybersecurity aspects of the partnership",
+    "the customer-facing initiatives",
+    "the employee and engineering initiatives",
+    "the payment-checking technology",
+    "the organizations piloting that technology",
+    "the skills-development program",
+    "the reported registration count"
+  ],
+  "protected_terms": [
+    "CommBank",
+    "Microsoft",
+    "NameCheck",
+    "Bendigo Bank",
+    "Satori",
+    "AWS",
+    "CloudUp for Her",
+    "1,200"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

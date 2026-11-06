@@ -1,0 +1,40 @@
+{
+  "id": "PUPA35-02",
+  "title_zh": "牙医申请流行病学硕士",
+  "source_subset": "New",
+  "source_csv": "PUPA_New.csv",
+  "source_row_one_based_excluding_header": 90,
+  "conversation_hash": "398baa6b9fa18b5542913c801cb954d1",
+  "source_revision": "9981b49",
+  "source_url": "https://huggingface.co/datasets/Columbia-NLP/PUPA/blob/9981b49/PUPA_New.csv",
+  "grade": "A",
+  "limitations_zh": "原文同时使用 doctoral degree 和 MD thesis；不擅自统一学位称谓，不扩写研究成果。",
+  "background_language": "en",
+  "source_nature": "adapted_from_PUPA_user_query",
+  "query_construction": "factorial_single_focus_train_and_heldout_composition_test",
+  "focus_topics": [
+    "my hometown and country",
+    "my clinical workplace",
+    "my clinical profession",
+    "my epidemiology training",
+    "my biostatistics training",
+    "the congresses I attended",
+    "the subject I intend to study",
+    "the institution I intend to apply to",
+    "the year of my intended application",
+    "the connection between my clinical work and study plans"
+  ],
+  "protected_terms": [
+    "Tehran",
+    "Iran",
+    "Sina Dental Clinic",
+    "Arca Science institute",
+    "2021",
+    "2022",
+    "2024",
+    "MSc",
+    "University of Alberta"
+  ],
+  "train_count": 100,
+  "test_count": 50
+}

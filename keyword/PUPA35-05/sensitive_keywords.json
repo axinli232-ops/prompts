@@ -1,0 +1,98 @@
+{
+  "prompt_id": "PUPA35-05",
+  "offset_unit": "Unicode code points; end exclusive",
+  "protected_spans": [
+    {
+      "text": "Tejas Khandwekar",
+      "start": 48,
+      "end": 64,
+      "category": "entity"
+    },
+    {
+      "text": "ExxonMobil",
+      "start": 98,
+      "end": 108,
+      "category": "entity"
+    },
+    {
+      "text": "June 2022",
+      "start": 115,
+      "end": 124,
+      "category": "fixed_value"
+    },
+    {
+      "text": "Nagpur",
+      "start": 143,
+      "end": 149,
+      "category": "entity"
+    },
+    {
+      "text": "Maharashtra",
+      "start": 151,
+      "end": 162,
+      "category": "entity"
+    },
+    {
+      "text": "India",
+      "start": 164,
+      "end": 169,
+      "category": "entity"
+    },
+    {
+      "text": "Banglore",
+      "start": 198,
+      "end": 206,
+      "category": "entity"
+    },
+    {
+      "text": "ExxonMobil",
+      "start": 211,
+      "end": 221,
+      "category": "entity"
+    },
+    {
+      "text": "2021",
+      "start": 236,
+      "end": 240,
+      "category": "fixed_value"
+    },
+    {
+      "text": "CAE",
+      "start": 246,
+      "end": 249,
+      "category": "entity"
+    },
+    {
+      "text": "Simulation Lab",
+      "start": 266,
+      "end": 280,
+      "category": "entity"
+    },
+    {
+      "text": "Visvesvaraya National Institute of Technology",
+      "start": 312,
+      "end": 357,
+      "category": "entity"
+    },
+    {
+      "text": "CFD",
+      "start": 380,
+      "end": 383,
+      "category": "entity"
+    }
+  ],
+  "unique_protected_terms": [
+    "Tejas Khandwekar",
+    "ExxonMobil",
+    "June 2022",
+    "Nagpur",
+    "Maharashtra",
+    "India",
+    "Banglore",
+    "2021",
+    "CAE",
+    "Simulation Lab",
+    "Visvesvaraya National Institute of Technology",
+    "CFD"
+  ]
+}
