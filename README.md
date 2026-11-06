@@ -30,4 +30,4 @@ python examples/read_dataset.py --prompt-id short_01 --split train --limit 2
 
 ## Keyword Utilization
 
-[keyword/](keyword/) 收录 PUPA 派生的 30 条英文个人背景提示词，每条配 100 条 train 和 50 条 test query，并含敏感/固定关键词标注及仅针对非敏感词的五语逐词替换候选。
+[keyword/](keyword/) 收录 PUPA 派生的 29 条英文个人背景提示词，每条配 100 条 train 和 50 条 test query，并含敏感/固定关键词标注及仅针对非敏感词的五语逐词替换候选。

@@ -1,6 +1,6 @@
-# Keyword Utilization — PUPA 30
+# Keyword Utilization — PUPA 29
 
-本目录收录此前 PUPA35 清单的前 30 条（PUPA35-01 至 PUPA35-30），不是另选 30 条。每条配 100 条 train / 50 条 test，共 4,500 条 query，均以 `Answer in English.` 结尾。仅使用英文背景前缀 `This is my past personal experience:`；没有新增行为指令。
+本目录收录此前 PUPA35 清单前 30 条中除去 PUPA35-12 的 29 条，保留原始编号。每条配 100 条 train / 50 条 test，共 4,350 条 query，均以 `Answer in English.` 结尾。仅使用英文背景前缀 `This is my past personal experience:`；没有新增行为指令。
 
 ## 来源与构造
 
@@ -38,7 +38,6 @@
 | [PUPA35-09](PUPA35-09/) | 客户服务与销售职业介绍 | Kendrick；Hinduja Global Solutions；Alliance Global；Outdoorsy；Salesforce；Zendesk；80% |
 | [PUPA35-10](PUPA35-10/) | 研究生助教岗位申请 | MASLA TESOL；MSU；2024；BA；English Language Translation；TOEFL；28；Excel；SPSS；BearFit；Foster Recreation Center；CPR/AED/First Aid |
 | [PUPA35-11](PUPA35-11/) | 医疗转录与编辑人员完整履历 | 15；V Transcriptions LLC；Chennai；November 2020；September 2023；S10 Healthcare Solutions Ltd；June 2012；October 2020；C-Bay Systems India Private Limited；Mohamed Sathak Polytechnic College；September 1999 |
-| [PUPA35-12](PUPA35-12/) | 名人物品电商企业案例 | Caviish；LLC；2021；Cairo, Egypt；London, UK；22；10%；www.caviish.com/en；Caviishofficial；NFT |
 | [PUPA35-13](PUPA35-13/) | 碳减排平台企业背景 | Msitu Africa Carbon Alliance；Kenya；Africa；API；ESG；CSR |
 | [PUPA35-14](PUPA35-14/) | 多业务软件公司介绍 | STAFFIN SOFTWARES VICTORIA；Jay's Freight；Life Disability and Nursing Care；Jay's Rentals；Forefront Securities；400；MYOB；QuickBooks；India；Australian |
 | [PUPA35-15](PUPA35-15/) | 房地产团队与服务区域 | Paul Giles；The Vintage Team at Compass；2002；Florida；Conway；Orlando；Maitland；Winter Park；Windermere；Altamonte Springs；Delaney Park；Lake Nona Region；Lancaster Park |
